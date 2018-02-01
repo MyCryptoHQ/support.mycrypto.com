@@ -1,0 +1,43 @@
+{
+  "name": "mycrypto-knowledge-base",
+  "version": "1.0.0",
+  "description": "Knowledge Base that lives at support.mycrypto.com",
+  "main": "gulpfile.js",
+  "author": "MyCrypto",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp",
+    "dist": "gulp build"
+  },
+  "dependencies": {
+    "bootstrap": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-cssnano": "*",
+    "gulp-data": "*",
+    "gulp-file": "*",
+    "gulp-front-matter": "*",
+    "gulp-hb": "*",
+    "gulp-layout": "*",
+    "gulp-markdown": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-shell": "*",
+    "gulp-tap": "*",
+    "gulp-uglify": "*",
+    "gulp-sitemap": "*",
+    "handlebars": "*",
+    "just-handlebars-helpers": "*",
+    "lunr": "*",
+    "platform": "*",
+    "remove-markdown": "*",
+    "run-sequence": "*",
+    "underscore": "*",
+    "vinyl": "*",
+    "zepto": "*"
+  }
+}

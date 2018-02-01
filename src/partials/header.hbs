@@ -1,0 +1,53 @@
+<!-- Header -->
+<header class="header headroom">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-7 col-sm-6 col-5">
+        <a class="brand" href="{{base_url}}" aria-label="Go to Homepage">
+          <img src="{{base_url}}images/logo.svg" width="170" height="40" alt="MyCrypto Logo" />
+        </a>
+      </div>
+      <div class="col-md-5 col-sm-6 col-7 search__form">
+        <div class="input-group input-group-sm">
+          <input class="search__input form-control" type="search" name="search" size="50" placeholder="Search">
+          <span class="input-group-btn">
+            <button class="search__button btn btn-primary">Search</button>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+{{#if is_home}}
+  <main class="home__search container">
+    <h2>How Can We Help You?</h2>
+    <div class="search__form">
+      <div class="input-group">
+        <input class="search__input form-control" type="search" name="search" size="50" placeholder="Search">
+        <span class="input-group-btn">
+          <button class="search__button btn btn-primary">Search</button>
+        </span>
+      </div>
+      <a class="search__advanced modal__trigger" data-toggle="modal" data-target="#search-modal">
+        Advanced Search Options
+      </a>
+    </div>
+  </main>
+  {{> advanced-search-modal}}
+{{/if}}
+
+
+
+<main class="result__outer container" style="display: none;">
+  <button type="button" class="close search__clear" aria-label="Close">
+    <span aria-hidden="true">×</span>
+  </button>
+  <section class="block">
+    <h4 class="search__error text-danger text-center" role="alert" style="display:none"></h4>
+    <h4 class="search__success text-success text-center" role="alert" style="display:none"></h4>
+    <div class="result__wrapper"></div>
+  </section>
+</main>

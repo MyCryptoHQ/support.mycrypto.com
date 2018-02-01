@@ -1,0 +1,45 @@
+.header {
+  padding: $space-xs 0;
+}
+
+.headroom {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  will-change: transform;
+  transition: transform 200ms linear;
+  z-index: 999;
+  background-color: white;
+  box-shadow: 4px -7px 40px rgba(0, 0, 0, 0.1);
+}
+
+.home .headroom {
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.headroom--pinned {
+  transform: translateY(0%);
+}
+
+.headroom--unpinned {
+  transform: translateY(-100%);
+}
+
+.home .headroom .search__form {
+  display: none;
+}
+
+.home .headroom--not-top.headroom--pinned .search__form {
+  display: block;
+}
+
+.brand {
+  display: block;
+  margin-top: $space-xs;
+  margin-bottom: $space-xs;
+  max-width: 100%;
+  img {
+    max-width: 100%;
+  }
+}

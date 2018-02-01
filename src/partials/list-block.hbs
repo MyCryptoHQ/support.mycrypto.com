@@ -1,0 +1,28 @@
+<main class="list-block__outer container">
+
+  <h2 class="text-center"> All Articles </h2>
+
+  <section class="list-block__row row">
+    {{#each category as |value key|}}
+      <div class="list-block__item col-12 col-sm-4">
+        <div class="block">
+          <a href="{{../base_url}}{{slug}}/" title="{{title}}" class="cat__title" target="_parent">
+            <h3>{{title}}</h3>
+          </a>
+          <ul>
+            {{#each ../pages}}
+              {{#if (eq cat_title value.title) }}
+                <li>
+                  <a href="{{../base_url}}{{url}}" title="{{title}}" target="_parent">
+                    {{title}}
+                  </a>
+                </li>
+              {{/if}}
+            {{/each}}
+          </ul>
+        </div>
+      </div>
+    {{/each}}
+  </section>
+
+</main>

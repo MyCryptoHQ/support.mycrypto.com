@@ -1,0 +1,52 @@
+.faq__outer {
+  margin-top: 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+.faq__block {
+  text-align: center;
+  cursor: pointer;
+
+  h4, h5{
+    color: white;
+    margin-top: 0;
+    font-weight: bold;
+  }
+
+  h6 {
+    color: white;
+  }
+
+  img {
+    position: absolute;
+    left: 50%;
+    max-width: 300px;
+    transform: translateX(-50%);
+  }
+
+  .list-group {
+    margin-bottom: $space;
+    opacity: 0;
+    transition: 250ms opacity ease-in-out;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.faq__block:hover {
+  img {
+    opacity: 0;
+    transition: 250ms opacity ease-in-out;
+  }
+  .list-group {
+    opacity: 1;
+    transition: 250ms opacity ease-in-out;
+  }
+}
+
+.faqs__item {
+  margin-top: 0;
+  margin-bottom: -1px;
+}

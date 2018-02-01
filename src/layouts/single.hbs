@@ -1,0 +1,73 @@
+{{> head}}
+
+<body class="single page">
+
+{{> schema-single}}
+{{> schema-single-crumbs}}
+{{> schema-org}}
+
+{{> header}}
+
+<!-- Main -->
+<section class="container" id="{{slug}}">
+
+  <main class="page__main content">
+
+    <nav class="breadcrumbs">
+      <a class="breadcrumbs__home" href="{{base_url}}">
+        Home
+      </a>
+      ›
+      <a class="breadcrumbs__category" href="{{base_url}}{{cat_slug}}/">
+        {{ cat_title }}
+      </a>
+      ›
+      <span class="breadcrumbs__category">{{ title }}</span>
+    </nav>
+
+    <article class="block block__content" itemscope itemtype="http://schema.org/Article">
+
+      <h1 class="page__title" itemprop="headline">{{ title }}</h1>
+
+      <p class="page__date">Last Updated: {{ date_modified }}</p>
+
+      <hr />
+      <br />
+
+      <div class="content">
+        {{{ content }}}
+      </div>
+
+      <br />
+      <hr />
+      <br />
+
+      <div class="row">
+        <p class="col">
+          <a href="https://github.com/MyCrypto/knowledge-base/blob/master/src/content/{{cat_slug}}/{{slug}}.md" target="_blank" rel="noopener noreferrer">
+            Improve This Article →
+          </a>
+          <br />
+
+        </p>
+        <p class="col">
+          <a href="{{base_url}}diving-deeper/how-to-submit-pull-request.html" target="_blank" rel="noopener noreferrer">
+            How to Submit a Pull Request →
+          </a>
+          <br />
+        </p>
+      </div>
+
+    </article>
+
+  </main>
+
+</section>
+
+{{> footer-pre}}
+
+{{> footer}}
+
+</body>
+
+</html>

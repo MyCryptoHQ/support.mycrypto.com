@@ -1,0 +1,15 @@
+{
+"title"       : "How To Create Wallet & Send 🎥",
+"sort"        : "12",
+"category"    : "Sending & Receiving",
+"description" : "Sending & Receiving",
+"date_published" : "2017-07-05T08:00:00+08:00",
+"date_modified"  : "2017-11-11T09:07:00+08:00"
+}
+
+---%
+
+
+<div class="video__wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2mMnpmbAEc?wmode=opaque" frameborder="0" allowfullscreen="true"></iframe>
+</div>
