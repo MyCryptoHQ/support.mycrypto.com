@@ -76,3 +76,10 @@ a.footer__pill {
     opacity: 1;
   }
 }
+
+.footer--left,
+.footer--cent,
+.footer--righ {
+  padding-top: $space-xs;
+  padding-bottom: $space-xs;
+}
