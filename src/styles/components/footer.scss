@@ -44,35 +44,8 @@
 .footer--logo {
   width: 100%;
   height: auto;
-  max-width: 16rem;
-}
-
-
-.footer--col {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  padding: $space $space-xl;
-  @include media-breakpoint-down(xs) {
-    max-width: 100%;
-  }
-}
-
-.footer--left {
-  @extend .footer--col;
-  max-width: 22rem;
-  flex-grow: 1;
-}
-.footer--cent {
-  @extend .footer--col;
-  max-width: 34rem;
-  flex-grow: 2;
-  ul, li:last-child { margin-bottom: 0; }
-}
-.footer--righ {
-  @extend .footer--col;
-  max-width: 28rem;
-  flex-grow: 1;
+  max-width: 11rem;
+  margin-bottom: $space-sm;
 }
 
 .footer__icon {
