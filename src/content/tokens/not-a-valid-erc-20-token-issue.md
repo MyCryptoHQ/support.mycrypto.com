@@ -33,4 +33,4 @@ A `Not a valid ERC-20 token` error can occur when an incorrect contract address 
 
 
 #### Related Reading
-- [Adding Custom Ethereum (ERC-20) Tokens](https://support.mycrypto.com/tokens/adding-custom-ethereum-tokens.html)
+- [Adding Custom Ethereum (ERC-20) Tokens](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
