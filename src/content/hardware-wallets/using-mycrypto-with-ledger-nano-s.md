@@ -10,3 +10,4 @@
 ---%
 
 
+### An article detailing Ledger Nano S integration with MyCrypto is Coming Soon - for immediate assistance, submit a support ticket below. 
