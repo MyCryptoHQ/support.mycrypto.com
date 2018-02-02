@@ -44,7 +44,7 @@ $(document).on('click', '.search__clear', function(e){
 })
 
 $(document).on('keyup', '.search__input', function(e){
-       if (e.keyCode === 13)                     $(".search__button")[0].click()
+       if (e.keyCode === 13)                     beginSearch( $(e.target).parents().find('.search__button') )
   else if (e.keyCode === 27)                     clearAllSearchResults()
   else if ( !e.shiftKey ) {
          if (e.keyCode === 48||e.keyCode === 96 )  ($('.result').length) ? $('.result')[10].click() : ''
