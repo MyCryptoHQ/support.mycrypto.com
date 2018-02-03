@@ -60,13 +60,6 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface. It is not deleting or removing the tokens themselves. They are still safely in your wallet, we promise.
 
-### For The Visual Learners
-
-<div class="video__wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2zHcAdvnk98" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 ### Related Reading
 
 - [Showing & Loading Custom Tokens](https://support.mycrypto.com/tokens/showing-and-loading-tokens.html)
