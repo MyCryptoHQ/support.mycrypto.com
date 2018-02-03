@@ -81,9 +81,6 @@ If you want to spend less on a transaction, you can do so by lowering the amount
 
 You can adjust the gas price on MyCrypto in the footer via the slider. It is capped at 50 GWEI in order to prevent people tying to send to Token Creation Periods from having all their transactions fail because they don't read anything.
 
-[⚠ Advanced Users Only Who Want To Go Higher Can See How Here](https://i.imgur.com/qm50zD1.gif)
-
-
 ### Will increasing the gas price get it mined faster? Does setting a low gas price mean it won't ever be mined?
 
 The transaction fees go to the miner who mines your block. When miners mine a block, they have to decide which transactions to include. They can choose to include no transactions, or they can choose to randomly select transactions. In order to encourage miners to include transactions in blocks you want to set a "Gas Price" that is high enough to make them _want_ to include it (since it is entirely up to them).
