@@ -23,7 +23,7 @@ Here is a list of default ERC-20 tokens that MyCrypto supports (as of May 28, 20
 
 ### Related Reading
 
-- [How can I add a non-default token to MyCrypto?](https://support.mycrypto.com/send/adding-new-token-and-sending-custom-tokens.html)
+- [How can I add a non-default token to MyCrypto?](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
 
 - [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html)
 
