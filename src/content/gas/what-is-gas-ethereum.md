@@ -65,6 +65,8 @@ All unused gas is refunded to you at the end of a transaction. So if you go to M
 
 If you want to spend less on a transaction, you can do so by lowering the amount you pay per unit of gas. The price you pay for each unit increases or decreases how quickly your transaction will be mined.
 
+-[⚠ Advanced Users Only Who Want To Go Higher Can See How Here](https://i.imgur.com/iuzTZYe.gifv)
+
 **During normal times:**
 
 *   40 GWEI Gas Price will almost always get you into the next block.
