@@ -65,8 +65,6 @@ All unused gas is refunded to you at the end of a transaction. So if you go to M
 
 If you want to spend less on a transaction, you can do so by lowering the amount you pay per unit of gas. The price you pay for each unit increases or decreases how quickly your transaction will be mined.
 
--[⚠ Advanced Users Only Who Want To Go Higher Can See How Here](https://i.imgur.com/iuzTZYe.gifv)
-
 **During normal times:**
 
 *   40 GWEI Gas Price will almost always get you into the next block.
@@ -82,6 +80,9 @@ If you want to spend less on a transaction, you can do so by lowering the amount
 * If you are trying to send *during* an Token Creation Period (but not *to* the Token Creation) you have 2 choices: wait a bit until the Token Creation Period is over, or increase the gas price over 50 GWEI.
 
 You can adjust the gas price on MyCrypto in the footer via the slider. It is capped at 50 GWEI in order to prevent people tying to send to Token Creation Periods from having all their transactions fail because they don't read anything.
+
+-[⚠ Advanced Users Only Who Want To Go Higher Can See How Here](https://i.imgur.com/iuzTZYe.gifv)
+
 
 ### Will increasing the gas price get it mined faster? Does setting a low gas price mean it won't ever be mined?
 
