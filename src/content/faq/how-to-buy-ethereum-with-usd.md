@@ -73,13 +73,13 @@ Then create a Ethereum Wallet account and back it up. In Circle or Coinbase, sen
 
 ### Alternative steps 6-8:
 
-Mist is highly recommended but some people have issues installing & syncing it. If for some reason you cannot get it to run, here is a list of easily accessible wallets. Follow the instructions provided by each of these wallets to back up your information. In Jaxx, that is a mnemonic. In MyCrypto, [read this](https://support.mycrypto.com/how-do-i-move-from-coinbase-to-mycrypto-exchange-slash-hosted-wallet-mew
+Mist is highly recommended but some people have issues installing & syncing it. If for some reason you cannot get it to run, here is a list of easily accessible wallets. Follow the instructions provided by each of these wallets to back up your information. In Jaxx, that is a mnemonic. In MyCrypto, [read this](https://support.mycrypto.com/migration/moving-from-coinbase-to-mycrypto.html
 ).
 
 
 **Just, MAKE SURE YOU BACK IT UP PLEASE.**
 
-- [MyCrypto.com](http://mycrypto.com/) or [MyCrypto Chrome Extension](https://www.reddit.com/r/ethereum/comments/44vbef/mycrypto_chrome_extension_the_beta_has/)
+- [MyCrypto.com](http://mycrypto.com/)(https://mycrypto.com)
 
 - [JAXX](http://jaxx.io/) - multi-platform, multi-currency
 
