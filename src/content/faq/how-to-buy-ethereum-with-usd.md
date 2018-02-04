@@ -79,7 +79,7 @@ Mist is highly recommended but some people have issues installing & syncing it. 
 
 **Just, MAKE SURE YOU BACK IT UP PLEASE.**
 
-- [MyCrypto.com](http://mycrypto.com/)(https://www.reddit.com/r/ethereum/comments/44vbef/mycrypto_chrome_extension_the_beta_has/)
+- [MyCrypto.com](http://mycrypto.com/)(https://mycrypto.com)
 
 - [JAXX](http://jaxx.io/) - multi-platform, multi-currency
 
