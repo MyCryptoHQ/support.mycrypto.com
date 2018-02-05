@@ -41,5 +41,3 @@ Here is how you can unlock your wallet, access your ETH and Tokens, and send fro
 11. Click `"Yes, I am sure! Make transaction."` button.
 
 12. The transaction will be submitted. The TX Hash will display. You can click that TX ID to see it on the blockchain.
-
-[More Info & Photos on this process can also be found here](https://blog.trezor.io/trezor-integration-with-mycrypto-3e217a652e08)
