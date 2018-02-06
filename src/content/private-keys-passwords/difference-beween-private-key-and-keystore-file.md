@@ -23,7 +23,7 @@ However, for additional functionality (like protecting it with a password) there
 
 ### Ledger or TREZOR or Digital Bitbox Hardware Wallets
 
-* [Learn More Here](https://support.mycrypto.com/hardware-wallet-recommends)
+* [Learn More Here](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
 
 ### Keystore File (UTC / JSON)
 
