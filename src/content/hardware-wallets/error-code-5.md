@@ -37,8 +37,6 @@ Close all other Ethereum applications, Ledger applications, and MyCrypto tabs. E
 *   That you are confirming any transactions via your Ledger.
 *   Try a different USB cable
 
-You can find more information about using a Ledger Nano S with MyCrypto [here](https://ledger.zendesk.com/hc/en-us/articles/115005200009-How-to-use-MyCrypto-with-Ledger).
-
 
 #### PS
 
