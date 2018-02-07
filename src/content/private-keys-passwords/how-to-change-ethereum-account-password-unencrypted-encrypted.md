@@ -11,18 +11,7 @@
 
 _"Can I turn my unencrypted private key into an encrypted private key?"_
 
-Yes, you can encrypt your private key by using our Chrome Extension, or importing your raw private key into geth.
-
-### Chrome Extension
-
-1. Download and install our [Chrome Extension](https://chrome.google.com/webstore/detail/mycrypto/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
-2. Add a new wallet using your private key.
-3. Enter a password and save this wallet.
-4. Go to the "My Wallets" page and click the yellow "view" icon.
-5. It will ask you for the password you just created. Enter it.
-6. More information regarding your account will show up below. You can download the keystore file (encrypted with your password) and use that to access your wallet in the future.
-
-You may choose to continue to use the Chrome Extension or go back to using the website.
+Yes, you can encrypt your private key by importing your raw private key into geth.
 
 ### Geth
 
