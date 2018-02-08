@@ -11,11 +11,11 @@
 
 
 
-**These phucks will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
+**These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
 
 ### 1. Educate when you see a message
 
-- If you see a link to one of these sites or a fake Token Sale address, comment on it in #general or on Twitter or on Reddit or wherever. Warn people QUICKLY & LOUDLY.
+- If you see a link to one of these sites or a fake Token Sale address, comment on it on Twitter or on Reddit or wherever. Warn people QUICKLY & LOUDLY.
 
 > "There are scammers that are DMing, posting links, posting comments, and trying to get you to navigate to fake URLs. DO NOT CLICK IT!" (Yes. People still don't know this. I don't know where they are, obviously not here on reddit).
 
@@ -30,15 +30,13 @@
 
 This is too much for one post so help spread the word: Private keys are *private*. Use hardware wallets. Use cold storage. Go offline. Check URLs.
 
-*   [Creating a wallet offline is the shit](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
+*   [Creating a wallet offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
 
 *   [Getting a](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html) [Ledger or Trezor Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) is even better.
 
 *   [You can sign transactions offline so your key never touches a phishing site!](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
 
 - Install EAL to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-
-*   [Install the MyCrypto Chrome Extension](https://chrome.google.com/webstore/detail/mycrypto-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
 
 - Install MetaMask to block malicious / phishing sites & interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
@@ -126,8 +124,6 @@ This is too much for one post so help spread the word: Private keys are *private
 
     - [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing CX)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing CX))
 
-    - [http://imgur.com/a/cznsy (Screenshots that can be used for examples)](http://imgur.com/a/cznsy)
-
     - [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale ](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale )
 
 
@@ -143,10 +139,6 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - Help us build things, faster. [https://github.com/MyCrypto/](https://github.com/MyCrypto/) [https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
 
-- [Join our Slack to discuss and coordinate](https://mycrypto.herokuapp.com/)
-
 ---
 
-Thank you for everything. We literally wouldn't be in this shit situation without you supporting us. ?Kidding—it's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.
-
-### \# phuckphishers
+Thank you for everything. We literally wouldn't be in this situation without you supporting us. ?Kidding—it's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.
