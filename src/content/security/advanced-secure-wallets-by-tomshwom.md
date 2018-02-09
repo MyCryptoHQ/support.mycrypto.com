@@ -9,11 +9,6 @@
 
 ---%
 
-### [Read the epicness in full here: https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet)
-
----
-
-
 ### Purpose
 
 We're finally going to create a customizable wallet solution that is cheap, secure, and not too complicated. While simply following the steps in this guide will give you a wallet that is resistant to malware and other online threats, it does not guarantee total security of your funds. To be truly secure, you must practice good security and follow the guidelines for how to actually maintain and use the wallet.
@@ -41,5 +36,3 @@ First, lets get clarify some terms I'll be using:
 Software wallet - software wallets exist on online systems connected to the internet.
 
 ...
-
-### [continue reading in full here: https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet)
