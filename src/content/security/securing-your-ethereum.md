@@ -72,12 +72,10 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 ### 16. The guys who just finish their token sale don't want to sell you tokens via Slack DM.
 * Neither does that smokin' hot 125px x 125px avatar.
 
-### 17. [Install the MyCrypto Chrome Extension](https://chrome.google.com/webstore/detail/mycrypto/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
-
-### 18. Don't use brain wallets
+### 17. Don't use brain wallets
 *  Brain wallets are wallets where the key is derived from a word or phrase you _choose_. Human brains don't have the ability to create high-entropy seeds. Using a phrase that you make up, even if it seems "rare" or "random" is not as secure as using MyCrypto's randomness and these phrases can be bruteforced by the millions. [Read more](https://arstechnica.com/security/2013/10/how-the-bible-and-youtube-are-fueling-the-next-frontier-of-password-cracking/). [And more](https://arstechnica.com/security/2016/02/password-cracking-attacks-on-bitcoin-wallets-net-103000/).  
 
-### 19. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
+### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
 
 #### 19. Lastly: use your brain
 * Think for a moment. Don't assume, ask. Don't blindly follow, question. If something doesn't seem right...if you feel like the luckiest fucker on Earth...or if you find yourself asking, "I wonder why I haven't seen this on reddit yet", there is likely a reason.
