@@ -27,8 +27,9 @@ You can run MyCrypto.com on your computer and this computer can be a cold-storag
 
 ### How To
 
-* Go to [https://github.com/kvhnuke/etherwallet/releases/latest](https://github.com/kvhnuke/etherwallet/releases/latest).
-* Click on `etherwallet-vX.X.X.X.zip`.
+* Go to [https://github.com/MyCryptoHQ/mycrypto.com/releases/latest](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest).
+* Click on `mycrypto-vX.X.X.zip`.
+* (Optional) Check the SHA256 hash to verify the file isn't corrupted.
 * Move zip to an airgapped computer.
 * Unzip it and double-click `index.html`. This should open MyCrypto in your browser.
     * _Note: do not move files around in this folder. You need the entire folder for it to work correctly._
