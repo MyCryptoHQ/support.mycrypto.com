@@ -17,7 +17,7 @@ The following assumes you are **not** using a Ledger or TREZOR hardware wallet. 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
 
-### An amazing guide: Tails + KeePass + USB + MyCrypto
+### An amazing guide: Tails + KeePass + USB + MEW
 
 [https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet
 )
