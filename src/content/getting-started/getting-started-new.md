@@ -273,7 +273,6 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  [How to verify you have access to the wallet](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).  </li>
 <li>  [How to send funds to your wallet](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html).  </li>
 <li>  [How to check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html).  </li>
-<li>  [Prefer a video walkthrough? Here's one.](https://youtu.be/phht73IvUDI?t=58)  </li>
 <li>  [More Security Tips!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)  </li>
 </ul>
 
