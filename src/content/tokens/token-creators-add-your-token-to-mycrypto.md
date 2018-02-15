@@ -26,7 +26,7 @@
 
 ### 1. Submit your Tokens as Default Tokens
 
-*   Go to [https://github.com/MyCrypto/ethereum-lists/blob/master/tokens/tokens-eth.json](https://github.com/MyCrypto/ethereum-lists/blob/master/tokens/tokens-eth.json)
+*   Go to [https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/tokens/ethTokens.json](https://github.com/MyCrypto/ethereum-lists/blob/master/tokens/tokens-eth.json)
     *   *If your token exists on a different network, [you can add them here](https://github.com/MyCrypto/ethereum-lists/tree/master/tokens)
 *   Login or join Github
 *   Click the pencil icon in upper right
