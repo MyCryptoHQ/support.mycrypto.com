@@ -3,7 +3,8 @@
 "sort"        : "06",
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
-"date_modified"  : "11th Nov 2017"
+"date_published" : "2017-07-05T08:00:00+08:00",
+"date_modified"  : "2017-11-11T08:00:00+08:00"
 }
 
 ---%
