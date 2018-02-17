@@ -84,6 +84,6 @@ Damn!
 
 
 
-### [Read more about transferring funds](https://support.mycrypto.com/how-do-i-send-ether-from-one-wallet-to-another?from_search=true).
+### [Read more about transferring funds](https://support.mycrypto.com/send/how-to-send-transaction.html).
 
 
