@@ -81,6 +81,9 @@ You are free to use, modify, or shamelessely steal any information in our knowle
 
 - Starter template on  what to tell people who get phished: [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
 
+![](../images/best-of/unsolicited-advice.png)
+
+
 - Suggestions in this discussion to move to other platforms with better anti-spam tools
 [ https://github.com/aragon/governance/issues/7]( https://github.com/aragon/governance/issues/7).
 
