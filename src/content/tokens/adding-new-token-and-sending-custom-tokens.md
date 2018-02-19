@@ -16,18 +16,18 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 ### Make sure it isn't already in the list:
 
-1. Click the Orange "Show All Tokens" Button.
+1. After accessing your address, click the Orange "Show All Tokens" Button.
 
 2. Scroll and click the token you want to load, where it says "Click to Load". You can also use `cmd/ctrl`+`f` to search for a token on the list more quickly.
 
-3. If you have a balance you won't have to load it again—it will automatically load in the future.
+3. If you have a balance you won't have to load it again — it will automatically load in the future.
 
 
 ### If your token is not on the list
 
 #### via Ethplorer.io
 
-0.  On the ["Send Ether & Tokens"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View Balance Only (Must use one of above options to send)` and paste *your* address.
+0.  On the ["Send"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
 1.  In a new tab, go to [Ethplorer.io](https://ethplorer.io/) 
 2.  Type in the name of the token into their search bar, or navigate to your address and click on the token's name from that page. 
 3.  At the very top on this page page is the address.
@@ -42,7 +42,7 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 #### via Etherscan.io
 
-0.  On the ["Send Ether & Tokens"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View Balance Only (Must use one of above options to send)` and paste *your* address.
+0.  On the ["Send"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
 1.  In the sidebar, click the `https://etherscan.io` link under `Transaction History` or `How to See your Tokens`.
 2.  Click the dropdown in the right-upper quadrant. It's labeled `Token Tracker`.
 3.  Click the token that you aren't seeing on MyCrypto.
@@ -58,7 +58,7 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 ### Removing Custom Tokens
 
-To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface. It is not deleting or removing the tokens themselves. They are still safely in your wallet, we promise.
+To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface. It is not deleting or removing the tokens from the address itself. They are still safely in your address, we promise.
 
 ### Related Reading
 
