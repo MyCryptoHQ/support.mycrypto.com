@@ -114,6 +114,6 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 
 
-### [Read more about transferring funds](https://support.mycrypto.com/send/how-to-send-transaction.html)
+### [Read more about transferring funds](https://support.mycrypto.com/send/how-to-send-transaction.html).
 
 

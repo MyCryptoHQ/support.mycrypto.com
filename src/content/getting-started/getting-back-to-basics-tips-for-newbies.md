@@ -30,7 +30,7 @@
 
 10. Double & triple check your work. Look at what you are sending. Look at how much you are sending. Look at what address you are sending too.
 
-Be fucking careful.
+Be careful.
 
 ### Hardware Wallets
 
@@ -38,8 +38,8 @@ One of the safest & easiest ways to store your ETH, Tokens, ETC, BTC, and many o
 
 The best part: it costs less than $100 USD (<0.1 ETH). Order (or pre-order!!!) one today.
 
-* Trezor: https://shop.trezor.io/
+* [Trezor](https://trezor.io/?a=mycrypto.com)
 
-* Ledger Nano S: https://www.ledgerwallet.com/products/ledger-nano-s
+* [Ledger Nano S](https://www.ledgerwallet.com/r/1985?path=/products/)
 
 (Seriously, even if it's sold out, pre-order it now, it's worth it.)

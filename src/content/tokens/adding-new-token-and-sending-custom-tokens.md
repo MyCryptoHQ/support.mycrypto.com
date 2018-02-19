@@ -17,18 +17,19 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 ### Make sure it isn't already in the list:
 
-1. Click the Orange "Show All Tokens" Button.
+1. After accessing your address, click the Orange "Show All Tokens" Button.
 
 2. Scroll and click the token you want to load, where it says "Click to Load". You can also use `cmd/ctrl`+`f` to search for a token on the list more quickly.
 
-3. If you have a balance you won't have to load it again—it will automatically load in the future.
+3. If you have a balance you won't have to load it again — it will automatically load in the future.
 
 
 ### If your token is not on the list
 
 #### via [Ethplorer.io](https://ethplorer.io/) 
 
-0.  On the [`View Info`](https://mycrypto.com/#view-wallet-info) tab on MyCrypto, access your wallet and copy your account address. You are going to need to paste this into [Ethplorer.io](https://ethplorer.io/) 
+
+0.  On the ["Send"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
 1.  In a new tab, go to [Ethplorer.io](https://ethplorer.io/) 
 2.  Navigate to your address 
 3.  Scroll down until you see `Token Balances`
@@ -44,21 +45,24 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 #### via [etherscan.io](https://etherscan.io)
 
-0.  On the [`View Info`](https://mycrypto.com/#view-wallet-info) tab on MyCrypto, access your wallet and copy your address. You are going to need to paste this into [etherscan.io](https://etherscan.io)
-1.  Navigate to Etherscan.io through the sidebar link on the right handside located under `Transaction History`
-2.  Click the dropdown in the right-upper quadrant. It's labeled `View Tokens`.
-3.  Click the token that you want to add to MyCrypto.
-4.  Take note of the 'Contract Address', 'Symbol' or token name, and 'Decimals' located here in the picture:
-    - ![](https://i.imgur.com/jemxdAk.png)
-5. Return to MyCrypto and click the `Add Custom Token` button on the right hand side bar
-6. Paste in the `Contract Address`, `Symbol` and `Decimals` that you got from Etherscan.io
-7.  Click `"Save"` on MyCrypto.
+0.  On the ["Send"](https://mycrypto.com/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
+1.  In the sidebar, click the `https://etherscan.io` link under `Transaction History` or `How to See your Tokens`.
+2.  Click the dropdown in the right-upper quadrant. It's labeled `Token Tracker`.
+3.  Click the token that you aren't seeing on MyCrypto.
+4.  Copy the string next to `Contact Address`.
+6.  Back on MyCrypto, click the `Add Custom Token` button on the right sidebar.
+7.  Paste the `Contact Address`.
+8.  Type in what you want to call it - the name or the symbol.
+9.  Return to Etherscan.io. Look for the number (between 0 and 18) next to `Token Decimals`.
+10. Enter this under `Decimals` on MyCrypto.
+10.  Click `"Save"` on MyCrypto.
 
 🎉 You can now send your new token and see it's balance in the sidebar!
 
 ### Accidentally Input Incorrect Token Details
 
-To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface so that you can no longer see it. It is not deleting or removing the tokens from your wallet, they are still safely in your wallet, we promise.
+To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface. It is not deleting or removing the tokens from the address itself. They are still safely in your address, we promise.
+
 
 ### Related Reading
 

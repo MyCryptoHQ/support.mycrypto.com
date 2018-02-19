@@ -1,5 +1,5 @@
 {
-"title"       : "Using MyCrypto with Ledger Nano S 🎥",
+"title"       : "Using MyCrypto with Ledger Nano S",
 "sort"        : "24",
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
