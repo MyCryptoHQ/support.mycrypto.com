@@ -12,7 +12,7 @@
 If you plan to move a large amount of Ether or tokens, you should send a test transaction of a small amount to the destination wallet first to ensure everything goes as planned.
 Optional, but **highly recommended** (if you haven't already) Install [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) or [EtherAddressLookup Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) to protect yourself from malicious websites around the crypto space that will steal your private keys. Or even better, think about getting yourself a hardware wallet. You have hundreds, thousands of dollars online, you might as well spend a little bit more money to ensure that your funds are safe.
 
-1. Navigate to the [Send Ether & Tokens page](https://mycrypto.com/#send-transaction)
+1. Navigate to the [Send] page (https://mycrypto.com/#send-transaction)
 2. Select how you would like to [access your wallet and unlock it](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).
 3. If you installed MetaMask earlier, set up your system to unlock your wallet safely in just one click. Because of how fast & easy it is, we strongly recommend this method.
 4. Enter the address you would like to send to in the "To Address:" field.

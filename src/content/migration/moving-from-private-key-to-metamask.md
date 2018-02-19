@@ -25,6 +25,23 @@ Damn!
 
 ### Installing & Setting Up MetaMask
 
+When you setup MetaMask, you will be given a new wallet address and a new private key. There is an option of importing your already existing private keys into MetaMask, and it is up to you to decide if you want to keep using your old wallet or the new one MetaMask gives you. 
+
+#### The pros of importing your exisiting wallet
+- You don't need to transfer your funds to the wallet that MetaMask gives you (Save on Eth Fees, Hurray!)
+
+#### The cons of importing your existing wallet
+- The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds 
+from being stolen
+
+#### The pros of using the new wallet MetaMask gives you
+- There is no possible chance that the wallet could be compromised, the keys never leave MetaMask! 
+
+#### The cons of using the new wallet MetaMask gives you
+- You need to manually transfer all your Ether and Tokens to the new wallet
+
+### Once you have decided on what you want to do, next is to install and setup MetaMask:
+
 1. [Find the MetaMask extension in the Chrome Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 
 2. Check to make sure it's the legit one. Are there are ton of positive reviews? Are there a ton of users? If so, it's probably the right one.
@@ -37,14 +54,27 @@ Damn!
 
 5. Read the terms of service. Accept said terms of service.
 
-6. You are now asked to enter a password, which protects your key by encrypting it. This means you are more secure. Choose a strong, easy to remember password. Do not store said password in Dropbox, post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper!
+6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly. 
 
-7. You are now shown 12 words. This is a fancy private key which creates an infinite amount of private keys underneath it. You need this to access your Ether. No one can recover it if you lose it, your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS.
+7. You are now shown 12 words. This is a fancy private key which creates an infinite amount of private keys that branch off from it. You need this to access your Ether or to recover your MetaMask Account if you forget the password. No one can recover the 12 words if you lose it. If your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS. Make sure you back up these 12 words!
 
-8. You can write your 12 words down and store it in a safe, or [engrave it in metal](https://cryptosteel.com/). This will make sure that it never gets lost, even if your house catches fire. If using paper, you should store a second copy in a different physical location.
+8. You can write your 12 words down and store it in a safe, or [engrave it into metal](https://cryptosteel.com/). This will make sure that it never gets lost, even if your house catches fire. If using paper, you should store a second copy in a different physical location.
 
 #### Remember! Do not share this key with anyone! If you do, they can access your account and send all your coins to themselves.
 
+Next, it is time to either import your existing wallet into MetaMask, or transfer all your Ether and Tokens to the new wallet. 
+
+### Importing your wallet
+
+1. Log into MetaMask
+2. Click the little man icon in the top right corner 
+![](https://i.imgur.com/oWo09hI.png)
+3. Select `Import Account`
+4. Select private key type, either 'private key' or 'JSON file'
+4. Unlock wallet by pasting in your private key, or uploading the JSON file and inputing the password for the JSON file needed for decryption
+5. Click `Import`
+
+Your existing wallet should now be visible in MetaMask along with your Ether and tokens! 
 
 
 ### Transferring your Funds
