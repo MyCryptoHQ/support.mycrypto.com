@@ -26,8 +26,9 @@
 
 ### 1. Submit your Tokens as Default Tokens
 
-*   Go to [https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/tokens/ethTokens.json](https://github.com/MyCrypto/ethereum-lists/blob/master/tokens/tokens-eth.json)
-    *   *If your token exists on a different network, [you can add them here](https://github.com/MyCrypto/ethereum-lists/tree/master/tokens)
+
+*   Go to [https://github.com/ethereum-lists/tokens/tree/master/tokens/eth](https://github.com/ethereum-lists/tokens/tree/master/tokens/eth)
+    *   *If your token exists on a different network, [you can add them here](https://github.com/ethereum-lists/tokens/tree/master/tokens)*
 *   Login or join Github
 *   Click the pencil icon in upper right
 *   Scroll to the letter of your token (they are in alpha order)
@@ -47,7 +48,7 @@
 
 ### 2. Add your token sale address & manual gas limits to ensure a smooth sale
 
-*   Go here [https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js](https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js)
+*   Go here [https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/customGas.js](https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/customGas.js)
 *   Find an existing entry that is over, or use our donation address (the top one)
 *   Replace the information with your information:
 *   Address: The address users will be sending to
@@ -67,7 +68,7 @@
 
 We now provide users with the ability to enter the address and it auto-populate with the ABI. If you have a contract that IS NOT YOUR ERC-20 TOKEN CONTRACT that users WILL ACTUALLY BE interacting with:
 
-*   [https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json](https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json)
+*   [https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/abiDefinitions/ethAbi.json](https://github.com/MyCryptoHQ/mycrypto.com/blob/master/app/scripts/abiDefinitions/ethAbi.json)
 *   Copy from `{` to `},`
 *   Replace information with your contract name, address, and ABI.
 *   At the bottom under "Commit changes" type "Added `YOUR_CONTRACT_NAME` contract ABI" in the title box
