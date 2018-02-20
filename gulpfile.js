@@ -1,4 +1,4 @@
-
+process.env.DISABLE_NOTIFIER = true;
 'use strict'
 
 // packages
