@@ -30,3 +30,5 @@
 *  [CoinCenter / Vitalik: What is Ethereum](https://coincenter.org/entry/what-is-ethereum)
 
 *  [Crypto Stack: A curated collection of Blockchain & Cryptocurrency resources.](https://cryptostack.xyz/)
+
+*  [a16z: Blockchain Building Blocks and Basics.](https://a16z.com/2018/02/10/crypto-readings-resources/)
