@@ -33,6 +33,7 @@ When you setup MetaMask, you will be given a new wallet address and a new privat
 #### The cons of importing your existing wallet
 - The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds
 from being stolen
+
 - The current wallet will not be secured by the backup seed that MetaMask gives you.
 
 #### The pros of using the new wallet MetaMask gives you
