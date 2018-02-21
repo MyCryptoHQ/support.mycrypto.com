@@ -25,17 +25,18 @@ Damn!
 
 ### Installing & Setting Up MetaMask
 
-When you setup MetaMask, you will be given a new wallet address and a new private key. There is an option of importing your already existing private keys into MetaMask, and it is up to you to decide if you want to keep using your old wallet or the new one MetaMask gives you. 
+When you setup MetaMask, you will be given a new wallet address and a new private key. There is an option of importing your already existing private keys into MetaMask, and it is up to you to decide if you want to keep using your old wallet or the new one MetaMask gives you.
 
 #### The pros of importing your exisiting wallet
 - You don't need to transfer your funds to the wallet that MetaMask gives you (Save on Eth Fees, Hurray!)
 
 #### The cons of importing your existing wallet
-- The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds 
+- The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds
 from being stolen
+- The current wallet will not be secured by the backup seed that MetaMask gives you.
 
 #### The pros of using the new wallet MetaMask gives you
-- There is no possible chance that the wallet could be compromised, the keys never leave MetaMask! 
+- There is no possible chance that the wallet could be compromised, the keys never leave MetaMask!
 
 #### The cons of using the new wallet MetaMask gives you
 - You need to manually transfer all your Ether and Tokens to the new wallet
@@ -54,7 +55,7 @@ from being stolen
 
 5. Read the terms of service. Accept said terms of service.
 
-6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly. 
+6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly.
 
 7. You are now shown 12 words. This is a fancy private key which creates an infinite amount of private keys that branch off from it. You need this to access your Ether or to recover your MetaMask Account if you forget the password. No one can recover the 12 words if you lose it. If your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS. Make sure you back up these 12 words!
 
@@ -62,19 +63,25 @@ from being stolen
 
 #### Remember! Do not share this key with anyone! If you do, they can access your account and send all your coins to themselves.
 
-Next, it is time to either import your existing wallet into MetaMask, or transfer all your Ether and Tokens to the new wallet. 
+Next, it is time to either import your existing wallet into MetaMask, or transfer all your Ether and Tokens to the new wallet.
 
 ### Importing your wallet
 
 1. Log into MetaMask
-2. Click the little man icon in the top right corner 
+2. Click the little man icon in the top right corner
 ![](https://i.imgur.com/oWo09hI.png)
 3. Select `Import Account`
 4. Select private key type, either 'private key' or 'JSON file'
-4. Unlock wallet by pasting in your private key, or uploading the JSON file and inputing the password for the JSON file needed for decryption
+4. Unlock wallet by pasting in your private key, or uploading the JSON file and inputting the password for the JSON file needed for decryption
 5. Click `Import`
 
-Your existing wallet should now be visible in MetaMask along with your Ether and tokens! 
+Your existing wallet should now be visible in MetaMask along with your Ether and tokens! This wallet is now listed as "loose".
+
+### Loose Keys
+
+If you click on the little man icon in the top right corner after importing a private key, then you will see your new imported address with the word "loose" under it.
+
+"Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask backup seed phrases.
 
 
 ### Transferring your Funds
@@ -115,5 +122,3 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 
 ### [Read more about transferring funds](https://support.mycrypto.com/send/how-to-send-transaction.html).
-
-
