@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-12-02T08:00:00+08:00"
+"date_modified"  : "2018-02-19T08:00:00+08:00"
 }
 
 ---%
@@ -12,11 +12,9 @@
 
 ### I'm really sorry, but it sounds like you may have been the victim of a phishing attack. I understand how frustrating it can be.
 
-Unfortunately, we encounter these phishing scams/attacks on a daily basis. Typically, the reason for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g. myethreawllet[.]com) and other times it is a fake ICO site or airdrop site or EthZero site. If you enter your private key (or keystore file, mnemonic phrase, passwords) on a malicious website, they have complete access to your funds.
+Unfortunately, we encounter these phishing scams/attacks on a daily basis. Typically, the reason for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g. mycryqto[.]com), and other times it is a fake ICO, airdrop, or EthZero-like website. You may encounter these on social media (e.g. Reddit, Twitter, Slack), via email, ads on legitimate sites, or even in your search results when looking for a real project. Other major brands like Apple, Google, and PayPal are also vulnerable and they are used as lures for phishing attacks as well. If you enter your private key (or keystore file, mnemonic phrase, passwords) on a malicious website, they have complete access to your funds.  You will **never** need to provide a private key to these sites.
 
-Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move your funds as soon as possible and discontinue use of this wallet. We do actively attempt to track down the people behind these sites and do what we can to warn others, take down the site, or whatever we can given the particular situation.
-
-Other major brands like Apple, Google and PayPal are also vulnerable and they are used as lures for phishing attacks as well.
+Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move your funds as soon as possible and discontinue use of this address. We do actively attempt to track down the people behind these sites and do what we can to warn others, take down the site, or whatever we can given the particular situation.
 
 There are things you can do to help prevent us and others from being victims of phishing. Help make the community safer. We can't always scan through the world wide web by ourselves.
 
@@ -41,7 +39,7 @@ There are things you can do to help prevent us and others from being victims of 
 
 ### Tokens that haven't been distributed / can't be moved yet
 
-If you recently participated in an ICO, you may have tokens remaining in your wallet. These are not currently transferable, or perhaps these tokens will be distributed at a later date to your now compromised wallet. You will need to find out when you can send these tokens from your wallet. The easiest way to determine that is to reach out to that token's creators and ask them for the information and if they can be of further assistance.
+If you recently participated in an ICO, you may have tokens remaining in your wallet that are not currently transferable, or perhaps these tokens will be distributed at a later date to your now compromised wallet. You will need to find out when you can send these tokens from your wallet. The easiest way to determine that is to reach out to that token's creators and ask them for the information and if they can be of further assistance.
 
 Once you know when you can move the tokens, you will need to plan on moving your tokens as close to that time as possible. First, send 0.01 ETH into your wallet (to cover the cost of gas) and then send your tokens out of your wallet to your new, secure wallet. You should do this as quickly as possible as soon as the tokens can be moved.
 

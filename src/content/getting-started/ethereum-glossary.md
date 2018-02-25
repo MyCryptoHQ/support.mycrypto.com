@@ -160,17 +160,33 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum.
 
-### Derive / Derivation
+### Key Derivation
 
-* [TODO]
+* Key derivation functions derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:
+
+Cryptographic key derivation
+
+Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.
+
+Password storage
+
+When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.
+
+*taken from cryptography.io* - [Read Full Article](https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/)
 
 ### Encryption
 
-* [TODO]
+* In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.
+
+An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data. 
+
+Usually, the person that is encrypting the data will possess the key that locks the data and will make 'copies' and pass them on to relevant people that require access. This process is called public-key cryptography. 
+
+*taken from techworld.com* - [Read Full Article](https://www.techworld.com/security/what-is-encryption-3659671/)
 
 ### Encrypted vs Unencrypted Keys
 
-* [TODO]
+* Encrypted Keys require a password or some other type of authorization in order to access the encoded information. MyCrypto encrypts your private key via a Keystore File (UTC/JSON). Unencrypted Keys have been decrypted successfully or have initially not been encrypted.
 
 ### Decentrailze / Decentralization
 

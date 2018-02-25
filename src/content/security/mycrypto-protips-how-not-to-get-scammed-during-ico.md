@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-02-19T08:00:00+08:00"
 }
 
 ---%
@@ -59,7 +59,7 @@ You have followers in common. This is a good sign! The URL they provide match th
 
 ### 5. Check out the address on etherscan.io
 
-![](https://i.imgur.com/i99arJz.jpg)
+![](https://i.imgur.com/nVB3esg.png)
 
 ....and let's check the comments on Etherscan.
 
@@ -69,7 +69,7 @@ Or is there some extra verification that this is legit? Again, never rely on a s
 
 ### 6. And always make sure you are on the correct MyCrypto, too!
 
-![](https://i.imgur.com/dvRFMFy.jpg)
+![](https://i.imgur.com/kIzLh8t.png)
 
 And finally, when you go to contribute, make sure you are on a legit version of MyCrypto.com (https://mycrypto.com/)
 
@@ -85,8 +85,7 @@ Sweetness.
 
 **Oh, and now the URL on MyCrypto displays on load & node-change. This is another easy reminder to let you know if you are on a scam site.**
 
-![](https://i.imgur.com/853xSIc.jpg)
-
+![](https://i.imgur.com/FeUNqAY.png)
 
 
 ### Originally posted on reddit:
