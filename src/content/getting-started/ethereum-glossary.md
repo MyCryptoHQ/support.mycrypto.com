@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2017-10-16T08:00:00+08:00"
+"date_modified" : "2018-02-28T08:00:00+08:00"
 }
 
 ---%
@@ -120,9 +120,9 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * It is an easy way to see if your address is correct.
 
-* [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
+* [Example 1](https://i.imgur.com/lHUrIiZ.jpg)
 
-* [Example 2](http://i.imgur.com/FvyLewS.jpg)
+* [Example 2](https://i.imgur.com/FvyLewS.jpg)
 
 * _Note: the above addresses are a single character different but have remarkably different icons & colors. Magic!_
 

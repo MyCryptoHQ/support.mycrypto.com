@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2015-10-05T08:00:00+08:00",
-  "dateModified": "October 15, 2017",
+  "dateModified": "February 27, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -195,7 +195,7 @@
 
       <h1 class="page__title" itemprop="headline">A Glossary of Common Terms in the Ethereum / Crypto Space</h1>
 
-      <p class="page__date">Last Updated: October 15, 2017</p>
+      <p class="page__date">Last Updated: February 27, 2018</p>
 
       <hr />
       <br />
@@ -316,9 +316,9 @@
 </li>
 <li><p>It is an easy way to see if your address is correct.</p>
 </li>
-<li><p><a href="http://i.imgur.com/lHUrIiZ.jpg">Example 1</a></p>
+<li><p><a href="https://i.imgur.com/lHUrIiZ.jpg">Example 1</a></p>
 </li>
-<li><p><a href="http://i.imgur.com/FvyLewS.jpg">Example 2</a></p>
+<li><p><a href="https://i.imgur.com/FvyLewS.jpg">Example 2</a></p>
 </li>
 <li><p><em>Note: the above addresses are a single character different but have remarkably different icons &amp; colors. Magic!</em></p>
 </li>
@@ -360,17 +360,25 @@
 <li><p>24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). <code>11 * 24 = 264</code>. The last word is a checksum.</p>
 </li>
 </ul>
-<h3 id="derive-derivation">Derive / Derivation</h3>
+<h3 id="key-derivation">Key Derivation</h3>
 <ul>
-<li>[TODO]</li>
+<li>Key derivation functions derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:</li>
 </ul>
+<p>Cryptographic key derivation</p>
+<p>Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.</p>
+<p>Password storage</p>
+<p>When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.</p>
+<p><em>taken from cryptography.io</em> - <a href="https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/">Read Full Article</a></p>
 <h3 id="encryption">Encryption</h3>
 <ul>
-<li>[TODO]</li>
+<li>In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.</li>
 </ul>
+<p>An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data. </p>
+<p>Usually, the person that is encrypting the data will possess the key that locks the data and will make &#39;copies&#39; and pass them on to relevant people that require access. This process is called public-key cryptography. </p>
+<p><em>taken from techworld.com</em> - <a href="https://www.techworld.com/security/what-is-encryption-3659671/">Read Full Article</a></p>
 <h3 id="encrypted-vs-unencrypted-keys">Encrypted vs Unencrypted Keys</h3>
 <ul>
-<li>[TODO]</li>
+<li>Encrypted Keys require a password or some other type of authorization in order to access the encoded information. MyCrypto encrypts your private key via a Keystore File (UTC/JSON). Unencrypted Keys have been decrypted successfully or have initially not been encrypted.</li>
 </ul>
 <h3 id="decentrailze-decentralization">Decentrailze / Decentralization</h3>
 <ul>

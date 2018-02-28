@@ -4,7 +4,7 @@
 "category"    : "Gas & Transaction Fees",
 "description" : "Gas & Transaction Fees",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-02-24T08:00:00+08:00"
 }
 
 ---%
@@ -103,6 +103,8 @@ Because it's cheaper and because with the increasing price of ETH compared to US
 You should put whatever the token sale holders tell you to put. If you do not know, then ask, **before the token sale**. This ensures that your transaction won't fail due to an "Out of Gas" error. Typically, a 200000 gas limit will be enough, but some require more.
 
 **Increasing the amount to 1 500 000 or more will **not** increase the likelihood of getting in. All it will do is fill up the blocks faster and you will lose that TX fee if it doesn't go through. We have never seen a token sale that requires over a 800 000 gas limit.**
+
+For example, if your metaphorical car is out of gas, and the tank only holds 10 gallons, increasing the amount of gas you're buying to 20 gallons (increasing the gas limit) isn't going to get you on the road any sooner - that's just unnecessary gas you won't or can't use. But if you go to the cashier inside and say "Hey, i'm willing to pay $5 per gallon instead of $2.50 like everybody else" (increasing the gas price) chances are good that you're going to get served before all the people offering to pay less than you.
 
 
 ### So I should send with a hugeeeeeeeee gas price for token sales, right?

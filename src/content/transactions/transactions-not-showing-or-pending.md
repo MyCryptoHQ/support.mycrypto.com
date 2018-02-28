@@ -4,7 +4,7 @@
 "category"    : "Transactions",
 "description" : "Transactions",
 "date_published" : "2017-12-07T08:00:00+08:00",
-"date_modified"  : "2017-12-07T08:00:00+08:00"
+"date_modified"  : "2018-02-25T08:00:00+08:00"
 }
 
 ---%
@@ -18,18 +18,18 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 *  [See all the transactions that are pending here](https://etherscan.io/txsPending)
 
-*  [Learn about **Gas**, **TX Fees**, and how to get your TX to go thru](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+*  [Learn about **Gas**, **TX Fees**, and how to get your TX to go through](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
 
-*  [Replace a **pending TX** that you sent with too low gas](https://support.mycrypto.com/transactions/check-status-of-ethereum-transaction.html)
+*  [Replace a **pending TX** that you sent with too low gas](https://support.mycrypto.com/transactions/check-status-of-ethereum-transaction.html) (This is done by sending a 0 ETH transaction with the same nonce as your previous tx)
 
-*  [See what the **optimal gas price** is here (at 12/07/2017 @ 12:00am PT it was **61** GWEI)](https://ethgasstation.info/)
+*  [Learn about what a **nonce** is and how it controls which transactions are mined, or not mined](https://support.mycrypto.com/transactions/what-is-nonce.html)
 
-*  [Learn about **Nonce** and how it controls which transactions are mined, or not mined](https://support.mycrypto.com/transactions/what-is-nonce.html)
+*  [See what the **optimal gas price** for sending transactions is here (can be really helpful)](https://ethgasstation.info/)
 
 
 ### Other Tips
 
-*  Try switching the network in the top-right to use a different node. There are 4 nodes that allow you to interact with ETH: MyCrypto, Etherscan, Infura, and Giveth. If one is not working, simply choose another one.
+*  Try switching the network in the top-right to use a different node. There are 4 nodes that allow you to interact with ETH: MyCrypto, Etherscan, Infura, and Giveth. If one is not working, simply try another one.
 
 *  If you get a transaction hash for your transaction but it isn't showing up on Etherscan, you can check & replace the transaction with one with a higher gas price here: https://mycrypto.com/#check-tx-status
 
