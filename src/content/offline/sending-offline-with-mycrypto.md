@@ -10,7 +10,7 @@
 ---%
 
 
-First thing you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
+One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
 
 Creating a wallet means you get a randomly generated private key and the address (public key) that corresponds to that private key. Then you save those two bits of information and decide to use it.
 
@@ -27,7 +27,7 @@ Regardless of what service you use to "store" your ETH, your ETH are lines of co
 
 Your private key or keystore file is simply the way you *access and prove ownership of a particular address on the blockchain.*
 
-The part that usually confuses people is how can MyCrypto generate a valid wallet without being online.
+The part that usually confuses people is how MyCrypto can generate a valid wallet without being online.
 
 This is because the software, in this case MyCrypto, is able to generate a valid public key (wallet address) based on programmatic algorithms and "rules" of you will, that will work on the public "online" blockchain and simultaneously be unique, based on how the software generates it.
 
@@ -35,7 +35,7 @@ Your password enables you to decrypt a keystore file, which can be used to unloc
 
 You can generate a transaction offline using the same MyCrypto software in an offline environment and then broadcast that transaction code using an online device.
 
-This way your private key can remain secure on the offline device and be used to generate a valid transaction for the online device to broadcast.
+This way your private key can remain secure on the offline device, and it can be used to generate a valid transaction for the online device to broadcast.
 
 ### Further Reading
 - [https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/](https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/)
@@ -44,4 +44,3 @@ This way your private key can remain secure on the offline device and be used to
 ### Adapted from comments by:
 
 * [/u/chickenbreth](https://www.reddit.com/r/ethtrader/comments/6hqycv/how_can_mew_send_coins_offline/)
-
