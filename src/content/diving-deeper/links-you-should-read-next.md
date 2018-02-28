@@ -17,7 +17,7 @@
 
 *  [https://etherenvoy.com/](https://etherenvoy.com/)
 
-*  EthAdvisor: A Beginners Guide to Ether Investing](https://www.ethadvisor.com/beginners-guide-to-ether-ethereum-investing)
+*  [EthAdvisor: A Beginners Guide to Ether Investing](https://www.ethadvisor.com/beginners-guide-to-ether-ethereum-investing)
 
 *  [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 
@@ -32,3 +32,5 @@
 *  [Crypto Stack: A curated collection of Blockchain & Cryptocurrency resources.](https://cryptostack.xyz/)
 
 *  [a16z: Blockchain Building Blocks and Basics.](https://a16z.com/2018/02/10/crypto-readings-resources/)
+
+*  [silentcicero: Pro Tips for Ethereum Wallet Management](https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/)
