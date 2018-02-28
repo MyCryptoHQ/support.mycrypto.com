@@ -120,9 +120,9 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * It is an easy way to see if your address is correct.
 
-* [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
+* [Example 1](https://i.imgur.com/lHUrIiZ.jpg)
 
-* [Example 2](http://i.imgur.com/FvyLewS.jpg)
+* [Example 2](https://i.imgur.com/FvyLewS.jpg)
 
 * _Note: the above addresses are a single character different but have remarkably different icons & colors. Magic!_
 
