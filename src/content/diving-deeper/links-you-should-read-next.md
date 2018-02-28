@@ -17,7 +17,7 @@
 
 *  [https://etherenvoy.com/](https://etherenvoy.com/)
 
-*  EthAdvisor: A Beginners Guide to Ether Investing](https://www.ethadvisor.com/beginners-guide-to-ether-ethereum-investing)
+*  [EthAdvisor: A Beginners Guide to Ether Investing](https://www.ethadvisor.com/beginners-guide-to-ether-ethereum-investing)
 
 *  [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 
