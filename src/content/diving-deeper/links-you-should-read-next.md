@@ -11,6 +11,8 @@
 
 *  [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 
+*  [CryptoList: Curated collection of blockchain & cryptocurrency links.](https://github.com/coinpride/CryptoList/blob/master/README.md)
+
 *  [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList/blob/master/README.md)
 
 *  [https://www.ethadvisor.com/](https://www.ethadvisor.com/)
