@@ -105,11 +105,12 @@ function submitForm() {
         addl_fields += elem_label + ': https://etherscan.io/tx/' + elem_val
         addl_fields += '\n'
       } else {
-        addl_fields += elem_label + ': ' + elem_val
+        addl_fields += elem_label + ': ' + escapeHtml(elem_val)
         addl_fields += '\n'
       }
     }
 
+    message = escapeHtml(message)
   })
 
   /*
