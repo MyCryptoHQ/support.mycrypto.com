@@ -7,7 +7,7 @@ Live site can be found at [https://support.mycrypto.com](https://support.mycrypt
 To build this project locally, you need to have Node.js installed. Clone the project with Git and run:
 
 
-`$ cd knowledge-base`
+`$ cd support.mycrypto.com`
 
 `$ npm install`
 
