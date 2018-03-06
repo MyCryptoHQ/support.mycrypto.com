@@ -4,12 +4,14 @@
 "category"    : "Diving Deeper",
 "description" : "Diving Deeper",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-02-28T08:00:00+08:00"
+"date_modified"  : "2017-03-02T08:00:00+08:00"
 }
 
 ---%
 
 *  [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
+
+*  [CryptoList: Curated collection of blockchain & cryptocurrency links.](https://github.com/coinpride/CryptoList/blob/master/README.md)
 
 *  [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList/blob/master/README.md)
 
