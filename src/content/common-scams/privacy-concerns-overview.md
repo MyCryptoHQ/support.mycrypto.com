@@ -10,15 +10,15 @@
 ---%
 
 
-### Privacy Concerns
+## Privacy Concerns
 
-###### Posting your Public Keys on Social Media
+##### Posting your Public Keys on Social Media
 
 *Why should you not do this? Why is this a problem?*
 
 You should not do this, especially if you have a large amount of crypto-wealth, as it paints a target on the back. If people know that you have cryptocurrency, you may become the victim of a targeted hacking campaign.
 
-###### Interacting with your Private Keys on Public Networks
+##### Interacting with your Private Keys on Public Networks
 
 *Why is this a problem?*
 

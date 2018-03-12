@@ -30,10 +30,6 @@ Security is probably the most important challenge currently facing Ethereum and 
 
 * Do not store any amount of funds that you are unwilling to lose on an exchange. Examples: [Mt. Gox](https://en.wikipedia.org/wiki/Mt._Gox), [BitGrail](http://fortune.com/2018/02/11/bitgrail-cryptocurrency-claims-hack/)
 
-#### Security and Cryptocurrency Terminology:
-
-Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [https://support.mycrypto.com/getting-started/ethereum-glossary.html](https://support.mycrypto.com/getting-started/ethereum-glossary.html)
-
 ## Visit the following links to see instances of common Scams:
 
 #### [Phishing Overview](https://support.mycrypto.com/common-scams/phishing-overview.html) - Scams/hacks relating to Phishing
@@ -46,4 +42,6 @@ Some terminology that is useful for security-related discussions and general cry
 
 -----
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+#### Security and Cryptocurrency Terminology:
+
+Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [https://support.mycrypto.com/getting-started/ethereum-glossary.html](https://support.mycrypto.com/getting-started/ethereum-glossary.html)

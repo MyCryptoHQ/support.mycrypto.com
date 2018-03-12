@@ -22,21 +22,21 @@ There are tools that help to mitigate this, so ultimately, phishing is effective
 
 ### Phishing via Website
 
-###### How is this done?
+##### How is this done?
 
 An attacker copies the code from one of their favorite interfaces/exchanges/organizations. Then, they create a website with a similar URL to the one they're trying to impersonate using the copied code.
 
 After that, all they need to do is advertise their website for others to see and get tricked into using.
 
-####### The correct URL
+##### The correct URL
 <img src="../images/common-scams/correct-url.png" style="width: 100%; height: auto; max-width: 400px;">
 
 vs.
 
-####### The phishing URL
+##### The phishing URL
 <img src="../images/common-scams/phishing-url.png" style="width: 100%; height: auto; max-width: 400px;">
 
-###### How can I mitigate this?
+##### How can I mitigate this?
 
 In the example above, note the differences between the URLs. The phishing URL has a line above below it, and the valid URL does not.
 
@@ -48,13 +48,13 @@ Additionally, you can download the [EtherAddressLookup Chrome extension](https:/
 
 ### Phishing via Twitter
 
-###### How is this done?
+##### How is this done?
 
 An attacker uses a twitter account, and changes the display name to impersonate crypto-related people/organizations like [Vitalik Buterin](https://twitter.com/VitalikButerin), [MyCrypto.com](https://twitter.com/MyCrypto) and [Shapeshift.io](https://twitter.com/ShapeShift_io). Then, they proceed to create an offer for impersonated's followers, trying to claim that they're giving out handouts like so:
 
 <img src="../images/common-scams/twitter-phish.png" style="width: 100%; height: auto; max-width: 400px;">
 
-###### How can I mitigate this?
+##### How can I mitigate this?
 
 Follow the [Common Scams Tips](https://support.mycrypto.com/common-scams/common-scams-overview.html) and do not attempt to get free money by sending money to others. It will not work.
 
@@ -62,7 +62,7 @@ Follow the [Common Scams Tips](https://support.mycrypto.com/common-scams/common-
 
 ### Phishing via Mobile App
 
-###### How is this done?
+##### How is this done?
 
 An attacker creates an app using logos and names of popular online tools like [MyCrypto](https://mycrypto.com) and [MyEtherWallet](https://myetherwallet.com). Then they publish this app to an app store like the Google Play Store. If anyone inputs their private keys into the app, then they're accessible to the attacker. The attacker can then siphon funds off whenever they want to.
 
@@ -70,13 +70,13 @@ Mobile phishing applications will appear in the mobile app store, appearing to b
 
 <img src="../images/common-scams/play-store-phish.jpg" style="width: 100%; height: auto; max-width: 400px;">
 
-###### How can I mitigate this?
+##### How can I mitigate this?
 
 Verify that any mobile application you want to download for your phone is a legitimate application by verifying with the broader community on public forums.
 
 -----
 
-###### How can help others to not fall for these types of scams?
+##### How can help others to not fall for these types of scams?
 
 Report scams like this to [EtherScamdb.info](https://etherscamdb.info). Furthermore, when you find these scams, post about them on social media sites like Reddit and Twitter so that users can learn about their existence. You can also share this article using the link in the top below the title.
 
