@@ -16,9 +16,9 @@ Phishing is scamming via impersonation. Impersonating individuals, organizations
 
 Phishing is also the most common type of scam/attack on your funds in any cryptocurrency ecosystem. This is due to the low cost of attack, and relatively high success rate.
 
-This type of attack exploits people's inattentiveness when it comes to their security. Users do not generally prefer to have ease-of-use over security, so they're not used to having to validate that they're using the correct service/interacting with the correct person or organization.
+This type of attack exploits people's inattentiveness when it comes to their security. Users generally prefer to have ease-of-use over security, so they're not used to having to validate that they're using the correct service/interacting with the correct person or organization.
 
-There are tools that help to mitigate this, so ultimately, phishing is effective for attackers because users don't value security until something happens to them and they lose their funds.
+There are tools that help to mitigate this, so ultimately, phishing is effective for attackers because users don't value security until after something happens to them that compromises their funds.
 
 ### Phishing via Website
 
@@ -29,12 +29,12 @@ An attacker copies the code from one of their favorite interfaces/exchanges/orga
 After that, all they need to do is advertise their website for others to see and get tricked into using.
 
 ##### The correct URL
-<img src="../images/common-scams/correct-url.png" style="width: 100%; height: auto; max-width: 400px;">
+<img src="../images/common-scams/correct-url.PNG" style="width: 100%; height: auto; max-width: 400px;">
 
 vs.
 
 ##### The phishing URL
-<img src="../images/common-scams/phishing-url.png" style="width: 100%; height: auto; max-width: 400px;">
+<img src="../images/common-scams/phishing-url.PNG" style="width: 100%; height: auto; max-width: 400px;">
 
 ##### How can I mitigate this?
 
