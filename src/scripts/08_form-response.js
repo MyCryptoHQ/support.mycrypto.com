@@ -6,7 +6,7 @@ function checkQueryString() {
 
   } else if ( getQueryString('code') !== null ) {
 
-    var error  = getQueryString('code') + ": " + getQueryString('message')
+    var error  = escapeHtml(getQueryString('code') + ": " + getQueryString('message'))
     var mailto = 'mailto:support@mycrypto.com?Subject=Need%20Support&Body=%0A%0A%0A%0Aps%3A%20I%20couldn%27t%20send%20via%20the%20form.%20I%20got%20the%20error%3A%20'
     $('.form--error').show()
     $('.form--error .text-danger').after( '<p class="text-danger">' + error + '</p>' )
