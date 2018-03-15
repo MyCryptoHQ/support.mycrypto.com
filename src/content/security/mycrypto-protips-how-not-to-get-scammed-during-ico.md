@@ -93,3 +93,7 @@ Sweetness.
 - [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale/](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale/)
 
 - [https://twitter.com/mycrypto/status/887267415930814467](https://twitter.com/mycrypto/status/887267415930814467)
+
+### Additional Reading:
+
+- ["I Got Sloppy, I Got Scammed"](https://hackernoon.com/i-got-sloppy-i-got-scammed-10e00ac0905)
