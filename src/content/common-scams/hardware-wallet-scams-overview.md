@@ -4,7 +4,7 @@
 "category"    : "Common Scams",
 "description" : "Common Scams",
 "date_published" : "2018-03-12T08:00:00+08:00",
-"date_modified"  : "2018-03-12T08:00:00+08:00"
+"date_modified"  : "2018-03-16T08:00:00+08:00"
 }
 
 ---%
@@ -28,15 +28,15 @@ In this type of attack, an attacker would purchase hardware wallets, record the 
 
 The image below shows a hardware wallet posted for resale:
 
-<img src="../images/common-scams/preowned-hardware-wallet.PNG" style="width: 100%; height: auto; max-width: 400px;">
+[<img src="../images/common-scams/preowned-hardware-wallet.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/preowned-hardware-wallet.PNG)
 
 ##### How can I mitigate this?
 
 Only purchase your hardware wallet from trusted sellers (like [Ledger](https://www.ledgerwallet.com/r/fa4b?path=/products/) and [Trezor](https://trezor.io/?a=mycrypto.com))
 
-##### How can help others to not fall for this scam?
+##### How can I help others to not fall for this scam?
 
-When you find these scams, post about them on social media like Reddit and Twitter so that users can learn about their existence. You can also share this article using the link in the top below the title.
+When you find these scams, post about them on social media like Reddit and Twitter so that users can learn about their existence. You can also share this article using the sharing links below the title of this article.
 
 -----
 
