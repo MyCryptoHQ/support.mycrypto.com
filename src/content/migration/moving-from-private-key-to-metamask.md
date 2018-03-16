@@ -27,7 +27,7 @@ Damn!
 
 When you setup MetaMask, you will be given a new wallet address and a new private key. There is an option of importing your already existing private keys into MetaMask, and it is up to you to decide if you want to keep using your old wallet or the new one MetaMask gives you.
 
-#### The pros of importing your exisiting wallet
+#### The pros of importing your existing wallet
 - You don't need to transfer your funds to the wallet that MetaMask gives you (Save on Eth Fees, Hurray!)
 
 #### The cons of importing your existing wallet
