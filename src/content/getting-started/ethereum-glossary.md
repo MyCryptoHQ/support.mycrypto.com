@@ -240,7 +240,17 @@ Usually, the person that is encrypting the data will possess the key that locks 
 
 * The successfully hashed block is considered a correct and valid proof of computational work.
 
-* An alternative to this system is called Proof-Of-Work.
+* An alternative to this system is called Proof-Of-Stake.
+
+### Proof-of-Stake
+
+* A system of using tying up a validator's economic stake in the network, to allow them to have a random chance to propose the next block.
+
+* After a block is proposed, it is then voted on by a pool of validators that have a certain economic representation of the network's units each.
+
+* Benefits of Proof-of-Stake consensus algorithms: Energy efficiency leading to decreased environmental effects, reduced risk of centralization, and security.
+
+* Casper Proof-of-Stake is Ethereum's future version of Proof-of-Stake.
 
 ### Multisignature Address
 
