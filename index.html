@@ -179,7 +179,11 @@
   </button>
   <section class="block">
     <h4 class="search__error text-danger text-center" role="alert" style="display:none"></h4>
-    <h4 class="search__success text-success text-center" role="alert" style="display:none"></h4>
+      <!--googleoff: all-->
+      <noindex>
+          <h4 class="search__success text-success text-center robots-nocontent" role="alert" style="display:none" rel="noindex"></h4>
+      </noindex>
+      <!--googleon: all-->
     <div class="result__wrapper"></div>
   </section>
 </main>
@@ -570,6 +574,11 @@
                 <li>
                   <a href="https://support.mycrypto.com/getting-started/mycrypto-help-and-quicktips.html" title="MyCrypto&#x27;s QuickTips" target="_parent">
                     MyCrypto&#x27;s QuickTips
+                  </a>
+                </li>
+                <li>
+                  <a href="https://support.mycrypto.com/getting-started/error-codes.html" title="Error Code Directory" target="_parent">
+                    Error Code Directory
                   </a>
                 </li>
           </ul>
