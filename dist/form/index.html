@@ -88,6 +88,14 @@
   enctype="multipart/form-data"
   accept-charset="utf-8"
 >
+  <script type="text/javascript">
+    var onloadCallback = function() {
+      grecaptcha.render('html_element', {
+        sitekey: '6LcOl00UAAAAACVjGdVFkw918ohOhPIL0PHDtdGM'
+      });
+    };
+  </script>
+  
   <main class="container-md">
   
     <h2>
@@ -95,7 +103,7 @@
     </h2>
     <p> Warning: We get a lot of messages and responses may take longer than you would like. Please try searching on this knowledge base, or <a href="https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html" target="_blank" rel="noopener noreferrer">try the huge list of communities</a> for more immediate help.</p>
   
-    <p>We work from the oldest message first. For this reason, sending multiple messages will further delay response times. Please be patient.</p>
+    <p>NEVER send your private key!!!.</p>
   
     <br />
   
@@ -655,10 +663,21 @@
       <!-- Field: Body (Will be filled in via JS - msg + subject + additional fields) -->
       <textarea class="form-control" name="body" id="textarea_body" rows="1" style="display:none;"></textarea>
   
-      <div id="html_element"></div>
+      <!-- Recaptcha will load here -->
+      <section class="form-group row">
+        <label for="attachment" class="col-3 col-form-label">
+          Captcha
+          <small id="detailsHelper" class="form-text text-muted">
+            Sorry, we just need to make sure you’re human.
+          </small>
+        </label>
+        <div class="col-9">
+          <div id="html_element"></div>
+        </div>
+      </section>
+      <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
   
     </main>
-  
   <!-- Send Button -->
   <section class="modal__send">
     <button id="help-form--btn" class="btn btn-primary btn-lg">
