@@ -24,4 +24,4 @@ We're relying on really really smart groups of people to build and maintain how 
 
 *   [Here's a really long comment about how window.crypto generates entropy.](https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/)
 *   Here's a [conversation between an angry redditor and Vitalik regarding mouse movements v. window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm)
-*   [The window.crypto spec itself](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto)
+*   [The window.crypto spec itself](https://w3c.github.io/webcrypto/Overview.html)
