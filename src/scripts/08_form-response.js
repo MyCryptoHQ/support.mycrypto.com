@@ -20,8 +20,8 @@ function checkQueryString() {
 
     //See if the message (error code) is in objErrors translation table
     var strErrorMessage = objErrors.default
-    if(getQueryString("message") in objErrors) {
-      strErrorMessage = objErrors[getQueryString("message")]
+    if(getQueryString("code") in objErrors) {
+      strErrorMessage = objErrors[getQueryString("code")]
     }
 
     var mailto = 'mailto:support@mycrypto.com?Subject=Need%20Support&Body=%0A%0A%0A%0Aps%3A%20I%20couldn%27t%20send%20via%20the%20form.%20I%20got%20the%20error%3A%20'
