@@ -38,7 +38,7 @@ Secondly, most of the people involved in this world are pretty technical and som
 
 ### Now, the fun part! How To Buy ETH
 
-1. Create an account on Gemini or Coinbase or Kraken.
+1. Create an account on Gemini or [Coinbase](https://buy.coinbase.com/widget?code=60c05061-3a76-57be-b1cd-a7afa97bcb8c&address=0xed72f30c82162f0e95796834daca3f95e06f1baa&crypto_currency=ETH&currency=USD) or Kraken.
 
 2. Verify that account. You will need to upload a wide variety of documents proving you are who you say you are and stuff. It's all regulatory stuff. Once you upload this stuff, verification takes about a day or two (time is dependent on how busy the service is. During times of price increases and tons of new users, it may take longer. Be patient.)
 
@@ -65,7 +65,7 @@ In Ethereum Wallet, go to the top bar and find `ACCOUNTS` -> `BACKUP` -> `ACCOUN
 
 ### Alternative steps 1-5:
 
-If you already have BTC, you can use Shapeshift.io, Bity.com, or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for Shapeshift.)
+If you already have BTC, you can use Shapeshift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for Shapeshift.)
 
 Then create a Ethereum Wallet account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
 
