@@ -2,7 +2,12 @@ function checkQueryString() {
 
   //Fill this JSON object with error codes, make the keys something like 'ERR_001'.
   var objErrors = {
-    "default": "ERROR: Some generic error message"
+    "default": "ERROR: Something went wrong, please try again.",
+    "inactive_form": "ERROR: The form has been deleted",
+    "bad_referer": "ERROR: The message was posted from an incorrect location",
+    "no_email": "ERROR: No valid \"email\" field was found",
+    "no_body": "ERROR: The body is empty or no body field was found",
+    "service_unavailable": "ERROR: The form service is currently unavailable and cannot receive messages"
   };
 
   if ( getQueryString('code') == 'ok' ) {
