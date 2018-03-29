@@ -15,8 +15,7 @@ Certain Ether and Token transfers require calling a smart contract to perform th
 
 When withdrawing, you need to make sure that the receiving address supports smart contracts, like MyCrypto. 
 
-![internal transactions](https://imgur.com/a/mrevO)
-
+![](https://i.imgur.com/KRrv6r8.jpg)
 
 If you can't see your transaction, please take a look at our article [here](https://support.mycrypto.com/transactions/transactions-not-showing-or-pending.html)
 
