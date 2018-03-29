@@ -10,7 +10,7 @@
 ---%
 
 
-The TREZOR is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://trezor.io/?a=mycrypto.com). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
+The TREZOR is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://shop.trezor.io?a=mycrypto.com). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
 
 ###  Initial set-up
 <img src="https://i.imgur.com/3krRHps.jpg" style="width: 25%; height: 25%">

@@ -39,7 +39,7 @@ One of the safest & easiest ways to store your ETH, Tokens, ETC, BTC, and many o
 
 The best part: it costs less than $100 USD (<0.1 ETH). Order (or pre-order!!!) one today.
 
-* [Trezor](https://trezor.io/?a=mycrypto.com)
+* [Trezor](https://shop.trezor.io?a=mycrypto.com)
 
 * [Ledger Nano S](https://www.ledgerwallet.com/r/1985?path=/products/)
 
