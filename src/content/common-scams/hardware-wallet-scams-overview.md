@@ -32,7 +32,11 @@ The image below shows a hardware wallet posted for resale:
 
 ##### How can I mitigate this?
 
-Only purchase your hardware wallet from trusted sellers (like [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/) and [Trezor](https://shop.trezor.io?a=mycrypto.com))
+Only purchase your hardware wallet from trusted sellers:
+
+- [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+- [Trezor](https://shop.trezor.io?a=mycrypto.com)
+- [Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 ##### How can I help others to not fall for this scam?
 
