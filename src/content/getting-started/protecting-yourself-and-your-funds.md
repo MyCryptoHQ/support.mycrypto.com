@@ -16,8 +16,11 @@
 
 One of the safest &amp; easiest ways to store your ETH, Tokens, ETC, BTC, and many other coins is via a <strong>Ledger Nano S</strong> or <strong>TREZOR</strong>. Both are hardware wallets. Both work with MyCrypto.com. And both cost less $100 ( &lt; 0.1 ETH ).
 
-*   [Buy a Ledger Nano S](https://www.ledgerwallet.com/r/fa4b?path=/products/)
-*   [Buy a TREZOR](https://trezor.io/?a=mycrypto.com)
+- [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+
+- [Buy a Trezor](https://shop.trezor.io?a=mycrypto.com)
+
+- [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 If you don't want one of these nifty devices, use [cold storage](https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html) for a majority of your savings. Please. Pretty please.
 
