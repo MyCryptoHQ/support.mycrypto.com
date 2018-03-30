@@ -4,11 +4,10 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+"date_modified"  : "2018-03-29T08:00:00+08:00"
 }
 
 ---%
-
 
 This is most likely due to the fact that you are behind a firewall, you have refreshed the page a bunch of times and hit your hourly-API-limit, or our nodes are under extreme strain and are refusing to return your balance information.
 
@@ -16,18 +15,25 @@ The easiest way to check your balance is actually not by unlocking your wallet. 
 
 #### ETH
 
-[https://etherscan.io/](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history.
+Paste your address into the search bar and it will pull up your address and transaction history on:
+
+* [https://etherscan.io/](https://etherscan.io/).
+
+* [https://www.etherchain.org/](https://www.etherchain.org/).
+
 
 #### Tokens
 
-[https://ethplorer.io/](https://ethplorer.io/) allows you to easily see token balances and transfers.
+* Via [https://ethplorer.io/](https://ethplorer.io/): This entire site is dedicated to token transactions and their balances.
 
-You can also see all tokens on https://etherscan.io/ now. Your balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
+* Via [https://etherscan.io/](https://etherscan.io/): Your token balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
+
+* Via [https://www.etherchain.org/](https://www.etherchain.org/): Your tokens are displayed on the left sidebar.
+
 
 #### ETC
 
 [https://gastracker.io/](https://gastracker.io/). Paste your address into the search bar and it will pull up your address and transaction history.
-
 
 
 ### If you need to send some tokens and they aren't loading, here are some things you can try to troubleshoot:
@@ -42,6 +48,3 @@ You can also see all tokens on https://etherscan.io/ now. Your balances are in t
   *    Etherscan.io
   *    Infura.io
   *    Giveth.io
-
-
-
