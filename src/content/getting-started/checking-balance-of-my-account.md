@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2017-10-16T08:00:00+08:00"
+"date_modified" : "2018-03-31T08:00:00+08:00"
 }
 
 ---%
@@ -13,7 +13,11 @@ You only need your **public wallet address** in order to see your balance. It is
 
 ### Ethereum
 
-[https://etherscan.io/](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history.
+[https://etherscan.io/](https://etherscan.io/)
+
+[https://www.etherchain.org/](https://www.etherchain.org/)
+
+Paste your address into the search bar and it will pull up your address and transaction history.
 
 ### Tokens
 
