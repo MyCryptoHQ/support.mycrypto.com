@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+"date_modified"  : "2018-03-31T08:00:00+08:00"
 }
 
 ---%
@@ -16,7 +16,11 @@ The easiest way to check your balance is actually not by unlocking your wallet. 
 
 #### ETH
 
-[https://etherscan.io/](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history.
+[https://etherscan.io/](https://etherscan.io/)
+
+[https://www.etherchain.org/](https://www.etherchain.org/)
+
+Paste your address into the search bar and it will pull up your address and transaction history.
 
 #### Tokens
 
