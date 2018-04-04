@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-11-08T08:00:00+08:00",
-"date_modified"  : "2017-11-08T08:00:00+08:00"
+"date_modified"  : "2018-03-30T08:00:00+08:00"
 }
 
 ---%
@@ -51,29 +51,57 @@ Next, the TREZOR will give you 24 random words that you will have to write down 
 
 Now your TREZOR is all set-up and ready to be used!
 
-### Using the TREZOR with MyCrypto
+### Connecting to your TREZOR with MyCrypto
 
-It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://mycrypto.com/), enter the "Send Ether & Tokens" tab, and click the "TREZOR" option.
+It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://mycrypto.com/)
 
-<img src="https://i.imgur.com/m70B73U.jpg" >
+<img src="https://i.imgur.com/sbtmPkz.png" >
 
-You will be presented with this screen. Plug in your TREZOR, and click the blue "Connect to TREZOR" button.
+Click the TREZOR button and plug in your TREZOR, and click the blue "Connect to TREZOR" button.
 
-<img src="https://i.imgur.com/s2GerYL.jpg" >
+<img src="https://i.imgur.com/0DYJzXJ.png" >
 
 This window will pop up, click "Export".
 
-<img src="https://i.imgur.com/Lg8eKem.jpg" >
+<img src="https://i.imgur.com/pGcr5Vx.png" >
 
 You will see a long list of different Ethereum addresses. All of these addresses are safely stored on your TREZOR, and you can use them all. You can select any of these addresses to access it.
 
-<img src="https://i.imgur.com/fUevqbA.jpg" >
+<img src="https://i.imgur.com/d9ekI6V.png" >
 
-Once you select one of the addresses the interface looks just the same as if you were to enter your private key to access it, it's no different. Your TREZOR is ready to be used!
+Once you select one of the addresses the interface looks just the same as if you were to enter your private key to access it, it's no different. Your TREZOR is ready to be used! 
+
+*You do NOT have to generate an address on MyCrypto in order to use your TREZOR.  You would only use the addresses stored on your TREZOR.*
 
 ### Transferring funds from your private key to the TREZOR
 
 Sending ETH or tokens to your TREZOR works the same as sending to any other address. Simply pick one of the addresses of the list when you access your TREZOR, copy the Ethereum address, and send your ETH/tokens from your private key to the address. After you've done that, and the transaction is completed, you can access your TREZOR again, and you will be able to see your funds, safely stored on your TREZOR!
+
+### Sending funds FROM your TREZOR
+
+In order to send FROM your TREZOR, connect to your TREZOR per again per the instructions above. Below is the Send Ether or Tokens Screen. The Account Address should match the address you selected earlier. 
+
+<img src="https://i.imgur.com/6TMYHBC.png" >
+
+Enter the address you would like to send to in the `To Address:` field then enter the amount you would like to send. If you are sending TOKENS, click the SCAN for TOKENS button and select the token from the dropdown. 
+
+A slick new feature on MyCrypto is our Gas Slider which allows you to select how much gas to use for your transaction. 
+
+<img src="https://i.imgur.com/KteZ6QV.png" >
+
+Click send transaction when you are ready to go. *Don't worry, you will be able to review the transaction before it is sent, see below*
+
+<img src="https://i.imgur.com/ehmhdcG.png" >
+
+Click Details for a more information about your transaction. Please double-check the information before you click send.
+
+<img src="https://i.imgur.com/0tvFXdy.png" >
+
+After you click Send and the transaction was SUCCESSFUL, a GREEN message should pop up at the bottom of your screen.  From there, you can verify the transaction on Etherscan or Check the TX Status.
+
+<img src="https://i.imgur.com/VaY7g4h.png" >
+
+Most UNSUCCESSFUL transactions are due to insufficient funds for GAS.  Adjust your gas price and try the transaction again.  For more information on GAS click [here](https://support.mycrypto.com/gas/)
 
 ### Restoring your TREZOR
 
