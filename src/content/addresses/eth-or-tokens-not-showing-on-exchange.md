@@ -30,7 +30,7 @@ MyCrypto is not a "web-wallet" and we do not store your funds and you do not hav
 
 We also highly recommend that you Google the services you send funds to as there are a lot of scams out there. Typing in "[service name] + scam" or  "[service name] + reviews" will help you determine if you are sending to a legitimate service.
 
-If you do not see the transaction on etherscan or etherchain, please check with the exchange that you used for this transaction.
+If you do not see the transaction on etherscan or etherchain, please check with the exchange that you used for this transaction because it may not have been broadcasted yet by the exchange.
 
 ##### Exchanges
 
