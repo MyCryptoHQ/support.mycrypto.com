@@ -9,64 +9,60 @@
 {{> header}}
 
 <!-- Main -->
-<section class="container" id="{{slug}}">
+<main class="container-lg" id="{{slug}}">
 
-  <main class="page__main content">
+  <nav class="breadcrumbs">
+    <a class="breadcrumbs__home" href="{{base_url}}">
+      Home
+    </a>
+    ›
+    <a class="breadcrumbs__category" href="{{base_url}}{{cat_slug}}/">
+      {{ cat_title }}
+    </a>
+    ›
+    <span class="breadcrumbs__category">{{ title }}</span>
+  </nav>
 
-    <nav class="breadcrumbs">
-      <a class="breadcrumbs__home" href="{{base_url}}">
-        Home
-      </a>
-      ›
-      <a class="breadcrumbs__category" href="{{base_url}}{{cat_slug}}/">
-        {{ cat_title }}
-      </a>
-      ›
-      <span class="breadcrumbs__category">{{ title }}</span>
-    </nav>
+  <article class="page__content" itemscope itemtype="http://schema.org/Article">
 
-    <article class="block block__content" itemscope itemtype="http://schema.org/Article">
+    <h1 class="page__title" itemprop="headline">{{ title }}</h1>
 
-      <h1 class="page__title" itemprop="headline">{{ title }}</h1>
+    <div class="page__article">
+      {{{ content }}}
+    </div>
 
-      <p class="page__date">Last Updated: {{ date_modified }}</p>
+  </article>
 
-      <div>
-        {{> sharing-buttons}}
-      </div>
+  <br />
+  <hr />
+  <br />
 
-      <hr />
-      <br />
+  <section class="row">
 
-      <div class="content">
-        {{{ content }}}
-      </div>
+    <div class="col sharing">
+      <p>{{> sharing-buttons}}</p>
+      <p>Last Updated: {{ date_modified }}</p>
+    </div>
 
-      <br />
-      <hr />
-      <br />
 
-      <div class="row">
-        <p class="col">
-          <a href="https://github.com/MyCryptoHQ/support.mycrypto.com/blob/master/src/content/{{cat_slug}}/{{slug}}.md" target="_blank" rel="noopener noreferrer">
-            Improve This Article →
-          </a>
-          <br />
+    <div class="col">
+      <p>
+        <a href="https://github.com/MyCryptoHQ/support.mycrypto.com/blob/master/src/content/{{cat_slug}}/{{slug}}.md" target="_blank" rel="noopener noreferrer">
+          Want to Improve This Article? It's Easy! →
+        </a>
+      </p>
+      <p>
+        <a href="{{base_url}}diving-deeper/how-to-submit-pull-request.html" target="_blank" rel="noopener noreferrer">
+          How to Submit a Pull Request →
+        </a>
+      </p>
+    </div>
 
-        </p>
-        <p class="col">
-          <a href="{{base_url}}diving-deeper/how-to-submit-pull-request.html" target="_blank" rel="noopener noreferrer">
-            How to Submit a Pull Request →
-          </a>
-          <br />
-        </p>
-      </div>
+  </section>
 
-    </article>
+  <hr />
 
-  </main>
-
-</section>
+</main>
 
 {{> footer-pre}}
 

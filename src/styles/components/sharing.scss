@@ -1,7 +1,17 @@
-#share-buttons img {
-    width: 35px;
-    padding: 5px;
-    border: 0;
-    box-shadow: 0;
-    display: inline;
+.sharing {
+
+}
+
+.sharing__item {
+  width: 30px;
+  padding: 0 5px;
+  border: 0;
+  box-shadow: 0;
+  display: inline-block;
+}
+
+.sharing__date {
+  color: $gray;
+  font-size: $font-size-sm;
+  font-style: italic;
 }

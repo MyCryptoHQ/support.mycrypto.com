@@ -1,8 +1,9 @@
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  margin-bottom: $headings-margin-bottom;
-  margin-top: $headings-margin-top;
+  margin-top: 1em;
 }
+
+h5, .h5 { font-weight: 600; }
 
 .blockquote {
   padding-left: $space;
@@ -15,6 +16,10 @@ h1, h2, h3, h4, h5, h6,
 }
 
 li {
-  margin-top: .5em;
-  margin-bottom: .5em;
+  margin-top: .7em;
+  margin-bottom: .7em;
+
+  p {
+    margin: 0;
+  }
 }
