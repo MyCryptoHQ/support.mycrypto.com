@@ -102,12 +102,12 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 The URL must have an SSL certificate (aka be https://). You can get a free SSL certificate via [LetsEncrypt](https://letsencrypt.org/) very quickly.
 
-If you node is local, it's much easier to simply also run MyCrypto locally. [Download the latest version of MyCrypto here](https://github.com/kvhnuke/etherwallet/releases/latest).
+If you node is local, it's much easier to simply also run MyCrypto locally. [Download the latest version of MyCrypto here](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest).
 
 
 If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control of.
 
-- [One way to do this is detailed here](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyCrypto)
+- [One way to do this is detailed here](https://support.mycrypto.com/offline/using-ledger-wallet-offline.html)
 
 ### Whoa, back up. How do I even run a node?
 

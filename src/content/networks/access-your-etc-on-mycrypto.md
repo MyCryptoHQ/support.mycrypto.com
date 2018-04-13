@@ -1,5 +1,5 @@
 {
-"title" : "How to Send Ethereum Classic (ETC) via MyCrypto 🎥",
+"title" : "How to Send Ethereum Classic (ETC) via MyCrypto",
 "sort" : "01",
 "category" : "Networks & Nodes",
 "description" : "Networks & Nodes",

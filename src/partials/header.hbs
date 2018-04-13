@@ -1,6 +1,6 @@
 <!-- Header -->
 <header class="header headroom">
-  <div class="container">
+  <div class="container-xl">
     <div class="row align-items-center">
       <div class="col-md-7 col-sm-6 col-5">
         <a class="brand" href="{{base_url}}" aria-label="Go to Homepage">
@@ -41,13 +41,17 @@
 
 
 
-<main class="result__outer container" style="display: none;">
+<main class="result__outer container-xl" style="display: none;">
   <button type="button" class="close search__clear" aria-label="Close">
     <span aria-hidden="true">×</span>
   </button>
   <section class="block">
     <h4 class="search__error text-danger text-center" role="alert" style="display:none"></h4>
-    <h4 class="search__success text-success text-center" role="alert" style="display:none"></h4>
+      <!--googleoff: all-->
+      <noindex>
+          <h4 class="search__success text-success text-center robots-nocontent" role="alert" style="display:none" rel="noindex"></h4>
+      </noindex>
+      <!--googleon: all-->
     <div class="result__wrapper"></div>
   </section>
 </main>

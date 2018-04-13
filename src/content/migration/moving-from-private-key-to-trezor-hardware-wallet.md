@@ -4,81 +4,137 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-11-08T08:00:00+08:00",
-"date_modified"  : "2017-11-08T08:00:00+08:00"
+"date_modified"  : "2018-04-10T08:00:00+08:00"
 }
 
 ---%
 
 
-The TREZOR is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://trezor.io/?a=mycrypto.com). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
+The TREZOR is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://shop.trezor.io?a=mycrypto.com). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
 
-###  Initial set-up
-<img src="https://i.imgur.com/3krRHps.jpg" style="width: 25%; height: 25%">
+<div class="alert alert-info">
+  When connecting to your TREZOR, you do not generate a new wallet on MyCrypto. Your TREZOR is your wallet and you use your TREZOR device now to store and send Ether & Tokens.
+</div>
 
 
-The TREZOR has two buttons that are used to confirm/deny actions. To start the set-up of your TREZOR, go to the URL displayed.
+##  Initial set-up
 
-<img src="https://i.imgur.com/nFt5R6p.jpg">
+1. **Plug your device into your computer** using the USB cable provided.
 
-Please read all the information on this page. It gives you a bunch of information and instructions on how the TREZOR works, you will need this information in the next steps.
+2. **Go to the URL displayed on your device.** You can use the buttons on your device to confirm/deny actions. ![](https://i.imgur.com/3krRHps.jpg) ![](https://i.imgur.com/nFt5R6p.jpg)
 
-<img src="https://i.imgur.com/9XgRqKi.jpg">
+3. **Read all the information** on shown to you on your TREZOR device and on the TREZOR initialization pages. Take your time—this device is going to be protecting your funds! ![](https://i.imgur.com/9XgRqKi.jpg) ![](https://i.imgur.com/WKuHHe3.jpg)
 
-Once you've read all the information on this page **thoroughly**, you can continue.
+4. **Click the 'Done, let's go!' button**.
+    * You will then be redirected to [wallet.trezor.io](https://wallet.trezor.io/). This is where you will be setting up your TREZOR.
 
-<img src="https://i.imgur.com/WKuHHe3.jpg">
+5. **Enter a name for your TREZOR.**
 
-After clicking the green "Done, let's go!" button, you will be redirected to wallet.trezor.io. This is where you will be setting up your TREZOR. Enter a name for your TREZOR, and click Continue.
+6. **Click 'Continue'.**
 
-<center><img src="https://i.imgur.com/CJERk10.jpg" style="width: 50%; height: 50%"> <img src="https://i.imgur.com/A6zBzI3.jpg" style="display:inline-block width: 30%; height: 30%"></center>
+7. **Enter a new PIN** that you will use to access your TREZOR any time you want to access your wallets.
+    *  Make sure this is a hard to guess pin, so that others won't be able to get access to your TREZOR.
+    *  If you are not sure how PINs work with the TREZOR, look [here](http://doc.satoshilabs.com/trezor-user/enteringyourpin.html) for more information.
+    *  e.g. I want to set "8963" as pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button. ![](https://i.imgur.com/A6zBzI3.jpg) ![](https://i.imgur.com/CJERk10.jpg)
 
-You will now have to enter a new PIN that you will use to access your TREZOR any time you want to access your wallets. Make sure this is a hard to guess pin, so that others won't be able to get access to your TREZOR. If you are not sure how PINs work with the TREZOR, look [here](http://doc.satoshilabs.com/trezor-user/enteringyourpin.html) for more information.
+8. **Re-enter your PIN you just created.**
+    *  Be aware that the order of the numbers on the display of your TREZOR has changed, so you will have to click different buttons on your computer in order to enter the correct PIN. ![](https://i.imgur.com/jCWKVML.jpg) ![](https://i.imgur.com/zvs3p8A.jpg)
 
-*Example:
-I want to set "8963" as pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button.*
+9. **Write down your recovery words.**
+    *  The TREZOR will give you 24 random words that you will have to write down on the provided card in the box. These are the recovery words, also known as seed.
+    *  You will have to use when you want to restore your TREZOR in case it fails or you accidentally reset the TREZOR.
+    *  **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
+    *  Always write them down physically using pen and paper and keep this paper safe. ![](https://i.imgur.com/27wfOOI.jpg) ![](https://i.imgur.com/DnPRxNY.jpg)
 
-<center><img src="https://i.imgur.com/zvs3p8A.jpg" style="width: 50%; height: 50%"> <img src="https://i.imgur.com/jCWKVML.jpg" style="display:inline-block width: 30%; height: 30%"></center>
+10. **Confirm your recovery words.**
+    *  Once you've written down all of the words it will ask you to confirm your recovery phrase, in order to make sure that you've written them down correctly. ![](https://i.imgur.com/VwxBKXC.jpg)
 
-Now re-enter your PIN you just created. Be aware that the order of the numbers on your TREZOR has changed, so you will have to click different buttons in order to enter the correct PIN.
+###### Now your TREZOR is all set-up and ready to be used!
 
-<center><img src="https://i.imgur.com/DnPRxNY.jpg" style="width: 50%; height: 50%"> <img src="https://i.imgur.com/27wfOOI.jpg" style="display:inline-block width: 30%; height: 30%"></center>
 
-Next, the TREZOR will give you 24 random words that you will have to write down on the provided card in the box. These are the recovery words, also known as seed, that you will have to use when you want to restore your TREZOR in case it fails or you accidentally reset the TREZOR. Once you've written down all of the words it will ask you to confirm your recovery phrase, in order to make sure that you've written them down correctly.
 
-**Do not save these recovery words on your computer, as it will be just as unsafe as using a normal private key. Always write them down physically using a pen, on a piece of paper only you have access to. Also do not take a photo of your piece of paper.**
 
-<img src="https://i.imgur.com/VwxBKXC.jpg">
+## Connecting to your TREZOR with MyCrypto
 
-Now your TREZOR is all set-up and ready to be used!
+###### It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://mycrypto.com/)
 
-### Using the TREZOR with MyCrypto
+1. Plug in your TREZOR.
 
-It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://mycrypto.com/), enter the "Send Ether & Tokens" tab, and click the "TREZOR" option.
+2. Select the TREZOR option on MyCrypto.
 
-<img src="https://i.imgur.com/m70B73U.jpg" >
+3. Click the blue `Connect to TREZOR` button on MyCrypto. ![](https://i.imgur.com/sbtmPkz.png) ![](https://i.imgur.com/0DYJzXJ.png)
 
-You will be presented with this screen. Plug in your TREZOR, and click the blue "Connect to TREZOR" button.
+4. A window reading "Export public key for "Ether Account Number [...]" will pop up. Click "Export". ![](https://i.imgur.com/pGcr5Vx.png)
 
-<img src="https://i.imgur.com/s2GerYL.jpg" >
+5. Different Ethereum addresses will be displayed on MyCrypto. All of these addresses are accessible via on your TREZOR. Select one of these addresses. ![](https://i.imgur.com/d9ekI6V.png)
 
-This window will pop up, click "Export".
+6. Once you select one of the addresses the interface looks just the same as if you were to enter your private key to access it, it's no different.
 
-<img src="https://i.imgur.com/Lg8eKem.jpg" >
+###### Your TREZOR is ready to be used!
 
-You will see a long list of different Ethereum addresses. All of these addresses are safely stored on your TREZOR, and you can use them all. You can select any of these addresses to access it.
 
-<img src="https://i.imgur.com/fUevqbA.jpg" >
 
-Once you select one of the addresses the interface looks just the same as if you were to enter your private key to access it, it's no different. Your TREZOR is ready to be used!
+## Transferring funds from your private key to the TREZOR
 
-### Transferring funds from your private key to the TREZOR
+###### Sending ETH or tokens to your TREZOR works the same as sending to any other address.
 
-Sending ETH or tokens to your TREZOR works the same as sending to any other address. Simply pick one of the addresses of the list when you access your TREZOR, copy the Ethereum address, and send your ETH/tokens from your private key to the address. After you've done that, and the transaction is completed, you can access your TREZOR again, and you will be able to see your funds, safely stored on your TREZOR!
+1. Pick one of the addresses on the list when you access your TREZOR.
 
-### Restoring your TREZOR
+2. Copy this address to your clipboard.
 
-TREZOR made a clear and easy to follow guide on how to restore your TREZOR [here](https://doc.satoshilabs.com/trezor-user/recovery.html).
+3. Unlock your original Ethereum account address (via private key or MetaMask or JSON file—wherever you are transferring from)
 
-### Troubleshooting
+4. Paste your TREZOR address into the "To Address" field and send your ETH & tokens.
 
-TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them. If not, feel free to contact either [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/).
+5. The next time you unlock your TREZOR wallet you will be able to see your funds, safely stored on your TREZOR!
+
+
+
+
+## Sending funds FROM your TREZOR
+
+###### In order to send from your TREZOR hardware wallet, connect to your TREZOR per the instructions above.
+
+1. You should now see a "Send Ether & Tokens" view on MyCrypto.com.
+
+2. The address displayed under 'Account Address' on the right side of the screen should match the address you selected earlier.
+
+![](https://i.imgur.com/6TMYHBC.png)
+
+3. Enter the address you would like to send to in the `To Address:` field.
+
+4. Enter the `Amount` you would like to send.
+
+5. If you are sending tokens, click the `Scan for Tokens` button.
+
+6. Then select the token you would like to send from the dropdown next to Amount.
+
+7. Use the `Transaction Fee` slider to select how much [gas](https://support.mycrypto.com/gas/what-is-gas-ethereum.html) to use for your transaction. ![](https://i.imgur.com/KteZ6QV.png)
+
+8. Click the `Send Transaction` button when you are ready to go. *(Don't worry, you will be able to review the transaction before it is sent)* ![](https://i.imgur.com/ehmhdcG.png)
+
+9. A pop-up will appear. Click `Details` for a more information about your transaction. Please double-check the information before you click send. ![](https://i.imgur.com/0tvFXdy.png)
+
+10. After you click `Send Transaction` a green message should appear at the bottom of your screen. You can click the buttons to view & verify the transaction on Etherscan, Etherscan, or MyCrypto to Check the transaction Status. ![](https://i.imgur.com/VaY7g4h.png)
+
+
+<div class="alert alert-info">
+  [If your transaction never shows up on Etherscan / Etherchain / MyCrypto after a new minutes, you may need to send with more gas. Click to learn more about gas.](https://support.mycrypto.com/gas/).
+</div>
+
+
+
+
+
+## Restoring your TREZOR
+
+*  TREZOR made a clear and easy to follow guide on how to restore your TREZOR [here](https://doc.satoshilabs.com/trezor-user/recovery.html).
+
+
+
+
+## Troubleshooting
+
+*  TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them.
+
+*  If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/) support.

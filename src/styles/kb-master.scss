@@ -32,11 +32,12 @@
 @import "bootstrap/nav";
 @import "bootstrap/navbar";
 @import "bootstrap/card";
-@import "bootstrap/breadcrumb";
+//@import "bootstrap/breadcrumb";
 //@import "bootstrap/pagination";
 @import "bootstrap/badge";
 @import "bootstrap/jumbotron";
-@import "bootstrap/alert";
+//@import "bootstrap/alert";
+  @import "bootstrap-overrides/alert";
 //@import "bootstrap/progress";
 @import "bootstrap/media";
 
@@ -63,6 +64,7 @@
 @import 'components/list-block';
 @import 'components/search';
 @import 'components/sharing';
+@import 'components/breadcrumbs';
 
 @import 'templates/home';
 @import 'templates/page';

@@ -4,7 +4,7 @@
 "category"    : "Tokens",
 "description" : "Tokens",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+"date_modified"  : "2018-03-27T08:00:00+08:00"
 }
 
 ---%
@@ -38,7 +38,7 @@
 {
   "symbol": "",
   "address": "",
-  "decimals": "",
+  "decimals": ,
   "name": "",
   "ens_address": "",
   "website": "",
@@ -69,6 +69,7 @@
   }
 }
 ````
+*   Note: The "Decimals" value should not be wrapped in quotations. e.g. `  "decimals": 18,` NOT `  "decimals": "18",`
 *   At the bottom under "Commit new file" type "Added `YOUR_TOKEN_SYMBOL` Token to Defaults" in the title box
 *   In the bigger box below that: add any additional information you'd like to let us know about
 *   Click the green "Commit new file" button

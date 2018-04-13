@@ -442,7 +442,7 @@ gulp.task('sitemap', function () {
     read: false
   })
   .pipe(sitemap({
-      siteUrl: Context.base_url
+      siteUrl: "https://support.mycrypto.com"
   }))
   .pipe(gulp.dest('./dist'));
 });
