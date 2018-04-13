@@ -33,9 +33,9 @@ This is too much for one post so help spread the word: Private keys are *private
 
 *   [You can sign transactions offline so your key never touches a phishing site!](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
 
-- Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-
 - Install EtherSecurityLookup to block malicious tweets / tweeters: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB)
+
+- Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 
 - Install MetaMask to block malicious / phishing sites & interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
@@ -95,13 +95,9 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - Scan the site with [urlscan.io](https://urlscan.io/)
 
-
-
 - Add UA-ID to Spreadsheet & DuckDuckGo Google UA-ID for other sites
 
 - Google keywords and see if other sites and repeat above
-
-- Help grow / maintain / track here: https://etherscamdb.info/scams/
 
 - Great reporting template / idea of what reporting is like:
 
@@ -133,7 +129,7 @@ This is too much for one post so help spread the word: Private keys are *private
     -  [http://www.phishing.org/10-ways-to-avoid-phishing-scams](http://www.phishing.org/10-ways-to-avoid-phishing-scams)
 
     - [http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam](http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam)
-	
+
 	- [https://decentsecurity.com/#/malware-web-and-phishing-investigation/]
 
 - **Other References:**
