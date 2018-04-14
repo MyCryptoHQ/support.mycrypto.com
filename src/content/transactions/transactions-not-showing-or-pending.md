@@ -31,7 +31,7 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 *  Try switching the network in the top-right to use a different node. There are 4 nodes that allow you to interact with ETH: MyCrypto, Etherscan, Infura, and Giveth. If one is not working, simply try another one.
 
-*  If you get a transaction hash for your transaction but it isn't showing up on Etherscan, you can check & replace the transaction with one with a higher gas price here: https://mycrypto.com/#check-tx-status
+*  If you get a transaction hash for your transaction but it isn't showing up on Etherscan, you can check & replace the transaction with one with a higher gas price here: [https://mycrypto.com/tx-status](https://mycrypto.com/tx-status)
 
 *  If you sent **FROM an exchange**, your best bet is to just be patient. I know we received over 1000 messages in the past 24 hours, I can't imagine what an exchange's inbox looks like right now. :(
 
