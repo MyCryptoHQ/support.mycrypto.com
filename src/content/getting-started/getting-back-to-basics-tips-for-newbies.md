@@ -15,7 +15,7 @@
 
 2. Use the version of your address that has uppercase letters. [Ethereum address has Lower and Upper Case Letters](https://support.mycrypto.com/addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html)
 
-3. Never hand type your private key / keystore file. Triple-check the words for mnemonic keys if hand typing (there are still mistakes you can make).
+3. Never hand type your private key / keystore file / mnemonic phrase. Triple-check the words for mnemonic keys if hand typing (there are still mistakes you can make).
 
 4. Always send a small amount of ETH, ensure everything goes well & it arrives at the destination you wanted it to, before sending all the ETH.
 
