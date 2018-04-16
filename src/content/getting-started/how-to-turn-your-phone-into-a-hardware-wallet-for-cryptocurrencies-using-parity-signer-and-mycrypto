@@ -1,0 +1,83 @@
+{
+"title"       : "How to Use Parity Signer Mobile App with MyCrypto.com",
+"sort"        : "01",
+"category"    : "Getting Started",
+"description" : "How to Turn your Phone into a Hardware Wallet for Cryptocurrencies using Parity Signer + Mycrypto.com",
+"date_published" : "2018-04-16T08:00:00+08:00",
+"date_modified"  : "2018-04-16T08:00:00+08:00"
+}
+
+---%
+
+### Here is how you can turn your phone into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto 
+
+1. Get the App
+
+![](https://i.imgur.com/lhFvg6t.png)
+Currently, the app is only available for iOS. An "unstable" version is still in development on the Google Play Store.
+
+Make sure you are downloading the correct App
+
+![](https://i.imgur.com/28oJj0q.png)
+
+2. Create a New Account
+
+![](https://i.imgur.com/qEswTgH.png)
+
+3. Select Your Icon
+
+![](https://i.imgur.com/6nn0Jpn.png)
+
+4. Create an Account Name
+
+![](https://i.imgur.com/X1HP0dE.png)
+
+Your Recovery Phrase and Public Address will also be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](https://blockonomi.com/keep-recovery-seed-safe/) for more info on how to backup and store your recovery phrase.
+
+5. Enter Pin
+
+![](https://i.imgur.com/8shWbqZ.png)
+
+6. Now your Parity Account is created! 
+
+![](https://i.imgur.com/LmMYTTp.png)
+
+![](https://i.imgur.com/Esq8dVW.png)
+Account Name - Public Address - QR Code for Public Address
+
+This public address and QR code can be used to send and receive Eth.
+
+### Now let's access your account from your phone using MyCrypto.com!
+
+1. Go to [MyCrypto.com](https://beta.mycrypto.com/account)
+
+![](https://i.imgur.com/Esq8dVW.png)
+
+![](https://i.imgur.com/6RdDxyf.png)
+
+2. Open the Parity Signer App on your phone.
+
+![](https://i.imgur.com/bvKtbWx.jpg)
+Select the account you want to access. This will bring up your account info and QR Code
+
+![](https://i.imgur.com/Esq8dVW.png)
+
+3. Scan your QR Code
+
+![](https://i.imgur.com/aem94rZ.png)
+When you click on the Parity Signer button on MyCrypto.com's homepage, it will bring you to screen where you can scan your QR code.  Make sure your camera on your PC/Mac is on. Position the QR code on your phone within the camera lines as presented on your PC/Mac. 
+
+4. View Account Details on MyCrypto.com
+
+![](https://i.imgur.com/Ax0qczg.png)
+Check to make sure your account details match up. From this screen you can send transactions. NOTE: if you leave this screen, you will be logged out of your Parity address.
+
+#Related Links
+
+[Parity Support](http://paritytech.io/0
+[Parity Privacy Policy](http://paritytech.io/legal/)
+[How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
+
+
+
+
