@@ -9,7 +9,13 @@
 
 ---%
 
-### Here is how you can turn your phone into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto 
+### Here is how you can turn your phone into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto
+
+What is Parity Signer?
+
+Parity Signer is a free mobile app developed by [Parity Technologies](http://paritytech.io/) which allows you to basically use your mobile phone as a hardware wallet to view your cryptocurrency balances as well as sign transactions.
+
+### How to Get Started
 
 1. Get the App
 
@@ -51,7 +57,7 @@ This public address and QR code can be used to send and receive Eth.
 
 1. Go to [MyCrypto.com](https://beta.mycrypto.com/account)
 
-![](https://i.imgur.com/Esq8dVW.png)
+![](https://i.imgur.com/VcJ0J8f.png)
 
 ![](https://i.imgur.com/6RdDxyf.png)
 
@@ -77,7 +83,7 @@ Check to make sure your account details match up. From this screen you can send 
 [Parity Support](http://paritytech.io/0
 [Parity Privacy Policy](http://paritytech.io/legal/)
 [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
-
+[Traditional Hardware Wallets](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
 
 
 
