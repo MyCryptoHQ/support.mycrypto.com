@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "How to Turn your Phone into a Hardware Wallet for Cryptocurrencies using Parity Signer + Mycrypto.com",
 "date_published" : "2018-04-16T08:00:00+08:00",
-"date_modified"  : "2018-04-16T08:00:00+08:00"
+"date_modified"  : "2018-04-18T08:00:00+08:00"
 }
 
 ---%
@@ -26,7 +26,7 @@ But now, you can also use MyCrypto Beta to send transactions from your Parity Si
 ![](https://i.imgur.com/lhFvg6t.png)
 Currently, the app is only available for iOS. An "unstable" version is still in development on the Google Play Store.
 
-Make sure you are downloading the correct App
+Make sure you are downloading the correct App from Parity Technologies
 
 ![](https://i.imgur.com/28oJj0q.png)
 
@@ -56,6 +56,15 @@ Your Recovery Phrase and Public Address will also be generated. After you type i
 Account Name - Public Address - QR Code for Public Address
 
 This public address and QR code can be used to send and receive Eth.
+
+### Recover an Account
+
+If you already have a an account created in Parity Signer Mobile App or Parity Wallet (Desktop), you can recover your account by following the directions below.
+
+1. Click on "Create Account" or "Add" in the top right-hand corner.
+2. Select an image.
+3. Replace the given recovery phrase manually with the one from the account you want to recover.
+4. Set up a pin code.
 
 ### Now let's access your account from your phone using MyCrypto.com!
 
@@ -89,6 +98,8 @@ Check to make sure your account details match up. From this screen you can send 
    c. Review the details carefully and enter your PIN to sign the transaction offline
    d. Present your signed transaction QR code to MyCrypto to confirm and send!
       [View FULL Tutorial on Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+      
+      Make sure to first do a trial run with a small amount of ether before sending larger amounts.
 
 #Related Links
 
