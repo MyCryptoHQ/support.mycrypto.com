@@ -9,11 +9,15 @@
 
 ---%
 
-### Here is how you can turn your phone into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto
+### Here is how you can turn your phone or tablet into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto
 
 What is Parity Signer?
 
-Parity Signer is a free mobile app developed by [Parity Technologies](http://paritytech.io/) which allows you to basically use your mobile phone as a hardware wallet to view your cryptocurrency balances as well as sign transactions.
+Parity Signer, available for iOS and Android, is an offline mobile app that securely generates and stores your private keys. Most mobile wallets connect to the internet, but Parity Signer gives you one extra layer of security: it never connects to the internet and can be used air-gapped.
+
+Parity Signer has been the perfect companion with Parity Wallet, allowing users to create “watch-only” accounts on their networked computers while keeping their keys safer in the open-source mobile app.
+
+But now, you can also use MyCrypto Beta to send transactions from your Parity Signer accounts without having to run your own Parity node.
 
 ### How to Get Started
 
@@ -78,10 +82,19 @@ When you click on the Parity Signer button on MyCrypto.com's homepage, it will b
 ![](https://i.imgur.com/Ax0qczg.png)
 Check to make sure your account details match up. From this screen you can send transactions. NOTE: if you leave this screen, you will be logged out of your Parity address.
 
+5. Sending a Transaction
+
+   a. Enter the amount and address you would like to send and click "Send transaction"
+   b. From Parity Signer, tap "Scan Transaction QR" and scan the QR Code presented by MyCrypto
+   c. Review the details carefully and enter your PIN to sign the transaction offline
+   d. Present your signed transaction QR code to MyCrypto to confirm and send!
+      [View FULL Tutorial on Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+
 #Related Links
 
 [Parity Support](http://paritytech.io/0
 [Parity Privacy Policy](http://paritytech.io/legal/)
+[Parity Signer + MyCrypto FULL Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
 [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
 [Traditional Hardware Wallets](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
 
