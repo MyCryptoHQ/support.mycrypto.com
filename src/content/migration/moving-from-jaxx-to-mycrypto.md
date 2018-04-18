@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-04-16T08:00:00+08:00"
 }
 
 ---%
@@ -18,3 +18,7 @@ Instead, use your Jaxx Mnemonic phrase (12 word phrase) on [https://mycrypto.com
 In order to see your ETC and interact with the ETC chain, you must first be on an ETC node. Select "ETC (Epool.io)" in the node switcher in the upper right corner of https://mycrypto.com/.
 
 When you want to see your ETH and send ETH or Tokens, you simply change the node switcher back to an "ETH" node.
+
+###  Related Reading
+
+*  [Jaxx Privacy Policy](https://jaxx.io/legal.html#privacyPolicy)
