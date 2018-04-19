@@ -20,6 +20,6 @@ The one that is all lowercase is "not checksummed" meaning that you could mis-ty
 
 For this reason, we warn you when you address is not checksummed. You can still send to it without issue but if you should double-check the address before doing so, *especially* if you hand-typed it.
 
-If you are sending to one of your own wallets, you can save the checksummed address via the "View Wallet Info" page and copying the address displayed there.
+If you are sending to one of your own wallets, you can save the checksummed address via the [View & Send](https://mycrypto.com/account/) page and copying the address displayed there.
 
 Both addresses are exactly the same, except for the uppercase vs lowercase letters. Capitalization simply means the address has a checksum. Both will work exactly the same and have your funds.

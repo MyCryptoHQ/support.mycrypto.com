@@ -17,7 +17,7 @@
 
 3. Make the changes you want to make.
 
-4. At the bottom under "Commit changes" type a short message explaing what you changed and why in the title box
+4. At the bottom under "Commit changes" type a short message explaining what you changed and why in the title box
 
 5. Click the green "Propose File change" button.
 

@@ -29,7 +29,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Your funds are actually stored on the blockchain, not in the wallet or account.
 
-* Just like your Reddit account has a`username (public)` and `password (private)`, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a `username (public)` and `password (private)` and `password for that password (private + more secure)`. See the `Keystore File` section.
+* Just like your Reddit account has a `username (public)` and `password (private)`, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a `username (public)` and `password (private)` and `password for that password (private + more secure)`. See the `Keystore File` section.
 
 ### Address _("Public Key")_
 

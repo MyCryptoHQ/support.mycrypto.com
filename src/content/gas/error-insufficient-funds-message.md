@@ -8,13 +8,13 @@
 }
 
 ---%
-If you are getting the error, `"Insufficient funds. Account you try to send transaction from does not have enough funds. Required XXXXXXXXXXXXXXXXXXX and got: XXXXXXXXXXXXXXXX"`, it means you do not have enough **ETH** in your account to cover the cost of gas.
+If you are getting the error, `"WARNING: Your ether or token balance isn't high enough to complete this transaction. Please send more funds or switch to a different wallet."`, it means you do not have enough **ETH** in your account to cover the cost of gas.
 
-Each transaction (including token and contract transactions) require gas and that gas is paid in ETH. You can think of this like a transaction fee.
+Each transaction (including token and contract transactions) requires gas and that gas is paid in ETH. You can think of this like a transaction fee.
 
-### Solution: Send 0.01 ETH to that account in order to be able to make the transaction.
+### Solution: Send 0.01 ETH to that public address in order to be able to make the transaction.
 
-A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`. With tokens, the amount of gas is typically `z50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
+A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`. With tokens, the amount of gas is typically `50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 
 The number displayed in that error message is the amount required to cover the cost of the transaction in Wei. Take that number, divide by `1000000000000000000`. This will give you the amount of Ether you need to send to that account to make the transaction.
 
