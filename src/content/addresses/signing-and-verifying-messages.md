@@ -1,5 +1,5 @@
 {
-"title"       : "Signing/verifying messages",
+"title"       : "How to sign & verify messages on Ethereum",
 "sort"        : "04",
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",

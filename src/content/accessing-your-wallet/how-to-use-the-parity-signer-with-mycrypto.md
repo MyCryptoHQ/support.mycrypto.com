@@ -1,17 +1,16 @@
 {
-"title"       : "How to Use Parity Signer Mobile App with MyCrypto.com",
-"sort"        : "01",
-"category"    : "Getting Started",
-"description" : "How to Turn your Phone into a Hardware Wallet for Cryptocurrencies using Parity Signer + Mycrypto.com",
-"date_published" : "2018-04-16T08:00:00+08:00",
-"date_modified"  : "2018-04-18T08:00:00+08:00"
+"title"       : "How to use the Parity Signer with MyCrypto",
+"sort"        : "04",
+"category"    : "Accessing your Wallet",
+"description"    : "Accessing your Wallet",
+"date_published" : "2018-04-18T08:00:00+08:00",
+"date_modified"  : "2018-04-18T09:07:00+08:00"
 }
 
 ---%
 
-### Here is how you can turn your phone or tablet into a hardware wallet for cryptocurrencies using Parity Signer + MyCrypto
 
-What is Parity Signer?
+## What is the Parity Signer?
 
 Parity Signer, available for iOS and Android, is an offline mobile app that securely generates and stores your private keys. Most mobile wallets connect to the internet, but Parity Signer gives you one extra layer of security: it never connects to the internet and can be used air-gapped.
 
@@ -19,7 +18,7 @@ Parity Signer has been the perfect companion with Parity Wallet, allowing users 
 
 But now, you can also use MyCrypto Beta to send transactions from your Parity Signer accounts without having to run your own Parity node.
 
-### How to Get Started
+## How to Get Started
 
 1. Get the App
 
@@ -48,7 +47,7 @@ Your Recovery Phrase and Public Address will also be generated. After you type i
 
 ![](https://i.imgur.com/8shWbqZ.png)
 
-6. Now your Parity Account is created! 
+6. Now your Parity Account is created!
 
 ![](https://i.imgur.com/LmMYTTp.png)
 
@@ -57,7 +56,7 @@ Account Name - Public Address - QR Code for Public Address
 
 This public address and QR code can be used to send and receive Eth.
 
-### Recover an Account
+## Recover an Account
 
 If you already have a an account created in Parity Signer Mobile App or Parity Wallet (Desktop), you can recover your account by following the directions below.
 
@@ -66,7 +65,7 @@ If you already have a an account created in Parity Signer Mobile App or Parity W
 3. Replace the given recovery phrase manually with the one from the account you want to recover.
 4. Set up a pin code.
 
-### Now let's access your account from your phone using MyCrypto.com!
+## Now let's access your account from your phone using MyCrypto.com!
 
 1. Go to [MyCrypto.com](https://beta.mycrypto.com/account)
 
@@ -84,7 +83,7 @@ Select the account you want to access. This will bring up your account info and 
 3. Scan your QR Code
 
 ![](https://i.imgur.com/aem94rZ.png)
-When you click on the Parity Signer button on MyCrypto.com's homepage, it will bring you to screen where you can scan your QR code.  Make sure your camera on your PC/Mac is on. Position the QR code on your phone within the camera lines as presented on your PC/Mac. 
+When you click on the Parity Signer button on MyCrypto.com's homepage, it will bring you to screen where you can scan your QR code.  Make sure your camera on your PC/Mac is on. Position the QR code on your phone within the camera lines as presented on your PC/Mac.
 
 4. View Account Details on MyCrypto.com
 
@@ -98,16 +97,20 @@ Check to make sure your account details match up. From this screen you can send 
    c. Review the details carefully and enter your PIN to sign the transaction offline
    d. Present your signed transaction QR code to MyCrypto to confirm and send!
       [View FULL Tutorial on Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
-      
+
       Make sure to first do a trial run with a small amount of ether before sending larger amounts.
 
-#Related Links
+## Related Links
 
-[Parity Support](http://paritytech.io/0
-[Parity Privacy Policy](http://paritytech.io/legal/)
-[Parity Signer + MyCrypto FULL Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
-[How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
-[Traditional Hardware Wallets](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
+- [Parity Support](http://paritytech.io/)
+
+- [Parity Privacy Policy](http://paritytech.io/legal/)
+
+- [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+
+- [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
+
+- [Traditional Hardware Wallet Recommendations](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
 
 
 
