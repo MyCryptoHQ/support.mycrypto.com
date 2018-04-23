@@ -28,7 +28,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Use those bookmarks and only those.
 
 
-### 3. Install [the EAL Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
+### 3. Install [the ESL Chrome Extension](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
 
 ### 4. [Use MyCrypto Locally / Offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
 
