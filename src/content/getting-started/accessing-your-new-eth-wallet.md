@@ -15,12 +15,11 @@ If you can successfully unlock your wallet and send ETH out of the wallet, you c
 
 ### Accessing your Wallet
 
-1. Navigate to the [Send Page](https://mycrypto.com/#send-transaction).
-1. Select your keystore file or your private key.
-1. If the wallet is encrypted, a text box will automatically appear. Enter the password.
-1. Click the `Unlock Wallet` button.
-1. Your wallet information should show up.
-1. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
+1. Navigate to the [View & Send Page](https://mycrypto.com/accountn).
+2. Select the correct option for your Keystore file, Mnemonic Phrase or private key.
+3. If the wallet is encrypted into a Keystore file a text box will automatically appear. Enter the password and click `Unlock Wallet`. Otherwise, enter the correct information for your Access method.
+5. Your wallet information should show up.
+6. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
    * If you printed out your wallet, check to be sure the circles match. They should be the same colors, and shapes. Otherwise, something went wrong and you should start over.
 
 You can share your address with others so they can send you ETH. Your account will not be compromised, just make sure to send them your PUBLIC wallet address and not your private key.
@@ -29,7 +28,7 @@ TIP: If you are planning on holding a large amount of ETH, we recommend you send
 
 ### The Future
 
-While we used the Send page to access your wallet this time, it is not recommended that you do so in the future. You only need your address in order to see your balance. **Do not** enter your private key anywhere if you just want to check the balance or see incoming and outgoing transactions.
+While we used the "View & Send" page to access your wallet this time, it is not recommended that you do so in the future. You only need your address in order to see your balance. **Do not** enter your private key anywhere if you just want to check the balance or see incoming and outgoing transactions.
 
 Instead, search your address (or bookmark it) on [etherscan.io](https://etherscan.io).
 
