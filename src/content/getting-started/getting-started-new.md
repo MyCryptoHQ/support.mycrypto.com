@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-46-20T08:00:00+17:300"
 }
 
 ---%
@@ -95,16 +95,16 @@
 
 
 <h3>
-  Wait, WTF is a Blockchain?
+  Wait, what is a Blockchain?
 </h3>
 
 <ul>
-<li>  The blockchain is like a huge, global, decentralized spreadsheet.  </li>
-<li>  It keeps track of who sent how many coins to whom, and what the balance of every account is.  </li>
-<li>  It is stored and maintained by thousands of people (miners) across the globe who have special computers.  </li>
-<li>  The blocks in the blockchain are made up of all the individual transactions sent from MyCrypto, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.  </li>
-<li>  When you see your balance on MyCrypto.com or view your transactions on etherscan.io, you are seeing data on the blockchain, not in our personal systems.  </li>
-<li>  Again: we are not a bank  </li>
+<li>  The blockchain is a digital decentralized ledger.  </li>
+<li>  It keeps track of all transactions in a chronological order that have ever been made in the history of the blockchain. </li>
+<li>  It is stored and maintained by a peer-to-peer network made up of nodes (mienrs) which verify and approve of transactions, which make it nearly impossible to fake or tamper with transactions.  </li>
+<li>  The blocks in the blockchain are made up of a group of transactions that have been verified and accepted by the miners. This "block" is then added to the stack of previous blocks, which forms a chain of blocks: a.k.a The BlockChain.  </li>
+<li>  When you see your balance on MyCrypto.com or view your transactions on etherscan.io, you are seeing data on the blockchain, MyCrypto does <em>NOT</em> store any data.  </li>
+<li>  We are not the blockchain, we allow you to interact <em>WITH</em> the Ethereum blockchain (send transactions), and view information that is publicly available on the blockchain  </li>
 </ul>
 
 </div>
@@ -129,6 +129,7 @@
 <li>  Recover or reset your password.  </li>
 <li>  Reverse, cancel, or refund transactions.  </li>
 <li>  Freeze accounts.  </li>
+<li>  **We do not store any of your information, so we can not access any information besides what is publicly available on the blockchain. <li>
 </ul>
 
 <h3>
