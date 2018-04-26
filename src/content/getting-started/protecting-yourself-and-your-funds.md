@@ -76,7 +76,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 ### 17. The guys who just finish their token sale don't want to sell you tokens via Slack DM.
 * Neither does that smokin' hot 125px x 125px avatar.
 
-### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
+### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/ or https://www.etherchain.org/
 
 #### 19. Lastly: use your brain
 

@@ -168,23 +168,23 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 Cryptographic key derivation
 
-Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.
+* Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.
 
 Password storage
 
-When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.
+* When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.
 
-*taken from cryptography.io* - [Read Full Article](https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/)
+* *taken from cryptography.io* - [Read Full Article](https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/)
 
 ### Encryption
 
 * In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.
 
-An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data.
+* An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data.
 
-Usually, the person that is encrypting the data will possess the key that locks the data and will make 'copies' and pass them on to relevant people that require access. This process is called public-key cryptography.
+* Usually, the person that is encrypting the data will possess the key that locks the data and will make 'copies' and pass them on to relevant people that require access. This process is called public-key cryptography.
 
-*taken from techworld.com* - [Read Full Article](https://www.techworld.com/security/what-is-encryption-3659671/)
+* *taken from techworld.com* - [Read Full Article](https://www.techworld.com/security/what-is-encryption-3659671/)
 
 ### Encrypted vs Unencrypted Keys
 
@@ -210,7 +210,7 @@ Usually, the person that is encrypting the data will possess the key that locks 
 
 * A decentralized publicly owned ledger.
 
-* Consists of a series of Blocks.
+* Consists of blocks of verified data which are "stacked" on top of eachother.
 
 ### Block
 
@@ -265,5 +265,9 @@ Usually, the person that is encrypting the data will possess the key that locks 
 * Unpermissioned Ledgers (like the Bitcoin blockchain) have no single owner and any number of people can operate on them, and store a copy of them.
 
 * Permissioned Ledgers, on the other hand, may have an owner and may also have a limited number of parties with the ability to read or write data to them.
+
+### Pseudonymous
+
+* Writing under a fake name, in this case we are signing transactions under an "alias" which is our private key
 
 All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome!
