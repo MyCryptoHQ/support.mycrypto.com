@@ -11,11 +11,13 @@
 
 _"Can I turn my unencrypted private key into an encrypted private key?"_
 
-Yes, you can encrypt your private key by importing your raw private key into geth.
+* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://beta.mycrypto.com/account/info](https://beta.mycrypto.com/account/info) and then click the "Generate a Keystore File" button.
 
-### Geth
+* After clicking the button there will be a password field that you can enter a new password to encrypt your private key.
 
-* [Instructions for Mac, Windows, and Linux can be found here](https://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth-or-mist)
+* Click the "Generate Keystore" button.
+
+* After a few seconds a "Download" button will appear. Click this and the download of your keystore file will begin.
 
 ### Remember
 

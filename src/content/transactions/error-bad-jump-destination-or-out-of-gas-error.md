@@ -10,7 +10,7 @@
 ---%
 
 
-"My transaction has a  [Bad jump destination] or [Out of Gas] error. When do I get my ETH back?"
+"My transaction has a [Bad jump destination] or [Out of Gas] error. When do I get my ETH back?"
 
 When a transaction fails due to a [Bad jump destination] or [Out of Gas] error, the ETH actually never leave your account. If you [check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html) on etherscan.io or ethplorer.io or MyCrypto, you should see the amount you had before.
 

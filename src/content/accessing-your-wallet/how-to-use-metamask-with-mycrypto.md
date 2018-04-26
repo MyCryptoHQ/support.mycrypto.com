@@ -66,7 +66,7 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
 ###### Next, it is time to either import your existing wallet into MetaMask, or transfer all your Ether and Tokens to the new wallet.
 
 1. Log into MetaMask.
-2. Click the little 'man-switchy' icon in the top right corner. ![](https://i.imgur.com/oWo09hI.png)
+2. Click the little 'man-switchy' icon in the top right corner. <center>![](https://i.imgur.com/oWo09hI.png)</center>
 3. Select `Import Account`.
 4. Select your private key type: either `Private key` or `JSON file`.
 4. Unlock wallet by pasting in your private key, or uploading the JSON file. If you select your JSON file, you will need to input the password for the JSON file needed for decryption.
