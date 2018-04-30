@@ -1,5 +1,5 @@
 {
-"title"       : "Is the Blockchain Private",
+"title"       : "Is the Blockchain Private?",
 "sort"        : "80",
 "category"    : "Diving Deeper",
 "description" : "Diving Deeper",
@@ -8,8 +8,6 @@
 }
 
 ---%
-
-## Is the Blockchain Private?
 
 > “Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.”
 
