@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2017-10-28T08:00:00+08:00"
+"date_modified" : "2018-04-26T08:00:00+08:00"
 }
 
 ---%
@@ -24,13 +24,15 @@ Any transactions sent on the MUSICOIN chain can be replayed on a different chain
 
 ### How To
 
-1. Select custom at the very bottom of the network dropdown in top right
-2. NAME: MUSICOIN
-3. URL: https://mewapi.musicoin.tw or https://mcdnode.trustfarm.io/api
-4. PORT: (leave it blank)
-5. Select "CUSTOM"
-6. Leave EIP-155 unchecked.
+1. Select `Add Custom Node` at the very bottom of the network dropdown in top right
+2. Node name: MUSICOIN
+3. Select "CUSTOM"
+4. URL: https://mewapi.musicoin.tw or https://mcdnode.trustfarm.io/api
+5. Currency: MUSIC
+6. Chain ID: 1
 7. Click "Save & Use Custom Node" button.
 
-You should see a purple bar at the bottom telling you are successfully connected. If the bar is red, remove the node by clicking the little ( X ) icon next to the MUISCOIN name in the network dropdown and try the other URL (above)
+![](https://i.imgur.com/CH2sfsd.png)
+
+You should see the MUSICOIN node at the bottom of the network switcher dropdown. if you can't connect to the node, remove the node by clicking the little ( X ) icon next to the MUISCOIN name in the network dropdown and try the other URL (above).
 

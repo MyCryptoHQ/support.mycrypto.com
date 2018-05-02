@@ -14,10 +14,7 @@
 
 - [Etherscan's Pending Transactions](https://etherscan.io/txsPending)
 
-- [Our Check TX Status](https://mycrypto.com/#check-tx-status)
-
-- Our Check TX Status Page via TX hash: https://mycrypto.com/?txHash=0x04f6ab30d52a6fa2551b41aafedc531aa8ead1ed145a6f748328df1855a40e63#check-tx-status
-
+- [Our Check TX Status Tab](https://mycrypto.com/tx-status)
 
 ### Can I cancel, override, overwrite, replace, or do anything once a transaction has been sent?
 
@@ -49,7 +46,7 @@ There is no guarantee this will work, nor that it will work every time. This too
 
 ### How to Check the Status of a Transaction
 
-1. Go to our [Check TX Status](https://mycrypto.com/#check-tx-status) Page
+1. Go to our [Check TX Status](https://mycrypto.com/tx-status) Page
 
 2. Copy & paste the transaction hash into the field provided.
 
@@ -59,7 +56,7 @@ There is no guarantee this will work, nor that it will work every time. This too
 
     - **Transaction Found:** Your transaction was successfully mined and is on the blockchain. Click the link provided.
         - If you see a red ( ! ) symbol, or a "BAD INSTRUCTION" or "OUT OF GAS" error message, it means that the transaction was not successfully *sent*. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-        - If you do not see any errors, your transaction was successfully sent. Your ETH or Tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account ~24 hours after sending, please [contact that service](https://support.mycrypto.com/i-have-a-question-but-its-not-about-mycrypto-dot-com-what-do-i-do). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
+        - If you do not see any errors, your transaction was successfully sent. Your ETH or Tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account ~24 hours after sending, please [contact that service](https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
 
     - **Transaction Not Found:** This transaction cannot be found in the TX Pool of the node you are connected to. However, it could be in a different TX Pool, waiting to be mined. Please use the dropdown in the upper-right to select a different ETH node (e.g. `ETH (Etherscan.io)` or `ETH (Infura.io)` or `ETH (MyCrypto)`) and check again.
 
@@ -81,7 +78,7 @@ The reason we recommend `Canceling` over  `Replacing` is that it is not guarante
 
 **Canceling** means generating a `0 ETH` transaction to `Your Own Address` with the purpose of preventing a previous transaction from "going through" / "being mined" / "being included in the blockchain" / "being stuck"
 
-1. Go to https://mycrypto.com/#check-tx-status
+1. Go to https://mycrypto.com/tx-status
 
 2. Paste your TX hash.
     - If it says pending, you can cancel it
@@ -136,4 +133,3 @@ The reason we recommend `Canceling` over  `Replacing` is that it is not guarante
 - [You can learn more about gas & gas limit vs gas price here.](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
 
 - [You can learn more about nonce here](https://support.mycrypto.com/transactions/what-is-nonce.html)
-

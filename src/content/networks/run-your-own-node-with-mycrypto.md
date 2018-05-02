@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified" : "2018-04-26T08:00:00+08:00"
 }
 
 ---%
@@ -43,15 +43,15 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 *   URL: `http://127.0.0.1`
 
-*   Port: `8545`
-
 *   Select the chain. This is for some frontend features, like default tokens and ENS addresses and more. See above for more details.
 
-* Click "Save & Use Custom Node"
+![](https://i.imgur.com/cHUIdBV.png)
+
+* Click "Save & Use Custom Node".
 
 * This should immediately connect or an error message will display.
 
-* Go to https://mycrypto.com/#view-wallet-info and unlock via "View with Address Only"
+* Go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock via "View Address".
 
 * Verify balances are loading correctly.
 
@@ -77,8 +77,6 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 *   Enter the `URL`
 
-*   Enter the `port`
-
 *   Select the chain. This is for some frontend features, like default tokens and ENS addresses and more.
 
     *   ETH: Shows default ETH tokens, EIP-155=true, chainid=1, uses etherscan.io for links to addresses and txs.
@@ -93,7 +91,7 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 * This should immediately connect or an error message will display.
 
-* If no errors, go to https://mycrypto.com/#view-wallet-info and unlock via "View with Address Only"
+* If no errors, go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock via "View Address".
 
 * Verify balances are loading correctly.
 
@@ -102,7 +100,7 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 The URL must have an SSL certificate (aka be https://). You can get a free SSL certificate via [LetsEncrypt](https://letsencrypt.org/) very quickly.
 
-If you node is local, it's much easier to simply also run MyCrypto locally. [Download the latest version of MyCrypto here](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest).
+If you node is local, it's much easier to simply also run MyCrypto locally. [Download the latest version of MyCrypto here](https://github.com/MyCryptoHQ/MyCrypto/releases/latest).
 
 
 If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control of.

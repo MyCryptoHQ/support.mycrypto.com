@@ -79,9 +79,11 @@ Mist is highly recommended but some people have issues installing & syncing it. 
 
 **Just, MAKE SURE YOU BACK IT UP PLEASE.**
 
-- [MyCrypto.com](http://mycrypto.com/)(https://mycrypto.com)
+- [MyCrypto.com](https://mycrypto.com/)(https://mycrypto.com)
 
-- [JAXX](http://jaxx.io/) - multi-platform, multi-currency
+- [Classic MyCrypto](https://classic.mycrypto.com)(https://classic.mycrypto.com)
+
+- [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 
 - [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
 

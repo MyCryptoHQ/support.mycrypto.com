@@ -14,7 +14,7 @@
 *Mismatched Private Key / Address*
 
 
-Please be sure that you are **carefully and accurately **typing your private key. A single wrong character will open a different wallet than "yours".
+Please be sure that you are **carefully and accurately** typing your private key. A single wrong character will open a different wallet than "yours".
 
 For reference private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
