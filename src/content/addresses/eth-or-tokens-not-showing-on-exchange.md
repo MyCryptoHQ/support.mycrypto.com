@@ -12,17 +12,17 @@
 
 First, check the transaction on [etherscan](https://etherscan.io/) or [etherchain](https://www.etherchain.org/) and ensure that there is no red ( ! ) symbol by the transaction.
 
-Successful Transactions
+#### Successful Transactions
 
-[Example from etherscan](https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9)
+- [Example from etherscan](https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9)
 
-[Example from etherchain](https://www.etherchain.org/tx/ffe8f6aee3c027c17a156ba46dae34c22fc13382efdc382a59f8d5938c88c66d)
+- [Example from etherchain](https://www.etherchain.org/tx/ffe8f6aee3c027c17a156ba46dae34c22fc13382efdc382a59f8d5938c88c66d)
 
-Unsuccessful transactions
+#### Unsuccessful transactions
 
-[Example from etherscan](https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c)
+- [Example from etherscan](https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c)
 
-[Example from etherchain](https://www.etherchain.org/tx/f9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c)
+- [Example from etherchain](https://www.etherchain.org/tx/f9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c)
 
 If there is no red symbol, that means the transaction is a valid & successful transaction on the blockchain.
 

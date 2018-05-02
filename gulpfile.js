@@ -430,7 +430,7 @@ gulp.task('gen_search_json', ['sort_pages'], function() {
   })
 
   return gulp.src( filepath )
-  .pipe(gulp.dest( dstFolder ))
+  //.pipe(gulp.dest( dstFolder ))
   .pipe( notify ( onSuccess ( 'gen_search_json' ) ) )
 
 })

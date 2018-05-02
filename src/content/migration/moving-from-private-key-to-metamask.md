@@ -123,4 +123,5 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Related Reading
 
+*  [MetaMask Privacy Policy](https://metamask.io/privacy.html)
 *  [How to Transfer Funds](https://support.mycrypto.com/send/how-to-send-transaction.html)

@@ -94,3 +94,7 @@ Ledger made a clear and easy to follow guide on how to restore your Nano S [here
 ### Troubleshooting
 
 Ledger has an extensive knowledge base that you can find [here](https://ledger.zendesk.com/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them. If not, feel free to contact either [Ledger](https://ledger.zendesk.com/hc/en-us/requests/new) or [MyCrypto](mailto:support@mycrypto.com).
+
+### Related Links
+
+* [Ledger Privacy Policy](https://www.ledgerwallet.com/privacy-policy)

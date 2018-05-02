@@ -251,7 +251,7 @@
 </li>
 </ol>
 <p>The above are all actually the same problem in different forms. If they don&#39;t save <em>all</em> the information that they used to bid, they cannot say that <code>1</code> + <code>mustbemoney</code> + <code>secretphrase</code> = [<code>longhashthing</code>]. I, nor the contract, no anyone else, can tell that your bid was placed for mustbemoney <em>or</em> for 1 ETH. Even if you get 1 or 2 pieces of information correct, it doesn&#39;t matter. The bid has 1 hashed string. If you put in 1 wrong piece of information, it will create a different hashed string.</p>
-<ol>
+<ol start="4">
 <li>Revealing itself can fail due to a variety of reasons. If you sent from the wrong address. If you entered the wrong information. If there was no enough gas. If the miners decided to not include the TX in the block for whatever reason. If you reveal too early. If you reveal too late. Etc.</li>
 </ol>
 <h3 id="how-do-you-not-fuck-it-up-">How do you not fuck it up?</h3>
@@ -377,8 +377,10 @@
   })();
 </script>
 
-<!-- Footer -->
 
+
+
+<!-- Footer -->
 <footer class="footer" role="content" aria-label="footer">
 
   <div class="footer__left">
@@ -406,8 +408,8 @@
       </a>
     </p>
     <ul class="footer__links">
-      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer"> Ether Address Lookup </a></li>
-      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener noreferrer"> Ether Security Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener"> Ether Address Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener"> Ether Security Lookup </a></li>
       <li><a href="https://etherscamdb.info/" target="_blank" rel="noopener"> EtherScamDB </a></li>
       <li><a href="https://www.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
       <li><a href="https://www.mycrypto.com/signmsg.html" target="_blank" rel="noopener"> Sign Message </a></li>
@@ -430,10 +432,12 @@
     </a>
     <p class="footer__links--lg">
       <a href="https://www.mycrypto.com" target="_blank" rel="noopener"> MyCrypto.com </a>
+      <a href="https://download.mycrypto.com" target="_blank" rel="noopener"> MyCrypto Apps </a>
       <a href="https://support.mycrypto.com" target="_blank" rel="noopener"> Help &amp; Support </a>
       <a href="https://about.mycrypto.com" target="_blank" rel="noopener"> Our Team </a>
+      <a href="https://about.mycrypto.com/privacy" target="_blank" rel="noopener"> Privacy </a>
     </p>
-    <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating Ether Wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
+    <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
     <p class="footer__copyright">© 2018 MyCrypto, Inc.</p>
   </div>
 
@@ -442,7 +446,7 @@
     <ul class="footer__links">
       <li><a href="https://www.ledgerwallet.com/r/1985?path=/products/" target="_blank" rel="noopener"> Buy a Ledger Wallet </a></li>
       <li><a href="https://shop.trezor.io?a=mycrypto.com" target="_blank" rel="noopener"> Buy a TREZOR </a></li>
-      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" target="_blank" rel="noopener"> Buy a Keepkey </a></li>
+      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" rel="noopener"> Buy a Keepkey </a></li>
       <li><a href="https://stee.ly/2Hcl4RE" target="_blank" rel="noopener"> Get a Steely </a></li>
       <li><a href="https://ether.cards/?utm_source=mycrypto&utm_medium=cpm&utm_campaign=site" target="_blank" rel="noopener"> Get an ether.card </a></li>
       <li>Donate ETH <br /><small class="mono">0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520</small> </li>
@@ -450,6 +454,7 @@
     </ul>
   </div>
 </footer>
+<!-- / Footer -->
 
 </body>
 

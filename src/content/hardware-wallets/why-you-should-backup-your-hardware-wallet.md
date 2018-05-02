@@ -3,8 +3,8 @@
 "sort"        : "05",
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
-"date_published" : "2018-03-28T08:00:00+08:00",
-"date_modified"  : "2018-03-28T08:00:00+08:00"
+"date_published" : "2018-04-18T08:00:00+08:00",
+"date_modified"  : "2018-04-18T08:00:00+08:00"
 }
 
 ---%

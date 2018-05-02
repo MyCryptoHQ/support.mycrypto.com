@@ -115,7 +115,7 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 9. A pop-up will appear. Click `Details` for a more information about your transaction. Please double-check the information before you click send. ![](https://i.imgur.com/0tvFXdy.png)
 
-10. After you click `Send Transaction` a green message should appear at the bottom of your screen. You can click the buttons to view & verify the transaction on Etherscan, Etherscan, or MyCrypto to Check the transaction Status. ![](https://i.imgur.com/VaY7g4h.png)
+10. After you click `Send Transaction` a green message should appear at the bottom of your screen. You can click the buttons to view & verify the transaction on Etherscan, Etherchain, or MyCrypto to Check the transaction Status. ![](https://i.imgur.com/VaY7g4h.png)
 
 
 <div class="alert alert-info">
