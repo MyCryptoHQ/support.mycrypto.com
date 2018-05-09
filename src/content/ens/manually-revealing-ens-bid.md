@@ -4,15 +4,14 @@
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-05-09T08:00:00+08:00"
 }
 
 ---%
 
-
 ### Get Your Bid TX Hash
 
-First, look up your address on [etherscan.io](https://etherscan.io) in order to find the transaction in which you placed your bid. 
+First, look up your address on [Etherscan](https://etherscan.io) in order to find the transaction in which you placed your bid. 
 
 **Look for:**
 
@@ -27,7 +26,7 @@ Once you find this, copy and paste the value in the "Input Data" into a text doc
 
 ### Generate Reveal Information & Ensure it Matches Bid TX Hash
 
-1. Now, go to [https://mycrypto.com/helpers.html](https://mycrypto.com/helpers.html)
+1. Now, go to [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
 
 2. Scroll to the "ENS" section, depending on what you saved, enter the following:
 
@@ -44,18 +43,17 @@ Once you find this, copy and paste the value in the "Input Data" into a text doc
 
 ### Send Transaction to Reveal
 
-1. In a new tab, go to [https://mycrypto.com/#send-transaction](https://mycrypto.com/#send-transaction) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://mycrypto.com/helpers.html.
+1. In a new tab, go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://mycrypto.com/helpers.html.
 
 2. Enter the following information into the fields:
 
     *   To: 0x6090a6e47849629b7245dfa1ca21d94cd15878ef
     *   Amount: 0 ETH
     *   Gas Limit: 200000
-    *   Data: From the "Reveal Data" field on [https://mycrypto.com/helpers.html](https://mycrypto.com/helpers.html)
+    *   Data: From the "Reveal Data" field on [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
 
 3. Generate and sign your transaction.
 
 4. Click your TX hash after you send it. Ensure there are no errors (you may have to refresh after about a minute.)
 
-5. Then, in a new tab, go to [https://etherscan.io/enslookup?q=yourname.eth](https://etherscan.io/enslookup?q=yourname.eth) and type in the name you bid on. Ensure that you see a very recent transaction from your address with "Unseal Bid" next to it.
-
+5. Then, in a new tab, go to [Etherscan](https://etherscan.io/enslookup?q=yourname.eth) and type in the name you bid on. Ensure that you see a very recent transaction from your address with "Unseal Bid" next to it.
