@@ -13,7 +13,7 @@
 
 1. Hardware wallets ensure your key isn't vulnerable to phishers. Order a TREZOR or Ledger today!
 
-2. This Chrome Extension warns you if you go to a malicious site: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
+2. The EtherSecurityLookup Chrome Extension warns you if you go to a malicious site: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf)
 
 3. [The MyCrypto Philosophy] Education is Key: Ethereum, security, privacy, importance of controlling your keys & how the blockchain works
 
@@ -131,4 +131,4 @@
 
 60. You can run MyCrypto locally instead of trusting our URL
 
-61. You can turn your unencrypted private key into a keystore file via the MyCrypto Chrome Extension
+61. You can turn your unencrypted private key into a keystore file by logging into your account in the [View & Send](https://mycrypto.com/account) page

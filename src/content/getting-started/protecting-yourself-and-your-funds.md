@@ -16,8 +16,11 @@
 
 One of the safest &amp; easiest ways to store your ETH, Tokens, ETC, BTC, and many other coins is via a <strong>Ledger Nano S</strong> or <strong>TREZOR</strong>. Both are hardware wallets. Both work with MyCrypto.com. And both cost less $100 ( &lt; 0.1 ETH ).
 
-*   [Buy a Ledger Nano S](https://www.ledgerwallet.com/r/fa4b?path=/products/)
-*   [Buy a TREZOR](https://trezor.io/?a=mycrypto.com)
+- [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+
+- [Buy a Trezor](https://shop.trezor.io?a=mycrypto.com)
+
+- [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 If you don't want one of these nifty devices, use [cold storage](https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html) for a majority of your savings. Please. Pretty please.
 
@@ -25,7 +28,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Use those bookmarks and only those.
 
 
-### 3. Install [the EAL Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
+### 3. Install [the ESL Chrome Extension](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
 
 ### 4. [Use MyCrypto Locally / Offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
 
@@ -47,7 +50,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Github URLs are much easier to fake and much easier to miss. Instead of downloading from that random URL on reddit, seek out the URL on your own. Following the developers of these repos on Twitter, friending them on reddit (lol...but seriously it's nice because their name will be orange), or starring said repos on Github helps.
 
 ### 9. Always verify that the site you landed on is legit.
-*  Especially if you are about to entire your private key or download an application. What is legit? A service that people have used for a decent period of time with good results. If the URL has been registered in the last week or the site "just launched", err on the side of caution and avoid it for a while.
+*  Especially if you are about to enter your private key or download an application. What is legit? A service that people have used for a decent period of time with good results. If the URL has been registered in the last week or the site "just launched", err on the side of caution and avoid it for a while.
 
 ### 10. Google the service name + "scam" or "reviews"
  *  Scam sites rarely last long. Value real comments by real people over a random blog. Value a collection of information over a single source. Understand that legit services will likely have a mix of positive and negative reviews over a long period of time. Scam sites typically have no one talking about them, everyone yelling about how they got robbed, or the most perfect reviews ever. The latter one is just as red of a flag as the first one.
@@ -73,9 +76,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 ### 17. The guys who just finish their token sale don't want to sell you tokens via Slack DM.
 * Neither does that smokin' hot 125px x 125px avatar.
 
-### 18. [Download the MyCrypto Chrome Extension](https://chrome.google.com/webstore/detail/mycrypto/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
-
-### 19. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
+### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
 
 #### 19. Lastly: use your brain
 

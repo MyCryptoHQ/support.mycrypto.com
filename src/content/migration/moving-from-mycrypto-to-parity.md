@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-04-10T08:00:00+08:00"
 }
 
 ---%
@@ -18,5 +18,8 @@
 
 *  `/home/you/.local/share/io.parity.ethereum`
 
+Then, open Parity away you go. 🎉
 
-### [How to get your keystore fille](https://support.mycrypto.com/migration/location-of-mist-geth-wallet-files.html)
+### Related Reading
+
+*  [How to find your keystore file](https://support.mycrypto.com/migration/location-of-mist-geth-wallet-files.html)

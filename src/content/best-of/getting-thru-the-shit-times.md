@@ -4,7 +4,7 @@
 "category"    : "Best Of",
 "description" : "Best Of",
 "date_published" : "2017-11-27T08:00:00+08:00",
-"date_modified"  : "2017-27-27T08:00:00+08:00"
+"date_modified"  : "2017-11-27T08:00:00+08:00"
 }
 
 ---%

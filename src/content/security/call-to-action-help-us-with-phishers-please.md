@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-02-25T08:00:00+08:00"
 }
 
 ---%
@@ -23,20 +23,19 @@
 
 > ⚠ PSA! Do NOT click the link or listen to the scammer! That is a phishing site. Always check your URL and/or consider getting a Ledger or TREZOR hardware wallet.
 
-> If you have a moment, please report the recent malicious site ` mycrypto[.]su ` as phishing to Google via [https://safebrowsing.google.com/safebrowsing/report_phish/](https://safebrowsing.google.com/safebrowsing/report_phish/) and [https://safebrowsing.google.com/safebrowsing/report_badware/](https://safebrowsing.google.com/safebrowsing/report_badware/). If you have IE, do the same via Tools -> Report as Malicious Site so they can't trick anymore people.
-
-
 ### 2. Educate *before* you see a message
 
 This is too much for one post so help spread the word: Private keys are *private*. Use hardware wallets. Use cold storage. Go offline. Check URLs.
 
 *   [Creating a wallet offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
 
-*   [Getting a](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html) [Ledger or Trezor Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) is even better.
+*   Getting a [Ledger or Trezor Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) is even better.
 
 *   [You can sign transactions offline so your key never touches a phishing site!](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
 
-- Install EAL to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
+- Install EtherSecurityLookup to block malicious tweets / tweeters: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB)
+
+- Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 
 - Install MetaMask to block malicious / phishing sites & interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
@@ -60,17 +59,31 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - PR in malicious domains: [https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json)
 
-- Add malicious non-URLs here: [https://github.com/MyCrypto/ethereum-lists](https://github.com/MyCrypto/ethereum-lists)
+- PR in verified tweeters to automatically blacklist tweeters with very similar usernames: [https://github.com/409H/EtherSecurityLookup/blob/master/lists/twitter.whitelist.json](https://github.com/409H/EtherSecurityLookup/blob/master/lists/twitter.whitelist.json)
+
+- Add malicious non-URLs here: [https://github.com/ethereum-lists](https://github.com/ethereum-lists)
 
 - Report to Google: [https://safebrowsing.google.com/safebrowsing/report_phish/](https://safebrowsing.google.com/safebrowsing/report_phish/ )
 
-- Report to Google: [https://safebrowsing.google.com/safebrowsing/report_badware/](https://safebrowsing.google.com/safebrowsing/report_badware/)
+- Report to Microsoft: [https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site)
+
+- Report to NetCraft: [http://toolbar.netcraft.com/report_url]
+
+- Report to Norton: [https://submit.symantec.com/antifraud/phish.cgi]
+
+- Report to McAfee: [https://www.trustedsource.org/en/feedback/url]
+
+- Report to ForcePoint: [https://csi.websense.com/]
+
+- Report to Webroot BrightCloud (PaloAlto firewalls): [http://brightcloud.com/tools/change-request-url-categorization.php]
+
+- Report to Kaspersky: [https://virusdesk.kaspersky.com/]
 
 - If have IE / Edge, report there: [https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site](https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site )
 
-- Report any Google Adwords Campaigns here: [https://support.google.com/adsense/troubleshooter/1190500?hl=en](https://support.google.com/adsense/troubleshooter/1190500?hl=en) & [https://support.google.com/adwords/answer/176378?hl=en](https://support.google.com/adwords/answer/176378?hl=en)
+- If you want to report an Apple Appstore app, send an email to reportphishing@apple.com
 
-- Spam with fake private keys: [https://gist.github.com/kvhnuke/f2e69fd552827a35e8b1a885e5587c1c](https://gist.github.com/kvhnuke/f2e69fd552827a35e8b1a885e5587c1c)
+- Report any Google Adwords Campaigns here: [https://support.google.com/adsense/troubleshooter/1190500?hl=en](https://support.google.com/adsense/troubleshooter/1190500?hl=en) & [https://support.google.com/adwords/answer/176378?hl=en](https://support.google.com/adwords/answer/176378?hl=en)
 
 - Notify host regarding malicious website / DMCA / copyright violation / trademark violation
 
@@ -80,14 +93,13 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - Screenshot site / tweets / messages & website & code
 
+- Scan the site with [urlscan.io](https://urlscan.io/)
+
 - Add UA-ID to Spreadsheet & DuckDuckGo Google UA-ID for other sites
 
 - Google keywords and see if other sites and repeat above
 
-- Help grow / maintain / track here: https://docs.google.com/spreadsheets/d/1ErQGI2elbzVAapLBYzDePV7jqpiDnsJoSlmAlQ9_zno/edit?usp=sharing
-
 - Great reporting template / idea of what reporting is like:
- [https://twitter.com/mycrypto/status/886888683609051136](https://twitter.com/mycrypto/status/886888683609051136) (if you type this up and send it to me, i'll add it so we don't have to retype later)
 
 > I am writing to you today to report a malicious website on your service: `insert_domain_here`. This website is posing as the legitimate site `mycrypto.com`. The operators of this malicious phishing website site ( `insert_domain_here_again` ) have added code that steals the private keys of unsuspecting users, sends them insecurely to their own servers in order to steal the users' money. Please stop providing your service to ( `insert_domain_here_again` ) immediately to prevent further theft and protect users. Thank you.
 
@@ -118,6 +130,8 @@ This is too much for one post so help spread the word: Private keys are *private
 
     - [http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam](http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam)
 
+	- [https://decentsecurity.com/#/malware-web-and-phishing-investigation/]
+
 - **Other References:**
 
     - [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
@@ -126,19 +140,6 @@ This is too much for one post so help spread the word: Private keys are *private
 
     - [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale ](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale )
 
-
-### 6. Only if you are careful and you really really really are game:
-
-- [Spam with fake private keys](https://gist.github.com/kvhnuke/f2e69fd552827a35e8b1a885e5587c1c)
-
-- You can use this to spam with fake private keys. OR help develop it more! OR just donate to that developer! (address on the link) [https://github.com/MrLuit/MyCryptoWhitehat](https://github.com/MrLuit/MyCryptoWhitehat )
-
-- [Help add to growing list of stuff and link things](https://docs.google.com/spreadsheets/d/1ErQGI2elbzVAapLBYzDePV7jqpiDnsJoSlmAlQ9_zno/edit?usp=sharing)
-
-- Help others find whois info, track domains, track emails.
-
-- Help us build things, faster. [https://github.com/MyCrypto/](https://github.com/MyCrypto/) [https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
-
 ---
 
-Thank you for everything. We literally wouldn't be in this situation without you supporting us. ?Kidding—it's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.
+Thank you for everything. We literally wouldn't be in this situation without you supporting us. Kidding—it's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.

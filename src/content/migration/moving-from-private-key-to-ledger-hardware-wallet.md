@@ -4,13 +4,13 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2017-10-28T08:00:00+08:00"
+"date_modified"  : "2018-03-28T08:00:00+08:00"
 }
 
 ---%
 
 
-The Ledger Nano S is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://www.ledgerwallet.com/r/fa4b?path=/products/). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
+The Ledger Nano S is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.
 
 ###  Initial set-up
 
@@ -94,3 +94,7 @@ Ledger made a clear and easy to follow guide on how to restore your Nano S [here
 ### Troubleshooting
 
 Ledger has an extensive knowledge base that you can find [here](https://ledger.zendesk.com/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them. If not, feel free to contact either [Ledger](https://ledger.zendesk.com/hc/en-us/requests/new) or [MyCrypto](mailto:support@mycrypto.com).
+
+### Related Links
+
+* [Ledger Privacy Policy](https://www.ledgerwallet.com/privacy-policy)

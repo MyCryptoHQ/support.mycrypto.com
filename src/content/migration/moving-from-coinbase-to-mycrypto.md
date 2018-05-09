@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-09-13T08:00:00+08:00"
+"date_modified"  : "2018-04-16T08:00:00+08:00"
 }
 
 ---%
@@ -50,7 +50,7 @@ Good! :)
 5.  Use this as the destination address to send from your exchange to your new wallet
 
 
-### Head over to [etherscan.io](https://etherscan.io/) and search for your address.
+### Head over to [etherscan.io](https://etherscan.io/) or [etherchain.org](https://www.etherchain.org/) and search for your address.
 
 -  Bookmark this page.
 -  Wait a bit (sometimes it takes an hour or so for Coinbase to process your request)
@@ -63,3 +63,8 @@ If you do not back up your private key, you cannot access your ETH and we cannot
 
 
 Enjoy!
+
+###  Related Reading
+
+*  [Coinbase Privacy Policy](https://www.coinbase.com/legal/privacy)
+*  [Coinbase User Policies and Other Legal Disclosures](https://www.coinbase.com/legal/user_agreement)
