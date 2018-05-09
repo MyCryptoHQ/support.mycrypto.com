@@ -9,7 +9,6 @@
 
 ---%
 
-
 *[The following is from /u/eth-o-licious2 on reddit](https://www.reddit.com/r/ethereum/comments/6j8ih6/ens_troubleshooting_if_you_use_mew_and_forgot/)*
 
 ----
@@ -26,7 +25,7 @@ I'm posting this in case anyone else is finding themselves in the same situation
 
 What you need to know is the account you bid from and the amount, this will not work without that information. If you have that then go to [section 1 of this troubleshooting page](https://support.mycrypto.com/ens/ens-debugging-a-bad-instruction-reveal.html) and follow the instructions in order to get the `New Bid Data` string which is the combination of the `MethodId:" and "[0]:` from your bid transaction.
 
-Once you have that all you need to do is replace the information that the four variables at the top of the python script are currently set to. The variable names correspond with the fields under the ENS Debugger on the [MyCrypto Helpers Page](https://mycrypto.com/helpers.html).
+Once you have that all you need to do is replace the information that the four variables at the top of the python script are currently set to. The variable names correspond with the fields under the ENS Debugger on the [MyCrypto Helpers Page](https://old.mycrypto.com/helpers.html).
 
 Putting in the address you bid from, ENS name you bid on, amount you bid, and your three word secret into that page will display the `New Bid Data` output that needs to match what you get from your bid transaction. The python script will run through all the possible three word combinations until it finds the New Bid Data output that matches what's on your bid transaction (which you put into the python script). Once the script has finished you can test the result by filling out the MyCrypto Helpers Page.
 
@@ -34,7 +33,7 @@ Some assumptions I made:
 
 * MyCrypto generates the three words from the same mnemonic list of 2048 terms that Trezor uses
 
-*  The three word secret won't use repeat words.
+* The three word secret won't use repeat words.
 
 If you use it be aware that it can take 8 - 10 hours or so to run through the entire thing because there are billions of possible combinations.
 
@@ -44,16 +43,16 @@ In order to run it you'll need to have python installed, specifically version 3.
 
 You'll also need hashlib, if you are using Windows then you can get it by running this in a command prompt:
 
-` $ pip install hashlib`
+`$ pip install hashlib`
 
 In addition you'll need pysha3:
 
-` $ pip install pysha3`
+`$ pip install pysha3`
 
 The reason for `pysha3` is that it has the specific `Keccak-256 algorithm` that Ethereum uses which is different from the `SHA-3/Keccak algorithm` that comes with `hashlib on python >= 3.6`.
 
 Hope that helps!
 
-EDIT: I noticed a small issue and fixed the script/entered it into a new pastebin. The word "true" on the mnemonic list was put in as "TRUE" on the script because I manipulated the list in Excel to get the quotes and commas before pasting, and Excel automatically converts the word "true" to all caps. I'm pretty sure that would change the output of the hash function and prevent the script from finding the three word secret if it happened to contain the word "true." It's been fixed.
+---
 
-EDIT 2: One thing to note for anyone who also doesn't remember what they bid -- if you at least know which account it was and can narrow it down to which transaction it was for the bid then you can see the exact amount you bid -- at least assuming you didn't use the bid mask feature.
+One thing to note for anyone who also doesn't remember what they bid -- if you at least know which account it was and can narrow it down to which transaction it was for the bid then you can see the exact amount you bid -- at least assuming you didn't use the bid mask feature.
