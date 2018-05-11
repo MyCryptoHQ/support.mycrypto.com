@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2017-10-16T08:00:00+08:00"
+"date_modified" : "2018-02-28T08:00:00+08:00"
 }
 
 ---%
@@ -29,7 +29,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Your funds are actually stored on the blockchain, not in the wallet or account.
 
-* Just like your Reddit account has a`username (public)` and `password (private)`, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a `username (public)` and `password (private)` and `password for that password (private + more secure)`. See the `Keystore File` section.
+* Just like your Reddit account has a `username (public)` and `password (private)`, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a `username (public)` and `password (private)` and `password for that password (private + more secure)`. See the `Keystore File` section.
 
 ### Address _("Public Key")_
 
@@ -42,6 +42,8 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 * In Ethereum, the address begins with `0x`.
 
 * Example: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
+
+* This functions similarly to an email address.
 
 ### Public Key
 
@@ -81,7 +83,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * File name usually is in the format `UTC` + `--` + `DATE_CREATED` + `--` + `YOUR_ADDRESS_WITHOUT_THE_OX`
 
-* Example of File Nae: `UTC--2017-07-02T20-33-09.177Z--06a85356dcb5b307096726fb86a78c59d38e08ee`
+* Example of File Name: `UTC--2017-07-02T20-33-09.177Z--06a85356dcb5b307096726fb86a78c59d38e08ee`
 * Example of Contents: `{"version":3,"id":"aa811d53-fe9a-44a2-bd1c-e737007b5591","address":"06a85356dcb5b307096726fb86a78c59d38e08ee","Crypto":{"ciphertext":"f5a7cc8d4b8cf93510b0d0d057f3a52ac79fd48e619e0638c4ffd978ca180248","cipherparams":{"iv":"975ab00192e2dd74170e91ca59c0b0bd"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"0210f0d0b99e440dfbceb36373304638bac093a367ee7da6411cd165f7aa907a","n":1024,"r":8,"p":1},"mac":"8197a747a3855a10546a2ff939c36470daed78e393b670efa0c12fe3b23dd7e3"}}`
 
 * (pw: `mypassword`)
@@ -120,9 +122,9 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * It is an easy way to see if your address is correct.
 
-* [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
+* [Example 1](https://i.imgur.com/lHUrIiZ.jpg)
 
-* [Example 2](http://i.imgur.com/FvyLewS.jpg)
+* [Example 2](https://i.imgur.com/FvyLewS.jpg)
 
 * _Note: the above addresses are a single character different but have remarkably different icons & colors. Magic!_
 
@@ -160,19 +162,35 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum.
 
-### Derive / Derivation
+### Key Derivation
 
-* [TODO]
+* Key derivation functions derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:
+
+Cryptographic key derivation
+
+Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.
+
+Password storage
+
+When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.
+
+*taken from cryptography.io* - [Read Full Article](https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/)
 
 ### Encryption
 
-* [TODO]
+* In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.
+
+An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data.
+
+Usually, the person that is encrypting the data will possess the key that locks the data and will make 'copies' and pass them on to relevant people that require access. This process is called public-key cryptography.
+
+*taken from techworld.com* - [Read Full Article](https://www.techworld.com/security/what-is-encryption-3659671/)
 
 ### Encrypted vs Unencrypted Keys
 
-* [TODO]
+* Encrypted Keys require a password or some other type of authorization in order to access the encoded information. MyCrypto encrypts your private key via a Keystore File (UTC/JSON). Unencrypted Keys have been decrypted successfully or have initially not been encrypted.
 
-### Decentrailze / Decentralization
+### Decentralize / Decentralization
 
 * The process of transferring authority of a single entity (ex. Government or large corporation) to multiple smaller entities.
 
@@ -184,8 +202,68 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * A piece of code (or program) that is stored on the blockchain network. Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
 
+* These can be executed automatically by the same distributed blockchain that it is stored on.
+
+* These contracts are designed to be tamper-proof permanent (which includes the code used in their creation). To edit a contract, one will have to create and deploy an entirely new contract.
+
 ### Blockchain
 
 * A decentralized publicly owned ledger.
 
-All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome. ?
+* Consists of a series of Blocks.
+
+### Block
+
+* A data structure that contains aggregated transaction data.
+
+* Is cryptographically linked together to form the blockchain (literally, a chain of blocks).
+
+* The first block in a blockchain is called the Genesis Block.
+
+### Hashing
+
+* Calculating a function that takes an arbitrary amount of input data and deterministically produces a fixed-length output known as the data's "hash".
+
+* This can be used to verify that data has not be altered as any part of the input data is changed, the hash will change too.
+
+### Mining
+
+* The process by which transactions are verified and added to a Proof-of-Work blockchain.
+
+* Solving cryptographic problems using high-powered, specialized computing hardware is the actual process that is being completed.
+
+### Proof-of-Work
+
+* A system of using to computational power to apply a method of security to the consensus of a blockchain (determining the order of blocks in a blockchain).
+
+* Blocks of transactions must be hashed with an additional parameter which takes many tries to create a valid block hash.
+
+* The successfully hashed block is considered a correct and valid proof of computational work.
+
+* An alternative to this system is called Proof-Of-Stake.
+
+### Proof-of-Stake
+
+* A system of using tying up a validator's economic stake in the network, to allow them to have a random chance to propose the next block.
+
+* After a block is proposed, it is then voted on by a pool of validators that have a certain economic representation of the network's units each.
+
+* Benefits of Proof-of-Stake consensus algorithms: Energy efficiency leading to decreased environmental effects, reduced risk of centralization, and security.
+
+* Casper Proof-of-Stake is Ethereum's future version of Proof-of-Stake.
+
+### Multisignature Address
+
+* A multisignature (multisig) address allows the address's creator to require multiple parties using different cryptographic keys to authorize a transaction.
+
+* The exact process of this is defined at the time that the address is created.
+
+* The reason why a multisig address is used is because it allows for increased security, and some level of resistance to theft.
+
+### Unpermissioned vs Permissioned ledger
+
+* Unpermissioned Ledgers (like the Bitcoin blockchain) have no single owner and any number of people can operate on them, and store a copy of them.
+
+* Permissioned Ledgers, on the other hand, may have an owner and may also have a limited number of parties with the ability to read or write data to them.
+
+All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome!

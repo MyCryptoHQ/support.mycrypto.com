@@ -185,7 +185,7 @@
 Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
 
 <ul>
-<li>  Use the [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.  </li>
+<li>  Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.  </li>
 <li>  Always check the URL: `https://mycrypto.com`.  </li>
 <li>  Always make sure the URL bar has `MyCrypto, Inc` in green.  </li>
 <li>  Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.  </li>
@@ -273,7 +273,6 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  [How to verify you have access to the wallet](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).  </li>
 <li>  [How to send funds to your wallet](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html).  </li>
 <li>  [How to check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html).  </li>
-<li>  [Prefer a video walkthrough? Here's one.](https://youtu.be/phht73IvUDI?t=58)  </li>
 <li>  [More Security Tips!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)  </li>
 </ul>
 
@@ -284,6 +283,3 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 
 
 </section>
-
-
-

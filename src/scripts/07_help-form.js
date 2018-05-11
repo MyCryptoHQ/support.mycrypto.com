@@ -105,11 +105,12 @@ function submitForm() {
         addl_fields += elem_label + ': https://etherscan.io/tx/' + elem_val
         addl_fields += '\n'
       } else {
-        addl_fields += elem_label + ': ' + elem_val
+        addl_fields += elem_label + ': ' + escapeHtml(elem_val)
         addl_fields += '\n'
       }
     }
 
+    message = escapeHtml(message)
   })
 
   /*
@@ -125,7 +126,7 @@ function submitForm() {
   var attr = 'aHR0cHM6Ly93ZWJob29rLmZyb250YXBwLmNvbS9mb3Jtcy9teWV0aGVyd2FsbGV0LzEzYWMzYjIwZjA5MWQ4YTRkNjg3MjljNmIwZWFmZjAwYTMwYjM2YzU5MTgwNGFiOWViZjRkZGUwOWMwNjA5OTlmMTgzYmJmZWNmNDJkM2M1ZWI2NzY4ODBiZjQxMGI1Mg=='
   var debug_info  = '\nDebug Info: ' + platform.description + ' \n via ' + document.referrer + ' or ' + window.location.href
 
-  $('#textarea_body').val( message + addl_fields + debug_info)
+  $('#textarea_body').val( escapeHtml(message) + addl_fields + debug_info)
 
   $('#addl_addr--input' ).val('')
   $('#addl_tx--input' ).val('')

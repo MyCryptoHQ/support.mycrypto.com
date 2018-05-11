@@ -18,12 +18,10 @@
 
 These both ensure that your keys never touch an internet connected device which means we couldn't steal them even if we wanted to, or if our site itself was compromised in some way.
 
-That said...we have been around since August of 2015. We don't do this for the money and we certainly aren't going to risk our reputations and hard work and lives for money.
+That said...our team has been in this space since 2015. We don't do this for the money and we certainly aren't going to risk our reputations and hard work and lives for money.
 
 ETH is going to the moon as it is....we just have to keep building for the future and we can have it all. :)
 
 
 
 ---
-
-- [This article was inspired by this reddit thread](https://www.reddit.com/r/ethereum/comments/7canjm/how_can_we_be_sure_mycryptocom_is_safe_many/)

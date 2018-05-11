@@ -32,7 +32,7 @@ However, for additional functionality (like protecting it with a password) there
 * This Keystore file matches the format used by Mist so you can easily import it in the future.
 * Make sure to have multiple backups.
 
-![](https://support.mycrypto.com/images/wallet-types/keystore-file.jpg)
+![](https://support.mycrypto.com/images/wallet-types/keystore.jpg)
 
 ### Mnemonic Phrases
 
@@ -40,6 +40,8 @@ However, for additional functionality (like protecting it with a password) there
 * They can derive multiple addreses - meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
 * Ledger, TREZOR, MetaMask, and Jaxx create these for you.
 * MyCrypto does not currently derive mnemonic phrases, but may in the future.
+
+![](https://support.mycrypto.com/images/wallet-types/mnemonic.jpg)
 
 ### Private Key (unencrypted)
 

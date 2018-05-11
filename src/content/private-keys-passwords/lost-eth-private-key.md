@@ -29,7 +29,7 @@ We're really sorry but MyCrypto is not a "web wallet". You do not create an acco
 *   Do a full search of your computer for “UTC--“ and see if the private key shows up. 
 *   Do a full search of your computer for your address _without_ the 0x at the beginning.
 *   If you know _when_ you created it, look through all files during that time period for any documents or screenshots.
-*   Generate a new wallet via [https://mycrypto.com/#generate-wallet](https://mycrypto.com/#generate-wallet) and take a look at the different options you may have downloaded or saved. Sometimes that can jog your memory.
+*   Generate a new wallet via [https://beta.mycrypto.com/generate](https://beta.mycrypto.com/generate) and take a look at the different options you may have downloaded or saved. Sometimes that can jog your memory.
 
 In the future, we highly recommend you print out a paper version of your wallet and keep it in multiple physical locations. [You can read more about how to safely back up your wallet here.](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
 

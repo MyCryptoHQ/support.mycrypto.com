@@ -1,10 +1,10 @@
 {
-"title" : "How Do I Know What Gas Price/Gas Limit to Use?",
-"sort" : "100",
-"category" : "Gas",
-"description" : "Gas",
+"title"          : "How Do I Know What Gas Price/Gas Limit to Use?",
+"sort"           : "100",
+"category"       : "Gas & Transaction Fees",
+"description"    : "Gas",
 "date_published" : "2018-02-06T08:00:00+08:00",
-"date_modified" : "2018-02-06T08:00:00+08:00"
+"date_modified"  : "2018-02-19T08:00:00+08:00"
 }
 
 ---%

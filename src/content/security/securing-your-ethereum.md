@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-02-25T08:00:00+08:00"
 }
 
 ---%
@@ -16,8 +16,11 @@
 
 One of the safest &amp; easiest ways to store your ETH, Tokens, ETC, BTC, and many other coins is via a <strong>Ledger Nano S</strong> or <strong>TREZOR</strong>. Both are hardware wallets. Both work with MyCrypto.com. And both cost less $100 ( &lt; 0.1 ETH ).
 
-*   [Buy a Ledger Nano S](https://www.ledgerwallet.com/r/fa4b?path=/products/)
-*   [Buy a TREZOR](https://trezor.io/?a=mycrypto.com)
+* [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+
+* [Buy a Trezor](https://shop.trezor.io?a=mycrypto.com)
+
+* [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 If you don't want one of these nifty devices, use [cold storage](https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html) or simply run [MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html) for a majority of your savings. Please. Pretty please.
 
@@ -72,12 +75,14 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 ### 16. The guys who just finish their token sale don't want to sell you tokens via Slack DM.
 * Neither does that smokin' hot 125px x 125px avatar.
 
-### 17. [Install the MyCrypto Chrome Extension](https://chrome.google.com/webstore/detail/mycrypto/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
-
-### 18. Don't use brain wallets
+### 17. Don't use brain wallets
 *  Brain wallets are wallets where the key is derived from a word or phrase you _choose_. Human brains don't have the ability to create high-entropy seeds. Using a phrase that you make up, even if it seems "rare" or "random" is not as secure as using MyCrypto's randomness and these phrases can be bruteforced by the millions. [Read more](https://arstechnica.com/security/2013/10/how-the-bible-and-youtube-are-fueling-the-next-frontier-of-password-cracking/). [And more](https://arstechnica.com/security/2016/02/password-cracking-attacks-on-bitcoin-wallets-net-103000/).  
 
-### 19. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
+### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
 
 #### 19. Lastly: use your brain
 * Think for a moment. Don't assume, ask. Don't blindly follow, question. If something doesn't seem right...if you feel like the luckiest fucker on Earth...or if you find yourself asking, "I wonder why I haven't seen this on reddit yet", there is likely a reason.
+
+
+![](https://i.imgur.com/oseKNIO.jpg)
+(By [@Jennicide](https://twitter.com/Jennicide/status/940236428411367424))

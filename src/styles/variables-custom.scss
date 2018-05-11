@@ -8,7 +8,7 @@ $gray-lightest              :  #f7f7f9                                          
 $gray                       :  #464a4c                                                    ;
 
 $pink                       :  #e91e63                                                    ;
-$red                        :  #d9534f                                                    ;
+$red                        :  #ea4b40                                                    ;
 $orangered                  :  #ff5722                                                    ;
 $orange                     :  #ff9800                                                    ;
 $yellow                     :  #ffd500                                                    ;
@@ -21,9 +21,9 @@ $purple                     :  #613d7c                                          
 
 $transition                 :  250ms ease-in-out all                                      ;
 
-$brand-danger               :  $pink                                                      ;
+$brand-danger               :  $red                                                       ;
 $brand-info                 :  $navy                                                      ;
-$brand-orangered            :  $orange                                                    ;
+$brand-orangered            :  $orangered                                                 ;
 $brand-primary              :  $blue                                                      ;
 $brand-success              :  $green                                                     ;
 $brand-warning              :  $orange                                                    ;
@@ -48,11 +48,9 @@ $font-size-pixels-xl        :  $base+1px                                        
 $font-size-pixels-sm        :  $base+px                                                   ;
 
 $headings-font-weight       :  400                                                        ;
-$headings-margin-bottom     :  0.75em                                                     ;
-$headings-margin-top        :  1.00em                                                     ;
-$headings-line-height       :  1.3                                                        ;
-
-
+$headings-margin-bottom     :  0.5em                                                      ;
+$headings-margin-top        :  1.125em                                                    ;
+$headings-line-height       :  1.25                                                       ;
 
 $font-size-xl               :  2.00rem                                                    ;
 $font-size-lg               :  1.75rem                                                    ;
@@ -63,6 +61,13 @@ $font-size-bump             :  1.07rem                                          
 $font-size-base             :  1.00rem                                                    ;
 $font-size-sm               :  0.90rem                                                    ;
 $font-size-xs               :  0.75rem                                                    ;
+
+$font-size-h1               :  2.75em                                                     ;
+$font-size-h2               :  2.25em                                                     ;
+$font-size-h3               :  1.75em                                                     ;
+$font-size-h4               :  1.25em                                                     ;
+$font-size-h5               :  1.125em                                                    ;
+$font-size-h6               :  1.125em                                                    ;
 
 $space-xs                   :  0.25rem                                                    ;
 $space-sm                   :  0.50rem                                                    ;

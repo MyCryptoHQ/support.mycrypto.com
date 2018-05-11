@@ -17,7 +17,7 @@ The following assumes you are **not** using a Ledger or TREZOR hardware wallet. 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
 
-### An amazing guide: Tails + KeePass + USB + MyCrypto
+### An amazing guide: Tails + KeePass + USB + MEW
 
 [https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet
 )
@@ -27,8 +27,9 @@ You can run MyCrypto.com on your computer and this computer can be a cold-storag
 
 ### How To
 
-* Go to [https://github.com/kvhnuke/etherwallet/releases/latest](https://github.com/kvhnuke/etherwallet/releases/latest).
-* Click on `etherwallet-vX.X.X.X.zip`.
+* Go to [https://github.com/MyCryptoHQ/mycrypto.com/releases/latest](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest).
+* Click on `mycrypto-vX.X.X.zip`.
+* (Optional) Check the SHA256 hash to verify the file isn't corrupted.
 * Move zip to an airgapped computer.
 * Unzip it and double-click `index.html`. This should open MyCrypto in your browser.
     * _Note: do not move files around in this folder. You need the entire folder for it to work correctly._

@@ -4,7 +4,7 @@
 "category"    : "Best Of",
 "description" : "Best Of",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-02-19T08:00:00+08:00"
 }
 
 ---%
@@ -80,6 +80,9 @@ You are free to use, modify, or shamelessely steal any information in our knowle
 - MetaCert also provides similar functionality. Paul (Founder) is on Twitter and loves helping ICO's protect their investors. Get in touch with him.
 
 - Starter template on  what to tell people who get phished: [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
+
+![](../images/best-of/unsolicited-advice.png)
+
 
 - Suggestions in this discussion to move to other platforms with better anti-spam tools
 [ https://github.com/aragon/governance/issues/7]( https://github.com/aragon/governance/issues/7).

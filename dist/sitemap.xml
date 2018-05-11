@@ -1,767 +1,679 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://support.mycrypto.com//</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//gas/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//addresses/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//swap/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//form/</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/transactions-not-showing-or-pending.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/adding-new-token-and-sending-custom-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/ethereum-balance-not-loading-or-showing.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/eth-or-tokens-not-showing-on-exchange.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/getting-started-new.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/creating-a-new-wallet-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/backing-up-your-new-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/accessing-your-new-eth-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/protecting-yourself-and-your-funds.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/checking-balance-of-my-account.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/getting-back-to-basics-tips-for-newbies.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/ethereum-glossary.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/mycrypto-help-and-quicktips.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//getting-started/mycrypto-tutorials-for-beginners.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/securing-your-ethereum.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/call-to-action-help-us-with-phishers-please.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/what-to-do-if-youve-had-your-funds-stolen.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/turning-of-2fa-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/how-to-securely-store-and-guard-your-private-key.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/restoring-access-to-your-accounts-if-lose-device-with-2fa.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/ethereum-two-people-same-private-key.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/mycrypto-protips-how-not-to-get-scammed-during-ico.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//security/how-can-we-trust-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-private-key-to-metamask.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-private-key-to-ledger-hardware-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-private-key-to-trezor-hardware-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-mycrypto-to-parity.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-jaxx-to-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-from-coinbase-to-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/location-of-mist-geth-wallet-files.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/moving-tokens-using-private-key-from-exodus.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//migration/importing-v2-json-wallet-file-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/adding-custom-ethereum-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/airdropped-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/not-a-valid-erc-20-token-issue.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/token-creators-add-your-token-to-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/tokens-eos.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/qtum-are-my-qtum-tokens-safe-in-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//tokens/tokens-ppt.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/what-to-do-if-you-sent-to-wrong-address.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/how-to-send-eth.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/sending-and-adding-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//send/creating-wallet-address-to-send-and-receive-eth.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/running-mycrypto-locally.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/ethereum-cold-storage-with-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/is-the-send-page-offline.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/local-offline-mycrypto-does-not-work-properly.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/making-offline-transaction-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//offline/sending-offline-with-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/error-bad-jump-destination-or-out-of-gas-error.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/what-is-nonce.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/transaction-failed-out-of-gas.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/transaction-fee-not-refunded.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//transactions/check-status-of-ethereum-transaction.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//gas/what-is-gas-ethereum.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//gas/error-insufficient-funds-message.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//gas/how-to-set-gas-price-above-limits.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//addresses/not-checksummed-shows-when-i-enter-an-address.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//addresses/ethereum-account-not-showing-on-blockchain.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//addresses/creating-new-accounts-for-eth-and-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/hardware-wallet-recommendations.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/backing-up-trezor-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/trezor-error-window-blocked.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/ledger-hardware-wallet-error-invalid-status-6a80.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/accidentally-connecting-to-hardware-wallet-on-phishing-site.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/multiple-addresses-on-hardware-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/trezor-multiple-addresses-showing-up.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/using-mycrypto-with-ledger-nano-s.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//hardware-wallets/trezor-sending-to-trezor-device.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/lost-eth-private-key.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/lost-ethereum-wallet-password.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/accessing-different-address-same-private-key-ether.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/private-key-not-working.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/difference-beween-private-key-and-keystore-file.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/parity-phrases-are-no-longer-supported.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//private-keys-passwords/lost-password-ethereum-presale-wallet-file.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/how-to-buy-ethereum-with-usd.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/buying-selling-exchanging-eth-tokens-fiat.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/what-is-an-ico.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/what-happens-if-mycrypto-goes-down.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/interacting-with-etheruem-multisig-wallet.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/check-the-current-eth-block-number.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/unlocking-keystore-file-freezes-browser.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/withdrawing-dao-tokens.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//faq/why-dont-you-make-me-move-my-mouse-to-generate-seed.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/access-your-etc-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/access-your-musicoin-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/access-your-expanse-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/run-your-own-node-with-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/cant-connect-to-custom-node-on-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//networks/using-ethereum-hardware-wallet-with-custom-node.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/ens-debugging-a-bad-instruction-reveal.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/setting-the-resolver-for-an-ens-name.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/changing-ens-owner-or-transferring-ens-name.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/ens-what-to-do-if-you-forgot-your-bid.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/manually-revealing-ens-bid.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/starting-an-ens-auction-without-bidding.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/ens-brute-forcing-secret-word-phrases.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/why-the-ens-bid-process-is-so-complicated.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/importing-ens-bid-created-on-mycrypto-metamask.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//ens/manually-revealing-ens-bids-hard.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/how-mycrypto-gets-entropy-when-generating-wallets.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/keypairs-cryptography-encryption.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/ethereum-encryption-bkp-presale-files.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/security-and-ethereum.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/unsolicited-advice-for-those-holding-token-sales.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/how-not-to-miss-out-on-ico.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/taylors-ico-tweetstorm.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/dunning-krugerrands-fud-list-of-doom.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//best-of/investing-responsibly-by-brian-armstrong-coinbase.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/ethereum-list-of-support-and-communities.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/links-you-should-read-next.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/myetherapi-api-limits.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/does-mycrypto-have-an-api.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/announcement-history.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/getting-thru-the-shit-times.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/how-to-submit-pull-request.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/developing-mycrypto.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//diving-deeper/readme.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//swap/swap-wasnt-completed-or-was-canceled.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://support.mycrypto.com//swap/trading-eth-btc-rep-bity-swap.html</loc>
-  <lastmod>2017-12-09T13:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://support.mycrypto.com/</loc>
+        <lastmod>2018-04-30T19:51:00.129Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/styleguide.html</loc>
+        <lastmod>2018-04-30T19:50:56.668Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/accessing-your-wallet/how-to-use-metamask-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:00.310Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:00.381Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:00.402Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-trezor-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:00.415Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/accessing-your-wallet/</loc>
+        <lastmod>2018-04-30T19:51:00.310Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/creating-new-accounts-for-eth-and-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:00.422Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/eth-or-tokens-not-showing-on-exchange.html</loc>
+        <lastmod>2018-04-30T19:51:02.155Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/ethereum-account-not-showing-on-blockchain.html</loc>
+        <lastmod>2018-04-30T19:51:02.159Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/ethereum-balance-not-loading-or-showing.html</loc>
+        <lastmod>2018-04-30T19:51:02.163Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/</loc>
+        <lastmod>2018-04-30T19:51:00.381Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html</loc>
+        <lastmod>2018-04-30T19:51:02.166Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/addresses/signing-and-verifying-messages.html</loc>
+        <lastmod>2018-04-30T19:51:02.169Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/common-scams-overview.html</loc>
+        <lastmod>2018-04-30T19:51:02.171Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/hardware-wallet-scams-overview.html</loc>
+        <lastmod>2018-04-30T19:51:02.173Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/</loc>
+        <lastmod>2018-04-30T19:51:00.403Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/malicious-software-overview.html</loc>
+        <lastmod>2018-04-30T19:51:02.175Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/phishing-overview.html</loc>
+        <lastmod>2018-04-30T19:51:02.177Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/common-scams/privacy-concerns-overview.html</loc>
+        <lastmod>2018-04-30T19:51:02.180Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/dunning-krugerrands-fud-list-of-doom.html</loc>
+        <lastmod>2018-04-30T19:51:02.192Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/ethereum-encryption-bkp-presale-files.html</loc>
+        <lastmod>2018-04-30T19:51:02.194Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/getting-thru-the-shit-times.html</loc>
+        <lastmod>2018-04-30T19:51:02.196Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/how-mycrypto-gets-entropy-when-generating-wallets.html</loc>
+        <lastmod>2018-04-30T19:51:02.199Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/how-not-to-miss-out-on-ico.html</loc>
+        <lastmod>2018-04-30T19:51:02.202Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/</loc>
+        <lastmod>2018-04-30T19:51:00.421Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/investing-responsibly-by-brian-armstrong-coinbase.html</loc>
+        <lastmod>2018-04-30T19:51:02.205Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/keypairs-cryptography-encryption.html</loc>
+        <lastmod>2018-04-30T19:51:02.208Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/restoring-access-to-your-accounts-if-lose-device-with-2fa.html</loc>
+        <lastmod>2018-04-30T19:51:02.210Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/security-and-ethereum.html</loc>
+        <lastmod>2018-04-30T19:51:02.214Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html</loc>
+        <lastmod>2018-04-30T19:51:02.216Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/best-of/unsolicited-advice-for-those-holding-token-sales.html</loc>
+        <lastmod>2018-04-30T19:51:02.218Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/contact/</loc>
+        <lastmod>2018-04-30T19:51:00.129Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html</loc>
+        <lastmod>2018-04-30T19:51:02.182Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/how-to-submit-pull-request.html</loc>
+        <lastmod>2018-04-30T19:51:02.185Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/</loc>
+        <lastmod>2018-04-30T19:51:00.415Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/is-the-blockchain-privacy.html</loc>
+        <lastmod>2018-04-30T19:43:28.052Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/is-the-blockchain-private.html</loc>
+        <lastmod>2018-04-30T19:51:02.187Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/diving-deeper/links-you-should-read-next.html</loc>
+        <lastmod>2018-04-30T19:51:02.189Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/form/</loc>
+        <lastmod>2018-04-30T19:51:00.131Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/changing-ens-owner-or-transferring-ens-name.html</loc>
+        <lastmod>2018-04-30T19:51:02.219Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/ens-brute-forcing-secret-word-phrases.html</loc>
+        <lastmod>2018-04-30T19:51:02.221Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/ens-debugging-a-bad-instruction-reveal.html</loc>
+        <lastmod>2018-04-30T19:51:02.223Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html</loc>
+        <lastmod>2018-04-30T19:51:02.225Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/ens-what-to-do-if-you-forgot-your-bid.html</loc>
+        <lastmod>2018-04-30T19:51:02.228Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/import-bid-created-in-mycrypto-to-ens.html</loc>
+        <lastmod>2018-04-30T19:51:02.228Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/</loc>
+        <lastmod>2018-04-30T19:51:02.154Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/manually-revealing-ens-bid.html</loc>
+        <lastmod>2018-04-30T19:51:02.229Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/manually-revealing-ens-bids-hard.html</loc>
+        <lastmod>2018-04-30T19:51:02.230Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/setting-the-resolver-for-an-ens-name.html</loc>
+        <lastmod>2018-04-30T19:51:02.231Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/starting-an-ens-auction-without-bidding.html</loc>
+        <lastmod>2018-04-30T19:51:02.232Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/visual-guide-to-buying-a-vanity-eth-address-with-ens-and-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.233Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/ens/why-the-ens-bid-process-is-so-complicated.html</loc>
+        <lastmod>2018-04-30T19:51:02.234Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html</loc>
+        <lastmod>2018-04-30T19:51:02.252Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/check-the-current-eth-block-number.html</loc>
+        <lastmod>2018-04-30T19:51:02.252Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/how-to-buy-ethereum-with-usd.html</loc>
+        <lastmod>2018-04-30T19:51:02.253Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/</loc>
+        <lastmod>2018-04-30T19:51:02.162Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/interacting-with-ethereum-multisig-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.254Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.254Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/unlocking-keystore-file-freezes-browser.html</loc>
+        <lastmod>2018-04-30T19:51:02.255Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/what-happens-if-mycrypto-goes-down.html</loc>
+        <lastmod>2018-04-30T19:51:02.256Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/what-is-an-ico.html</loc>
+        <lastmod>2018-04-30T19:51:02.256Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/why-dont-you-make-me-move-my-mouse-to-generate-seed.html</loc>
+        <lastmod>2018-04-30T19:51:02.257Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/faq/withdrawing-dao-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.258Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/error-insufficient-funds-message.html</loc>
+        <lastmod>2018-04-30T19:51:02.235Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/how-do-I-know-what-gas-limit-to-use.html</loc>
+        <lastmod>2018-04-30T19:51:02.243Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/how-to-set-gas-price-above-limits.html</loc>
+        <lastmod>2018-04-30T19:51:02.244Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/i-cant-withdraw-them-from-your-site-less-than-minimum.html</loc>
+        <lastmod>2018-04-30T19:51:02.245Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/</loc>
+        <lastmod>2018-04-30T19:51:02.158Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/gas/what-is-gas-ethereum.html</loc>
+        <lastmod>2018-04-30T19:51:02.251Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.259Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.259Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html</loc>
+        <lastmod>2018-04-30T19:51:02.267Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.267Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/error-codes.html</loc>
+        <lastmod>2018-04-30T19:51:02.268Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/ethereum-glossary.html</loc>
+        <lastmod>2018-04-30T19:51:02.268Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html</loc>
+        <lastmod>2018-04-30T19:51:02.269Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/getting-started-new.html</loc>
+        <lastmod>2018-04-30T19:51:02.270Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/</loc>
+        <lastmod>2018-04-30T19:51:02.166Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/mycrypto-help-and-quicktips.html</loc>
+        <lastmod>2018-04-30T19:51:02.270Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html</loc>
+        <lastmod>2018-04-30T19:51:02.271Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.272Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/accidentally-connecting-to-hardware-wallet-on-phishing-site.html</loc>
+        <lastmod>2018-04-30T19:51:02.272Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/backing-up-trezor-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.273Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/error-code-5.html</loc>
+        <lastmod>2018-04-30T19:51:02.274Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html</loc>
+        <lastmod>2018-04-30T19:51:02.275Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/</loc>
+        <lastmod>2018-04-30T19:51:02.167Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/ledger-hardware-wallet-error-invalid-status-6a80.html</loc>
+        <lastmod>2018-04-30T19:51:02.275Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html</loc>
+        <lastmod>2018-04-30T19:51:02.276Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.277Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/ledger-hardware-wallet-using-with-android.html</loc>
+        <lastmod>2018-04-30T19:51:02.284Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/multiple-addresses-on-hardware-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.285Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/trezor-error-window-blocked.html</loc>
+        <lastmod>2018-04-30T19:51:02.286Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html</loc>
+        <lastmod>2018-04-30T19:51:02.287Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/trezor-sending-to-trezor-device.html</loc>
+        <lastmod>2018-04-30T19:51:02.287Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/using-mycrypto-with-ledger-nano-s.html</loc>
+        <lastmod>2018-04-11T02:32:21.779Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/hardware-wallets/why-you-should-backup-your-hardware-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.288Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/access-your-etc-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.293Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/access-your-musicoin-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.294Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/cant-connect-to-custom-node-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.297Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/</loc>
+        <lastmod>2018-04-30T19:51:02.172Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/run-your-own-node-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.297Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/sent-etc-to-eth-address.html</loc>
+        <lastmod>2018-04-30T19:51:02.298Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/networks/using-ethereum-hardware-wallet-with-custom-node.html</loc>
+        <lastmod>2018-04-30T19:51:02.299Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.299Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/</loc>
+        <lastmod>2018-04-30T19:51:02.174Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/is-the-send-page-offline.html</loc>
+        <lastmod>2018-04-30T19:51:02.300Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/local-offline-mycrypto-does-not-work-properly.html</loc>
+        <lastmod>2018-04-30T19:51:02.300Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.301Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/running-mycrypto-locally.html</loc>
+        <lastmod>2018-04-30T19:51:02.301Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.302Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/offline/using-ledger-wallet-offline.html</loc>
+        <lastmod>2018-04-30T19:51:02.303Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/importing-v2-json-wallet-file-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.288Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/</loc>
+        <lastmod>2018-04-30T19:51:02.171Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/location-of-mist-geth-wallet-files.html</loc>
+        <lastmod>2018-04-30T19:51:02.289Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-coinbase-to-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.290Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-jaxx-to-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.290Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-mycrypto-to-parity.html</loc>
+        <lastmod>2018-04-30T19:51:02.291Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.292Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html</loc>
+        <lastmod>2018-04-30T19:51:02.292Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/migration/moving-from-private-key-to-trezor-hardware-wallet.html</loc>
+        <lastmod>2018-04-30T19:51:02.293Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/accessing-different-address-same-private-key-ether.html</loc>
+        <lastmod>2018-04-30T19:51:02.303Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html</loc>
+        <lastmod>2018-04-30T19:51:02.304Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html</loc>
+        <lastmod>2018-04-30T19:51:02.305Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/</loc>
+        <lastmod>2018-04-30T19:51:02.177Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/lost-eth-private-key.html</loc>
+        <lastmod>2018-04-30T19:51:02.305Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/lost-ethereum-wallet-password.html</loc>
+        <lastmod>2018-04-30T19:51:02.306Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/lost-password-ethereum-presale-wallet-file.html</loc>
+        <lastmod>2018-04-30T19:51:02.307Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html</loc>
+        <lastmod>2018-04-30T19:51:02.308Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/parity-phrases-are-no-longer-supported.html</loc>
+        <lastmod>2018-04-30T19:51:02.309Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/private-keys-passwords/private-key-not-working.html</loc>
+        <lastmod>2018-04-30T19:51:02.309Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/search/</loc>
+        <lastmod>2018-04-30T19:51:00.130Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/advanced-secure-wallets-by-tomshwom.html</loc>
+        <lastmod>2018-04-30T19:51:02.310Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/call-to-action-help-us-with-phishers-please.html</loc>
+        <lastmod>2018-04-30T19:51:02.311Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html</loc>
+        <lastmod>2018-04-30T19:51:02.311Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/ethereum-two-people-same-private-key.html</loc>
+        <lastmod>2018-04-30T19:51:02.312Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/how-can-we-trust-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.313Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/how-to-securely-store-and-guard-your-private-key.html</loc>
+        <lastmod>2018-04-30T19:51:02.313Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html</loc>
+        <lastmod>2018-04-30T19:51:02.314Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/</loc>
+        <lastmod>2018-04-30T19:51:02.179Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/mycrypto-protips-how-not-to-get-scammed-during-ico.html</loc>
+        <lastmod>2018-04-30T19:51:02.314Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html</loc>
+        <lastmod>2018-04-30T19:51:02.315Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/securing-your-ethereum.html</loc>
+        <lastmod>2018-04-30T19:51:02.316Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/turning-of-2fa-on-mycrypto.html</loc>
+        <lastmod>2018-03-14T00:28:27.442Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/security/turning-on-2fa-on-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.316Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/send/how-to-send-transaction.html</loc>
+        <lastmod>2018-04-30T19:51:02.317Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/send/</loc>
+        <lastmod>2018-04-30T19:51:02.181Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/send/not-checksummed-shows-when-i-enter-an-address.html</loc>
+        <lastmod>2018-04-30T19:51:02.318Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/send/sending-and-adding-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.318Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/send/what-to-do-if-you-sent-to-wrong-address.html</loc>
+        <lastmod>2018-04-30T19:51:02.319Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/adding-custom-token-errors-fix.html</loc>
+        <lastmod>2018-04-30T19:51:02.320Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.320Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/airdropped-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.321Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/do-i-need-several-wallets-for-every-token-sale.html</loc>
+        <lastmod>2018-04-30T19:51:02.321Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html</loc>
+        <lastmod>2018-04-30T19:51:02.322Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/</loc>
+        <lastmod>2018-04-30T19:51:02.183Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/not-a-valid-erc-20-token-issue.html</loc>
+        <lastmod>2018-03-14T00:28:27.445Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/receiving-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.323Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/showing-and-loading-tokens.html</loc>
+        <lastmod>2018-04-30T19:51:02.323Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html</loc>
+        <lastmod>2018-04-30T19:51:02.324Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/tokens/tokens-eos.html</loc>
+        <lastmod>2018-04-30T19:51:02.324Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/check-status-of-ethereum-transaction.html</loc>
+        <lastmod>2018-04-30T19:51:02.325Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/error-bad-jump-destination-or-out-of-gas-error.html</loc>
+        <lastmod>2018-04-30T19:51:02.326Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/</loc>
+        <lastmod>2018-04-30T19:51:02.186Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/transaction-failed-out-of-gas.html</loc>
+        <lastmod>2018-04-30T19:51:02.327Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/transaction-fee-not-refunded.html</loc>
+        <lastmod>2018-04-30T19:51:02.327Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/transactions-not-showing-or-pending.html</loc>
+        <lastmod>2018-04-30T19:51:02.328Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/what-are-internal-transaction.html</loc>
+        <lastmod>2018-04-30T19:51:02.329Z</lastmod>
+    </url>
+    <url>
+        <loc>https://support.mycrypto.com/transactions/what-is-nonce.html</loc>
+        <lastmod>2018-04-30T19:51:02.329Z</lastmod>
+    </url>
 </urlset>

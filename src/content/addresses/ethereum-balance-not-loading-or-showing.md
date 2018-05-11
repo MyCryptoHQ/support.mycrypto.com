@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-03-31T08:00:00+08:00"
 }
 
 ---%
@@ -16,13 +16,17 @@ The easiest way to check your balance is actually not by unlocking your wallet. 
 
 #### ETH
 
-[https://etherscan.io/](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history.
+[https://etherscan.io/](https://etherscan.io/)
+
+[https://www.etherchain.org/](https://www.etherchain.org/)
+
+Paste your address into the search bar and it will pull up your address and transaction history.
 
 #### Tokens
 
 [https://ethplorer.io/](https://ethplorer.io/) allows you to easily see token balances and transfers.
 
-You can also see all tokens on https://etherscan.io/ now. Your balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x7cb57b5a97eabe94205c07890be4c1ad31e486a8#tokentxns) tab.
+You can also see all tokens on https://etherscan.io/ now. Your balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
 
 #### ETC
 
@@ -38,7 +42,7 @@ You can also see all tokens on https://etherscan.io/ now. Your balances are in t
 
 3. Try connecting to a different network in the top-right corner. Choosing one that you are not currently connected to may solve your problem. If you are interacting with the Ethereum blockchain, you have four nodes to choose from:
 
-  *    MyCrypto
+  *    MyCryptoAPI.com
   *    Etherscan.io
   *    Infura.io
   *    Giveth.io

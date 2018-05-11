@@ -210,7 +210,7 @@ gulp.task('gen_pages', ['sort_cats'], function() {
           data.cat_title     = data.category
        // data.category      = data.category
           data.content       = file.contents.toString()
-       // data.date_modified = data.date_modified
+          data.date_modified = formatDate(data.date_modified)
        // data.date_published= data.date_published
           data.slug          = filename.replace( file.path, '' )
        // data.sort          = data.sort
@@ -232,7 +232,14 @@ gulp.task('gen_pages', ['sort_cats'], function() {
 
 })
 
-
+// Format date_modified
+function formatDate(input) {
+    return new Date(input).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+    });
+}
 
 // Sort Pages
 gulp.task('sort_pages', ['gen_pages'], function() {
@@ -423,7 +430,7 @@ gulp.task('gen_search_json', ['sort_pages'], function() {
   })
 
   return gulp.src( filepath )
-  .pipe(gulp.dest( dstFolder ))
+  //.pipe(gulp.dest( dstFolder ))
   .pipe( notify ( onSuccess ( 'gen_search_json' ) ) )
 
 })
@@ -435,7 +442,7 @@ gulp.task('sitemap', function () {
     read: false
   })
   .pipe(sitemap({
-      siteUrl: Context.base_url
+      siteUrl: "https://support.mycrypto.com"
   }))
   .pipe(gulp.dest('./dist'));
 });
