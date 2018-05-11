@@ -4,11 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-<<<<<<< HEAD
-"date_modified"  : "2018-03-31T08:00:00+08:00"
-=======
 "date_modified"  : "2018-03-29T08:00:00+08:00"
->>>>>>> mycrypto/tayvano-patch-1
 }
 
 ---%
@@ -19,20 +15,11 @@ The easiest way to check your balance is actually not by unlocking your wallet. 
 
 #### ETH
 
-<<<<<<< HEAD
-[https://etherscan.io/](https://etherscan.io/)
-
-[https://www.etherchain.org/](https://www.etherchain.org/)
-
-Paste your address into the search bar and it will pull up your address and transaction history.
-=======
 Paste your address into the search bar and it will pull up your address and transaction history on:
 
 * [https://etherscan.io/](https://etherscan.io/).
 
 * [https://www.etherchain.org/](https://www.etherchain.org/).
-
->>>>>>> mycrypto/tayvano-patch-1
 
 #### Tokens
 
