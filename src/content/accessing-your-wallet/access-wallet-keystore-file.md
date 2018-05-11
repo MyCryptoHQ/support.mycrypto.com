@@ -1,8 +1,8 @@
 {
 "title" : "How to Access Your Wallet with Keystore File",
 "sort" : "15",
-"category" : "accessing-your-wallet",
-"description" : "accessing-your-wallet",
+"category" : "Accessing your Wallet",
+"description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified" : "2018-46-20T08:00:00+17:30"
 }
@@ -10,7 +10,7 @@
 ---%
 ## Important Information
 
-We do not recommened that you access your wallet via Keystore file. 
+We do not recommened that you access your wallet via Keystore file.
 
 **Why?**
 
@@ -18,7 +18,7 @@ Keystore files are vulnerable for two reasons:
 1. Theft
     * To use a keystore file means you need to upload this file online and type in a password to unlock the file. If you enter this into a fake phishing website, your funds **WILL BE STOLEN**
 2. Not recoverable if Lost or Forgotten
-    * MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly. 
+    * MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly.
     * If you lose the keystore file or forget the password, there is almost no guarantee that you will ever gain access back to the wallet
 
 ### Accessing your Wallet
@@ -27,8 +27,8 @@ Keystore files are vulnerable for two reasons:
 2. Select option for Keystore file.
 3. Read the warning and check off the 3 boxes. Click "Continue"
 4. Upload the Keystore file.
-5. Enter the password used to encrypt the file when the wallet was made. 
-5. Click "Unlock" and your wallet will show up. 
+5. Enter the password used to encrypt the file when the wallet was made.
+5. Click "Unlock" and your wallet will show up.
 6. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
    * If you printed out your wallet, check to be sure the circles match. They should be the same colors, and shapes. Otherwise, something went wrong and you should start over.
 
