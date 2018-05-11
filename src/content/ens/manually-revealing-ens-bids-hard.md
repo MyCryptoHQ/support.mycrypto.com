@@ -4,21 +4,20 @@
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-05-09T08:00:00+08:00"
 }
 
 ---%
 
-
 ### Use our new tool...
 
-*  More easily debug & generate reveal and finalize data: [https://mycrypto.com/helpers.html](https://mycrypto.com/helpers.html)
+*  More easily debug & generate reveal and finalize data: [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
 
 ### Get your TX ID of your original bid. Under "input data" it should look like:
 
 `Function: newBid(bytes32 sealedBid) MethodID: 0xce92dced[0]:69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`
 
-##### Get the information that will match your bid via [https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef#readContract](https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef#readContract), under shaBid:
+##### Get the information that will match your bid via [Etherscan](https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef#readContract), under shaBid:
 
 *   First is the sha3 hash of the name _(with 0x before it)_
 *   Then your address _(with 0x before it)_
@@ -47,7 +46,7 @@ You need whatever it outputs when you hit "query" to match the string in your or
 
 ##### Next, combine that string into one long string and use that as the data field:
 
-1.  Go to [https://mycrypto.com/#send-transaction](https://mycrypto.com/#send-transaction)
+1.  Go to [https://mycrypto.com/account](https://mycrypto.com/account)
 2.  Send to: `0x6090a6e47849629b7245dfa1ca21d94cd15878ef`
 3.  Amount: `0`
 4.  Data: `0x47872b42[NAME YOU BID ON HASH]0000000000000000000000000000000000000000000000000000000000000000[VALUE HEX][SECRET HASH]`
@@ -55,7 +54,7 @@ You need whatever it outputs when you hit "query" to match the string in your or
 
 ### Example:
 
-*   There is a bid here for mewtopia.eth: [https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f](https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f)
+*   There is a bid here for mewtopia.eth: [Etherscan](https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f)
 *   It has the bidhash of `69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`
 *   I know that I bid:
     *   `mewtopia`
