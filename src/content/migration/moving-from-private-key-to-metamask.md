@@ -4,11 +4,10 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-04-10T08:00:00+08:00"
+"date_modified"  : "2018-05-11T08:00:00+08:00"
 }
 
 ---%
-
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
 
@@ -19,8 +18,6 @@
 3. MetaMask will block you w/ a big red warning if you go to a malicious site [found on our blacklists](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json). Look at all these crypto phishing websites! ![](../images/metamask/moving-from-private-key-to-metamask_03.jpg)
 
 Damn! That's a lot of phishing sites!
-
-
 
 ## Installing & Setting Up MetaMask
 
@@ -35,8 +32,6 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
 ##### Using the new wallet MetaMask gives you
 *  **Pros**: There is no possible chance that the wallet could be compromised, the keys never leave MetaMask!
 *  **Cons**: You need to manually transfer all your Ether and Tokens to the new wallet
-
-
 
 ## Once you have decided on what you want to do, next is to install and setup MetaMask:
 
@@ -60,7 +55,6 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
   Remember! Do not share this key with anyone! If you do, they can access your account and send all your coins to themselves.
 </div>
 
-
 ## Importing your wallet
 
 ###### Next, it is time to either import your existing wallet into MetaMask, or transfer all your Ether and Tokens to the new wallet.
@@ -74,19 +68,15 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
 
 Your existing wallet should now be visible in MetaMask along with your Ether and tokens! This wallet is now listed as "loose".
 
-
-
 ## Loose Keys
 
 *  If you click on the little man-switchy icon in the top right corner after importing a private key, then you will see your new imported address with the word "loose" under it.
 
 *  "Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask backup seed phrases.
 
-
-
 ## Transferring your Funds
 
-1. You can now see your brand new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto.com](https://mycrypto.com/#send-transaction).
+1. You can now see your brand new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto](https://mycrypto.com/account).
 
 2. First, check to be sure you are on the correct site. Is the URL mycrypto.com? Does it say `MyCrypto, Inc.` in the URL bar? Does the URL have any funky characters or is it mispelled?
 
@@ -100,11 +90,11 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 6. Paste your MetaMask address in the `To Address` field on MyCrypto.
 
-7. First, send all your tokens. Click "Load Token Balances" in the sidebar and wait for allllllllll those tokens to load.
+7. First, send all your tokens. Click "Scan For Tokens" in the sidebar and wait for all those tokens to load.
 
 8. Select your token from the dropdown.
 
-9. Click "Send Entire Balance" button.
+9. Click the "Send Entire Balance" button.
 
 10. Double check the amount, address, and tokens you are sending.
 
@@ -112,16 +102,14 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 11. Repeat with all your tokens and then, last but not least, your ETH.
 
-12. Next time you want to send your ETH or Tokens, simply go to [MyCrypto](https://mycrypto.com/), click the "Metamask / Mist" option, and click "Connect to MetaMask" button. You will instantly connect. How easy is that?!
-
+12. Next time you want to send your ETH or Tokens, simply go to [MyCrypto](https://mycrypto.com/), click the "MetaMask" option. You will instantly connect. How easy is that?!
 
 ## Warning!
 
 *  If you are sending a huge amount of tokens or ETH, please send a small, test amount first. Or, consider [getting a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
 
-
-
 ## Related Reading
 
 *  [MetaMask Privacy Policy](https://metamask.io/privacy.html)
 *  [How to Transfer Funds](https://support.mycrypto.com/send/how-to-send-transaction.html)
+
