@@ -12,11 +12,14 @@
 For increased security, you can run MyCrypto locally on your computer with our desktop application. The computer should have no internet connection. You can generate a wallet completely offline and send transactions from the "View & Send" page.
 
 
-![](https://download.mycrypto.com/images/mac.png)
+<center>![](https://download.mycrypto.com/images/mac.png)</center>
 
 
 ### Downloading and installing
-In order to setup your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the url bar, [don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html) Additionally, check the signed checksums.
+In order to setup your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the url bar, [don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html) Additionally, check the signed checksums, we made a guide about verifying the authenticity of the desktop app [here](https://support.mycrypto.com/security/verifying-authenticity-of-desktop-app.html).
+
+<center>![](https://i.imgur.com/9deFpcy.png)</center>
+
 
 Move the downloaded executable to a USB stick or something similar, in order to move it to your offline computer. Plug the USB stick into your offline computer, and move the executable to a place where you can easily find it on your offline computer.
 
