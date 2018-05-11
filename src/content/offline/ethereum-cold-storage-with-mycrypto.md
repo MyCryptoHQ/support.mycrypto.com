@@ -4,7 +4,7 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-05-11T08:00:00+08:00"
 }
 
 ---%
@@ -17,28 +17,18 @@ The following assumes you are **not** using a Ledger or TREZOR hardware wallet. 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
 
-### An amazing guide: Tails + KeePass + USB + MEW
-
-[https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet
-)
-
-
-You can run MyCrypto.com on your computer and this computer can be a cold-storage or offline computer. This means it is a computer that is not connected to the internet and _will never be connected to the internet again._ You can generate a wallet completely offline & send Ether or Tokens from the "Send Offline" page.
+You can run MyCrypto.com on your computer and this computer can be a cold-storage or offline computer. This means it is a computer that is not connected to the internet and _will never be connected to the internet again._ You can generate a wallet completely offline & send Ether or Tokens from the "View & Send" page.
 
 ### How To
 
-* Go to [https://github.com/MyCryptoHQ/mycrypto.com/releases/latest](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest).
-* Click on `mycrypto-vX.X.X.zip`.
-* (Optional) Check the SHA256 hash to verify the file isn't corrupted.
-* Move zip to an airgapped computer.
-* Unzip it and double-click `index.html`. This should open MyCrypto in your browser.
-    * _Note: do not move files around in this folder. You need the entire folder for it to work correctly._
+* First off, follow our guide on [running MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+* Open the "Create New Wallet" tab in the MyCrypto desktop application. Click "Generate a Keystore File".
 * Enter a strong but easy to remember password. Do not forget it.
     * _This encrypts (protects) your private key. It does not generate your private key. This password alone will **not** be enough to access your Ether._
-* Click the `"Generate Wallet"` button.
+* Click the `"Generate New Wallet"` button.
 * Download your `Keystore / UTC file` & save this file to a USB drive.
     * _This is the encrypted version of your private key. You need the password to access it. It is safer than your unencrypted private key but you must have your password to access it in the future._
-* Read the warning. If you understand it, click the `"I understand. Continue"` button.
+* Read the warning. If you understand it, click the `"Continue"` button.
 * Print your paper wallet backup and/or _carefully_ hand-write the `private key` on a piece of paper.
     * _If you are writing it, it is recommend you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
 * Copy & paste your address into a text document somewhere. Get it to your primary, online computer.
