@@ -17,12 +17,12 @@ To save / backup your [Ledger](https://support.mycrypto.com/migration/moving-fro
 
 ### How to back up your Account
 
-* Unlock your new wallet from the Keystore / UTC file on your USB drive, via the Mnemonic Phrase or via a private key that you printed out. Ensure it unlocks the wallet you are sent to and matches the bookmark you have.
+1. Unlock your new wallet from the Keystore / UTC file on your USB drive, via the Mnemonic Phrase or via a private key that you printed out. Ensure it unlocks the wallet you are sent to and matches the bookmark you have.
   * _Do not simply leave your wallet open. Pretend you are coming back a year later to access your riches. Can you do it?_
-* Send a small amount of Ether (0.0001 ETH) from your previous wallet or exchange to your new wallet using the public address.
-* Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
+2. Send a small amount of Ether (0.0001 ETH) from your previous wallet or exchange to your new wallet using the public address.
+3. Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
   * _Perhaps our donation address? We are a free, open-source service. There are no fees, no ads, no tracking, no cookies, no selling your data._
-* Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you mis-wrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
+4. Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you mis-wrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
 
 Doing all of this is tedious, but it ensures you (1) have complete access to your funds (2) the address you sent to is correct and matches the private key you have saved and (3) you can rest easily for years to come, knowing you will be able to access your ETH later.
 

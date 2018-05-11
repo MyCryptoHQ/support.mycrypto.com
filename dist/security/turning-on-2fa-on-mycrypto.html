@@ -203,6 +203,8 @@
 <h3 id="topt-google-authenticator-">TOPT (Google Authenticator)</h3>
 <blockquote>
 <p>Time-based One-time Password (TOTP), popularized mainly by Google Authenticator, verifies your identity based on a shared secret. This secret must be shared online between you and the provider.</p>
+</blockquote>
+<blockquote>
 <p>When logging into a website, your device generates a unique code, based on the shared secret and the current time. Then you have to manually submit this code. The server generates the exact same thing, based on the same secret, in order to compare and validate the login request.</p>
 </blockquote>
 <p><img src="https://cdn-images-1.medium.com/max/1600/0*nWGWoyFQ_SVN_KnZ." alt=""></p>
@@ -212,7 +214,7 @@
 <p>In the case of MyCrypto.com, a client-side application, we do not have servers in this fashion. We do not hold your keys on our servers. We do not give you access to the keys on our servers. You have the key. That key is the core piece of information that allows access to authenticate a transaction on the blockchain. While <em>you</em> can encrypt it with a password, there is no server that can verify or track a 2FA login / <a href="https://en.wikipedia.org/wiki/One-time_password">OTP</a> when you are using MyCrypto. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords.</p>
 <p>In order to implement it, we would need to store your key and protect it on our servers. This is simply not something we want to do. If we did so, we would have a situation where anyone who gets access to our servers, your keys, or your 2FA codes, gets access to the funds of every user of our servers. The bounty on hacking our servers is as large as the funds held by ever user. That&#39;s a huge bounty and is dangerous.</p>
 <p>If this is functionality that you do want, feel free to use any exchange / hosted wallet like Coinbase, Kraken, Poloniex, Bittrex, Bitfinex, Gemini, and so forth. Just be aware of the risk of letting someone hold your keys, and in turn, 2FA codes, for you.</p>
-<h3 id="or-you-know-spend-the-100-and-get-a-hardware-wallet-https-support-mycrypto-com-hardware-wallets-hardware-wallet-recommendations-html-it-s-worth-it-you-can-use-it-for-2fa-on-other-services-and-to-ensure-the-safety-and-security-of-your-funds-">Or, you know, spend the &lt;$100 and get a <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html">hardware wallet</a>. It&#39;s worth it. You can use it for 2FA on other services and to ensure the safety and security of your funds.</h3>
+<h3 id="or-you-know-spend-the-100-and-get-a-hardware-wallet-it-s-worth-it-you-can-use-it-for-2fa-on-other-services-and-to-ensure-the-safety-and-security-of-your-funds-">Or, you know, spend the &lt;$100 and get a <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html">hardware wallet</a>. It&#39;s worth it. You can use it for 2FA on other services and to ensure the safety and security of your funds.</h3>
 <p>More information: <a href="https://github.com/kvhnuke/etherwallet/issues/292">https://github.com/kvhnuke/etherwallet/issues/292</a></p>
 
     </div>
@@ -317,8 +319,10 @@
   })();
 </script>
 
-<!-- Footer -->
 
+
+
+<!-- Footer -->
 <footer class="footer" role="content" aria-label="footer">
 
   <div class="footer__left">
@@ -346,8 +350,8 @@
       </a>
     </p>
     <ul class="footer__links">
-      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer"> Ether Address Lookup </a></li>
-      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener noreferrer"> Ether Security Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener"> Ether Address Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener"> Ether Security Lookup </a></li>
       <li><a href="https://etherscamdb.info/" target="_blank" rel="noopener"> EtherScamDB </a></li>
       <li><a href="https://www.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
       <li><a href="https://www.mycrypto.com/signmsg.html" target="_blank" rel="noopener"> Sign Message </a></li>
@@ -370,8 +374,10 @@
     </a>
     <p class="footer__links--lg">
       <a href="https://www.mycrypto.com" target="_blank" rel="noopener"> MyCrypto.com </a>
+      <a href="https://download.mycrypto.com" target="_blank" rel="noopener"> MyCrypto Apps </a>
       <a href="https://support.mycrypto.com" target="_blank" rel="noopener"> Help &amp; Support </a>
       <a href="https://about.mycrypto.com" target="_blank" rel="noopener"> Our Team </a>
+      <a href="https://about.mycrypto.com/privacy" target="_blank" rel="noopener"> Privacy </a>
     </p>
     <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
     <p class="footer__copyright">© 2018 MyCrypto, Inc.</p>
@@ -382,7 +388,7 @@
     <ul class="footer__links">
       <li><a href="https://www.ledgerwallet.com/r/1985?path=/products/" target="_blank" rel="noopener"> Buy a Ledger Wallet </a></li>
       <li><a href="https://shop.trezor.io?a=mycrypto.com" target="_blank" rel="noopener"> Buy a TREZOR </a></li>
-      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" target="_blank" rel="noopener"> Buy a Keepkey </a></li>
+      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" rel="noopener"> Buy a Keepkey </a></li>
       <li><a href="https://stee.ly/2Hcl4RE" target="_blank" rel="noopener"> Get a Steely </a></li>
       <li><a href="https://ether.cards/?utm_source=mycrypto&utm_medium=cpm&utm_campaign=site" target="_blank" rel="noopener"> Get an ether.card </a></li>
       <li>Donate ETH <br /><small class="mono">0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520</small> </li>
@@ -390,6 +396,7 @@
     </ul>
   </div>
 </footer>
+<!-- / Footer -->
 
 </body>
 

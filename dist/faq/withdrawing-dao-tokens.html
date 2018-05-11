@@ -208,7 +208,7 @@
 </li>
 </ul>
 <h4 id="walkthru-for-dao-main-withdraw">Walkthru for DAO Main withdraw</h4>
-<ol>
+<ol start="0">
 <li><p>Have ETH in the account that has DAO tokens in it so you can collect the refund.</p>
 </li>
 <li><p>Go to <a href="https://mycrypto.com/#send-transaction">https://mycrypto.com/#send-transaction</a> (the current version)</p>
@@ -225,7 +225,7 @@
 <p>4c. gasLimit: <code>100000</code></p>
 <p>4d. DATA: <code>0x095ea7b3000000000000000000000000bf4ed7b27f1d666546e30d74d50d173d20bca7540000000000000000000000000000000000000000da0da0da0da0da0da0da0da0</code></p>
 <p>4e. Click Generate Tx and then click Send Tx</p>
-<ol>
+<ol start="5">
 <li>Stay on this screen and make a second tx, but this time with:</li>
 </ol>
 <p>5a. TO <code>0xbf4ed7b27f1d666546e30d74d50d173d20bca754</code></p>
@@ -237,7 +237,7 @@
 <h4 id="walk-thru-for-extrabalance-refund">Walk thru for ExtraBalance Refund</h4>
 <p>This short explainer is to help you understand what is happening in the code, if you don&#39;t really care and just want that sweet sweet ether, dont worry about it and skip to the numbered steps.</p>
 <p>Withdrawing from the ExtraBal Withdraw contract is a 2 step process. There were ExtraBal Tokens sent to everyone that contributed to The DAO&#39;s ExtraBalance contract, these tokens are the accounting for the ExtraBal Withdraw contract (Special thx goes to Bokky Poobah, Nick Johnson, Beltran Berrocal, and Alexey Akunhov for setting this all up). The first tx tells the ExtraBal TOKEN contract to <code>approve()</code> the ExtraBal WITHDRAW contract to take all your ExtraBal tokens , the second transaction tells the ExtraBal WITHDRAW contract to count your tokens and give you the money.</p>
-<ol>
+<ol start="0">
 <li><p>Have ETH in the account that can collect the refund.</p>
 </li>
 <li><p>Go to <a href="https://mycrypto.com/#send-transaction">https://mycrypto.com/#send-transaction</a> (the current version)</p>
@@ -254,7 +254,7 @@
 <p>4c. gasLimit: <code>100000</code></p>
 <p>4d. DATA: <code>0x095ea7b3000000000000000000000000755cdba6ae4f479f7164792b318b2a06c759833b0000000000000000000000000000000000000000000000da0da0da0da0da0da0</code></p>
 <p>4e. Click Generate Tx and then click Send Tx</p>
-<ol>
+<ol start="5">
 <li>Stay on this screen and make a second tx, but this time with:</li>
 </ol>
 <p>5a. TO <code>0x755cdba6ae4f479f7164792b318b2a06c759833b</code></p>
@@ -264,7 +264,7 @@
 <p>5e. Click Generate Tx and then click Send Tx</p>
 <p>Now wait for the Ethereum Blockchain to work its magic and you will have a bunch of ETH delivered to you :-) Remember that a lot of people worked hard to make this possible, the whole Ethereum network hard forked for this! Pay it forward to the people around you, if this was built on Bitcoin, this wouldn&#39;t have happened ;-D</p>
 <h5 id="walk-thru-for-etc-don-t-be-afraid-to-tip-the-whitehats-">Walk thru for ETC (don&#39;t be afraid to tip the whitehats)</h5>
-<ol>
+<ol start="0">
 <li><p>Have ETC in the account that you are using to interact with your wallet account.</p>
 </li>
 <li><p>Go to <a href="https://mycrypto.com/#send-transaction">https://mycrypto.com/#send-transaction</a> (the current version)</p>
@@ -298,7 +298,7 @@
 </li>
 </ul>
 <p>-------continue--------</p>
-<ol>
+<ol start="8">
 <li><p>Click Generate Transaction and then Sign Transaction</p>
 </li>
 <li><p>All Done</p>
@@ -432,8 +432,10 @@
   })();
 </script>
 
-<!-- Footer -->
 
+
+
+<!-- Footer -->
 <footer class="footer" role="content" aria-label="footer">
 
   <div class="footer__left">
@@ -461,8 +463,8 @@
       </a>
     </p>
     <ul class="footer__links">
-      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer"> Ether Address Lookup </a></li>
-      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener noreferrer"> Ether Security Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener"> Ether Address Lookup </a></li>
+      <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener"> Ether Security Lookup </a></li>
       <li><a href="https://etherscamdb.info/" target="_blank" rel="noopener"> EtherScamDB </a></li>
       <li><a href="https://www.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
       <li><a href="https://www.mycrypto.com/signmsg.html" target="_blank" rel="noopener"> Sign Message </a></li>
@@ -485,8 +487,10 @@
     </a>
     <p class="footer__links--lg">
       <a href="https://www.mycrypto.com" target="_blank" rel="noopener"> MyCrypto.com </a>
+      <a href="https://download.mycrypto.com" target="_blank" rel="noopener"> MyCrypto Apps </a>
       <a href="https://support.mycrypto.com" target="_blank" rel="noopener"> Help &amp; Support </a>
       <a href="https://about.mycrypto.com" target="_blank" rel="noopener"> Our Team </a>
+      <a href="https://about.mycrypto.com/privacy" target="_blank" rel="noopener"> Privacy </a>
     </p>
     <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
     <p class="footer__copyright">© 2018 MyCrypto, Inc.</p>
@@ -497,7 +501,7 @@
     <ul class="footer__links">
       <li><a href="https://www.ledgerwallet.com/r/1985?path=/products/" target="_blank" rel="noopener"> Buy a Ledger Wallet </a></li>
       <li><a href="https://shop.trezor.io?a=mycrypto.com" target="_blank" rel="noopener"> Buy a TREZOR </a></li>
-      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" target="_blank" rel="noopener"> Buy a Keepkey </a></li>
+      <li><a href="http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086" rel="noopener"> Buy a Keepkey </a></li>
       <li><a href="https://stee.ly/2Hcl4RE" target="_blank" rel="noopener"> Get a Steely </a></li>
       <li><a href="https://ether.cards/?utm_source=mycrypto&utm_medium=cpm&utm_campaign=site" target="_blank" rel="noopener"> Get an ether.card </a></li>
       <li>Donate ETH <br /><small class="mono">0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520</small> </li>
@@ -505,6 +509,7 @@
     </ul>
   </div>
 </footer>
+<!-- / Footer -->
 
 </body>
 
