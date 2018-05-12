@@ -14,19 +14,19 @@
 
 ---
 
-My phone got stuck in bootloop a ways back so I am intimately familiar with this situation.
+My phone got stuck in boot-loop a ways back so I am intimately familiar with this situation.
 
 The easiest way is:
 
 # SAVE YOUR BACKUP CODES!
 
-When you created your 2FA sign on with most sites, including Google, they provided you with `backup codes`. These are typically 10 codes made up of random character sequences like `we44 k29d lw0d jwld nels 39ik` and so forth. Each of of these can be used once in case you do not have access to authenticator.
+When you created your 2FA sign on with most sites, including Google, they provided you with `backup codes`. These are typically 10 codes made up of random character sequences like `we44 k29d lw0d jwld nels 39ik` and so forth. Each of these can be used once in case you do not have access to authenticator.
 
-Store these like you do a private key. Do not save them to your computer or dropbox. Do not send them. Do not post them on reddit. Write them down or print them out and store in 2 physically different locations.
+Store these backup codes like you would store a private key. Do not save them to your computer or Dropbox. Do not send them. Do not post them on Reddit. Write them down or print them out and store in 2 physically different locations.
 
 The other option, which is actually way easier especially since my phone dies from constantly getting notifications, is to **set up your 2FA on two devices whenever you enable 2FA or create a new account**. Perhaps you can make use of that old, rooted, Amazon Kindle or iPhone 5. Factory reset & ensure it's not able to connect to the WiFi & turn on airplane mode.
 
-You can also **print out the QR code itself** that you use to add to Google Authenticator originally so that if you ever need to re-set up 2FA, you can do so. If you don't have a printer, you can typically click the "show code" or "can't read the qr code?" or something and get a text version that you can then write down. Protip: make sure you label what this QR code or text code is (e.g. "2FA for Poloniex").
+You can also **print out the QR code itself** that you use to add to Google Authenticator originally so that if you ever need to re-set up 2FA, you can do so. If you don't have a printer, you can typically click the "show code" or "can't read the QR code?" or something and get a text version that you can then write down. Pro-tip: make sure you label what this QR code or text code is (e.g. "2FA for Poloniex").
 
 ### How to be Secure while being able to recover your 2FA
 
@@ -48,7 +48,7 @@ It isn't inherently insecure, but it was surprisingly easy to regain access to a
 
 For non-Google accounts, it's pretty easy to restore access in one way or another, either via the above methods or going through the process of bypassing 2FA with your email account. A pain, but not impossible.
 
-You can also break out that old computer and see if you are still logged in anywhere and can disable it. Or see if there are other access methods, like SSHing in or oauth where you can set up a new account via a Facebook or Twitter account that uses the same email address as the account you already have and see if you can sneak in that way.
+You can also break out that old computer and see if you are still logged in anywhere and can disable it. Or see if there are other access methods, like SSHing in or OAuth where you can set up a new account via a Facebook or Twitter account that uses the same email address as the account you already have and see if you can sneak in that way.
 
 There are a few that you will not be able to get into. In those cases, you will need to reach out to the service itself and see what you would need to provide in order to get them to turn of 2FA for you or otherwise bypass.
 

@@ -10,4 +10,4 @@
 ---%
 
 
-If you are on [https://mycrypto.com/](https://mycrypto.com/) and connected to a node that supports it, you can see the current block number in small print in footer of the page.
+If you are on [https://legacy.mycrypto.com/](https://legacy.mycrypto.com/) and connected to a node that supports it, you can see the current block number in small print in footer of the page.
