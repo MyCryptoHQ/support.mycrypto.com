@@ -11,10 +11,10 @@
 <meta name="twitter:title" content=" Changing the ENS owner or transferring an ENS Name &middot; ENS | MyCrypto Help &amp; Support">
 <meta name="apple-mobile-web-app-title" content=" Changing the ENS owner or transferring an ENS Name &middot; ENS | MyCrypto Help &amp; Support">
 
-<base href="https://support.mycrypto.com/ens\changing-ens-owner-or-transferring-ens-name.html">
-<link href="https://support.mycrypto.com/ens\changing-ens-owner-or-transferring-ens-name.html" rel="canonical">
-<meta content="https://support.mycrypto.com/ens\changing-ens-owner-or-transferring-ens-name.html" property="og:url">
-<meta content="https://support.mycrypto.com/ens\changing-ens-owner-or-transferring-ens-name.html" name="twitter:url">
+<base href="https://support.mycrypto.com/ens/changing-ens-owner-or-transferring-ens-name.html">
+<link href="https://support.mycrypto.com/ens/changing-ens-owner-or-transferring-ens-name.html" rel="canonical">
+<meta content="https://support.mycrypto.com/ens/changing-ens-owner-or-transferring-ens-name.html" property="og:url">
+<meta content="https://support.mycrypto.com/ens/changing-ens-owner-or-transferring-ens-name.html" name="twitter:url">
 
 <link href="https://support.mycrypto.com/kb-master.min.css" rel="stylesheet">
 <script src="https://support.mycrypto.com/kb-master.min.js"></script>
@@ -60,14 +60,14 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "ens\changing-ens-owner-or-transferring-ens-name.html"
+    "@id": "ens/changing-ens-owner-or-transferring-ens-name.html"
   },
   "headline": "Changing the ENS owner or transferring an ENS Name",
   "image": [
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2017-07-05T08:00:00+08:00",
-  "dateModified": "May 8, 2018",
+  "dateModified": "September 25, 2017",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -105,7 +105,7 @@
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "ens\changing-ens-owner-or-transferring-ens-name.html",
+      "@id": "ens/changing-ens-owner-or-transferring-ens-name.html",
       "name": "Changing the ENS owner or transferring an ENS Name"
     }
   }]
@@ -200,26 +200,28 @@
     <div class="page__article">
       <h3 id="transferring-a-domain-best-practice-">Transferring a Domain (Best Practice)</h3>
 <ol>
-<li>Search for your domain on <a href="https://etherscan.io/enslookup?q=yourname.eth">Etherscan</a></li>
+<li>Search for your domain on <a href="https://etherscan.io/enslookup?q=yourname.eth">etherscan.io</a></li>
 <li>Copy the <code>Label Hash</code>.</li>
-<li>Go to the <a href="https://mycrypto.com/contracts/interact">Contracts</a> page and select <code>ENS - Eth Registrar (Auction) 0x6090a6e47849629b7245dfa1ca21d94cd15878ef</code> from the dropdown menu. </li>
+<li>Go to the <a href="https://mycrypto.com/#contracts">Contracts</a> page and select <code>ENS - Eth Registrar (Auction) 0x6090a6e47849629b7245dfa1ca21d94cd15878ef</code> from the dropdown menu. </li>
 <li>Optional but recommended: set a lower gas price (like 1 GWEI) via the slider in the header to save on fees.</li>
 <li>Access and choose the <code>transfer</code> call.</li>
-<li>Paste the <code>LabelHash</code> from <a href="https://etherscan.io/">Etherscan</a> into the <code>_hash</code> field.</li>
+<li>Paste the <code>LabelHash</code> from <a href="http://etherscan.io/">http://etherscan.io/</a> into the <code>_hash</code> field.</li>
 <li>Paste the <code>address</code> of the new owner in the <code>newOwner</code> field. </li>
 <li>Unlock your wallet and send.</li>
 </ol>
 <h3 id="only-setting-owner">Only setting Owner</h3>
 <p><em>WARNING: If you only change the owner, the deed owner can get the name back.</em></p>
 <ol>
-<li>Search for your domain on <a href="https://etherscan.io/enslookup?q=yourname.eth">Etherscan</a></li>
+<li>Search for your domain on <a href="https://etherscan.io/enslookup?q=yourname.eth">etherscan.io</a></li>
 <li>Copy the <code>NameHash</code>.</li>
-<li>Go to the <a href="https://mycrypto.com/contracts/interact">Contracts</a> page and select <code>ENS - Registry&quot; (0x314159265dD8dbb310642f98f50C066173C1259b)</code> from the dropdown menu. </li>
+<li>Go to the <a href="https://mycrypto.com/#contracts">Contracts</a> page and select <code>&quot;ENS Registry&quot; (0x314159265dD8dbb310642f98f50C066173C1259b)</code> from the dropdown menu. </li>
 <li>Optional but recommended: set your preferred gas price via the slider in the footer.</li>
-<li>Access and choose the <code>setOwner</code> call. Paste the <code>NameHash</code> (not LabelHash) from <a href="https://etherscan.io/">Etherscan</a> into the <code>node</code> field.</li>
+<li>Access and choose the <code>setOwner</code> call. Paste the <code>NameHash</code> (not LabelHash) from <a href="http://etherscan.io/">http://etherscan.io/</a> into the <code>node</code> field.</li>
 <li>Paste the <code>address</code> of the new owner in owner. </li>
 <li>Unlock your wallet and rock and roll.</li>
 </ol>
+<hr>
+<p><em>(Thanks goes to <a href="https://www.reddit.com/r/ethereum/comments/6d01r1/changing_ens_owner_address_using_mycrypto/">/u/feauxley</a>)</em></p>
 
     </div>
 
@@ -258,7 +260,7 @@
 
 
 </p>
-      <p>Last Updated: May 8, 2018</p>
+      <p>Last Updated: September 25, 2017</p>
     </div>
 
 
