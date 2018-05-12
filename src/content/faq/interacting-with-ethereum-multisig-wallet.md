@@ -12,7 +12,7 @@
 
 ### Getting Started
 
-1. Go to the [Contract tab on MyCrypto.com](https://mycrypto.com/#contracts).
+1. Go to the [Contract tab on MyCrypto.com](https://mycrypto.com/contracts/interact).
 
 2. There should be a Mist Multisig Contract ABI in the dropdown. If not, you can manually use the ABI at the bottom of this page.
 

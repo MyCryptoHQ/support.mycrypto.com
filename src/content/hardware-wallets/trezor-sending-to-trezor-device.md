@@ -11,7 +11,7 @@
 
 Here is how you can get your address to send to your TREZOR:
 
-1.  Go to [https://mycrypto.com/#send-transaction](https://beta.mycrypto.com/account).
+1.  Go to [https://mycrypto.com/account](https://beta.mycrypto.com/account).
 
 2. Check to make sure you are using an ETH node by looking at the Network Switcher in the top-right corner.
 

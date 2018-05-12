@@ -23,7 +23,7 @@
 
 0. Have ETH in the account that has DAO tokens in it so you can collect the refund.
 
-1. Go to https://mycrypto.com/#send-transaction (the current version)
+1. Go to https://mycrypto.com/account (the current version)
 
 2. Make sure the ETH node in the top right corner is selected (Try out Giveth.io's donated node ;-) )
 
@@ -64,7 +64,7 @@ Withdrawing from the ExtraBal Withdraw contract is a 2 step process. There were 
 
 0. Have ETH in the account that can collect the refund.
 
-1. Go to https://mycrypto.com/#send-transaction (the current version)
+1. Go to https://mycrypto.com/account (the current version)
 
 2. Make sure the ETH node in the top right corner is selected (Try out Giveth.io's donated node ;-) )
 
@@ -100,7 +100,7 @@ Now wait for the Ethereum Blockchain to work its magic and you will have a bunch
 
 0. Have ETC in the account that you are using to interact with your wallet account.
 
-1. Go to https://mycrypto.com/#send-transaction (the current version)
+1. Go to https://mycrypto.com/account (the current version)
 
 2. Select the ETC node in the top right corner
 
