@@ -11,7 +11,7 @@
 
 ### Use our new tool...
 
-*  More easily debug & generate reveal and finalize data: [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
+*  More easily debug & generate reveal and finalize data: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
 ### Get your TX ID of your original bid. Under "input data" it should look like:
 

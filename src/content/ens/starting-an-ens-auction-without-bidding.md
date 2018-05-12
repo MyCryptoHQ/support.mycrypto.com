@@ -11,7 +11,7 @@
 
 You can open an auction without bidding. It's not the simplest thing in the world, but it's not the worst. It looks harder than it is:
 
-*  Go to [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
+*  Go to [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 *  Find `NS Debugger & Data Grabber`
 *  Type the name (without .eth) under `ENS Name you Bid on`
 *  Copy the data provided under `Start Auction Data`
@@ -20,7 +20,7 @@ You can open an auction without bidding. It's not the simplest thing in the worl
     *  To: `0x6090a6e47849629b7245dfa1ca21d94cd15878ef`
     *  Amount: `0 ETH`
     *  Gas Limit: `00000`
-    *  Data: From the `Start Auction Data` field on [https://old.mycrypto.com/helpers.html](https://old.mycrypto.com/helpers.html)
+    *  Data: From the `Start Auction Data` field on [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
     *  Send your transaction
 *  Go to etherscan.io and type the name-you-bid-on.eth in the search bar. It should take you a page similar to [Etherscan](https://etherscan.io/enslookup?q=yourname.eth)
 *  Look under `Related Txns` for the start auction call you just made.

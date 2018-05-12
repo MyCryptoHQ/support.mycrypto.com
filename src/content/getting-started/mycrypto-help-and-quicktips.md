@@ -73,7 +73,7 @@
 
 31. If you have accidentally visited or typed a malicious site, clean out your recent history and autocomplete
 
-32. If you mistyped your private key, you can try the tool at the bottom of our helpers page: [https://mycrypto.com/helpers.htm](https://mycrypto.com/helpers.html)
+32. If you mistyped your private key, you can try the tool at the bottom of our helpers page: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
 33. Install an adblocker that actually turns off Google/Bing Ads
 
@@ -99,7 +99,7 @@
 
 44. ONLY unlock your wallet when you want to send a transaction
 
-45. Our helpers page is full of nifty helpers, like WEI <-> ETH converter and debugging ENS reveals! [https://mycrypto.com/helpers.htm](https://mycrypto.com/helpers.html)
+45. Our helpers page is full of nifty helpers, like WEI <-> ETH converter and debugging ENS reveals! [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
 46. Phishers try to trick you with scary messages. Don't fall for them
 
