@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-11-08T08:00:00+08:00",
-"date_modified"  : "2018-04-10T08:00:00+08:00"
+"date_modified"  : "2018-05-14T08:00:00+08:00"
 }
 
 ---%
@@ -21,36 +21,41 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 1. **Plug your device into your computer** using the USB cable provided.
 
-2. **Go to the URL displayed on your device.** You can use the buttons on your device to confirm/deny actions. ![](https://i.imgur.com/3krRHps.jpg) ![](https://i.imgur.com/nFt5R6p.jpg)
+2. **Go to the URL displayed on your device.**
+    *  You can use the buttons on your device to confirm/deny actions. For this guide we will be using the TREZOR One. ![](https://i.imgur.com/3krRHps.jpg) ![](https://i.imgur.com/ecjTCuI.png)
 
-3. **Read all the information** on shown to you on your TREZOR device and on the TREZOR initialization pages. Take your time—this device is going to be protecting your funds! ![](https://i.imgur.com/9XgRqKi.jpg) ![](https://i.imgur.com/WKuHHe3.jpg)
+3. **Click "Create new"** ![](https://i.imgur.com/6Fhylzj.png)
 
-4. **Click the 'Done, let's go!' button**.
-    * You will then be redirected to [wallet.trezor.io](https://wallet.trezor.io/). This is where you will be setting up your TREZOR.
+4. **Your TREZOR is ready!**
+    *  Click "Continue to the wallet". You will see a message that your TREZOR is not yet backed up, and that your progress is 10%. Click on "Create a backup in 3 minutes". ![](https://i.imgur.com/MWiq7yl.png) ![](https://i.imgur.com/dNjM19g.png)
 
-5. **Enter a name for your TREZOR.**
+5. **Creating your backup.**
+    *  The TREZOR will give you 24 random words that you will have to write down on the provided card in the box. These are the recovery words, also known as seed.
+    *  You will have to use these words when you want to restore your TREZOR in case it fails or you accidentally reset the TREZOR.
+    *  **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
+    *  Always write them down physically using pen and paper and keep this paper safe.
+    ![](https://i.imgur.com/46cTldk.png) ![](https://i.imgur.com/27wfOOI.jpg)
 
-6. **Click 'Continue'.**
+6. **Confirm your recovery words.**
+    *  Once you've written down all of the words it will ask you to confirm your recovery phrase, in order to make sure that you've written them down correctly. ![](https://i.imgur.com/pEA00nN.png)
 
-7. **Enter a new PIN** that you will use to access your TREZOR any time you want to access your wallets.
+7. **You're done backing up your TREZOR!**
+    *  In case you lose or break your TREZOR, you will now be able to recover your wallets stored on your TREZOR using the 24-word seed. ![](https://i.imgur.com/eGeMpFF.png)
+
+8. **Naming your device.**
+    *  At the next step it will ask you to set a name for your TREZOR. This is useful in case you own multiple TREZORS, or want to make sure the TREZOR you have is yours. ![](https://i.imgur.com/3DxaxuN.png)
+
+9. **The next step is setting a PIN.** Enter a new PIN that you will use to access your TREZOR any time you want to access your wallets.
     *  Make sure this is a hard to guess pin, so that others won't be able to get access to your TREZOR.
     *  If you are not sure how PINs work with the TREZOR, look [here](http://doc.satoshilabs.com/trezor-user/enteringyourpin.html) for more information.
-    *  e.g. I want to set "8963" as pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button. ![](https://i.imgur.com/A6zBzI3.jpg) ![](https://i.imgur.com/CJERk10.jpg)
+    *  e.g. I want to set "8963" as pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button. ![](https://i.imgur.com/8APMGG1.png) ![](https://i.imgur.com/A6zBzI3.jpg)
 
-8. **Re-enter your PIN you just created.**
-    *  Be aware that the order of the numbers on the display of your TREZOR has changed, so you will have to click different buttons on your computer in order to enter the correct PIN. ![](https://i.imgur.com/jCWKVML.jpg) ![](https://i.imgur.com/zvs3p8A.jpg)
+10. **Re-enter your PIN you just created.**
+    *  Be aware that the order of the numbers on the display of your TREZOR has changed, so you will have to click different buttons on your computer in order to enter the correct PIN. ![](https://i.imgur.com/jCWKVML.jpg)
+    *  All set! ![](https://i.imgur.com/Q2W4pup.png) ![](https://i.imgur.com/j7fdU1l.png)
 
-9. **Write down your recovery words.**
-    *  The TREZOR will give you 24 random words that you will have to write down on the provided card in the box. These are the recovery words, also known as seed.
-    *  You will have to use when you want to restore your TREZOR in case it fails or you accidentally reset the TREZOR.
-    *  **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
-    *  Always write them down physically using pen and paper and keep this paper safe. ![](https://i.imgur.com/27wfOOI.jpg) ![](https://i.imgur.com/DnPRxNY.jpg)
-
-10. **Confirm your recovery words.**
-    *  Once you've written down all of the words it will ask you to confirm your recovery phrase, in order to make sure that you've written them down correctly. ![](https://i.imgur.com/VwxBKXC.jpg)
 
 ###### Now your TREZOR is all set-up and ready to be used!
-
 
 
 
