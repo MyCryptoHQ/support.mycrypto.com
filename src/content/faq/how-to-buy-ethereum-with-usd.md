@@ -81,7 +81,7 @@ Mist is highly recommended but some people have issues installing & syncing it. 
 
 - [MyCrypto.com](https://mycrypto.com/)(https://mycrypto.com)
 
-- [Classic MyCrypto](https://classic.mycrypto.com)(https://classic.mycrypto.com)
+- [Legacy MyCrypto](https://legacy.mycrypto.com)(https://legacy.mycrypto.com)
 
 - [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 

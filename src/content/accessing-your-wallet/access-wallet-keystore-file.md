@@ -23,7 +23,7 @@ Keystore files are vulnerable for two reasons:
 
 ### Accessing your Wallet
 
-1. Navigate to the [View & Send](https://beta.mycrypto.com/account) page.
+1. Navigate to the [View & Send](https://mycrypto.com/account) page.
 2. Select option for Keystore file.
 3. Read the warning and check off the 3 boxes. Click "Continue"
 4. Upload the Keystore file.
@@ -43,7 +43,7 @@ While we used the "View & Send" page to access your wallet this time, it is not 
 
 Instead, search your address (or bookmark it) on [etherscan.io](https://etherscan.io) or [etherchain.org](https://www.etherchain.org/).
 
-While you are at it, you should bookmark [https://beta.mycrypto.com/account](https://beta.mycrypto.com/account) as well.
+While you are at it, you should bookmark [https://mycrypto.com/account](https://mycrypto.com/account) as well.
 
 MyCrypto is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
 

@@ -18,7 +18,7 @@ For example; if user A wants to provide evidence to user B that user A has acces
 
 ### Signing a message
 
-1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/signmsg.html). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html)
+1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html)
 
 2.  Enter the message that you wish to use to prove your address.
 
@@ -45,7 +45,7 @@ For example; if user A wants to provide evidence to user B that user A has acces
 
 ### Verifying a message
 
-1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/signmsg.html) and click "Verify Message".
+1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/verify) and click "Verify Message".
 
     ![](https://i.imgur.com/ykazjDv.png)
 

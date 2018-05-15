@@ -20,29 +20,29 @@ Remember to back up any wallets you create! Including the 12-word private seed p
 
 ### How To Create A New Wallet
 
-* Go to [https://beta.mycrypto.com/generate](https://beta.mycrypto.com/generate).
+* Go to [https://mycrypto.com/generate](https://mycrypto.com/generate).
 * Select an option for a type of wallet to create: Keystore File or Mnemonic Phrase:
 
 ##### Generate a Keystore File
 
-1. Enter a strong password, using a randomly generated password is recommended. Make sure that you write this password down on multiple pieces of paper! Place the paper somewhere safe! 
-    * You can also create a text file on a USB and save your password here 
+1. Enter a strong password, using a randomly generated password is recommended. Make sure that you write this password down on multiple pieces of paper! Place the paper somewhere safe!
+    * You can also create a text file on a USB and save your password here
     * _This passwrod encrypts (protects) your private key. It does not generate your private key. This password alone will **not** be enough to access your Ether._
 2. Enter the password again to confirm it.
 3. Click the `"Create New Wallet"` button.
-4. Download your `Keystore File` 
+4. Download your `Keystore File`
     * Save this file to a USB drive.
     * _This is the encrypted version of your private key. You need the password to access it. It is safer than your unencrypted private key but you must have your password to access it in the future._
 5. Read the warning. If you understand it, click the `"Continue"` button.
-6. Print your paper wallet backup 
-7. Print out the current page to save your Private key, by using your web browser's print option. 
+6. Print your paper wallet backup
+7. Print out the current page to save your Private key, by using your web browser's print option.
     * You can write it out by hand, but its not recommened _If you are writing it, it is recommend you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
 8. Copy & paste your address into a text document and save it.
     * _Search your address on [https://etherscan.io/](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time_
 
 ##### Mnemonic Phrase
 
-1. Click the `"Generate a Mnemonic Phrase"` button 
+1. Click the `"Generate a Mnemonic Phrase"` button
 
 2. You can click "Regenerate Phrase" as many times as you want until you get a set of words that you like.
 
@@ -91,7 +91,7 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ###### Keystore File Option
 
-1.  Go to [https://beta.mycrypto.com/generate](https://beta.mycrypto.com/generate) and click the `"Keystore File"` button.
+1.  Go to [https://mycrypto.com/generate](https://mycrypto.com/generate) and click the `"Keystore File"` button.
 2.  Enter a strong but easy to remember password. Type it in again to confirm.
 3.  Click the `"Create New Wallet"` button.
 4.  Click the `"Download"` button & save your `Keystore / UTC` file. Back it up.
@@ -104,7 +104,7 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ###### Mnemonic Phrase option
 
-1.  Go to [https://beta.mycrypto.com/generate](https://beta.mycrypto.com/generate) and click the `"Mnemonic Phrase"` button.
+1.  Go to [https://mycrypto.com/generate](https://mycrypto.com/generate) and click the `"Mnemonic Phrase"` button.
 2.  Click the `"Generate a Mnemonic Phrase"` button.
 3.  **Optional** You can click "Regenerate phrase" until you have a set of words you like.
 4.  Write down the phrase in order.

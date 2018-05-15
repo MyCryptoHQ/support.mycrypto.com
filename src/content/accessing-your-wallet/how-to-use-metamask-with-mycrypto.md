@@ -86,7 +86,7 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Transferring your Funds
 
-1. You can now see your brand new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto.com](https://mycrypto.com/#send-transaction).
+1. You can now see your brand new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto.com](https://mycrypto.com/account).
 
 2. First, check to be sure you are on the correct site. Is the URL mycrypto.com? Does it say `MyCrypto, Inc.` in the URL bar? Does the URL have any funky characters or is it mispelled?
 
