@@ -4,32 +4,36 @@
 "category"    : "Tokens",
 "description" : "Tokens",
 "date_published" : "2017-12-23T08:00:00+08:00",
-"date_modified"  : "2017-12-23T09:07:00+08:00"
+"date_modified"  : "2018-05-15T09:07:00+08:00"
 }
 
 ---%
 
 
-### 1. Click the Orange "Show All Tokens" Button.
+### 1. Click "Scan for Tokens" Button. 
 
-![](../images/tokens/loading-tokens-1.png)
+![](https://i.imgur.com/XAM8dad.png)
 
-### 2. Click the token you want to load, where it says "Click to Load".
+### 2. It will scan for all tokens in your account. Your tokens should appear if the token is on our token list.
 
-![](../images/tokens/loading-tokens-2.png)
+![](https://i.imgur.com/vxho4sO.png)
 
-### 3. If you have a balance, you can now send it.
+### 3. If you would like to load that token each time you visit [MyCrypto.com](https://beta.mycrypto.com/account), check the box next to the token and press "Save"
 
-![](../images/tokens/loading-tokens-3.png)
+![](https://i.imgur.com/4quT3w5.png)
 
-### 4. If you don't have a balance, you can't send it.
+### 4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html) for instructions on how to add a token.
 
-![](../images/tokens/loading-tokens-4.png)
+![](https://i.imgur.com/p2KEduQ.png)
 
 ### 5. If you have a balance you won't have to load it again—it will automatically load in the future! Yay!
 
-![](../images/tokens/loading-tokens-5.png)
+![](https://i.imgur.com/vxho4sO.png)
 
 ----
 
-ps: Sometimes if you click a whole bunch of tokens really fast, the robots get confused and get stuck. Refreshing the page usually fixes the problem. If it persists, send us a message and include a screenshot and which token you can't seem to load.
+### Related Links
+
+[Adding a Custom Token](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+[Receiving Tokens](https://support.mycrypto.com/tokens/receiving-tokens.html)
+
