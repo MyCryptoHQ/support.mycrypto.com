@@ -198,10 +198,10 @@
     <h1 class="page__title" itemprop="headline">Error: Cannot send due to Insufficient funds</h1>
 
     <div class="page__article">
-      <p>If you are getting the error, <code>&quot;Insufficient funds. Account you try to send transaction from does not have enough funds. Required XXXXXXXXXXXXXXXXXXX and got: XXXXXXXXXXXXXXXX&quot;</code>, it means you do not have enough <strong>ETH</strong> in your account to cover the cost of gas.</p>
-<p>Each transaction (including token and contract transactions) require gas and that gas is paid in ETH. You can think of this like a transaction fee.</p>
-<h3 id="solution-send-0-01-eth-to-that-account-in-order-to-be-able-to-make-the-transaction-">Solution: Send 0.01 ETH to that account in order to be able to make the transaction.</h3>
-<p>A standard TX will be <code>21000</code> gas &amp; a gas price of <code>0.00000002 ETH</code> so the total TX fee will be <code>0.00042 ETH</code>. With tokens, the amount of gas is typically <code>z50000 gas - 100000 gas</code>, so the total TX fee increases to <code>0.001 ETH - 0.002 ETH</code>.</p>
+      <p>If you are getting the error, <code>&quot;WARNING: Your ether or token balance isn&#39;t high enough to complete this transaction. Please send more funds or switch to a different wallet.&quot;</code>, it means you do not have enough <strong>ETH</strong> in your account to cover the cost of gas.</p>
+<p>Each transaction (including token and contract transactions) requires gas and that gas is paid in ETH. You can think of this like a transaction fee.</p>
+<h3 id="solution-send-0-01-eth-to-that-public-address-in-order-to-be-able-to-make-the-transaction-">Solution: Send 0.01 ETH to that public address in order to be able to make the transaction.</h3>
+<p>A standard TX will be <code>21000</code> gas &amp; a gas price of <code>0.00000002 ETH</code> so the total TX fee will be <code>0.00042 ETH</code>. With tokens, the amount of gas is typically <code>50000 gas - 100000 gas</code>, so the total TX fee increases to <code>0.001 ETH - 0.002 ETH</code>.</p>
 <p>The number displayed in that error message is the amount required to cover the cost of the transaction in Wei. Take that number, divide by <code>1000000000000000000</code>. This will give you the amount of Ether you need to send to that account to make the transaction.</p>
 <h3 id="more-information-about-gas">More Information About Gas</h3>
 <ul>
@@ -356,7 +356,7 @@
       <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener"> Ether Address Lookup </a></li>
       <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener"> Ether Security Lookup </a></li>
       <li><a href="https://etherscamdb.info/" target="_blank" rel="noopener"> EtherScamDB </a></li>
-      <li><a href="https://www.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
+      <li><a href="https://www.legacy.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
       <li><a href="https://www.mycrypto.com/signmsg.html" target="_blank" rel="noopener"> Sign Message </a></li>
       <li><a href="mailto:press@mycrypto.com" target="_blank" rel="noopener"> Press Inquiries </a></li>
       <li>
@@ -380,7 +380,7 @@
       <a href="https://download.mycrypto.com" target="_blank" rel="noopener"> MyCrypto Apps </a>
       <a href="https://support.mycrypto.com" target="_blank" rel="noopener"> Help &amp; Support </a>
       <a href="https://about.mycrypto.com" target="_blank" rel="noopener"> Our Team </a>
-      <a href="https://about.mycrypto.com/privacy" target="_blank" rel="noopener"> Privacy </a>
+      <a href="https://about.mycrypto.com/privacy/" target="_blank" rel="noopener"> Privacy </a>
     </p>
     <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
     <p class="footer__copyright">© 2018 MyCrypto, Inc.</p>
