@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2015-10-05T08:00:00+08:00",
-  "dateModified": "February 27, 2018",
+  "dateModified": "May 16, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -200,7 +200,6 @@
     <div class="page__article">
       <h2 id="words-are-hard">Words are Hard</h2>
 <p>This is a list of terms you might encounter when using the MyCrypto interface.</p>
-<h4 id="you-can-also-read-in-spanish-thanks-to-faraggi"><a href="https://support.mycrypto.com/las-palabras-son-dificiles-definiendo-terminos-comunes-de-ethereum">You can also read in Spanish</a>, thanks to <a href="https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md">faraggi</a></h4>
 <hr>
 <h3 id="wallet">Wallet</h3>
 <ul>
@@ -215,7 +214,7 @@
 </li>
 <li><p>Your funds are actually stored on the blockchain, not in the wallet or account.</p>
 </li>
-<li><p>Just like your Reddit account has a<code>username (public)</code> and <code>password (private)</code>, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a <code>username (public)</code> and <code>password (private)</code> and <code>password for that password (private + more secure)</code>. See the <code>Keystore File</code> section.</p>
+<li><p>Just like your Reddit account has a <code>username (public)</code> and <code>password (private)</code>, so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a <code>username (public)</code> and <code>password (private)</code> and <code>password for that password (private + more secure)</code>. See the <code>Keystore File</code> section.</p>
 </li>
 </ul>
 <h3 id="address-public-key-">Address <em>(&quot;Public Key&quot;)</em></h3>
@@ -364,17 +363,27 @@
 <li>Key derivation functions derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:</li>
 </ul>
 <p>Cryptographic key derivation</p>
-<p>Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.</p>
+<ul>
+<li>Deriving a key suitable for use as input to an encryption algorithm. Typically this means taking a password and running it through an algorithm such as PBKDF2HMAC or HKDF. This process is typically known as key stretching.</li>
+</ul>
 <p>Password storage</p>
-<p>When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.</p>
-<p><em>taken from cryptography.io</em> - <a href="https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/">Read Full Article</a></p>
+<ul>
+<li><p>When storing passwords you want to use an algorithm that is computationally intensive. Legitimate users will only need to compute it once (for example, taking the user’s password, running it through the KDF, then comparing it to the stored value), while attackers will need to do it billions of times. Ideal password storage KDFs will be demanding on both computational and memory resources.</p>
+</li>
+<li><p><em>taken from cryptography.io</em> - <a href="https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/">Read Full Article</a></p>
+</li>
+</ul>
 <h3 id="encryption">Encryption</h3>
 <ul>
-<li>In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.</li>
+<li><p>In its most basic form, encryption is the process of encoding data, making it unintelligible and scrambled. In a lot of cases, encrypted data is also paired with an encryption key, and only those that possess the key will be able to open it.</p>
+</li>
+<li><p>An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data.</p>
+</li>
+<li><p>Usually, the person that is encrypting the data will possess the key that locks the data and will make &#39;copies&#39; and pass them on to relevant people that require access. This process is called public-key cryptography.</p>
+</li>
+<li><p><em>taken from techworld.com</em> - <a href="https://www.techworld.com/security/what-is-encryption-3659671/">Read Full Article</a></p>
+</li>
 </ul>
-<p>An encryption key is a collection of algorithms designed to be totally unique. These are able to scramble and unscramble data, essentially unlocking the information and turning it back to readable data.</p>
-<p>Usually, the person that is encrypting the data will possess the key that locks the data and will make &#39;copies&#39; and pass them on to relevant people that require access. This process is called public-key cryptography.</p>
-<p><em>taken from techworld.com</em> - <a href="https://www.techworld.com/security/what-is-encryption-3659671/">Read Full Article</a></p>
 <h3 id="encrypted-vs-unencrypted-keys">Encrypted vs Unencrypted Keys</h3>
 <ul>
 <li>Encrypted Keys require a password or some other type of authorization in order to access the encoded information. MyCrypto encrypts your private key via a Keystore File (UTC/JSON). Unencrypted Keys have been decrypted successfully or have initially not been encrypted.</li>
@@ -400,7 +409,7 @@
 <ul>
 <li><p>A decentralized publicly owned ledger.</p>
 </li>
-<li><p>Consists of a series of Blocks.</p>
+<li><p>Consists of blocks of verified data which are &quot;stacked&quot; on top of eachother.</p>
 </li>
 </ul>
 <h3 id="block">Block</h3>
@@ -464,6 +473,10 @@
 <li><p>Permissioned Ledgers, on the other hand, may have an owner and may also have a limited number of parties with the ability to read or write data to them.</p>
 </li>
 </ul>
+<h3 id="pseudonymous">Pseudonymous</h3>
+<ul>
+<li>Writing under a fake name, in this case we are signing transactions under an &quot;alias&quot; which is our private key</li>
+</ul>
 <p>All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome!</p>
 
     </div>
@@ -503,7 +516,7 @@
 
 
 </p>
-      <p>Last Updated: February 27, 2018</p>
+      <p>Last Updated: May 16, 2018</p>
     </div>
 
 
@@ -602,7 +615,7 @@
       <li><a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener"> Ether Address Lookup </a></li>
       <li><a href="https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf" target="_blank" rel="noopener"> Ether Security Lookup </a></li>
       <li><a href="https://etherscamdb.info/" target="_blank" rel="noopener"> EtherScamDB </a></li>
-      <li><a href="https://www.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
+      <li><a href="https://www.legacy.mycrypto.com/helpers.html" target="_blank" rel="noopener"> Convert ETH Units </a></li>
       <li><a href="https://www.mycrypto.com/signmsg.html" target="_blank" rel="noopener"> Sign Message </a></li>
       <li><a href="mailto:press@mycrypto.com" target="_blank" rel="noopener"> Press Inquiries </a></li>
       <li>
@@ -626,7 +639,7 @@
       <a href="https://download.mycrypto.com" target="_blank" rel="noopener"> MyCrypto Apps </a>
       <a href="https://support.mycrypto.com" target="_blank" rel="noopener"> Help &amp; Support </a>
       <a href="https://about.mycrypto.com" target="_blank" rel="noopener"> Our Team </a>
-      <a href="https://about.mycrypto.com/privacy" target="_blank" rel="noopener"> Privacy </a>
+      <a href="https://about.mycrypto.com/privacy/" target="_blank" rel="noopener"> Privacy </a>
     </p>
     <p class="footer__desc">MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.</p>
     <p class="footer__copyright">© 2018 MyCrypto, Inc.</p>

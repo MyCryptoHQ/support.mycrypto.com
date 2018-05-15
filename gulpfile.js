@@ -20,7 +20,7 @@ const markdown           = require( 'gulp-markdown'           )
 const notify             = require( 'gulp-notify'             )
 const path               = require( 'path'                    )
 const plumber            = require( 'gulp-plumber'            )
-const removeMd           = require('remove-markdown'          )
+const removeMd           = require( 'remove-markdown'         )
 const rename             = require( 'gulp-rename'             )
 const runSequence        = require( 'run-sequence'            )
 const sass               = require( 'gulp-sass'               )
@@ -28,7 +28,7 @@ const shell              = require( 'gulp-shell'              )
 const tap                = require( 'gulp-tap'                )
 const uglify             = require( 'gulp-uglify'             )
 const Vinyl              = require( 'vinyl'                   )
-const sitemap            = require('gulp-sitemap'             )
+const sitemap            = require( 'gulp-sitemap'            )
 
 
 // custom variables
