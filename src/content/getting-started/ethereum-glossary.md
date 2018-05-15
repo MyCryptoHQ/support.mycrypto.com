@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-02-28T08:00:00+08:00"
+"date_modified" : "2018-05-17T08:00:00+08:00"
 }
 
 ---%
@@ -12,8 +12,6 @@
 ## Words are Hard
 
 This is a list of terms you might encounter when using the MyCrypto interface.
-
-#### [You can also read in Spanish](https://support.mycrypto.com/las-palabras-son-dificiles-definiendo-terminos-comunes-de-ethereum), thanks to [faraggi](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md)
 
 ---
 

@@ -4,11 +4,12 @@
 "category"    : "Tokens",
 "description" : "Tokens",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+"date_modified" : "2018-05-17T08:00:00+08:00"
 }
 
 ---%
 
 ### How To Register EOS Tokens
 
-Please [click here to read](https://steemit.com/eos/@eos-helpguide/so-you-purchased-eos-on-an-exchange-why-you-need-to-register-your-ethereum-wallet-address-at-eos-io-prior-to-the-1-june-2018) why you really need to register your EOS tokens before June 1st, 2018!
+
+We created an article on [our Medium page](https://medium.com/mycrypto) about registering your EOS tokens that you can find by clicking [here](https://medium.com/mycrypto/register-your-eos-easily-with-mycrypto-7c3854a39d50). The token sale ends on June 1, 2018 at 22:59:59 UTC, and is followed by a 48-hour grace period. Be sure to register your EOS tokens before this period ends.

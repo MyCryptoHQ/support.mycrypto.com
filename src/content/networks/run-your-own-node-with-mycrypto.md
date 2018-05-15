@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified" : "2018-04-26T08:00:00+08:00"
+"date_modified" : "2018-05-17T08:00:00+08:00"
 }
 
 ---%
@@ -33,13 +33,13 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 ##### Connect to your node
 
-*  Open `index.html` from the MyCrypto release you downloaded in your browser.
+*  Open the MyCrypto desktop application.
 
-* In upper right corner there is a node switcher. Here is where you can select which node / chain you are connected to.
+*  At the bottom-left there is a node switcher. Here is where you can select which node / chain you are connected to.
 
-*  Click it & choose `Add Custom Node`
+*  Click it, scroll all the way down & choose `Add Custom Node`
 
-*   Enter a `name` for your node
+*   Enter a `Node Name` for your node
 
 *   URL: `http://127.0.0.1`
 
@@ -51,7 +51,7 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 * This should immediately connect or an error message will display.
 
-* Go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock via "View Address".
+* Go to the "View & Send" tab and unlock via "View Address".
 
 * Verify balances are loading correctly.
 
@@ -67,9 +67,9 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 ##### Connect to your Node Hosted Somewhere
 
-* Go to `https://mycrypto.com/` or your local `index.html` in the MyCrypto folder
+* Go to `https://mycrypto.com/` or your local MyCrypto application.
 
-* In upper right corner there is a node switcher. Here is where you can select which node / chain you are connected to.
+* In upper right corner (MyCrypto website) or bottom left (MyCrypto desktop application) there is a node switcher. Here is where you can select which node / chain you are connected to.
 
 *  Click it & choose `Add Custom Node`
 

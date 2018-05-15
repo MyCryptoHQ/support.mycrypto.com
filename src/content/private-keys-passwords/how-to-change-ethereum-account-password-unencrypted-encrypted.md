@@ -4,14 +4,14 @@
 "category" : "Private Keys & Passwords",
 "description" : "Private Keys & Passwords",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified" : "2017-10-28T08:00:00+08:00"
+"date_modified" : "2018-05-17T08:00:00+08:00"
 }
 
 ---%
 
 _"Can I turn my unencrypted private key into an encrypted private key?"_
 
-* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://beta.mycrypto.com/account/info](https://beta.mycrypto.com/account/info) and then click the "Generate a Keystore File" button.
+* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://mycrypto.com/account/info](https://mycrypto.com/account/info) and then click the "Generate a Keystore File" button.
 
 * After clicking the button there will be a password field that you can enter a new password to encrypt your private key.
 
