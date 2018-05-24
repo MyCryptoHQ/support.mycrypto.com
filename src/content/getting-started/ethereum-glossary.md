@@ -51,7 +51,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * (Advanced) In Ethereum, the address "acts" like the public key, but it's not actually the public key.
 
-* (Advanced) In Ethereum, the public key is derived from the private key and is 128 hex characters. You then take the `"SHA3" (Keccak-256)` hash of this (64 characters), take the last 40 characters, and prefix with `0x`, give you your 42-character address.
+* (Advanced) In Ethereum, the public key is derived from the private key and is 128 hex characters. You then take the `"SHA3" (Keccak-256)` hash of this (64 characters), take the last 40 characters, and prefix that with `0x`, resulting in your 42-character address.
 
 ### Private Key
 
