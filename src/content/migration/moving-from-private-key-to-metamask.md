@@ -45,7 +45,7 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
 
 5. Read the terms of service. Accept said terms of service.
 
-6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly.
+6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong password and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly.
 
 7. You are now shown 12 words. This is a fancy private key which creates an infinite amount of private keys that branch off from it. You need this to access your Ether or to recover your MetaMask Account if you forget the password. No one can recover the 12 words if you lose it. If your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS. Make sure you back up these 12 words!
 
