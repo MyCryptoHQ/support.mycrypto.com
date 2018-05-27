@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-05-18T08:00:00+08:00"
+"date_modified"  : "2018-05-27T08:00:00+08:00"
 }
 
 ---%
@@ -22,11 +22,11 @@ For example: if user A wants to provide evidence to user B that user A has acces
 
 2. Access your wallet.
 
-    ![](../images/signing-and-verifying-messages/accessing-wallet.png)
+    ![](../images/addresses/signing-and-verifying-messages/accessing-wallet.png)
 
 3.  Enter the message that you wish to use to prove your ownership of the address.
 
-    ![](../images/signing-and-verifying-messages/signing-message.png)
+    ![](../images/addresses/signing-and-verifying-messages/signing-message.png)
 
 4.  Click the big blue "Sign Message" button.
 
@@ -49,6 +49,6 @@ For example: if user A wants to provide evidence to user B that user A has acces
 
 2.  Enter the signed message that you want to check, and click "Verify Message".
 
-    ![](../images/signing-and-verifying-messages/verifying-message.png)
+    ![](../images/addresses/signing-and-verifying-messages/verifying-message.png)
 
     If the signature is correct, a green bar will be displayed.
