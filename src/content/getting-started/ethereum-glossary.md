@@ -144,7 +144,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Brain wallets can be brute forced by super fast computers.
 
-* [Brain wallet are insecure.](https://www.reddit.com/r/ethereum/comments/45y8m7/brain_wallets_are_now_generally_shunned_by/)
+* [Brain wallets are insecure.](https://www.reddit.com/r/ethereum/comments/45y8m7/brain_wallets_are_now_generally_shunned_by/)
 
 * Don't use brain wallets.
 
@@ -202,7 +202,7 @@ Password storage
 
 * These can be executed automatically by the same distributed blockchain that it is stored on.
 
-* These contracts are designed to be tamper-proof permanent (which includes the code used in their creation). To edit a contract, one will have to create and deploy an entirely new contract.
+* These contracts are designed to be tamper-proof and permanent (which includes the code used in their creation). To edit a contract, one will have to create and deploy an entirely new contract.
 
 ### Blockchain
 
@@ -222,7 +222,7 @@ Password storage
 
 * Calculating a function that takes an arbitrary amount of input data and deterministically produces a fixed-length output known as the data's "hash".
 
-* This can be used to verify that data has not be altered as any part of the input data is changed, the hash will change too.
+* This can be used to verify that data has not be altered. If any part of the input data is changed, the hash will change too.
 
 ### Mining
 
@@ -232,7 +232,7 @@ Password storage
 
 ### Proof-of-Work
 
-* A system of using to computational power to apply a method of security to the consensus of a blockchain (determining the order of blocks in a blockchain).
+* A system of using computational power to apply a method of security to the consensus of a blockchain (determining the order of blocks in a blockchain).
 
 * Blocks of transactions must be hashed with an additional parameter which takes many tries to create a valid block hash.
 
@@ -242,11 +242,11 @@ Password storage
 
 ### Proof-of-Stake
 
-* A system of using tying up a validator's economic stake in the network, to allow them to have a random chance to propose the next block.
+* A system of tying up a validator's economic stake in the network, to allow them to have a random chance to propose the next block.
 
 * After a block is proposed, it is then voted on by a pool of validators that have a certain economic representation of the network's units each.
 
-* Benefits of Proof-of-Stake consensus algorithms: Energy efficiency leading to decreased environmental effects, reduced risk of centralization, and security.
+* Benefits of Proof-of-Stake consensus algorithms: Energy efficiency leading to decreased environmental effects, reduced risk of centralization, and improved security.
 
 * Casper Proof-of-Stake is Ethereum's future version of Proof-of-Stake.
 
@@ -256,7 +256,7 @@ Password storage
 
 * The exact process of this is defined at the time that the address is created.
 
-* The reason why a multisig address is used is because it allows for increased security, and some level of resistance to theft.
+* The reason why a multisig address might be used is because it allows for increased security, and some level of resistance to theft.
 
 ### Unpermissioned vs Permissioned ledger
 
@@ -266,6 +266,6 @@ Password storage
 
 ### Pseudonymous
 
-* Writing under a fake name, in this case we are signing transactions under an "alias" which is our private key
+* Writing under a fake name, in this case we are signing transactions under an "alias", which is our private key
 
 All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome!
