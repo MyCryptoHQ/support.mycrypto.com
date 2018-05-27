@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-05-17T08:00:00+08:00"
+"date_modified" : "2018-05-27T08:00:00+08:00"
 }
 
 ---%
@@ -256,7 +256,7 @@ Password storage
 
 * The exact process of this is defined at the time that the address is created.
 
-* The reason why a multisig address might used is because it allows for increased security, and some level of resistance to theft.
+* The reason why a multisig address might be used is because it allows for increased security, and some level of resistance to theft.
 
 ### Unpermissioned vs Permissioned ledger
 
