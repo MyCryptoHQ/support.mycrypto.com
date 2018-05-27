@@ -64,7 +64,7 @@ You can use Ethplorer or Etherscan to find out the parameters of your token.
 
 ### Accidentally Entered Incorrect Token Parameters
 
-To remove a custom token, click the little ( - ) icon next to your token. This will remove it from the interface. It is not deleting or removing the tokens from the address itself. They are still safely in your address, we promise.
+To remove a custom token, click the little ( - ) icon next to the token. This will remove it from the interface. It will not delete or remove the token from the wallet itself. They are still safely stored in your wallet, we promise.
 
 
 ### Related Reading
