@@ -4,14 +4,14 @@
 "category" : "Accessing your Wallet",
 "description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified" : "2018-46-20T08:00:00+17:30"
+"date_modified" : "2018-06-07T08:00:00+17:30"
 }
 
 ---%
 
 ## Important Information
 
-We do not recommened that you access your wallet via Mnemonic Phrase.
+We do not recommend that you access your wallet via Mnemonic Phrase.
 
 **Why?**
 
