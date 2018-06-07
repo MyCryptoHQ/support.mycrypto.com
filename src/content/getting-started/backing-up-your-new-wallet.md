@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2017-11-11T08:00:00+08:00"
+"date_modified" : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
@@ -22,7 +22,7 @@ To save / backup your [Ledger](https://support.mycrypto.com/migration/moving-fro
 2. Send a small amount of Ether (0.0001 ETH) from your previous wallet or exchange to your new wallet using the public address.
 3. Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
   * _Perhaps our donation address? We are a free, open-source service. There are no fees, no ads, no tracking, no cookies, no selling your data._
-4. Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you mis-wrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
+4. Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you miswrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
 
 Doing all of this is tedious, but it ensures you (1) have complete access to your funds (2) the address you sent to is correct and matches the private key you have saved and (3) you can rest easily for years to come, knowing you will be able to access your ETH later.
 
@@ -36,7 +36,7 @@ This prevents loss of the private key & password due to: dead hard drive, lost U
 
 MyCrypto is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
-We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could some day be worth.
+We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could someday be worth.
 
 ### Related Reading
 
