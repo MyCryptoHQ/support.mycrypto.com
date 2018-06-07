@@ -4,7 +4,7 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
@@ -12,15 +12,15 @@
 
 One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
 
-Creating a wallet means you get a randomly generated private key and the address (public key) that corresponds to that private key. Then you save those two bits of information and decide to use it.
+Creating a wallet means you get a randomly generated private key and the address (public key) that corresponds to that private key. You will need your private key in order to access your address to send transactions. Please keep your private key(s) safe and secure. [How to Store and Guard your Private Key](https://support.mycrypto.com/security/how-to-securely-store-and-guard-your-private-key.html)
 
-You can do this on a device that is connected to the internet..or one that is not.
+You can do this on a device that is connected to the internet or one that is not.
 
 Cold storage is a device that is not, and will never be, connected to the internet. This means that even if someone were to completely hack you and your computer and your phone, your key would be safe. Yay!
 
-One common cold storage method is a simple piece of paper. Bad folks on the internet can't hack your paper. (But you should still watch out for your roommate, FYI.)
+One common cold storage method is a simple piece of paper. Bad folks on the internet can't hack your paper. (But you should still watch out for your roommate!)
 
-So. Your ETH is on the blockchain and for an offline or cold storage, your private key is kept offline, never introduced to an online device.
+So your ETH is on the blockchain and for offline or cold storage, your private key is kept offline and is never introduced to an online device.
 
 Regardless of what service you use to "store" your ETH, your ETH are lines of code on the Ethereum blockchain. Transactions add more lines of code and all these lines together determine what address has what balance.
 
