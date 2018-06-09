@@ -4,7 +4,7 @@
 "category"    : "Accessing your Wallet",
 "description"    : "Accessing your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-04-18T09:07:00+08:00"
+"date_modified"  : "2018-06-07T09:07:00+08:00"
 }
 
 ---%
@@ -50,9 +50,9 @@ from being stolen. It will not be secured by the backup seed that MetaMask gives
 
 5. Read the terms of service. Accept said terms of service.
 
-6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more sercure. Choose a strong and write it down on paper!. Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly.
+6. You are now asked to enter a password, which protects your key by encrypting it. This means that your wallet will be more secure. Choose a strong and write it down on paper! Do not store said password in Dropbox, do not post it to Twitter, or share it with anyone. Write it down with good ol' fashion pen & paper! Write it down multiple times to ensure that you've written down your password correctly.
 
-7. You are now shown 12 words. This is a fancy private key which creates an infinite amount of private keys that branch off from it. You need this to access your Ether or to recover your MetaMask Account if you forget the password. No one can recover the 12 words if you lose it. If your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS. Make sure you back up these 12 words!
+7. You are now shown 12 words. This is a fancy private key which creates an infinite number of private keys that branch off from it. You need this to access your Ether or to recover your MetaMask Account if you forget the password. No one can recover the 12 words if you lose it. If your computer dies, you reinstall Chrome, you uninstall the MetaMask extension, or you reinstall your OS. Make sure you back up these 12 words!
 
 8. You can write your 12 words down and store it in a safe, or [store it into metal](https://stee.ly/2Hcl4RE). This will make sure that it never gets lost, even if your house catches fire. If using paper, you should store a second copy in a different physical location.
 
@@ -86,9 +86,9 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Transferring your Funds
 
-1. You can now see your brand new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto.com](https://mycrypto.com/account).
+1. You can now see your brand-new account, balance, and transaction history. To transfer your funds from your old account to your newly setup MetaMask wallet, head to [MyCrypto.com](https://mycrypto.com/account).
 
-2. First, check to be sure you are on the correct site. Is the URL mycrypto.com? Does it say `MyCrypto, Inc.` in the URL bar? Does the URL have any funky characters or is it mispelled?
+2. First, check to be sure you are on the correct site. Is the URL mycrypto.com? Does it say `MyCrypto, Inc.` in the URL bar? Does the URL have any funky characters or is it misspelled?
 
 3. No? Okay! Onwards!
 
@@ -117,7 +117,7 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Warning!
 
-*  If you are sending a huge amount of tokens or ETH, please send a small, test amount first. Or, consider [getting a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
+*  If you are sending a huge number of tokens or ETH, please send a small, test amount first. Or, consider [getting a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
 
 
 
