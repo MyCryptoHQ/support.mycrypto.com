@@ -4,13 +4,13 @@
 "category" : "Accessing your Wallet",
 "description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified" : "2018-46-20T08:00:00+17:30"
+"date_modified" : "2018-06-07T08:00:00+17:30"
 }
 
 ---%
 ## Important Information
 
-We do not recommened that you access your wallet via Keystore file.
+We do not recommend that you access your wallet via Keystore file.
 
 **Why?**
 
@@ -45,7 +45,7 @@ Instead, search your address (or bookmark it) on [etherscan.io](https://ethersca
 
 While you are at it, you should bookmark [https://mycrypto.com/account](https://mycrypto.com/account) as well.
 
-MyCrypto is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
+MyCrypto is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There are no stopping of transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
 
 For this reason, it is very, very important to keep your private key a secret and use it as rarely as possible. Only enter it on sites after double-checking to be sure you are on the correct site.
 
