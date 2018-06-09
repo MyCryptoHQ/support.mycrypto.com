@@ -4,16 +4,16 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-12-28T08:00:00+08:00",
-"date_modified"  : "2017-12-28T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
 
 
 
-On MyCrypto.com you should be able to see the Extended Validation Certificate (EV SSL) in your  URL bar. However, some anti-virus applications like BitDefender prevent you from seeing the EV SSL. These anti-virus applications essentially perform a man-in-the-middle attack, simply put it scans all your traffic from and to MyCrypto by replacing the original SSL certificate.
+On MyCrypto.com you should be able to see the Extended Validation Certificate (EV SSL) in your  URL bar. However, some anti-virus applications like BitDefender prevent you from seeing the EV SSL. These anti-virus applications essentially perform a man-in-the-middle attack, simply put, it scans all your traffic from and to MyCrypto by replacing the original SSL certificate.
 
-This can cause a security risk, as you are not able to verify if you are on the right URL. Fortunately, there is a way to solve this, by disabling the SSL scanning feature of your anti-virus application.
+This can cause a security risk, as you are not able to verify if you are on the right URL. Fortunately, the way to solve this is by simply disabling the SSL scanning feature of your anti-virus application.
 
 ### How to disable SSL scanning
 If you are using BitDefender, please follow these steps in order to solve the issue:
