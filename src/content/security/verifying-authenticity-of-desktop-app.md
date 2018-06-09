@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2018-05-01T08:00:00+08:00",
-"date_modified"  : "2018-05-01T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
@@ -25,7 +25,7 @@ To verify the signature of the checksums file, you need [gpg4win](https://gpg4wi
 In the folder with the MyCrypto application and the checksums.txt.gpg file, open a PowerShell command prompt by holding shift and right clicking. Then click "Open PowerShell here".
 
 #### 3. Import the signing GPG key
-To import the siging GPG key, run the following command in PowerShell:
+To import the signing GPG key, run the following command in PowerShell:
 ```powershell
 > Invoke-RestMethod https://keybase.io/tayvano/pgp_keys.asc | gpg --import
 ```
@@ -61,7 +61,7 @@ $ cd /path/to/folder
 Make sure to replace '/path/to/folder' with the actual path of the files.
 
 #### 3. Import the signing GPG key
-To import the siging GPG key, run the following command in the terminal:
+To import the signing GPG key, run the following command in the terminal:
 ```bash
 $ curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
 ```
@@ -108,7 +108,7 @@ $ cd /path/to/folder
 Make sure to replace '/path/to/folder' with the actual path of the files.
 
 #### 3. Import the signing GPG key
-To import the siging GPG key, run the following command in the terminal:
+To import the signing GPG key, run the following command in the terminal:
 ```bash
 $ curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
 ```
