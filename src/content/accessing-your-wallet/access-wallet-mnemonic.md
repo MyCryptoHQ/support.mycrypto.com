@@ -11,7 +11,7 @@
 
 ## Important Information
 
-We do not recommened that you access your wallet via Mnemonic Phrase.
+We do not recommend that you access your wallet via Mnemonic Phrase.
 
 **Why?**
 
