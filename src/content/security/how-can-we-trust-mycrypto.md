@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "How can we be sure MyCrypto.com is safe? Many people thought Parity was safe and the Parity problem is sort of jarring. How can we trust MyCrypto?",
 "date_published" : "2017-11-23T08:00:00+08:00",
-"date_modified"  : "2017-11-23T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
@@ -22,6 +22,8 @@ That said...our team has been in this space since 2015. We don't do this for the
 
 ETH is going to the moon as it is....we just have to keep building for the future and we can have it all. :)
 
+**Related Links
 
+[Meet the MyCrypto Team](https://about.mycrypto.com/)
 
 ---
