@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-25T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
@@ -19,7 +19,7 @@
 
 > "There are scammers that are DMing, posting links, posting comments, and trying to get you to navigate to fake URLs. DO NOT CLICK IT!" (Yes. People still don't know this. I don't know where they are, obviously not here on reddit).
 
-> Remind people: "If it's to good to be true, it probably is."
+> Remind people: "If it's too good to be true, it probably is."
 
 > ⚠ PSA! Do NOT click the link or listen to the scammer! That is a phishing site. Always check your URL and/or consider getting a Ledger or TREZOR hardware wallet.
 
@@ -114,7 +114,7 @@ This is too much for one post so help spread the word: Private keys are *private
 *  [https://mxtoolbox.com/Whois.aspx](https://mxtoolbox.com/Whois.aspx)
 
 
-### 4. Make, share, warn, & help eduate. Things like "how to avoid phishing / badware" a la https://www.google.com/safebrowsing/static/faq.html#q1
+### 4. Make, share, warn, & help educate. Things like "how to avoid phishing / badware" a la https://www.google.com/safebrowsing/static/faq.html#q1
 
 - **Shamelessly steal from the pros:**
 
@@ -142,4 +142,4 @@ This is too much for one post so help spread the word: Private keys are *private
 
 ---
 
-Thank you for everything. We literally wouldn't be in this situation without you supporting us. Kidding—it's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.
+Thank you for everything. We literally wouldn't be in this situation without you supporting us. It's all part of this crazy wild adventure called the future. We'll figure it out, but it's better together.
