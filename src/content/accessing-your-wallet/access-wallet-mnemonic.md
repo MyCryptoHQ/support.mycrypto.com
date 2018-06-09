@@ -4,7 +4,7 @@
 "category" : "Accessing your Wallet",
 "description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified" : "2018-46-20T08:00:00+17:30"
+"date_modified" : "2018-06-07T08:00:00+17:30"
 }
 
 ---%
@@ -27,8 +27,7 @@ Mnemonic Phrases are vulnerable for two reasons:
 1. Navigate to the [View & Send](https://mycrypto.com/account) page.
 2. Select option for Mnemonic Phrase.
 3. Read the warning and check off the 3 boxes. Click "Continue"
-4. Enter the 12-word phrase.
-5. **optional**Enter the password used to encrypt the phrase when the wallet was made.
+4. Enter the 12-word phrase. If you entered a password when you created the wallet, enter that as well. Failure to do so can change the list of addresses that you can access. 
 5. Click "Unlock" and your wallet will show up.
 6. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
    * If you printed out your wallet, check to be sure the circles match. They should be the same colors, and shapes. Otherwise, something went wrong and you should start over.
