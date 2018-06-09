@@ -4,14 +4,14 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-09-13T08:00:00+08:00"
+"date_modified"  : "2018-06-07T08:00:00+08:00"
 }
 
 ---%
 
 
 
-1. Hardware wallets ensure your key isn't vulnerable to phishers. Order a TREZOR or Ledger today!
+1. Hardware wallets ensure your key isn't vulnerable to phishers. Order a [TREZOR](https://shop.trezor.io/), [Ledger](https://www.ledgerwallet.com/products/?utm_source=&utm_medium=affiliate&utm_campaign=1985&utm_content=) or [KeepKey](https://www.keepkey.com/?source=hasoffers) today!
 
 2. The EtherSecurityLookup Chrome Extension warns you if you go to a malicious site: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf)
 
