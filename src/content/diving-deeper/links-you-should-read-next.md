@@ -39,3 +39,5 @@
 
 *  [The CryptoCurrency Education Thread](https://twitter.com/AriDavidPaul/status/998240115800584193?s=19)
 
+*  [Where To Start Fresh After The Crypto Crash](https://www.reddit.com/r/CryptoCurrency/comments/7uzrta/want_to_start_fresh_after_the_crypto_crash_here/)
+
