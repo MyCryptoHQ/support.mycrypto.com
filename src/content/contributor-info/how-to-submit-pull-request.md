@@ -1,10 +1,10 @@
 {
 "title"       : "How to Submit a Pull Request",
-"sort"        : "30",
-"category"    : "Diving Deeper",
-"description" : "Diving Deeper",
+"sort"        : "65",
+"category"    : "Contributor Info",
+"description" : "Contributor Info",
 "date_published" : "2017-11-16T08:00:00+08:00",
-"date_modified"  : "2017-11-16T08:00:00+08:00"
+"date_modified"  : "2018-06-11T08:00:00+08:00"
 }
 
 ---%

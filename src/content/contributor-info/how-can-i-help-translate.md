@@ -1,16 +1,16 @@
 {
 "title"       : "How Can I Help With Translations?",
-"sort"        : "19",
-"category"    : "FAQ",
-"description" : "FAQ",
+"sort"        : "64",
+"category"    : "Contributor Info",
+"description" : "Contributor Info",
 "date_published" : "2018-05-24T08:00:00+08:00",
-"date_modified"  : "2018-05-24T08:00:00+08:00"
+"date_modified"  : "2018-06-11T08:00:00+08:00"
 }
 
 ---%
 
 
-Providing Translations
+##Providing Translations
 
 Our team is somewhat multi-lingual, but we rely on the community to help out with languages we don't know. If you're willing to help, we'd really appreciate it.
 
@@ -26,4 +26,4 @@ Our team is somewhat multi-lingual, but we rely on the community to help out wit
 
 If you follow the steps above, we'll be sure to provide your translations to all of our users. Thanks a for helping out your fellow language speakers!
 
-For more information on how you can help contribute please follow the [link.](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributor-Guidelines)
+For more information on how you can help contribute please follow the [link.](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributing-Providing-Translations)
