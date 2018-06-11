@@ -26,4 +26,4 @@ Our team is somewhat multi-lingual, but we rely on the community to help out wit
 
 If you follow the steps above, we'll be sure to provide your translations to all of our users. Thanks a for helping out your fellow language speakers!
 
-For more information on how you can help contribute please follow the [link.](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributor-Guidelines)
+For more information on how you can help contribute please follow the [link.](https://github.com/MyCryptoHQ/MyCrypto/wiki/Providing-Translations)
