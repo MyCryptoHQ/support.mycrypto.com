@@ -9,14 +9,17 @@
 
 ---%
 
-
-### I'm really sorry, but it sounds like you may have been the victim of a phishing attack. I understand how frustrating it can be.
+### Victim of a Phishing Attack, We Are Sorry This Happened.
 
 Unfortunately, we encounter these phishing scams/attacks on a daily basis. Typically, the reason for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g. mycryqto[.]com), and other times it is a fake ICO, airdrop, or EthZero-like website. You may encounter these on social media (e.g. Reddit, Twitter, Slack), via email, ads on legitimate sites, or even in your search results when looking for a real project. Other major brands like Apple, Google, and PayPal are also vulnerable and they are used as lures for phishing attacks as well. If you enter your private key (or keystore file, mnemonic phrase, passwords) on a malicious website, they have complete access to your funds.  You will **never** need to provide a private key to these sites.
 
-Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move your funds as soon as possible and discontinue use of this address. We do actively attempt to track down the people behind these sites and do what we can to warn others, take down the site, or whatever we can given the particular situation.
+Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move the rest of your funds as soon as possible to a new address and discontinue use of the address that was phished. 
 
-There are things you can do to help prevent us and others from being victims of phishing. Help make the community safer. We can't always scan through the world wide web by ourselves.
+### What We Do To Ensure User Safety
+
+We actively attempt to track down the people behind these sites and do what we can to warn others, take down the site, or whatever we can given the particular situation. We also offer a lot of advice and guidance to users on how to do everything they can do to secure their funds and themselves in this new and hectic space. [Read here for security tips.](https://support.mycrypto.com/security/)
+
+There are things you can do to help as well. You can help us document these phishers and protect others from also becoming victims of phishing. Help make the community safer. We can't always scan through the world wide web by ourselves.
 
 ### Document & Collect Information
 
@@ -45,4 +48,4 @@ Once you know when you can move the tokens, you will need to plan on moving your
 
 **Lastly, read our [Getting Started Guide](https://support.mycrypto.com/getting-started/getting-started-new.html) & ["Protecting Yourself and Your Funds"](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html). Be proactive about your security.**
 
-### Again, we are really sorry.
+** We hope this unfortunate event does not happen to you again, or to anyone else. Please take your time to [read through our Knowledge-Base](https://support.mycrypto.com/security/) to arm yourselves with the Knowledge to protect yourself against the phishers. **
