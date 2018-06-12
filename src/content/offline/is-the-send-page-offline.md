@@ -12,7 +12,7 @@
 
 No, it needs the internet in order to get the current gas price, nonce of your account, and broadcast the transaction (aka "send"). However, it only sends the signed transaction. Your private key safely stays with you.
 
-###Related Reading
+### Related Reading
 
 [How can MyCrypto Send Offline?](https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html)
 [Sending and Receiving](https://support.mycrypto.com/send/)

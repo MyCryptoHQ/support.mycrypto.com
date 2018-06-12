@@ -20,7 +20,7 @@ You can see your TX fee (`gas limit` * `gas price`) in ETH & USD when you search
 
 This is **not** a TX  fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
 
-###Related Reading
+### Related Reading
 
 [Gas and Transaction Fees](https://support.mycrypto.com/gas/)
 [Transaction Failed: Out of Gas](https://support.mycrypto.com/transactions/transaction-failed-out-of-gas.html)
