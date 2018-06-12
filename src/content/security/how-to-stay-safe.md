@@ -47,7 +47,7 @@ attack domains, fake project domains, other scam domains).
 
 ##### Use bookmarks
 
-You should never rely on links people send you, or results in a search engine. You should always type the address manually
+You should _never_ rely on links people send you, or results in a search engine. You should always type the address manually
 and then bookmark it and start using the bookmark every time.
 
 ## 0x address verification
@@ -68,6 +68,8 @@ You can confirm the address for an ICO with some simple checks;
 
 * Search the address on block explorers and check for comments.
 * Typically ICO addresses are contract addresses. If the address given to you doesn't have a contract, it's _usually_ a scam.
+
+Alternatively, get your wallet provider to implement the EtherScamDB JS library to show a visual indication - `etherscamdb-js-address-validation` [Github](https://github.com/409H/etherscamdb-js-address-validation#etherscamdb-js-address-validation-package) &mdash; [NPMJS](https://www.npmjs.com/package/etherscamdb-js-address-validation)
 
 ## Twitter
 
