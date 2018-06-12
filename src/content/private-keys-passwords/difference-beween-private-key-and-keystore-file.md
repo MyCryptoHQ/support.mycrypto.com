@@ -4,7 +4,7 @@
 "category" : "Private Keys & Passwords",
 "description" : "Private Keys & Passwords",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified" : "2017-09-26T08:00:00+08:00"
+"date_modified" : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -32,14 +32,19 @@ However, for additional functionality (like protecting it with a password) there
 * This Keystore file matches the format used by Mist so you can easily import it in the future.
 * Make sure to have multiple backups.
 
+[How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+
 ![](https://support.mycrypto.com/images/wallet-types/keystore.jpg)
 
 ### Mnemonic Phrases
 
 * Typically these come in 12-word or 24-words.
 * They can derive multiple addreses - meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
-* Ledger, TREZOR, MetaMask, and Jaxx create these for you.
-* MyCrypto does not currently derive mnemonic phrases, but may in the future.
+* [MyCrypto.com](https://mycrypto.com/generate), Ledger, TREZOR, MetaMask, and Jaxx create these for you.
+
+![](https://i.imgur.com/Jc7lavW.png)
+
+![](https://i.imgur.com/KxATWoK.png)
 
 ![](https://support.mycrypto.com/images/wallet-types/mnemonic.jpg)
 
@@ -61,3 +66,8 @@ However, for additional functionality (like protecting it with a password) there
 * This is the unencrypted, JSON format of your private key.
 * It gives you a file, just in case you prefer a file over a string of characters
 * This means you do not need the password but anyone who finds your JSON can access your wallet & Ether without the password.
+
+### Related Articles
+
+[Protecting Yourself and Your Funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+[How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
