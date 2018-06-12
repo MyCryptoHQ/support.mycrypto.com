@@ -4,7 +4,7 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-11T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -23,4 +23,4 @@ If you just want to send a transaction to another address (not a contract) leave
 The next step is to sign the transaction. Click the blue "Sign Transaction" box, the signed transaction will appear at the bottom of the page.
 
 ### 4. Sending the transaction
-Finally, copy the signed transaction to your **online** computer. After signing a transaction, it is not possible to change any information of that transaction anymore, so it is safe to copy it to another computer. On the ["Broadcast Trandaction"](https://mycrypto.com/pushTx) page, fill in your signed transaction from step 3. Click the "Send Transaction" button and your transaction should be broadcast.
+Finally, copy the signed transaction to your **online** computer. After signing a transaction, it is not possible to change any information of that transaction anymore, so it is safe to copy it to another computer. On the ["Broadcast Transaction"](https://mycrypto.com/pushTx) page, fill in your signed transaction from step 3. Click the "Send Transaction" button and your transaction should be broadcast.
