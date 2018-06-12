@@ -36,3 +36,8 @@
 *  [a16z: Blockchain Building Blocks and Basics.](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 *  [silentcicero: Pro Tips for Ethereum Wallet Management](https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/)
+
+*  [The CryptoCurrency Education Thread](https://twitter.com/AriDavidPaul/status/998240115800584193?s=19)
+
+*  [Where To Start Fresh After The Crypto Crash](https://www.reddit.com/r/CryptoCurrency/comments/7uzrta/want_to_start_fresh_after_the_crypto_crash_here/)
+

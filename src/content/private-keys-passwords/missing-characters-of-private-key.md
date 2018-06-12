@@ -4,7 +4,7 @@
 "category"    : "Private Keys & Passwords",
 "description" : "Private Keys & Passwords",
 "date_published" : "2017-12-12T08:00:00+08:00",
-"date_modified"  : "2017-12-12T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -57,7 +57,7 @@ When it's done it will show:
  matching address 0x06A85356DCb5b307096726FB86A78c59D38e08ee
 ```
 
-- If you see anything besides that, you have an error and it's not longer searching for your key.
+- If you see anything besides that, you have an error and it's no longer searching for your key.
 - If the error says, "Invalid private key", the key snippet your provided is invalid. It must be hex characters.
 - If you get an "out of memory" error, have to go to work, or your computer turns off, no worries. Just run it again.
 - If your command line is still open, hit the up arrow key and then enter to quickly run it again.
