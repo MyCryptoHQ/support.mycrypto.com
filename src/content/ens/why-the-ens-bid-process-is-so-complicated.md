@@ -4,7 +4,7 @@
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-05-05T08:00:00+08:00",
-"date_modified"  : "2017-05-05T08:00:00+08:00"
+"date_modified"  : "2017-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -35,7 +35,7 @@ Well folks, the easiest way is to hash it!
 
 *  Open this: [https://emn178.github.io/online-tools/sha3_512.html](https://emn178.github.io/online-tools/sha3_512.html).
 *  Type in `mustbemoney`. You get a hash. Simple.
-*  Now if you post `7a17fb39e97afde5df29ca79a6a9d6d52eb485fee7049e8696f14a3c79bd0008d75c9974bb06e1f5886eae41222a32267fe3fb2354f2e2ecc7fa9d3c4f00ecd6` on the blockchain, its very hard for me to figure out that you bid on `mustbemoney`.
+*  Now if you post `7a17fb39e97afde5df29ca79a6a9d6d52eb485fee7049e8696f14a3c79bd0008d75c9974bb06e1f5886eae41222a32267fe3fb2354f2e2ecc7fa9d3c4f00ecd6` on the blockchain, it would be very hard for me to figure out that you bid on `mustbemoney`.
 
 Unless of course, *I* type in mustbemoney. Because, then I get the same exact hash.
 
@@ -55,7 +55,7 @@ In order to actually prevent this information from being decrypted manually and 
 
 It then hashes the name and the amount individually. *Then* it combines the entire string and hashes that as well. This piece of information is what is sent with your bid, as seen in the "input data" on any bid transaction link: [https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f](https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f)
 
-Now no one, including the contract itself, actually knows what you bid on or how much you bid or anything. Obviously, if we want to ever assign a domain to someone, that information is kind of necessary. Which is were the **reveal** step comes in.
+Now no one, including the contract itself, actually knows what you bid on or how much you bid or anything. Obviously, if we want to ever assign a domain to someone, that information is kind of necessary. Which is where the **reveal** step comes in.
 
 ### Revealing
 
@@ -80,12 +80,12 @@ In order to reveal, you are likely going to use an interface. It's going to ask 
 
 3. They forget what name they bid on. Yup. I wish I was joking, but there's a post around here with a user who did exactly that.
 
-The above are all actually the same problem in different forms. If they don't save *all* the information that they used to bid, they cannot say that `1` + `mustbemoney` + `secretphrase` = [`longhashthing`]. I, nor the contract, no anyone else, can tell that your bid was placed for mustbemoney *or* for 1 ETH. Even if you get 1 or 2 pieces of information correct, it doesn't matter. The bid has 1 hashed string. If you put in 1 wrong piece of information, it will create a different hashed string.
+The above is all actually the same problem in different forms. If they don't save *all* the information that they used to bid, they cannot say that `1` + `mustbemoney` + `secretphrase` = [`longhashthing`]. I, nor the contract, no anyone else, can tell that your bid was placed for mustbemoney *or* for 1 ETH. Even if you get 1 or 2 pieces of information correct, it doesn't matter. The bid has 1 hashed string. If you put in 1 wrong piece of information, it will create a different hashed string.
 
 4. Revealing itself can fail due to a variety of reasons. If you sent from the wrong address. If you entered the wrong information. If there was no enough gas. If the miners decided to not include the TX in the block for whatever reason. If you reveal too early. If you reveal too late. Etc.
 
 
-### How do you not fuck it up?
+### How do you not screw it up?
 
 1. Practice makes perfect. Do it with a little amount on a random name and see how it goes.
 

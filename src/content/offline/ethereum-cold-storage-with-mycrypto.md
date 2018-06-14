@@ -4,7 +4,7 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-11T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -30,7 +30,7 @@ You can run MyCrypto.com on your computer and this computer can be a cold-storag
     * _This is the encrypted version of your private key. You need the password to access it. It is safer than your unencrypted private key but you must have your password to access it in the future._
 * Read the warning. If you understand it, click the `"Continue"` button.
 * Print your paper wallet backup and/or _carefully_ hand-write the `private key` on a piece of paper.
-    * _If you are writing it, it is recommend you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
+    * _If you are writing it, it is recommended you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
 * Copy & paste your address into a text document somewhere. Get it to your primary, online computer.
     * _Use the QR code or a different USB drive. It is best if you do not hand-write it_
     * _Search your address on [https://etherscan.io/](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time_
@@ -56,7 +56,7 @@ This prevents loss of the private key & password due to: dead hard drive, lost U
 
 MyCrypto is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
-We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could some day be worth.
+We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could someday be worth.
 
 
 ### Related Reading

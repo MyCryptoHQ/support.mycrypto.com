@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-06T08:00:00+08:00",
-"date_modified"  : "2017-07-06T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -95,7 +95,7 @@ Shut down your machine, unplug the Tails drive, and boot back into your normal O
 
 Reboot into Tails, disable networking, and enter your persistent volume password.
 
-Plug in your second USB with the MC/MEW .zip file on it, and copy it to the persistent Tor directory. The MC/MEW client uses a browser to navigate the html files, and Tails already has Tor installed. Tor cannot access files outside of it's assigned folder on Tails though, so the MC/MEW files need to be in the Tor folder located on the persistent directory if you want them to exist after a reboot and be seen by Tor.
+Plug in your second USB with the MC/MEW .zip file on it, and copy it to the persistent Tor directory. The MC/MEW client uses a browser to navigate the html files, and Tails already has Tor installed. Tor cannot access files outside of its assigned folder on Tails though, so the MC/MEW files need to be in the Tor folder located on the persistent directory if you want them to exist after a reboot and be seen by Tor.
 
 Unzip the archive and open index.html to verify everything works. You may have to close some dialogue boxes Tor generates since you aren't connected to the internet.
 

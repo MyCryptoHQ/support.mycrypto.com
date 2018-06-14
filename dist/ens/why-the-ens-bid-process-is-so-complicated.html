@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2017-05-05T08:00:00+08:00",
-  "dateModified": "May 4, 2017",
+  "dateModified": "June 9, 2017",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -216,7 +216,7 @@
 <ul>
 <li>Open this: <a href="https://emn178.github.io/online-tools/sha3_512.html">https://emn178.github.io/online-tools/sha3_512.html</a>.</li>
 <li>Type in <code>mustbemoney</code>. You get a hash. Simple.</li>
-<li>Now if you post <code>7a17fb39e97afde5df29ca79a6a9d6d52eb485fee7049e8696f14a3c79bd0008d75c9974bb06e1f5886eae41222a32267fe3fb2354f2e2ecc7fa9d3c4f00ecd6</code> on the blockchain, its very hard for me to figure out that you bid on <code>mustbemoney</code>.</li>
+<li>Now if you post <code>7a17fb39e97afde5df29ca79a6a9d6d52eb485fee7049e8696f14a3c79bd0008d75c9974bb06e1f5886eae41222a32267fe3fb2354f2e2ecc7fa9d3c4f00ecd6</code> on the blockchain, it would be very hard for me to figure out that you bid on <code>mustbemoney</code>.</li>
 </ul>
 <p>Unless of course, <em>I</em> type in mustbemoney. Because, then I get the same exact hash.</p>
 <p>If you were to bid on mustbemoney, and I were to bid on mustbemoney, anyone could tell that we BOTH bid on mustbemoney.</p>
@@ -233,7 +233,7 @@
 </li>
 </ol>
 <p>It then hashes the name and the amount individually. <em>Then</em> it combines the entire string and hashes that as well. This piece of information is what is sent with your bid, as seen in the &quot;input data&quot; on any bid transaction link: <a href="https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f">https://etherscan.io/tx/0x1c741eb4fe698d5429027fdd6a9d7d87638f27ae0663b43e1f06ef141270dc0f</a></p>
-<p>Now no one, including the contract itself, actually knows what you bid on or how much you bid or anything. Obviously, if we want to ever assign a domain to someone, that information is kind of necessary. Which is were the <strong>reveal</strong> step comes in.</p>
+<p>Now no one, including the contract itself, actually knows what you bid on or how much you bid or anything. Obviously, if we want to ever assign a domain to someone, that information is kind of necessary. Which is where the <strong>reveal</strong> step comes in.</p>
 <h3 id="revealing">Revealing</h3>
 <p>How did we both arrive at the same hash before? We both entered <code>mustbemoney</code> and used the same mechanism to create the hash. The reveal process does the same thing.</p>
 <p>During the reveal, you send those same bits of information <em>separately</em> so that the contract can line up <code>what you bid</code>, <code>who bid</code> and <code>for how much you bid</code>.</p>
@@ -250,11 +250,11 @@
 <li><p>They forget what name they bid on. Yup. I wish I was joking, but there&#39;s a post around here with a user who did exactly that.</p>
 </li>
 </ol>
-<p>The above are all actually the same problem in different forms. If they don&#39;t save <em>all</em> the information that they used to bid, they cannot say that <code>1</code> + <code>mustbemoney</code> + <code>secretphrase</code> = [<code>longhashthing</code>]. I, nor the contract, no anyone else, can tell that your bid was placed for mustbemoney <em>or</em> for 1 ETH. Even if you get 1 or 2 pieces of information correct, it doesn&#39;t matter. The bid has 1 hashed string. If you put in 1 wrong piece of information, it will create a different hashed string.</p>
+<p>The above is all actually the same problem in different forms. If they don&#39;t save <em>all</em> the information that they used to bid, they cannot say that <code>1</code> + <code>mustbemoney</code> + <code>secretphrase</code> = [<code>longhashthing</code>]. I, nor the contract, no anyone else, can tell that your bid was placed for mustbemoney <em>or</em> for 1 ETH. Even if you get 1 or 2 pieces of information correct, it doesn&#39;t matter. The bid has 1 hashed string. If you put in 1 wrong piece of information, it will create a different hashed string.</p>
 <ol start="4">
 <li>Revealing itself can fail due to a variety of reasons. If you sent from the wrong address. If you entered the wrong information. If there was no enough gas. If the miners decided to not include the TX in the block for whatever reason. If you reveal too early. If you reveal too late. Etc.</li>
 </ol>
-<h3 id="how-do-you-not-fuck-it-up-">How do you not fuck it up?</h3>
+<h3 id="how-do-you-not-screw-it-up-">How do you not screw it up?</h3>
 <ol>
 <li><p>Practice makes perfect. Do it with a little amount on a random name and see how it goes.</p>
 </li>
@@ -312,7 +312,7 @@
 
 
 </p>
-      <p>Last Updated: May 4, 2017</p>
+      <p>Last Updated: June 9, 2017</p>
     </div>
 
 

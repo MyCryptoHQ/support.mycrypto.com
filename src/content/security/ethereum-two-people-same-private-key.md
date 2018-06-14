@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -28,11 +28,11 @@ That means you can actually pick a private key yourself. Just pick a number betw
 
 Go ahead, just pick one. Don't tell anyone! There, that's your private key. That number gives you access to all the funds in that account.
 
-If you happened to pick one that someone else is using, you now have access to all of their funds. If someone else happens to pick the one that you just picked, now they have access to all of your funds. That's why it's important that the one you picked is really really random and that you never let anyone see it.
+If you happened to pick one that someone else is using, you now have access to all of their funds. If someone else happens to pick the one that you just picked, now they have access to all of your funds. That's why it's important that the one you picked is truly random and that you never let anyone see it.
 
 It's that simple. Pick a number, that's your account. Cross your fingers that nobody else picks it!
 
-The mind blowing part is that this is actually secure. That number up there is so large that if you truly did a good job picking your number randomly, then the odds that anyone else picks it is infintesimal. (1/that number).
+The mind-blowing part is that this is actually secure. That number up there is so large that if you truly did a good job picking your number randomly, then the odds that anyone else picks it is infinitesimal. (1/that number).
 
 Don't believe me? Go ahead, there are billions of dollars worth of value in the blockchain. You should set up a computer program to generate tons of these numbers and check each one to see whether they have any money in them. It's all yours if you can find one!
 
@@ -53,7 +53,7 @@ compared to
 
 That number is so unfathomably big that even if you were to generate one address for each grain of sand on Earth every second, and do it for as long as old the galaxy is ~13.21 billion years, you'd still be nowhere near likely to have found even a single duplicate.
 
-But what makes it impossible to find and bruteforce any specific address is that it would costs more energy than the Sun has.
+But what makes it impossible to find and brute force any specific address is that it would costs more energy than the Sun has.
 
 ---
 
