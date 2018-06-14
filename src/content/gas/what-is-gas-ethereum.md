@@ -148,6 +148,7 @@ A very awesome miner, miningpoolhub, accepts a 2 GWEI price, but their blocks ar
 *   [Can someone explain gas to me?](https://www.reddit.com/r/ethereum/comments/271qdz/can_someone_explain_the_concept_of_gas_in_ethereum/)
 *   [I don't understand the concept of gas.
     ](https://www.reddit.com/r/ethereum/comments/3fnpr1/can_someone_possibly_explain_the_concept_of/)
+*  [What Exactly Is Ethereum Gas?](https://www.mangoresearch.co/what-exactly-is-ethereum-gas/)
 
 ### Sources
 Thank you to Veen for the art, /u/MicahZoltu random slack diatribe on gas, and various redditors who have commented on gas over the years for this post. Very little of this is our original content. It is heaps of peoples comments and information, cleaned up and organized over the past year.
