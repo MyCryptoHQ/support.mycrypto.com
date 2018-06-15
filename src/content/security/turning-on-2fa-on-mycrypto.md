@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-08-23T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -27,7 +27,7 @@ All of this work is done so that you are _authorized_ to access the information 
 
 ### The Blockchain & MyCrypto
 
-In the case of MyCrypto.com, a client-side application, we do not have servers in this fashion. We do not hold your keys on our servers. We do not give you access to the keys on our servers. You have the key. That key is the core piece of information that allows access to authenticate a transaction on the blockchain. While *you* can encrypt it with a password, there is no server that can verify or track a 2FA login / [OTP](https://en.wikipedia.org/wiki/One-time_password) when you are using MyCrypto. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords.
+In the case of MyCrypto.com, a client-side application, we do not have servers in this fashion. We do not hold your keys on our servers. We do not give you access to the keys on our servers. You have the key. That key is the core piece of information that allows access to authenticate a transaction on the blockchain. While *you* can encrypt it with a password, there is no server that can verify or track a 2FA login / [OTP](https://en.wikipedia.org/wiki/One-time_password) when you are using MyCrypto. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There are no stopping transactions, canceling transactions, or resetting passwords.
 
 In order to implement it, we would need to store your key and protect it on our servers. This is simply not something we want to do. If we did so, we would have a situation where anyone who gets access to our servers, your keys, or your 2FA codes, gets access to the funds of every user of our servers. The bounty on hacking our servers is as large as the funds held by ever user. That's a huge bounty and is dangerous.
 
@@ -36,3 +36,8 @@ If this is functionality that you do want, feel free to use any exchange / hoste
 ### Or, you know, spend the <$100 and get a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html). It's worth it. You can use it for 2FA on other services and to ensure the safety and security of your funds.
 
 More information: https://github.com/kvhnuke/etherwallet/issues/292
+
+### Related Reading
+
+[Security & Phishing](https://support.mycrypto.com/security/)
+[What is the Difference between and Exchange and MyCrypto?](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)

@@ -4,7 +4,7 @@
 "category"    : "Transactions",
 "description" : "Transactions",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -19,3 +19,8 @@ You are paying for the *computation*, regardless of whether your transaction suc
 You can see your TX fee (`gas limit` * `gas price`) in ETH & USD when you search for your transaction on [etherscan.io](https://etherscan.io/tx/0x9f5080adb96fc251fb87387ec4a1f77506cb59e14ef1d87d3a018a0cd41a9eeb).
 
 This is **not** a TX  fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
+
+### Related Reading
+
+[Gas and Transaction Fees](https://support.mycrypto.com/gas/)
+[Transaction Failed: Out of Gas](https://support.mycrypto.com/transactions/transaction-failed-out-of-gas.html)

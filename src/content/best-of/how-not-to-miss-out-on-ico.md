@@ -4,7 +4,7 @@
 "category"    : "Best Of",
 "description" : "Best Of",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -17,7 +17,7 @@
 
 We actually considered that but then like....well...it's a lot of work but only benefits a few and encourages greed instead of encouraging a helpful, beneficial ecosystem that works and grows together. Time is our limited resource, not funds. Funds just help you get through the bad times.
 
-There are a few posts I made after GNT and before MLN that contain good advice but heres the most excessively planned way:
+There are a few posts I made after GNT and before MLN that contain good advice but here's the most excessively planned way:
 
 - Create a new wallet and back that shit up in triplicate in physically different locations. (Your house could set on fire and now you don't have any of your backups).
 
@@ -41,7 +41,7 @@ There are a few posts I made after GNT and before MLN that contain good advice b
 
 - Nonce is at the top of the page.
 
-- Make sure whatever amount you have in your account is an ETH or 2 more than the amount your sending. This gives you a lot of room for mis-calculating gas limit * gas price. So if you want to invest 50 ETH, have 52 ETH in your account.
+- Make sure whatever amount you have in your account is an ETH or 2 more than the amount your sending. This gives you a lot of room for miscalculating gas limit * gas price. So if you want to invest 50 ETH, have 52 ETH in your account.
 
 - Unlock your wallet, get the signed transaction. DO NOT SEND IT.
 
@@ -85,7 +85,7 @@ Now you have 2 TXs. You can send the first one *or* the first and the second one
 
 - If anyone is slack or reddit is like "you have to include this data that no one told us about!" then you are golden. You know how to solve this. If nothing productive is happening, give it another go anyways.
 
--  Click to the the ICO instructions tab and the offline tab again
+-  Click to the ICO instructions tab and the offline tab again
 
 - Generate your info using YOUR address at the top of the page. Copy and paste the ICO address. Don't increase the gas price if you did before. Increase it if you didn't. Use the gas limit that the ICO recommends. Enter any data that you need to. Generate and sign the transaction. Double check that you are connected to an ETH node on MyCrypto. Copy the signed transaction to your clipboard. Send the transaction via MyCrypto. If nothing happens or your browser window decides it's just going to crash right as you press send or your toddler decides to close the window, calmly go back to etherscan.io/pushTx and paste the signed transaction and try to broadcast it again.
 

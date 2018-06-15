@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-25T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -61,7 +61,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Don't ever...but especially not on a computer with keys on them. The number of security holes in these programs is atrocious. You 2FA your entire life, but then let a single string of characters give someone access to your entire computer & every account. ?
 
 ### 12. Install an adblocker that actually turns off Google/Bing Ads.
-*  I recommend going with uBlock Orgin. If you are already using Adblock Plus, it does not hide Google Ads from you. Go into your Adblock Plus settings and uncheck the box that says “Allow some non-intrusive advertising”.
+*  I recommend going with uBlock Origin. If you are already using Adblock Plus, it does not hide Google Ads from you. Go into your Adblock Plus settings and uncheck the box that says “Allow some non-intrusive advertising”.
 
 ### 13. Don’t click on advertisements.
 *  With or without an adblocker, you should never, ever click on advertisements.
@@ -76,7 +76,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 * Neither does that smokin' hot 125px x 125px avatar.
 
 ### 17. Don't use brain wallets
-*  Brain wallets are wallets where the key is derived from a word or phrase you _choose_. Human brains don't have the ability to create high-entropy seeds. Using a phrase that you make up, even if it seems "rare" or "random" is not as secure as using MyCrypto's randomness and these phrases can be bruteforced by the millions. [Read more](https://arstechnica.com/security/2013/10/how-the-bible-and-youtube-are-fueling-the-next-frontier-of-password-cracking/). [And more](https://arstechnica.com/security/2016/02/password-cracking-attacks-on-bitcoin-wallets-net-103000/).  
+*  Brain wallets are wallets where the key is derived from a word or phrase you _choose_. Human brains don't have the ability to create high-entropy seeds. Using a phrase that you make up, even if it seems "rare" or "random" is not as secure as using MyCrypto's randomness and these phrases can be brute forced by the millions. [Read more](https://arstechnica.com/security/2013/10/how-the-bible-and-youtube-are-fueling-the-next-frontier-of-password-cracking/). [And more](https://arstechnica.com/security/2016/02/password-cracking-attacks-on-bitcoin-wallets-net-103000/).  
 
 ### 18. ONLY unlock your wallet when you want to send a transaction. Check your balance via https://etherscan.io/, https://ethplorer.io/
 

@@ -4,7 +4,7 @@
 "category"    : "Transactions",
 "description" : "Transactions",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2017-10-28T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -121,11 +121,11 @@ The reason we recommend `Canceling` over  `Replacing` is that it is not guarante
 
 ### Final Notes
 
-- The TX fee is is NOT paid to us—it is paid to the miners for including your transaction in a block. We are still a free, open-source service.
+- The TX fee is NOT paid to us—it is paid to the miners for including your transaction in a block. We are still a free, open-source service.
 
 - The TX pool varies from node to node. This means that a TX may be pending in `ETH (Infura.io)`'s txpool, but *not* `ETH (MyCrypto)`'s txpool. For this reason, you should try all three nodes we offer.
 
-- If possible, use the same computer / browser that you used to send the transaction. We are working on further mitigating internal differences between our 10 nodes and their 10 txpools. For now, using the same computer / browser will increase liklihood you connect to the same as before if you are using the `ETH (MyCrypto)` node.
+- If possible, use the same computer / browser that you used to send the transaction. We are working on further mitigating internal differences between our 10 nodes and their 10 txpools. For now, using the same computer / browser will increase likelihood you connect to the same as before if you are using the `ETH (MyCrypto)` node.
 
 
 ### Related Articles

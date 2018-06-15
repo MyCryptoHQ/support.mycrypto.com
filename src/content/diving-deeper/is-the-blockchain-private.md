@@ -4,7 +4,7 @@
 "category"    : "Diving Deeper",
 "description" : "Diving Deeper",
 "date_published" : "2018-04-30T08:00:00+08:00",
-"date_modified"  : "2018-04-30T08:00:00+08:00"
+"date_modified"  : "2018-06-10T08:00:00+08:00"
 }
 
 ---%
@@ -39,7 +39,7 @@ Furthermore, if your address becomes linked to your name and has funds in it, it
 
 If an attacker decides they want your funds, they could use information available on the web to attempt to attack you and your accounts, such as [spear-phishing](https://archives.fbi.gov/archives/news/stories/2009/april/spearphishing_040109) or social engineering techniques. If you store your private keys on [Evernote](https://gizmodo.com/2-million-allegedly-stolen-from-cryptocurrency-vlogger-1825290362), Dropbox, [Google Drive](https://medium.com/blockchannel/someone-just-stole-9-000-of-crypto-from-me-dc04e89c289d), or any other cloud-storage or note-taking application, those funds could be stolen if that single account is compromised.
 
-For this reason, it isn’t recommend that you publicly post your address on the internet. If you must publicly use an address, create a new address for that purpose alone. Similarly, do not make it known which or how much  cryptocurrency you hold (or even that you do at all). Just like you don’t leave piles cash laying around your house or post screenshots of your bank account to Facebook, don’t publish your cryptocurrency addresses or screenshots of your balances.
+For this reason, it isn’t recommended that you publicly post your address on the internet. If you must publicly use an address, create a new address for that purpose alone. Similarly, do not make it known which or how much  cryptocurrency you hold (or even that you do at all). Just like you don’t leave piles cash laying around your house or post screenshots of your bank account to Facebook, don’t publish your cryptocurrency addresses or screenshots of your balances.
 
 For more information on how to protect yourself and your funds, [you can visit here](https://support.mycrypto.com/security/).
 
