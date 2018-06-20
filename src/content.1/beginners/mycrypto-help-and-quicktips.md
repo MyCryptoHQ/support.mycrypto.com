@@ -1,10 +1,10 @@
 {
-"title"       : "MyCrypto's QuickTips",
-"sort"        : "45",
-"category"    : "Getting Started",
-"description" : "Getting Started",
+"title"       : "Quick Tips For Beginners",
+"sort"        : "03",
+"category"    : "beginners",
+"description" : "beginners",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-06-07T08:00:00+08:00"
+"date_modified"  : "2018-06-20T08:00:00+08:00"
 }
 
 ---%

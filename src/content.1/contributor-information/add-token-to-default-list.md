@@ -1,10 +1,10 @@
 {
 "title"       : "Adding your Token as a Default Token",
 "sort"        : "60",
-"category"    : "Contributor Info",
-"description" : "Contributor Info",
+"category"    : "Contributor Information",
+"description" : "Contributor Information",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-06-11T08:00:00+08:00"
+"date_modified"  : "2018-06-20T08:00:00+08:00"
 }
 
 ---%

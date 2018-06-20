@@ -1,10 +1,10 @@
 {
 "title"       : "How Can I Help With Translations?",
 "sort"        : "64",
-"category"    : "Contributor Info",
-"description" : "Contributor Info",
+"category"    : "Contributor Information",
+"description" : "Contributor Information",
 "date_published" : "2018-05-24T08:00:00+08:00",
-"date_modified"  : "2018-06-11T08:00:00+08:00"
+"date_modified"  : "2018-06-20T08:00:00+08:00"
 }
 
 ---%

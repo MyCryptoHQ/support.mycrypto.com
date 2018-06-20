@@ -1,10 +1,10 @@
 {
 "title"       : "How do I interact with a Multisig Contract?",
-"sort"        : "20",
-"category"    : "FAQ",
-"description" : "FAQ",
+"sort"        : "01",
+"category"    : "contracts",
+"description" : "contracts",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-11-11T09:07:00+08:00"
+"date_modified"  : "2018-06-20T09:07:00+08:00"
 }
 
 ---%

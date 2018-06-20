@@ -1,10 +1,10 @@
 {
 "title"       : "How To Report A Bug",
 "sort"        : "66",
-"category"    : "Contributor Info",
-"description" : "Contributor Info",
+"category"    : "Contributor Information",
+"description" : "Contributor Information",
 "date_published" : "2017-11-16T08:00:00+08:00",
-"date_modified"  : "2018-06-11T08:00:00+08:00"
+"date_modified"  : "2018-06-20T08:00:00+08:00"
 }
 
 ---%

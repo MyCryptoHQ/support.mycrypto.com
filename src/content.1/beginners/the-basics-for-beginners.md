@@ -1,15 +1,15 @@
 {
-"title" : "Getting Back to the Basics: 10 Tips for Newbies",
-"sort" : "30",
-"category" : "Getting Started",
-"description" : "Getting Started",
+"title" : "The Basics For Beginners",
+"sort" : "02",
+"category" : "beginners",
+"description" : "beginners",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-03-14T08:00:00+08:00"
+"date_modified" : "2018-06-20T08:00:00+08:00"
 }
 
 ---%
 
-### Tips
+### Beginner Tips
 
 1. Never hand-type your address. If you copy and paste your address, do it [incognito]](https://www.wikihow.com/Activate-Incognito-Mode) and still take the time to double check the address. This attack has not been seen yet, but a lot of Chrome extensions have access to the information that you copy and paste. Most extensions do not have access to incognito tabs by default but you can change this in your settings. (Contributed by @RaymondDurk - Thank You!)
 

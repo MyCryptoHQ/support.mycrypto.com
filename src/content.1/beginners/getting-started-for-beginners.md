@@ -1,10 +1,10 @@
 {
 "title"       : "Getting Started on MyCrypto.com",
 "sort"        : "01",
-"category"    : "Getting Started",
-"description" : "Getting Started",
+"category"    : "beginners",
+"description" : "beginners",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2018-46-20T08:00:00+17:30"
+"date_modified"  : "2018-06-20T08:00:00+17:30"
 }
 
 ---%

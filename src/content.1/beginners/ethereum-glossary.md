@@ -1,15 +1,15 @@
 {
-"title" : "A Glossary of Common Terms in the Ethereum / Crypto Space",
-"sort" : "35",
-"category" : "Getting Started",
+"title" : "Important Terms To Know",
+"sort" : "05",
+"category" : "Beginners",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-05-27T08:00:00+08:00"
+"date_modified" : "2018-06-20T08:00:00+08:00"
 }
 
 ---%
 
-## Words are Hard
+## A Glossary of Important Terms To Know
 
 This is a list of terms you might encounter when using the MyCrypto interface.
 
