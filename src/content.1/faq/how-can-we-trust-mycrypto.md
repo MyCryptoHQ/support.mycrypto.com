@@ -1,8 +1,8 @@
 {
 "title"       : "How can we trust MyCrypto?",
 "sort"        : "80",
-"category"    : "Security & Phishing",
-"description" : "How can we be sure MyCrypto.com is safe? Many people thought Parity was safe and the Parity problem is sort of jarring. How can we trust MyCrypto?",
+"category"    : "FAQ",
+"description" : "FAQ"
 "date_published" : "2017-11-23T08:00:00+08:00",
 "date_modified"  : "2018-06-07T08:00:00+08:00"
 }

@@ -1,8 +1,8 @@
 {
 "title"       : "What to do When You Lose it All Trading Margin",
 "sort"        : "14",
-"category"    : "Best Of",
-"description" : "Best Of",
+"category"    : "Diving Deeper",
+"description" : "Diving Deeper",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

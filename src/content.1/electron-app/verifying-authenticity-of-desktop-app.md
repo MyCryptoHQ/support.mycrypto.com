@@ -1,8 +1,8 @@
 {
 "title"       : "Verifying the Authenticity of the Desktop Application",
 "sort"        : "50",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Electron Application",
+"description" : "Electron Application",
 "date_published" : "2018-05-01T08:00:00+08:00",
 "date_modified"  : "2018-06-07T08:00:00+08:00"
 }

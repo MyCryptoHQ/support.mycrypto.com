@@ -1,8 +1,8 @@
 {
 "title"       : "What's the Difference Between an Exchange and MyCrypto?",
 "sort"        : "40",
-"category"    : "Getting Started",
-"description" : "Getting Started",
+"category"    : "FAQ",
+"description" : "FAQ",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified"  : "2017-09-13T08:00:00+08:00"
 }

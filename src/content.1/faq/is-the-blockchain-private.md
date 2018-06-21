@@ -1,8 +1,8 @@
 {
 "title"       : "Is the Blockchain Private?",
 "sort"        : "80",
-"category"    : "Diving Deeper",
-"description" : "Diving Deeper",
+"category"    : "FAQ",
+"description" : "FAQ",
 "date_published" : "2018-04-30T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

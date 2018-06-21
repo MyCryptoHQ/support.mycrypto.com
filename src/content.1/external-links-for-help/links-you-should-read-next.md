@@ -1,8 +1,8 @@
 {
 "title"       : "Links you Should Read Next",
 "sort"        : "10",
-"category"    : "Diving Deeper",
-"description" : "Diving Deeper",
+"category"    : "External Links for Help",
+"description" : "External Links for Help",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-03-02T08:00:00+08:00"
 }
