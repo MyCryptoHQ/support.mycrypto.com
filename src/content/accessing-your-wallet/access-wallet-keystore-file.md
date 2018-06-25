@@ -8,8 +8,8 @@
 }
 
 ---%
-## Important Information
 
+## Important Information
 We do not recommend that you access your wallet via Keystore file.
 
 **Why?**
@@ -20,6 +20,12 @@ Keystore files are vulnerable for two reasons:
 2. Not recoverable if Lost or Forgotten
     * MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly.
     * If you lose the keystore file or forget the password, there is almost no guarantee that you will ever gain access back to the wallet
+
+### What is a Keystore File?
+
+A keystore file (sometimes called a UTC gile) in Ethereum is an encrypted version of your private key. They are generated using your private key and a password that you use to encrypt it. If you open up your keystore file in a text editor it contains data pertaining to the encryption of the private key.
+
+*Note: Your keystore file has a .json file extension. If you try to convert it to any other file extension, then it may break when you try to convert it back. Don't do this. If you want to understand the contents of your json file, referece this [medium article by Julien.Maffre](https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97).*
 
 ### Accessing your Wallet
 
