@@ -1,6 +1,6 @@
 {
 "title"       : "Importing a bid created in MyCrypto into ENS and vice-versa",
-"sort"        : "010",
+"sort"        : "30",
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2018-02-14T08:00:00+08:00",

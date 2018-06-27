@@ -1,6 +1,6 @@
 {
 "title"       : "What Is An ICO?",
-"sort"        : "15",
+"sort"        : "25",
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-12-04T08:00:00+08:00",

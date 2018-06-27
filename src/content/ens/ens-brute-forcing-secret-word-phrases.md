@@ -1,6 +1,6 @@
 {
 "title"       : "Brute-Forcing Secret Word Phrases",
-"sort"        : "16",
+"sort"        : "31",
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-07-05T08:00:00+08:00",

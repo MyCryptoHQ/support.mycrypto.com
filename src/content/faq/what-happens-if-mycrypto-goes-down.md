@@ -1,6 +1,6 @@
 {
 "title"       : "What happens if MyCrypto goes down?",
-"sort"        : "18",
+"sort"        : "05",
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-06-20T08:00:00+08:00",

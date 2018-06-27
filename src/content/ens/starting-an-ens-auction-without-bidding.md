@@ -1,6 +1,6 @@
 {
 "title"       : "Starting an Auction without Bidding",
-"sort"        : "14",
+"sort"        : "24",
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-05-05T08:00:00+08:00",
