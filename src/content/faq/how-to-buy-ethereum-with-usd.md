@@ -4,7 +4,7 @@
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-03-26T08:00:00+08:00"
+"date_modified"  : "2018-06-26T08:00:00+08:00"
 }
 
 ---%
@@ -67,7 +67,7 @@ In Ethereum Wallet, go to the top bar and find `ACCOUNTS` -> `BACKUP` -> `ACCOUN
 
 If you already have BTC, you can use Shapeshift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for Shapeshift.)
 
-Then create a Ethereum Wallet account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
+Then create an Ethereum Wallet account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
 
 
 
@@ -104,7 +104,27 @@ I have outlined the steps above like you should do it all as fast as possible. S
 
 
 
-### Enjoy!
+### How to Use the MyCrypto Coinbase Widget
+
+The Coinbase widget is visible on your "View & Send" screen just below your address information. See below.
+
+![](https://i.imgur.com/k0moemj.png)
+
+Just click on the widget and you will be re-directed to a new tab with the window below. Double-Check that you are on the "Secure" Coinbase URL.
+
+![](https://i.imgur.com/YfdgA1b.png)
+
+For NEW Coinbase Accounts - Enter your email address and follow the directions to register and verify your account and device. Once you have successfully created your account, you MAY need to go back to the Coinbase Widget and enter the email address connected with the Coinbase account that you just created. 
+
+![](https://i.imgur.com/qIswrmN.png)
+
+For CURRENT and VALID Coinbase Accounts - Enter the email address associated with your Coinbase account along with your password, then you should be directed to the screen below.
+
+![](https://i.imgur.com/VBKBlq3.png)
+
+For any questions or issues on How to Buy ETH with USD via the MyCrypto Coinbase widget, please contact Coinbase directly.
+
+[Coinbase](https://www.coinbase.com/) : [Support](https://support.coinbase.com/)
 
 ---
 
