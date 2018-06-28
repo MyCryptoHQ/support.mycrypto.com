@@ -1,8 +1,8 @@
 {
 "title"       : "When I unlock via keystore file, it freezes my browser",
 "sort"        : "24",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Keystore Wallet",
+"description" : "Keystore Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2017-06-20T08:00:00+08:00"
 }

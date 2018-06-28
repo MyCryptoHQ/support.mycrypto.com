@@ -1,8 +1,8 @@
 {
 "title"       : "Cannot see the Extended Validation ('MyCrypto, Inc.') Certificate",
 "sort"        : "85",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Security Phishing & Scams",
+"description" : "Security Phishing & Scams",
 "date_published" : "2017-12-28T08:00:00+08:00",
 "date_modified"  : "2018-06-07T08:00:00+08:00"
 }

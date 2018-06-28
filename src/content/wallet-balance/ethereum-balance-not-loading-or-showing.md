@@ -1,8 +1,8 @@
 {
 "title"       : "Balances not loading or showing on MyCrypto",
 "sort"        : "02",
-"category"    : "Addresses & Balances",
-"description" : "Addresses & Balances",
+"category"    : "Wallet Balance",
+"description" : "Wallet Balance",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2018-03-29T08:00:00+08:00"
 }

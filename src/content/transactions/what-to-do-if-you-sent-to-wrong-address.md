@@ -1,8 +1,8 @@
 {
 "title"       : "What to do if you sent to the wrong address",
 "sort"        : "03",
-"category"    : "Sending & Receiving",
-"description" : "Sending & Receiving",
+"category"    : "Transactions",
+"description" : "Transactions",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

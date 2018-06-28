@@ -1,8 +1,8 @@
 {
 "title"       : "[MyCrypto ➡ Parity] Access your MyCrypto account in Parity",
 "sort"        : "03",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "Other Wallets",
+"description" : "Other Wallets",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-04-10T08:00:00+08:00"
 }

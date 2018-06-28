@@ -1,8 +1,8 @@
 {
 "title"       : "Can I turn on 2FA for MyCrypto?",
 "sort"        : "50",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Security Backup Your Wallet",
+"description" : "Security Backup Your Wallet",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

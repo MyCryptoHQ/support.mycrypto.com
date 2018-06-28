@@ -1,8 +1,8 @@
 {
 "title"       : "Securely Store & Guard Your Private Key by drewshaver",
 "sort"        : "55",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Security Backup Your Wallet",
+"description" : "Security Backup Your Wallet",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

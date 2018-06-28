@@ -1,8 +1,8 @@
 {
 "title"       : "How do (encrypted) mnemonic phrases work?",
 "sort"        : "40",
-"category"    : "Private Keys & Passwords",
-"description" : "Private Keys & Passwords",
+"category"    : "Mnemonic Wallet",
+"description" : "Mnemonic Wallet",
 "date_published" : "2018-06-20T08:00:00+08:00",
 "date_modified"  : "2018-06-20T08:00:00+08:00"
 }

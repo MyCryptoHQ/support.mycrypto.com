@@ -1,8 +1,8 @@
 {
 "title"       : "How to buy Ethereum (ETH) with USD",
 "sort"        : "12",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Swap",
+"description" : "Swap",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2018-06-26T08:00:00+08:00"
 }

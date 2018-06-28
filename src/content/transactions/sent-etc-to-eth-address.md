@@ -1,8 +1,8 @@
 {
 "title" : "Access ETH sent to ETC address or ETC sent to ETH address",
 "sort" : "02",
-"category" : "Networks & Nodes",
-"description" : "Networks & Nodes",
+"category" : "Transactions",
+"description" : "Transactions",
 "date_published" : "2017-12-23T08:00:00+08:00",
 "date_modified" : "2018-04-26T08:00:00+08:00"
 }

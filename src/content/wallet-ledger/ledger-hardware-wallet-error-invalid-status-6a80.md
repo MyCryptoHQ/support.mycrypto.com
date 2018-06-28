@@ -1,8 +1,8 @@
 {
 "title" : "Ledger: Invalid status 6a80",
 "sort" : "16",
-"category" : "Hardware Wallets",
-"description" : "Hardware Wallets",
+"category" : "Ledger Wallet",
+"description" : "Ledger Wallet",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified" : "2017-09-13T08:00:00+08:00"
 }

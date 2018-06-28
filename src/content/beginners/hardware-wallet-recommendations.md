@@ -1,8 +1,8 @@
 {
 "title"       : "Hardware Wallet Recommendations For Newcommers",
 "sort"        : "20",
-"category"    : "beginners",
-"description" : "beginners",
+"category"    : "Beginners",
+"description" : "Beginners",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified"  : "2018-06-20T08:00:00+08:00"
 }

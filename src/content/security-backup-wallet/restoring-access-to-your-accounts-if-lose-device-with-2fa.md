@@ -1,8 +1,8 @@
 {
 "title"       : "How to restore access to your accounts if you lose/destroy your device w/ Google Authenticator (2FA)",
 "sort"        : "65",
-"category"    : "Best Of",
-"description" : "Best Of",
+"category"    : "Security Backup Your Wallet",
+"description" : "Security Backup Your Wallet",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

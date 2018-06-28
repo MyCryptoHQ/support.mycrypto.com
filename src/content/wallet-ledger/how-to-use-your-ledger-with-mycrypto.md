@@ -1,8 +1,8 @@
 {
 "title"       : "How to use your Ledger Hardware Wallet with MyCrypto",
 "sort"        : "02",
-"category"    : "Accessing your Wallet",
-"description"    : "Accessing your Wallet",
+"category"    : "Ledger Wallet",
+"description"    : "Ledger Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
 "date_modified"  : "2018-04-18T09:07:00+08:00"
 }

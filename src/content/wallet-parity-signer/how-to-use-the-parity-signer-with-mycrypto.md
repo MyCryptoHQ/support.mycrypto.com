@@ -1,8 +1,8 @@
 {
 "title"       : "How to use the Parity Signer with MyCrypto",
 "sort"        : "04",
-"category"    : "Accessing your Wallet",
-"description"    : "Accessing your Wallet",
+"category"    : "Parity Signer Wallet",
+"description"    : "Parity Signer Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
 "date_modified"  : "2018-04-26T09:07:00+08:00"
 }

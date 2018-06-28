@@ -1,8 +1,8 @@
 {
 "title"       : "Protecting Yourself and Your Funds",
 "sort"        : "10",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Security Backup Your Wallet",
+"description" : "Security Backup Your Wallet",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

@@ -1,8 +1,8 @@
 {
 "title"       : "FAQ: Unable to Connect Hardware Wallet on MyCrypto",
 "sort"        : "30",
-"category"    : "Hardware Wallets",
-"description" : "Hardware Wallets",
+"category"    : "Ledger Wallet",
+"description" : "Ledger Wallet",
 "date_published" : "2017-07-15T08:00:00+08:00",
 "date_modified"  : "2018-02-19T08:00:00+08:00"
 }

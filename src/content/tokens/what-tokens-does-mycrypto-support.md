@@ -1,8 +1,8 @@
 {
 "title"       : "Does MyCrypto support Bitcoin or other coins (LTC STEEM ZEC)?",
 "sort"        : "06",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Tokens",
+"description" : "Tokens",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2017-06-20T08:00:00+08:00"
 }

@@ -1,8 +1,8 @@
 {
 "title"       : "Do you have a minimum requirement to transfer out of MyCrypto?",
 "sort"        : "08",
-"category"    : "Gas & Transaction Fees",
-"description" : "Gas & Transaction Fees",
+"category"    : "Transactions",
+"description" : "Transactions",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

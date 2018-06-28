@@ -1,8 +1,8 @@
 {
 "title"       : "[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger",
 "sort"        : "02",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "Ledger Wallet",
+"description" : "Ledger Wallet",
 "date_published" : "2017-10-08T08:00:00+08:00",
 "date_modified"  : "2018-05-11T08:00:00+08:00"
 }

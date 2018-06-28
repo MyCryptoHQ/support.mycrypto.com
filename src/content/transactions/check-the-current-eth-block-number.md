@@ -1,8 +1,8 @@
 {
 "title"       : "Check the current block number on MyCrypto",
 "sort"        : "22",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Transactions",
+"description" : "Transactions",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

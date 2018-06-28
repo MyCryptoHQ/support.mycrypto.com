@@ -1,8 +1,8 @@
 {
 "title"       : "Why You Should Backup Your Hardware Wallet",
 "sort"        : "05",
-"category"    : "Hardware Wallets",
-"description" : "Hardware Wallets",
+"category"    : "Security Backup Your Wallet",
+"description" : "Security Backup Your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
 "date_modified"  : "2018-04-18T08:00:00+08:00"
 }

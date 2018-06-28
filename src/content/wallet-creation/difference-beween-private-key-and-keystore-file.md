@@ -1,8 +1,8 @@
 {
 "title" : "Differences between wallet types (e.g. private key vs keystore)",
 "sort" : "12",
-"category" : "FAQ",
-"description" : "FAQ",
+"category" : "Wallet Creation",
+"description" : "Wallet Creation",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified" : "2018-06-10T08:00:00+08:00"
 }

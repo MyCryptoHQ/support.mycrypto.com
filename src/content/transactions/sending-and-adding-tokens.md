@@ -1,8 +1,8 @@
 {
 "title"       : "Sending & Adding Tokens",
 "sort"        : "06",
-"category"    : "Sending & Receiving",
-"description" : "Sending & Receiving",
+"category"    : "Transactions",
+"description" : "Transactions",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-01-03T08:00:00+08:00"
 }

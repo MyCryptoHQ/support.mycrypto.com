@@ -1,8 +1,8 @@
 {
 "title"       : "What To Do If Your Funds Are Stolen",
 "sort"        : "20",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Security Phishing & Scams",
+"description" : "Security Phishing & Scams",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-02-19T08:00:00+08:00"
 }

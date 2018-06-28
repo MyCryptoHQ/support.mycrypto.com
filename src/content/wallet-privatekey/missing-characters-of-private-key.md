@@ -1,8 +1,8 @@
 {
 "title"       : "Missing characters from private key.",
 "sort"        : "50",
-"category"    : "Private Keys & Passwords",
-"description" : "Private Keys & Passwords",
+"category"    : "Private Key Wallet",
+"description" : "Private Key Wallet",
 "date_published" : "2017-12-12T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

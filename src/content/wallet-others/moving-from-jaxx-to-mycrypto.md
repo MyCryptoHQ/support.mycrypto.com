@@ -1,8 +1,8 @@
 {
 "title"       : "[Jaxx ➡ MyCrypto] Access your Jaxx account on MyCrypto",
 "sort"        : "06",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "Other Wallets",
+"description" : "Other Wallets",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-05-11T08:00:00+08:00"
 }

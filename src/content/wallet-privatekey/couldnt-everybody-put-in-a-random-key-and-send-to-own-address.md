@@ -1,8 +1,8 @@
 {
 "title"       : "Couldn't everybody type in random private keys & steal funds?",
 "sort"        : "65",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Private Key Wallet",
+"description" : "Private Key Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2017-06-20T08:00:00+08:00"
 }

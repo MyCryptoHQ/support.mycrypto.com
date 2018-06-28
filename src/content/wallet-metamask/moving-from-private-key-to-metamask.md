@@ -1,8 +1,8 @@
 {
 "title"       : "[MyCrypto ➡ MetaMask] Moving from MyCrypto to MetaMask",
 "sort"        : "01",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "MetaMask Wallet",
+"description" : "MetaMask Wallet",
 "date_published" : "2017-10-08T08:00:00+08:00",
 "date_modified"  : "2018-05-27T08:00:00+08:00"
 }

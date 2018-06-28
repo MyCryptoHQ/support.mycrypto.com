@@ -1,8 +1,8 @@
 {
 "title"       : "Importing a V2 JSON file",
 "sort"        : "14",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "Keystore Wallet",
+"description" : "Keystore Wallet",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified"  : "2018-05-11T08:00:00+08:00"
 }

@@ -1,8 +1,8 @@
 {
 "title"       : "Using a Ledger Wallet Offline",
 "sort"        : "08",
-"category"    : "Offline",
-"description" : "Offline",
+"category"    : "Ledger Wallet",
+"description" : "Ledger Wallet",
 "date_published" : "2018-02-15T08:00:00+08:00",
 "date_modified"  : "2018-05-10T09:07:00+08:00"
 }

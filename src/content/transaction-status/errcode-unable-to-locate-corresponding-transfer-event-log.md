@@ -1,8 +1,8 @@
 {
 "title"       : "Error: Unable to locate corresponding Transfer event log",
 "sort"        : "50",
-"category"    : "Tokens",
-"description" : "Tokens",
+"category"    : "Transaction Status",
+"description" : "Transaction Status",
 "date_published" : "2018-01-25T08:00:00+08:00",
 "date_modified"  : "2018-01-25T08:00:00+08:00"
 }

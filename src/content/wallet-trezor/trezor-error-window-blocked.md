@@ -1,8 +1,8 @@
 {
 "title"       : "TREZOR: Window Blocked Before Confirming Transaction",
 "sort"        : "10",
-"category"    : "Hardware Wallets",
-"description" : "Hardware Wallets",
+"category"    : "Trezor Wallet",
+"description" : "Trezor Wallet",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified"  : "2017-11-11T08:00:00+08:00"
 }

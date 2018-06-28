@@ -1,8 +1,8 @@
 {
 "title"       : "How to Use MetaMask with MyCrypto",
 "sort"        : "01",
-"category"    : "Accessing your Wallet",
-"description"    : "Accessing your Wallet",
+"category"    : "Private Key Wallet",
+"description"    : "APrivate Key Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
 "date_modified"  : "2018-06-07T09:07:00+08:00"
 }

@@ -1,8 +1,8 @@
 {
 "title"       : "Running MyCrypto w/ your own, personal node",
 "sort"        : "08",
-"category"    : "Networks & Nodes",
-"description" : "Networks & Nodes",
+"category"    : "Networks and Nodes",
+"description" : "Networks and Nodes",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified" : "2018-05-17T08:00:00+08:00"
 }

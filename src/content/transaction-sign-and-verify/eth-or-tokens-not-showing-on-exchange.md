@@ -1,8 +1,8 @@
 {
 "title"       : "ETH or Tokens sent to or from exchange haven't shown up",
 "sort"        : "04",
-"category"    : "Addresses & Balances",
-"description" : "Addresses & Balances",
+"category"    : "Sign and Verify",
+"description" : "Sign and Verify",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified"  : "2018-04-04T08:00:00+08:00"
 }

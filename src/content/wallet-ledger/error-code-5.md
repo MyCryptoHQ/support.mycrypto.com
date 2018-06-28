@@ -1,8 +1,8 @@
 {
 "title" : "Ledger: Error Code 5",
 "sort" : "18",
-"category" : "Hardware Wallets",
-"description" : "Hardware Wallets",
+"category" : "Ledger Wallet",
+"description" : "Ledger Wallet",
 "date_published" : "2018-01-01T08:00:00+08:00",
 "date_modified" : "2018-01-01T08:00:00+08:00"
 }

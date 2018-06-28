@@ -1,8 +1,8 @@
 {
 "title" : "How to Access Your Wallet with Mnemonic Phrase",
 "sort" : "15",
-"category" : "Accessing your Wallet",
-"description" : "Accessing your Wallet",
+"category" : "Mnemonic Wallet",
+"description" : "Mnemonic Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
 "date_modified" : "2018-06-07T08:00:00+08:00"
 }

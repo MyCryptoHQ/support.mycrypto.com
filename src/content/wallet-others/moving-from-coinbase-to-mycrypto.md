@@ -1,8 +1,8 @@
 {
 "title"       : "[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto",
 "sort"        : "08",
-"category"    : "Migrating to/from MyCrypto",
-"description" : "Migrating to/from MyCrypto",
+"category"    : "Other Wallets",
+"description" : "Other Wallets",
 "date_published" : "2015-07-15T08:00:00+08:00",
 "date_modified"  : "2018-04-16T08:00:00+08:00"
 }

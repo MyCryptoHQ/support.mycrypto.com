@@ -1,8 +1,8 @@
 {
 "title" : "Change your wallet password (Unencrypted -> Encrypted)",
 "sort" : "02",
-"category" : "Private Keys & Passwords",
-"description" : "Private Keys & Passwords",
+"category" : "Private Key Wallet",
+"description" : "Private Key Wallet",
 "date_published" : "2017-10-08T08:00:00+08:00",
 "date_modified" : "2018-05-17T08:00:00+08:00"
 }

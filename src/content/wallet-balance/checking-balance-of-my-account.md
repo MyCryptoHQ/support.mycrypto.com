@@ -1,8 +1,8 @@
 {
 "title" : "Checking the Balance of Your Account",
 "sort" : "25",
-"category" : "Getting Started",
-"description" : "Getting Started",
+"category" : "Wallet Balance",
+"description" : "Wallet Balance",
 "date_published" : "2015-10-05T08:00:00+08:00",
 "date_modified" : "2018-03-31T08:00:00+08:00"
 }

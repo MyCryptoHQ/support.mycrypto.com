@@ -1,8 +1,8 @@
 {
 "title"       : "How to Avoid Getting Scammed & Phished",
 "sort"        : "75",
-"category"    : "Security & Phishing",
-"description" : "Security & Phishing",
+"category"    : "Security Phishing & Scams",
+"description" : "Security Phishing & Scams",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-02-28T08:00:00+08:00"
 }

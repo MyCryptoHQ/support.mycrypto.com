@@ -1,8 +1,8 @@
 {
 "title"       : "Best Ways to Avoid Missing Out on That ICO",
 "sort"        : "18",
-"category"    : "Best Of",
-"description" : "Best Of",
+"category"    : "Tokens",
+"description" : "Tokens",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2018-06-10T08:00:00+08:00"
 }

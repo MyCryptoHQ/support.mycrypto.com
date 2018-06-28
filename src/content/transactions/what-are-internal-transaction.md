@@ -1,8 +1,8 @@
 {
 "title"       : "What are Internal Transactions",
 "sort"        : "100",
-"category"    : "FAQ",
-"description" : "FAQ",
+"category"    : "Transactions",
+"description" : "Transactions",
 "date_published" : "2018-02-06T08:00:00+08:00",
 "date_modified"  : "2018-02-06T08:00:00+08:00"
 }

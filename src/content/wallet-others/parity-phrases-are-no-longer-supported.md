@@ -1,8 +1,8 @@
 {
 "title"       : "Parity Phrases No Longer Supported",
 "sort"        : "99",
-"category"    : "Private Keys & Passwords",
-"description" : "Private Keys & Passwords",
+"category"    : "Other Wallets",
+"description" : "Other Wallets",
 "date_published" : "2017-07-05T08:00:00+08:00",
 "date_modified"  : "2017-09-26T08:00:00+08:00"
 }

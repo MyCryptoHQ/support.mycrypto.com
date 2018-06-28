@@ -3,8 +3,8 @@
 "sort"        : "05",
 "category"    : "FAQ",
 "description" : "FAQ"
-"date_published" : "2017-11-23T08:00:00+08:00",
-"date_modified"  : "2018-06-07T08:00:00+08:00"
+"date_published" : "2015-10-05T08:00:00+08:00",
+"date_modified" : "2018-06-20T08:00:00+08:00"
 }
 
 ---%

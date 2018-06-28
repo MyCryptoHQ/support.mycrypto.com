@@ -1,8 +1,8 @@
 {
 "title"       : "Lost Private Key",
 "sort"        : "04",
-"category"    : "Private Keys & Passwords",
-"description" : "Private Keys & Passwords",
+"category"    : "Private Key Wallet",
+"description" : "Private Key Wallet",
 "date_published" : "2017-10-08T08:00:00+08:00",
 "date_modified" : "2018-06-07T08:00:00+08:00"
 }
