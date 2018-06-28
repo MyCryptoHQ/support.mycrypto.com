@@ -21,7 +21,7 @@ function beginSearch( btnElement ) {
 function showSearchSuccess( query, results ) {
   clearSearchResults()
   $('.result__outer').show()
-  $('.search__success').html('There are '+ results.length +' results for your search <strong>'+ query + '</strong>')
+  $('.search__success').html('There are '+results.length+' results for your search query');
   $('.search__success').show()
 }
 
