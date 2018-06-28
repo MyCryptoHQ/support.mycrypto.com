@@ -1,12 +1,11 @@
 {
-"title"       : "Accessing & Sending MUSICOIN via MyCrypto",
-"sort"        : "05",
-"category"    : "Networks and Nodes",
-"description" : "Networks and Nodes",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified" : "2018-04-26T08:00:00+08:00"
+ "title": "Accessing & Sending MUSICOIN via MyCrypto",
+ "sort": "05",
+ "category": "Networks and Nodes",
+ "description": "Networks and Nodes",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-04-26T08:00:00+08:00"
 }
-
 ---%
 
 

@@ -1,12 +1,11 @@
 {
-"title"          : "How Do I Know What Gas Price/Gas Limit to Use?",
-"sort"           : "100",
-"category"       : "Transactions",
-"description"    : "Transactions",
-"date_published" : "2018-02-06T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+ "title": "How Do I Know What Gas Price/Gas Limit to Use?",
+ "sort": "100",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2018-02-06T08:00:00+08:00",
+ "date_modified": "2018-02-19T08:00:00+08:00"
 }
-
 ---%
 
 If you encounter the following error "Warning! Error encountered during contract execution [Out of Gas], you can use the following steps below to determine the gas limit needed for your transaction.

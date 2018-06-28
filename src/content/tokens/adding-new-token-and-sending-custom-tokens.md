@@ -1,12 +1,11 @@
 {
-"title"       : "Unable to See Tokens (How to Add a Custom Token)",
-"sort"        : "20",
-"category"    : "Tokens",
-"description" : "Tokens",
-"date_published" : "2017-01-25T08:00:00+08:00",
-"date_modified"  : "2018-05-25T08:00:00+08:00"
+ "title": "Unable to See Tokens (How to Add a Custom Token)",
+ "sort": "20",
+ "category": "Tokens",
+ "description": "Tokens",
+ "date_published": "2017-01-25T08:00:00+08:00",
+ "date_modified": "2018-05-25T08:00:00+08:00"
 }
-
 ---%
 
 ## I Can't See My Token! How to Add a New ERC-20 Token

@@ -1,12 +1,11 @@
 {
-"title" : "How to Access Your Wallet with Keystore File",
-"sort" : "15",
-"category" : "Keystore Wallet",
-"description" : "Keystore Wallet",
-"date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified" : "2018-06-07T08:00:00+08:00"
+ "title": "How to Access Your Wallet with Keystore File",
+ "sort": "15",
+ "category": "Keystore Wallet",
+ "description": "Keystore Wallet",
+ "date_published": "2017-06-20T08:00:00+08:00",
+ "date_modified": "2018-06-07T08:00:00+08:00"
 }
-
 ---%
 
 ## Important Information

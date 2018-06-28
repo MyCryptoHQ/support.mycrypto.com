@@ -1,12 +1,11 @@
 {
-"title"       : "How to sign & verify messages on Ethereum",
-"sort"        : "04",
-"category"    : "Sign and Verify",
-"description" : "Sign and Verify",
-"date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-05-27T08:00:00+08:00"
+ "title": "How to sign & verify messages on Ethereum",
+ "sort": "04",
+ "category": "Sign and Verify",
+ "description": "Sign and Verify",
+ "date_published": "2018-04-18T08:00:00+08:00",
+ "date_modified": "2018-05-27T08:00:00+08:00"
 }
-
 ---%
 
 

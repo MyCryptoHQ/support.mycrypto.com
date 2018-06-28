@@ -1,12 +1,11 @@
 {
-"title"       : "Lost Password - Ethereum Presale Wallet File",
-"sort"        : "16",
-"category"    : "Other Wallets",
-"description" : "Other Wallets",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-02-25T08:00:00+08:00"
+ "title": "Lost Password - Ethereum Presale Wallet File",
+ "sort": "16",
+ "category": "Other Wallets",
+ "description": "Other Wallets",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-02-25T08:00:00+08:00"
 }
-
 ---%
 
 Important note; This article is talking about presale wallets, for regular wallets take a look at the [Lost Password](https://support.mycrypto.com/private-keys-passwords/lost-ethereum-wallet-password.html) article.

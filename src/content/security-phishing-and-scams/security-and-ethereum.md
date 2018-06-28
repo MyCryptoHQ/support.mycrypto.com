@@ -1,12 +1,11 @@
 {
-"title"       : "Improving Security on Ethereum",
-"sort"        : "10",
-"category"    : "Security Phishing & Scams",
-"description" : "Security Phishing & Scams",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Improving Security on Ethereum",
+ "sort": "10",
+ "category": "Security Phishing & Scams",
+ "description": "Security Phishing & Scams",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 

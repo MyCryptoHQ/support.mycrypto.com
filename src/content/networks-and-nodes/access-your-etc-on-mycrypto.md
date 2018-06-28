@@ -1,12 +1,11 @@
 {
-"title" : "I Accidentally Sent ETC to My ETH account!",
-"sort" : "01",
-"category" : "Networks and Nodes",
-"description" : "Networks and Nodes",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified" : "2018-04-26T08:00:00+08:00"
+ "title": "I Accidentally Sent ETC to My ETH account!",
+ "sort": "01",
+ "category": "Networks and Nodes",
+ "description": "Networks and Nodes",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-04-26T08:00:00+08:00"
 }
-
 ---%
 
 _I sent ETC to my ETH wallet by mistake._

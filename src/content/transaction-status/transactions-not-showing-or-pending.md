@@ -1,12 +1,11 @@
 {
-"title"       : "Transactions are Not Showing Up or Pending Forever",
-"sort"        : "01",
-"category"    : "Transaction Status",
-"description" : "Transaction Status",
-"date_published" : "2017-12-07T08:00:00+08:00",
-"date_modified"  : "2018-02-25T08:00:00+08:00"
+ "title": "Transactions are Not Showing Up or Pending Forever",
+ "sort": "01",
+ "category": "Transaction Status",
+ "description": "Transaction Status",
+ "date_published": "2017-12-07T08:00:00+08:00",
+ "date_modified": "2018-02-25T08:00:00+08:00"
 }
-
 ---%
 
 

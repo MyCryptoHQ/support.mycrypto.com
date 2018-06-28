@@ -1,12 +1,11 @@
 {
-"title"       : "Adding Support for a Web3 Wallet",
-"sort"        : "30",
-"category"    : "Contributor Information",
-"description" : "Contributor Information",
-"date_published" : "2018-05-29T08:00:00+08:00",
-"date_modified"  : "2018-06-20T08:00:00+08:00"
+ "title": "Adding Support for a Web3 Wallet",
+ "sort": "30",
+ "category": "Contributor Information",
+ "description": "Contributor Information",
+ "date_published": "2018-05-29T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+08:00"
 }
-
 ---%
 
 ## Identifying Your Provider

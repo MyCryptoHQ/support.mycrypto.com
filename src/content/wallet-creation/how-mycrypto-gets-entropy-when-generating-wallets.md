@@ -1,12 +1,11 @@
 {
-"title"       : "Ethereum Account Generation & How MyCrypto gets Entropy",
-"sort"        : "02",
-"category"    : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-25T08:00:00+08:00"
+ "title": "Ethereum Account Generation & How MyCrypto gets Entropy",
+ "sort": "02",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-02-25T08:00:00+08:00"
 }
-
 ---%
 
 

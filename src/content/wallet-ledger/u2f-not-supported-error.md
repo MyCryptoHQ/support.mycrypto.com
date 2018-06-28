@@ -1,12 +1,11 @@
 {
-"title" : "U2F not supported error",
-"sort" : "20",
-"category" : "Ledger Wallet",
-"description" : "Ledger Wallet",
-"date_published" : "2018-06-25T08:00:00+08:00",
-"date_modified" : "2018-06-25T08:00:00+08:00"
+ "title": "U2F not supported error",
+ "sort": "20",
+ "category": "Ledger Wallet",
+ "description": "Ledger Wallet",
+ "date_published": "2018-06-25T08:00:00+08:00",
+ "date_modified": "2018-06-25T08:00:00+08:00"
 }
-
 ---%
 
 If you see the "U2F not supported" error, this means that your browser does not (properly) support the U2F protocol. This protocol is used by MyCrypto to connect with your hardware wallet.

@@ -1,12 +1,11 @@
 {
-"title" : "Differences between wallet types (e.g. private key vs keystore)",
-"sort" : "12",
-"category" : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified" : "2018-06-10T08:00:00+08:00"
+ "title": "Differences between wallet types (e.g. private key vs keystore)",
+ "sort": "12",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 _What are the different types of private key formats that I can use to access my wallet?_

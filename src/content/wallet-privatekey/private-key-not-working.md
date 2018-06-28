@@ -1,12 +1,11 @@
 {
-"title"       : "Private Key Not Working",
-"sort"        : "10",
-"category"    : "Private Key Wallet",
-"description" : "Private Key Wallet",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Private Key Not Working",
+ "sort": "10",
+ "category": "Private Key Wallet",
+ "description": "Private Key Wallet",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 Be sure there is no space at the beginning or end of your private key. We validate based on the number of characters. If you saved another version (for example, the UTC / Keystore file) it may also be worth trying that file as well.
 

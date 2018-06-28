@@ -1,12 +1,11 @@
 {
-"title"       : "Setting the resolver for an ENS name",
-"sort"        : "06",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-05-05T08:00:00+08:00",
-"date_modified"  : "2017-05-05T08:00:00+08:00"
+ "title": "Setting the resolver for an ENS name",
+ "sort": "06",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-05-05T08:00:00+08:00",
+ "date_modified": "2017-05-05T08:00:00+08:00"
 }
-
 ---%
 
 

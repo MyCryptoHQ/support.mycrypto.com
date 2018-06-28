@@ -1,12 +1,11 @@
 {
-"title"       : "Transaction Failed: TX Fee not Refunded",
-"sort"        : "08",
-"category"    : "Transactions",
-"description" : "Transactions",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Transaction Failed: TX Fee not Refunded",
+ "sort": "08",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 

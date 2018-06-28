@@ -1,12 +1,11 @@
 {
-"title"       : "Getting Through The Tough Times",
-"sort"        : "30",
-"category"    : "Diving Deeper",
-"description" : "Diving Deeper",
-"date_published" : "2017-11-27T08:00:00+08:00",
-"date_modified"  : "2017-11-27T08:00:00+08:00"
+ "title": "Getting Through The Tough Times",
+ "sort": "30",
+ "category": "Diving Deeper",
+ "description": "Diving Deeper",
+ "date_published": "2017-11-27T08:00:00+08:00",
+ "date_modified": "2017-11-27T08:00:00+08:00"
 }
-
 ---%
 
 

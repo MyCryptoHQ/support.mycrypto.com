@@ -1,12 +1,11 @@
 {
-"title"       : "Using a Ledger Wallet Offline",
-"sort"        : "08",
-"category"    : "Ledger Wallet",
-"description" : "Ledger Wallet",
-"date_published" : "2018-02-15T08:00:00+08:00",
-"date_modified"  : "2018-05-10T09:07:00+08:00"
+ "title": "Using a Ledger Wallet Offline",
+ "sort": "08",
+ "category": "Ledger Wallet",
+ "description": "Ledger Wallet",
+ "date_published": "2018-02-15T08:00:00+08:00",
+ "date_modified": "2018-05-10T09:07:00+08:00"
 }
-
 ---%
 
 If you want to run MyCrypto offline and use a Ledger Wallet, you have to setup an HTTPS server. Fortunately, this is integrated in MyCrypto. For this guide, we will be using Node.js.

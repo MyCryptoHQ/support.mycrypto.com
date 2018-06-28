@@ -1,12 +1,11 @@
 {
-"title"       : "Brute-Forcing Secret Word Phrases",
-"sort"        : "31",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Brute-Forcing Secret Word Phrases",
+ "sort": "31",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 *[The following is from /u/eth-o-licious2 on reddit](https://www.reddit.com/r/ethereum/comments/6j8ih6/ens_troubleshooting_if_you_use_mew_and_forgot/)*

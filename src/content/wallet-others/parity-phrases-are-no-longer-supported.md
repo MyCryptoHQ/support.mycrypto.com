@@ -1,12 +1,11 @@
 {
-"title"       : "Parity Phrases No Longer Supported",
-"sort"        : "99",
-"category"    : "Other Wallets",
-"description" : "Other Wallets",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Parity Phrases No Longer Supported",
+ "sort": "99",
+ "category": "Other Wallets",
+ "description": "Other Wallets",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 MyCrypto aims to deliver an easy-to-use and secure platform. Due to an increase in the amount of issues & lost ETH surrounding the "Parity Phrase" option on MyCrypto, we have opted to remove it to prevent future loss.

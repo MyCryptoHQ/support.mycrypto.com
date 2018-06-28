@@ -1,12 +1,11 @@
 {
-"title"       : "How to Create a Wallet",
-"sort"        : "05",
-"category"    : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2017-10-16T08:00:00+08:00"
+ "title": "How to Create a Wallet",
+ "sort": "05",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2015-10-05T08:00:00+08:00",
+ "date_modified": "2017-10-16T08:00:00+08:00"
 }
-
 ---%
 
 

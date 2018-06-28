@@ -1,12 +1,11 @@
 {
-"title"       : "TREZOR: Sending From",
-"sort"        : "05",
-"category"    : "Trezor Wallet",
-"description" : "Trezor Wallet",
-"date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-04-26T09:07:00+08:00"
+ "title": "TREZOR: Sending From",
+ "sort": "05",
+ "category": "Trezor Wallet",
+ "description": "Trezor Wallet",
+ "date_published": "2015-07-15T08:00:00+08:00",
+ "date_modified": "2018-04-26T09:07:00+08:00"
 }
-
 ---%
 
 Here is how you can unlock your wallet, access your ETH and Tokens, and send from your TREZOR hardware wallet:

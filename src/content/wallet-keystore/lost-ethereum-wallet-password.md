@@ -1,12 +1,11 @@
 {
-"title"       : "Lost Password for My Keystore File",
-"sort"        : "06",
-"category"    : "Keystore Wallet",
-"description" : "Keystore Wallete",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Lost Password for My Keystore File",
+ "sort": "06",
+ "category": "Keystore Wallet",
+ "description": "Keystore Wallete",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 

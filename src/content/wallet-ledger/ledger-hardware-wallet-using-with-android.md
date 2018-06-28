@@ -1,12 +1,11 @@
 {
-"title"       : "Ledger: Using w/ Android Device",
-"sort"        : "15",
-"category"    : "Ledger Wallet",
-"description" : "Ledger Wallet",
-"date_published" : "2015-12-29T08:00:00+08:00",
-"date_modified"  : "2017-12-29T08:00:00+08:00"
+ "title": "Ledger: Using w/ Android Device",
+ "sort": "15",
+ "category": "Ledger Wallet",
+ "description": "Ledger Wallet",
+ "date_published": "2015-12-29T08:00:00+08:00",
+ "date_modified": "2017-12-29T08:00:00+08:00"
 }
-
 ---%
 
 

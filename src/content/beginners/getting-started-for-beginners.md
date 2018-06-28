@@ -1,12 +1,11 @@
 {
-"title"       : "Getting Started on MyCrypto.com",
-"sort"        : "05",
-"category"    : "Beginners",
-"description" : "Beginners",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-20T08:00:00+17:30"
+ "title": "Getting Started on MyCrypto.com",
+ "sort": "05",
+ "category": "Beginners",
+ "description": "Beginners",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+17:30"
 }
-
 ---%
 
 <ul>

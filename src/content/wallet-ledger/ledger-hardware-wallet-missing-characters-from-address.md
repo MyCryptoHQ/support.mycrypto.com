@@ -1,12 +1,11 @@
 {
-"title"       : "Ledger: Not all characters of address are showing when I click 'Display Address'",
-"sort"        : "17",
-"category"    : "Ledger Wallet",
-"description" : "Ledger Wallet",
-"date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-11-11T09:07:00+08:00"
+ "title": "Ledger: Not all characters of address are showing when I click 'Display Address'",
+ "sort": "17",
+ "category": "Ledger Wallet",
+ "description": "Ledger Wallet",
+ "date_published": "2017-06-20T08:00:00+08:00",
+ "date_modified": "2017-11-11T09:07:00+08:00"
 }
-
 ---%
 
 

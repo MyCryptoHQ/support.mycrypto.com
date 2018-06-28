@@ -1,12 +1,11 @@
 {
-"title"       : "Account Not Showing Up On The Blockchain",
-"sort"        : "04",
-"category"    : "Wallet Balance",
-"description" : "Wallet Balance",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Account Not Showing Up On The Blockchain",
+ "sort": "04",
+ "category": "Wallet Balance",
+ "description": "Wallet Balance",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 

@@ -1,12 +1,11 @@
 {
-"title"       : "Error Code Directory",
-"sort"        : "50",
-"category"    : "Troubleshooting",
-"description" : "Troubleshooting",
-"date_published" : "2018-03-18T08:00:00+08:00",
-"date_modified"  : "2018-03-18T08:00:00+08:00"
+ "title": "Error Code Directory",
+ "sort": "50",
+ "category": "Troubleshooting",
+ "description": "Troubleshooting",
+ "date_published": "2018-03-18T08:00:00+08:00",
+ "date_modified": "2018-03-18T08:00:00+08:00"
 }
-
 ---%
 
 ### Error Codes and their definitions:

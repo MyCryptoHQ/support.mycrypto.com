@@ -1,12 +1,11 @@
 {
-"title"       : "How to Submit a Pull Request",
-"sort"        : "15",
-"category"    : "Contributor Information",
-"description" : "Contributor Information",
-"date_published" : "2017-11-16T08:00:00+08:00",
-"date_modified"  : "2018-06-20T08:00:00+08:00"
+ "title": "How to Submit a Pull Request",
+ "sort": "15",
+ "category": "Contributor Information",
+ "description": "Contributor Information",
+ "date_published": "2017-11-16T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+08:00"
 }
-
 ---%
 
 0. Navigate to the file you would like to modify.

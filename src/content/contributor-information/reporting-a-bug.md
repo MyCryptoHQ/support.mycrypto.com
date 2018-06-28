@@ -1,12 +1,11 @@
 {
-"title"       : "How To Report A Bug",
-"sort"        : "05",
-"category"    : "Contributor Information",
-"description" : "Contributor Information",
-"date_published" : "2017-11-16T08:00:00+08:00",
-"date_modified"  : "2018-06-20T08:00:00+08:00"
+ "title": "How To Report A Bug",
+ "sort": "05",
+ "category": "Contributor Information",
+ "description": "Contributor Information",
+ "date_published": "2017-11-16T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+08:00"
 }
-
 ---%
 
 ## Reporting a Bug

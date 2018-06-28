@@ -1,12 +1,11 @@
 {
-"title"       : "Make A Transaction Offline",
-"sort"        : "10",
-"category"    : "Offline App",
-"description" : "Offline App",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Make A Transaction Offline",
+ "sort": "10",
+ "category": "Offline App",
+ "description": "Offline App",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 If you are [using MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html), it is not possible to send transactions from the offline computer. To send or broadcast a transaction an internet connection is required. To do this, you should use a **second** computer, that does have an internet connection. This has the advantage that your private key never leaves the offline computer and malware won't be able to steal your private key.
@@ -24,3 +23,12 @@ The next step is to sign the transaction. Click the blue "Sign Transaction" box,
 
 ### 4. Sending the transaction
 Finally, copy the signed transaction to your **online** computer. After signing a transaction, it is not possible to change any information of that transaction anymore, so it is safe to copy it to another computer. On the ["Broadcast Transaction"](https://mycrypto.com/pushTx) page, fill in your signed transaction from step 3. Click the "Send Transaction" button and your transaction should be broadcast.
+
+## Is the 'View & Send' page offline? 
+
+No, it needs the internet in order to get the current gas price, nonce of your account, and broadcast the transaction (aka "send"). However, it only sends the signed transaction. Your private key safely stays with you.
+
+### Related Reading
+
+[How can MyCrypto Send Offline?](https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html)
+[Sending and Receiving](https://support.mycrypto.com/send/)

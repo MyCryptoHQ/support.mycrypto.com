@@ -1,12 +1,11 @@
 {
-"title"       : "[MyCrypto ➡ TREZOR] Moving from MyCrypto to TREZOR",
-"sort"        : "02",
-"category"    : "Trezor Wallet",
-"description" : "Trezor Wallet",
-"date_published" : "2017-11-08T08:00:00+08:00",
-"date_modified"  : "2018-05-14T08:00:00+08:00"
+ "title": "[MyCrypto ➡ TREZOR] Moving from MyCrypto to TREZOR",
+ "sort": "02",
+ "category": "Trezor Wallet",
+ "description": "Trezor Wallet",
+ "date_published": "2017-11-08T08:00:00+08:00",
+ "date_modified": "2018-05-14T08:00:00+08:00"
 }
-
 ---%
 
 

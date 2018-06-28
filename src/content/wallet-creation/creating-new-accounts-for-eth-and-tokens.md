@@ -1,12 +1,11 @@
 {
-"title"       : "Should I Keep My ETH / Tokens on Single or Multiple Addresses?",
-"sort"        : "06",
-"category"    : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+ "title": "Should I Keep My ETH / Tokens on Single or Multiple Addresses?",
+ "sort": "06",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-11-11T08:00:00+08:00"
 }
-
 ---%
 
 

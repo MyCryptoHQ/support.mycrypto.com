@@ -1,12 +1,11 @@
 {
-"title"       : "What is Gas?",
-"sort"        : "01",
-"category"    : "FAQ",
-"description" : "FAQ",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-24T08:00:00+08:00"
+ "title": "What is Gas?",
+ "sort": "01",
+ "category": "FAQ",
+ "description": "FAQ",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-02-24T08:00:00+08:00"
 }
-
 ---%
 
 

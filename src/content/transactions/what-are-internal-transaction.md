@@ -1,12 +1,11 @@
 {
-"title"       : "What are Internal Transactions",
-"sort"        : "100",
-"category"    : "Transactions",
-"description" : "Transactions",
-"date_published" : "2018-02-06T08:00:00+08:00",
-"date_modified"  : "2018-02-06T08:00:00+08:00"
+ "title": "What are Internal Transactions",
+ "sort": "100",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2018-02-06T08:00:00+08:00",
+ "date_modified": "2018-02-06T08:00:00+08:00"
 }
-
 ---%
 
 Internal transactions, despite the name (which isn't part of the yellowpaper; it's a convention people have settled on) are not actual transactions. They are also not included directly in the blockchain; they are value transfers that were initiated by executing a smart contract (smart contract Ether or Token transfer).

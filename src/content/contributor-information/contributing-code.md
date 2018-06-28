@@ -1,12 +1,11 @@
 {
-"title"       : "How Can I Help Contribute Code",
-"sort"        : "35",
-"category"    : "Contributor Information",
-"description" : "Contributor Information",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-06-20T08:00:00+08:00"
+ "title": "How Can I Help Contribute Code",
+ "sort": "35",
+ "category": "Contributor Information",
+ "description": "Contributor Information",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+08:00"
 }
-
 ---%
 
 

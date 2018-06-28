@@ -1,12 +1,11 @@
 {
-"title" : "How to Properly Save & Back Up Your Wallet",
-"sort" : "10",
-"category" : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-06-07T08:00:00+08:00"
+ "title": "How to Properly Save & Back Up Your Wallet",
+ "sort": "10",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2015-10-05T08:00:00+08:00",
+ "date_modified": "2018-06-07T08:00:00+08:00"
 }
-
 ---%
 
 ### Preface

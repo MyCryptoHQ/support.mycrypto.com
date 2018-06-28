@@ -1,12 +1,11 @@
 {
-"title"       : "How Can MyCrypto Send Offline?",
-"sort"        : "15",
-"category"    : "Offline App",
-"description" : "Offline App",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-07T08:00:00+08:00"
+ "title": "How Can MyCrypto Send Offline?",
+ "sort": "15",
+ "category": "Offline App",
+ "description": "Offline App",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-07T08:00:00+08:00"
 }
-
 ---%
 
 

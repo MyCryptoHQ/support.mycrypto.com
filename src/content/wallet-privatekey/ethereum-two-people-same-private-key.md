@@ -1,12 +1,11 @@
 {
-"title"       : "Ensuring MyCrypto doesn't give different people the same private key",
-"sort"        : "70",
-"category"    : "Private Key Wallet",
-"description" : "Private Key Wallet",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Ensuring MyCrypto doesn't give different people the same private key",
+ "sort": "70",
+ "category": "Private Key Wallet",
+ "description": "Private Key Wallet",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 

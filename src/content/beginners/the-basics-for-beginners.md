@@ -1,12 +1,11 @@
 {
-"title" : "The Basics For Beginners",
-"sort" : "10",
-"category" : "Beginners",
-"description" : "Beginners",
-"date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-06-20T08:00:00+08:00"
+ "title": "The Basics For Beginners",
+ "sort": "10",
+ "category": "Beginners",
+ "description": "Beginners",
+ "date_published": "2015-10-05T08:00:00+08:00",
+ "date_modified": "2018-06-20T08:00:00+08:00"
 }
-
 ---%
 
 ### Beginner Tips

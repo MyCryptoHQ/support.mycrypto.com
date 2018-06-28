@@ -1,12 +1,11 @@
 {
-"title"       : "Withdrawing DAO tokens",
-"sort"        : "26",
-"category"    : "Tokens",
-"description" : "Tokens",
-"date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-06-20T08:00:00+08:00"
+ "title": "Withdrawing DAO tokens",
+ "sort": "26",
+ "category": "Tokens",
+ "description": "Tokens",
+ "date_published": "2017-06-20T08:00:00+08:00",
+ "date_modified": "2017-06-20T08:00:00+08:00"
 }
-
 ---%
 
 ### The old DAO MyCrypto doesn't seem to want to stay online & functioning. We're sorry.

@@ -1,13 +1,11 @@
 {
-"title"       : "Adding Token Errors: How to Fix'",
-"sort"        : "45",
-"category"    : "Tokens",
-"description" : "Tokens",
-"date_published" : "2017-11-12T08:00:00+08:00",
-"date_modified"  : "2018-02-14T08:00:00+08:00"
-
+ "title": "Adding Token Errors: How to Fix'",
+ "sort": "45",
+ "category": "Tokens",
+ "description": "Tokens",
+ "date_published": "2017-11-12T08:00:00+08:00",
+ "date_modified": "2018-02-14T08:00:00+08:00"
 }
-
 ---%
 ## <center>How to Fix Accidentally Inputting Incorrect Custom Token Details</center>
 

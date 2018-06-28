@@ -1,12 +1,11 @@
 {
-"title"          : "Setting Gas Price Above The Slider Limits",
-"sort"           : "06",
-"category"       : "Transactions",
-"description"    : "Transactions",
-"date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-06-20T08:00:00+08:00"
+ "title": "Setting Gas Price Above The Slider Limits",
+ "sort": "06",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2017-06-20T08:00:00+08:00",
+ "date_modified": "2017-06-20T08:00:00+08:00"
 }
-
 ---%
 
 ### The Gas Price slider's values normally span from `1gwei` to `40gwei`. How do I set the gas price above or below the slider limit?

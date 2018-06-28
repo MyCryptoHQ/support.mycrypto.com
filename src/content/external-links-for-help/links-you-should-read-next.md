@@ -1,12 +1,11 @@
 {
-"title"       : "Links you Should Read Next",
-"sort"        : "10",
-"category"    : "External Links",
-"description" : "External Links",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-03-02T08:00:00+08:00"
+ "title": "Links you Should Read Next",
+ "sort": "10",
+ "category": "External Links",
+ "description": "External Links",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-03-02T08:00:00+08:00"
 }
-
 ---%
 
 *  [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)

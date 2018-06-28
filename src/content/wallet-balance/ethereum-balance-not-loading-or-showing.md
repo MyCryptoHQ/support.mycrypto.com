@@ -1,12 +1,11 @@
 {
-"title"       : "Balances not loading or showing on MyCrypto",
-"sort"        : "02",
-"category"    : "Wallet Balance",
-"description" : "Wallet Balance",
-"date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-03-29T08:00:00+08:00"
+ "title": "Balances not loading or showing on MyCrypto",
+ "sort": "02",
+ "category": "Wallet Balance",
+ "description": "Wallet Balance",
+ "date_published": "2017-06-20T08:00:00+08:00",
+ "date_modified": "2018-03-29T08:00:00+08:00"
 }
-
 ---%
 
 This is most likely due to the fact that you are behind a firewall, you have refreshed the page a bunch of times and hit your hourly-API-limit, or our nodes are under extreme strain and are refusing to return your balance information.

@@ -1,12 +1,11 @@
 {
-"title" : "Why Do I See Multiple Addreses On My Hardware Wallet?",
-"sort" : "15",
-"category" : "FAQ",
-"description" : "FAQ",
-"date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified" : "2017-09-13T08:00:00+08:00"
+ "title": "Why Do I See Multiple Addreses On My Hardware Wallet?",
+ "sort": "15",
+ "category": "FAQ",
+ "description": "FAQ",
+ "date_published": "2015-07-15T08:00:00+08:00",
+ "date_modified": "2017-09-13T08:00:00+08:00"
 }
-
 ---%
 
 _"Multiple Addresses Showing on my hardware wallet...which one should I use?"_

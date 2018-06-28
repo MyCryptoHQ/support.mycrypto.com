@@ -1,12 +1,11 @@
 {
-"title"       : "How to Use Your TREZOR Hardware Wallet with MyCrypto",
-"sort"        : "03",
-"category"    : "Trezor Wallet",
-"description"    : "Trezor Wallet",
-"date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-04-18T09:07:00+08:00"
+ "title": "How to Use Your TREZOR Hardware Wallet with MyCrypto",
+ "sort": "03",
+ "category": "Trezor Wallet",
+ "description": "Trezor Wallet",
+ "date_published": "2018-04-18T08:00:00+08:00",
+ "date_modified": "2018-04-18T09:07:00+08:00"
 }
-
 ---%
 
 

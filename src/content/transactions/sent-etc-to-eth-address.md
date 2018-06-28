@@ -1,12 +1,11 @@
 {
-"title" : "Access ETH sent to ETC address or ETC sent to ETH address",
-"sort" : "02",
-"category" : "Transactions",
-"description" : "Transactions",
-"date_published" : "2017-12-23T08:00:00+08:00",
-"date_modified" : "2018-04-26T08:00:00+08:00"
+ "title": "Access ETH sent to ETC address or ETC sent to ETH address",
+ "sort": "02",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2017-12-23T08:00:00+08:00",
+ "date_modified": "2018-04-26T08:00:00+08:00"
 }
-
 ---%
 
 _"I sent ETC to my ETH wallet by mistake"._

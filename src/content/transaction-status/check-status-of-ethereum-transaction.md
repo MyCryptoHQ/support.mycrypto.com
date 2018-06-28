@@ -1,12 +1,11 @@
 {
-"title"       : "Checking or Replacing a TX After it's Been Sent",
-"sort"        : "10",
-"category"    : "Transaction Status",
-"description" : "Transaction Status",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Checking or Replacing a TX After it's Been Sent",
+ "sort": "10",
+ "category": "Transaction Status",
+ "description": "Transaction Status",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 

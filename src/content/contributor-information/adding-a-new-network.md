@@ -1,12 +1,11 @@
 {
-"title"       : "Adding a New Network to MyCrypto",
-"sort"        : "25",
-"category"    : "Contributor Information",
-"description" : "Contributor Information",
-"date_published" : "2018-05-29T08:00:00+08:00",
-"date_modified"  : "2018-06-11T08:00:00+08:00"
+ "title": "Adding a New Network to MyCrypto",
+ "sort": "25",
+ "category": "Contributor Information",
+ "description": "Contributor Information",
+ "date_published": "2018-05-29T08:00:00+08:00",
+ "date_modified": "2018-06-11T08:00:00+08:00"
 }
-
 ---%
 
 Adding support for your Ethereum-like network is easy, assuming you don't have any significant differences from the Ethereum network. To make sure your network is well supported, we require the following:

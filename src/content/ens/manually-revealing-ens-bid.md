@@ -1,12 +1,11 @@
 {
-"title"       : "Manually Revealing your ENS bid",
-"sort"        : "30",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+ "title": "Manually Revealing your ENS bid",
+ "sort": "30",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-05-09T08:00:00+08:00"
 }
-
 ---%
 
 ### Get Your Bid TX Hash

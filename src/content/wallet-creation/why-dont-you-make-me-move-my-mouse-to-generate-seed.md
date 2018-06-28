@@ -1,12 +1,11 @@
 {
-"title"       : "Why don't you make me move my mouse to generate a seed?",
-"sort"        : "32",
-"category"    : "Wallet Creation",
-"description" : "Wallet Creation",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Why don't you make me move my mouse to generate a seed?",
+ "sort": "32",
+ "category": "Wallet Creation",
+ "description": "Wallet Creation",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 

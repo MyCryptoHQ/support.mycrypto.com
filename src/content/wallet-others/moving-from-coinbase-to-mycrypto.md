@@ -1,12 +1,11 @@
 {
-"title"       : "[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto",
-"sort"        : "08",
-"category"    : "Other Wallets",
-"description" : "Other Wallets",
-"date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-04-16T08:00:00+08:00"
+ "title": "[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto",
+ "sort": "08",
+ "category": "Other Wallets",
+ "description": "Other Wallets",
+ "date_published": "2015-07-15T08:00:00+08:00",
+ "date_modified": "2018-04-16T08:00:00+08:00"
 }
-
 ---%
 
 How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]

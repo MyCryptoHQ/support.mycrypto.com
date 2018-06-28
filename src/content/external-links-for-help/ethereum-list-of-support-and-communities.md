@@ -1,12 +1,11 @@
 {
-"title"       : "More Help, Support, and Communities",
-"sort"        : "05",
-"category"    : "External Links",
-"description" : "External Links",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-03-31T08:00:00+08:00"
+ "title": "More Help, Support, and Communities",
+ "sort": "05",
+ "category": "External Links",
+ "description": "External Links",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-03-31T08:00:00+08:00"
 }
-
 ---%
 
 

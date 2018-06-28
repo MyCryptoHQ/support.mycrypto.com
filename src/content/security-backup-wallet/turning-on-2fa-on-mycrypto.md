@@ -1,12 +1,11 @@
 {
-"title"       : "Can I turn on 2FA for MyCrypto?",
-"sort"        : "50",
-"category"    : "Security Backup Your Wallet",
-"description" : "Security Backup Your Wallet",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Can I turn on 2FA for MyCrypto?",
+ "sort": "50",
+ "category": "Security Backup Your Wallet",
+ "description": "Security Backup Your Wallet",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 ### No. And if you landed on a site telling you that you could, they are lying to you and trying to steal your private keys.

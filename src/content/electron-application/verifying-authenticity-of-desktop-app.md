@@ -1,12 +1,11 @@
 {
-"title"       : "Verifying the Authenticity of the Desktop Application",
-"sort"        : "05",
-"category"    : "Electron Application",
-"description" : "Electron Application",
-"date_published" : "2018-05-01T08:00:00+08:00",
-"date_modified"  : "2018-06-07T08:00:00+08:00"
+ "title": "Verifying the Authenticity of the Desktop Application",
+ "sort": "05",
+ "category": "Electron Application",
+ "description": "Electron Application",
+ "date_published": "2018-05-01T08:00:00+08:00",
+ "date_modified": "2018-06-07T08:00:00+08:00"
 }
-
 ---%
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.

@@ -1,12 +1,11 @@
 {
-"title"       : "[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger",
-"sort"        : "02",
-"category"    : "Ledger Wallet",
-"description" : "Ledger Wallet",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-05-11T08:00:00+08:00"
+ "title": "[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger",
+ "sort": "02",
+ "category": "Ledger Wallet",
+ "description": "Ledger Wallet",
+ "date_published": "2017-10-08T08:00:00+08:00",
+ "date_modified": "2018-05-11T08:00:00+08:00"
 }
-
 ---%
 
 The Ledger Nano S is one of the best and easiest cryptocurrency hardware wallets out there, it is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). It supports a wide range of cryptocurrencies, but this guide is specifically made for using it with Ethereum and ERC-20 tokens using MyCrypto.

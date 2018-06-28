@@ -1,12 +1,11 @@
 {
-"title" : "How To Send A Transaction",
-"sort" : "04",
-"category" : "Transactions",
-"description" : "Transactions",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified" : "2018-02-19T09:07:00+08:00"
+ "title": "How To Send A Transaction",
+ "sort": "04",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-02-19T09:07:00+08:00"
 }
-
 ---%
 
 If you plan to move a large amount of Ether or tokens, you should send a test transaction of a small amount to the destination wallet first to ensure everything goes as planned.

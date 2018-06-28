@@ -1,12 +1,11 @@
 {
-"title"       : "Importing a V2 JSON file",
-"sort"        : "14",
-"category"    : "Keystore Wallet",
-"description" : "Keystore Wallet",
-"date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-05-11T08:00:00+08:00"
+ "title": "Importing a V2 JSON file",
+ "sort": "14",
+ "category": "Keystore Wallet",
+ "description": "Keystore Wallet",
+ "date_published": "2015-07-15T08:00:00+08:00",
+ "date_modified": "2018-05-11T08:00:00+08:00"
 }
-
 ---%
 
 These random V2 JSON files always make things complex. We apologies in advance.

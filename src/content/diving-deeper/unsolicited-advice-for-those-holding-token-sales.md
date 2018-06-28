@@ -1,12 +1,11 @@
 {
-"title"       : "Unsolicited Advice for those Holding Token Sales",
-"sort"        : "16",
-"category"    : "Diving Deeper",
-"description" : "Diving Deeper",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-19T08:00:00+08:00"
+ "title": "Unsolicited Advice for those Holding Token Sales",
+ "sort": "16",
+ "category": "Diving Deeper",
+ "description": "Diving Deeper",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-02-19T08:00:00+08:00"
 }
-
 ---%
 
 

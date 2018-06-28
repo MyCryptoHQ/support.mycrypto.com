@@ -1,12 +1,11 @@
 {
-"title"       : "Securely Store & Guard Your Private Key by drewshaver",
-"sort"        : "55",
-"category"    : "Security Backup Your Wallet",
-"description" : "Security Backup Your Wallet",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-09-26T08:00:00+08:00"
+ "title": "Securely Store & Guard Your Private Key by drewshaver",
+ "sort": "55",
+ "category": "Security Backup Your Wallet",
+ "description": "Security Backup Your Wallet",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2017-09-26T08:00:00+08:00"
 }
-
 ---%
 
 *[source: /u/drewshaver](https://www.reddit.com/r/CryptoCurrency/comments/6vo0tw/a_guide_for_newbies_on_how_to_properly_and/)*

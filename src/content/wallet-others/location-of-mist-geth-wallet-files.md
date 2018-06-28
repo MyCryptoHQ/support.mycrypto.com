@@ -1,12 +1,11 @@
 {
-"title"       : "[MyCrypto ➡ Mist] Access your MyCrypto account in Geth / Mist",
-"sort"        : "04",
-"category"    : "Other Wallets",
-"description" : "Other Wallets",
-"date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-09-13T08:00:00+08:00"
+ "title": "[MyCrypto ➡ Mist] Access your MyCrypto account in Geth / Mist",
+ "sort": "04",
+ "category": "Other Wallets",
+ "description": "Other Wallets",
+ "date_published": "2015-07-15T08:00:00+08:00",
+ "date_modified": "2017-09-13T08:00:00+08:00"
 }
-
 ---%
 
 
