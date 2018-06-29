@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2018-05-29T08:00:00+08:00",
-  "dateModified": "June 10, 2018",
+  "dateModified": "June 18, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -212,11 +212,12 @@
 <ol>
 <li>Add a deterministic path (aka dpath) to <code>common/configs/dpath.ts</code> for your network, even if it just uses Ethereum&#39;s default path</li>
 <li>Add at least one node to <code>common/libs/nodes/configs.ts</code></li>
-<li>Add your network configuration to <code>common/reducers/config/networks/staticNetworks.ts</code></li>
-<li>Add your network&#39;s key (matching the key in <code>staticNetworks.ts</code>) to <code>shared/types/network.d.ts</code></li>
+<li>Add your network configuration to <code>common/features/config/networks/static/reducer.ts</code></li>
+<li>Add your network&#39;s key (matching the key in <code>reducer.ts</code>) to <code>shared/types/network.d.ts</code></li>
 </ol>
-<p>An example commit showing what the above steps look like is available here: <a href="https://github.com/MyCryptoHQ/MyCrypto/commit/afaa9e71c0313d9953cf39e4731a4b73f832a14a">https://github.com/MyCryptoHQ/MyCrypto/commit/afaa9e71c0313d9953cf39e4731a4b73f832a14a</a></p>
-<p>If you&#39;d like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like <a href="https://mycrypto.com/account?network={network}">https://mycrypto.com/account?network={network}</a> where <code>{network}</code> is the key from the <code>staticNetworks.ts</code> config.</p>
+<p>If you&#39;d like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like <a href="https://mycrypto.com/account?network={network}">https://mycrypto.com/account?network={network}</a> where <code>{network}</code> is the key from the <code>reducer.ts</code> config.</p>
+<h2 id="example">Example</h2>
+<p><a href="https://github.com/MyCryptoHQ/MyCrypto/pull/1962/files">This commit exemplifies the process described above.</a></p>
 <h2 id="adding-a-node">Adding a Node</h2>
 <p>If you&#39;d simply like to add a node to support an existing network, all you need to do is follow step 2 listed above. Nodes are automatically load balanced based on performance, so your node will automatically get used by anyone using the network. Thanks for supporting the ecosystem!</p>
 
@@ -257,7 +258,7 @@
 
 
 </p>
-      <p>Last Updated: June 10, 2018</p>
+      <p>Last Updated: June 18, 2018</p>
     </div>
 
 
