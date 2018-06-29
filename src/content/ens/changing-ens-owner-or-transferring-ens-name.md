@@ -1,12 +1,11 @@
 {
-"title"       : "Changing the ENS owner or transferring an ENS Name",
-"sort"        : "08",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+ "title": "Changing the ENS owner or transferring an ENS Name",
+ "sort": "06",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-05-09T08:00:00+08:00"
 }
-
 ---%
 
 ### Transferring a Domain (Best Practice)

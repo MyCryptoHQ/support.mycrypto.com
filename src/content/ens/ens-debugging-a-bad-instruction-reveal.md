@@ -1,12 +1,11 @@
 {
-"title"       : "Debugging a [BAD INSTRUCTION] Reveal",
-"sort"        : "04",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+ "title": "Debugging a [BAD INSTRUCTION] Reveal",
+ "sort": "25",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-05-09T08:00:00+08:00"
 }
-
 ---%
 
 ### 1\. Make sure you actually placed a bid:

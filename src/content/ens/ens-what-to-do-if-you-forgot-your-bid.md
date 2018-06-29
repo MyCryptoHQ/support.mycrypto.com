@@ -1,12 +1,11 @@
 {
-"title"       : "What to do if you forgot how much you bid",
-"sort"        : "10",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+ "title": "What to do if you forgot how much you bid",
+ "sort": "10",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-05-09T08:00:00+08:00"
 }
-
 ---%
 
 ### First, look up your address on [Etherscan](https://etherscan.io) in order to find the transaction in which you placed your bid. 

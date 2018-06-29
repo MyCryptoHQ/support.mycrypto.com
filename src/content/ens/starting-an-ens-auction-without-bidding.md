@@ -1,12 +1,11 @@
 {
-"title"       : "Starting an Auction without Bidding",
-"sort"        : "14",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2017-05-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+ "title": "Starting an Auction without Bidding",
+ "sort": "24",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2017-05-05T08:00:00+08:00",
+ "date_modified": "2018-05-09T08:00:00+08:00"
 }
-
 ---%
 
 You can open an auction without bidding. It's not the simplest thing in the world, but it's not the worst. It looks harder than it is:

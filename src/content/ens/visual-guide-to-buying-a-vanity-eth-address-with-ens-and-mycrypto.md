@@ -1,12 +1,11 @@
 {
-"title"       : "Visual Guide to Buying Vanity Ethereum Addresses with ENS and MyCrypto",
-"sort"        : "100",
-"category"    : "ENS",
-"description" : "ENS",
-"date_published" : "2018-02-12T08:00:00+08:00",
-"date_modified"  : "2018-02-12T08:00:00+08:00"
+ "title": "Visual Guide to Buying Vanity Ethereum Addresses with ENS and MyCrypto",
+ "sort": "01",
+ "category": "ENS",
+ "description": "ENS",
+ "date_published": "2018-02-12T08:00:00+08:00",
+ "date_modified": "2018-02-12T08:00:00+08:00"
 }
-
 ---%
 
 *The following was taken from Edward T Giraffe via hackernoon.com*

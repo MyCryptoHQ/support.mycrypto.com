@@ -1,12 +1,11 @@
 {
-"title"       : "Showing & Loading Tokens",
-"sort"        : "10",
-"category"    : "Tokens",
-"description" : "Tokens",
-"date_published" : "2017-12-23T08:00:00+08:00",
-"date_modified"  : "2018-05-15T09:07:00+08:00"
+ "title": "Showing & Loading Tokens",
+ "sort": "10",
+ "category": "Tokens",
+ "description": "Tokens",
+ "date_published": "2017-12-23T08:00:00+08:00",
+ "date_modified": "2018-05-15T09:07:00+08:00"
 }
-
 ---%
 
 

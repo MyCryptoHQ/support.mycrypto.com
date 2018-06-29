@@ -1,12 +1,11 @@
 {
-"title"       : "Transaction has a [Bad jump destination] or [Out of Gas] error",
-"sort"        : "02",
-"category"    : "Transactions",
-"description" : "Transactions",
-"date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+ "title": "Transaction has a [Bad jump destination] or [Out of Gas] error",
+ "sort": "02",
+ "category": "Transactions",
+ "description": "Transactions",
+ "date_published": "2017-07-05T08:00:00+08:00",
+ "date_modified": "2018-06-10T08:00:00+08:00"
 }
-
 ---%
 
 

@@ -1,12 +1,11 @@
 {
-"title"       : "What Is An ICO?",
-"sort"        : "15",
-"category"    : "FAQ",
-"description" : "FAQ",
-"date_published" : "2017-12-04T08:00:00+08:00",
-"date_modified"  : "2017-12-04T08:00:00+08:00"
+ "title": "What Is An ICO?",
+ "sort": "25",
+ "category": "FAQ",
+ "description": "FAQ",
+ "date_published": "2017-12-04T08:00:00+08:00",
+ "date_modified": "2017-12-04T08:00:00+08:00"
 }
-
 ---%
 
 ### What Is An ICO?
