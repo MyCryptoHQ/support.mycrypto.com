@@ -51,3 +51,4 @@ Since every password generates a valid seed, you could create a decoy wallet whi
 *   [How to Access Your Wallet with Mnemonic Phrase](https://support.mycrypto.com/accessing-your-wallet/access-wallet-mnemonic.html)
 *   [How to Create a Wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html)
 *   [bitcoin.it wiki article](https://en.bitcoin.it/wiki/Mnemonic_phrase)
+*   [How to Properly Save & Back Up Your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
