@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2018-04-30T22:00:00+08:00",
-"date_modified"  : "2018-04-30T22:00:00+08:00"
+"date_modified"  : "2018-06-29T22:00:00+08:00"
 }
 
 ---%
@@ -103,7 +103,7 @@ Get BTC or ETH for free
 ##### Disabling notifications from fresh accounts
 
 This one can be quite aggressive, but Twitter allows you to not receive notifications from accounts that fit a certain
-criteria. If you go to your [Notifications settings](https://twitter.com/settings/notifications_timeline), you can select
+criterion. If you go to your [Notifications settings](https://twitter.com/settings/notifications_timeline), you can select
 your preference.
 
 We recommend ticking the following;
@@ -118,6 +118,6 @@ ICO you follow, and other types of phishers/scammers.
 ##### Installing [EtherSecurityLookup](https://github.com/409H/EtherSecurityLookup#ethersecuritylookup)
 
 This browser extension comes with functionality that will highlight similar account handles to those "verified" by the 
-extension, and show a "verified" icon next to the handle on your timeline.
+extension and show a "verified" icon next to the handle on your timeline.
 
 ![/images/security/how-to-stay-safe/esl-fake-account-twitter.png](/images/security/how-to-stay-safe/esl-fake-account-twitter.png)
