@@ -23,7 +23,7 @@ However there are some key differences between a typical password and the passwo
 
 ### Plausible deniability
 
-Since every password generates a valid seed and will unlock a different account, there is no "wrong" password. It is meant to protect you from the ["wrench attack"](https://xkcd.com/538/)". It also enables you to create a decoy wallet which has the same mnemonic phrase but uses a different password. If someone forces you to give them access to your wallets, you could provide the decoy password, and keep the real password (with all your funds) a secret. 
+Since every password generates a valid seed and will unlock a different account, there is no "wrong" password. It is meant to protect you from the ["wrench attack"](https://xkcd.com/538/)". It also enables you to create a decoy wallet which has the same mnemonic phrase but uses a different password. If someone forces you to give them access to your wallets, you could provide the decoy password, and keep the real password (with all your funds) a secret.
 
 <div class="alert alert-danger">
   Losing this password will result in you losing access to your wallets and funds.
