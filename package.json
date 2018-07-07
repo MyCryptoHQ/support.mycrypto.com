@@ -32,7 +32,7 @@
     "gulp-uglify": "*",
     "handlebars": "*",
     "hoek": "^5.0.3",
-    "just-handlebars-helpers": "*",
+    "just-handlebars-helpers": "^1.0.14",
     "lunr": "*",
     "platform": "*",
     "remove-markdown": "*",
