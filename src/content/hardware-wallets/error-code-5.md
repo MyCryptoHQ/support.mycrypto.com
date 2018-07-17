@@ -10,14 +10,14 @@
 ---%
 
 
-### The Most Common Fix: Close Other Ledger Application
+**The Most Common Fix: Close Other Ledger Application**
 
 Close all other Ethereum applications, Ledger applications, and MyCrypto tabs. Error code 5 means that another application is already connected to the Ledger device.
 
 
 ### Turn On Browser Support
 
-1. If you're trying to unlock your MyCrypto using your Ledger make sure it's connected and unlock the device using your pin!
+1. If you're trying to unlock your account on MyCrypto.com using your Ledger, make sure it's connected and unlock the device using your pin!
 
 2. Using the buttons on the Ledger, scroll to the Ethereum App.
 
@@ -27,15 +27,17 @@ Close all other Ethereum applications, Ledger applications, and MyCrypto tabs. E
 
 5. Switch "Browser Support" to "Yes"
 
+Please note that if you are using the desktop application, browser support should be off!
+
 ### Other Troubleshooting Tips
 
 *   Restart your computer (Do not be lazy. Restart it FIRST).
-*   Use Google Chrome.
+*   Use Google Chrome or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 *   Make sure you don't have any other apps that connect to your Ledger open (e.g. the Ledger Bitcoin Chrome app, Mist, etc.)
-*   Make sure you have browser support turned ON.
+*   Make sure you have browser support turned ON for MyCrypto.com and OFF for the desktop app.
 *   Make sure you have contract data turned ON.
-*   That you are confirming any transactions via your Ledger.
-*   Try a different USB cable
+*   Make sure that you are confirming any transactions via your Ledger.
+*   Try a different USB cable.
 
 
 #### PS
