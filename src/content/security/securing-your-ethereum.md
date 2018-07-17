@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+"date_modified"  : "2018-07-17T08:00:00+08:00"
 }
 
 ---%
@@ -53,6 +53,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Especially if you are about to entire your private key or download an application. What is legit? A service that people have used for a decent period of time with good results. If the URL has been registered in the last week or the site "just launched", err on the side of caution and avoid it for a while.
 
 ### 9b. Always verify that the Twitter account is legit (look for the blue checkmark!)
+*  Be aware that even a blue checkmark can be misleading. More and more verified Twitter accounts (with the blue checkmark) get hijacked by bad actors, and get their name and profile picture changed to make them look legit. Double check that you're viewing the correct Twitter account.
 
 ### 10. Google the service name + "scam" or "reviews"
  *  Scam sites rarely last long. Value real comments by real people over a random blog. Value a collection of information over a single source. Understand that legit services will likely have a mix of positive and negative reviews over a long period of time. Scam sites typically have no one talking about them, everyone yelling about how they got robbed, or the most perfect reviews ever. The latter one is just as red of a flag as the first one.
