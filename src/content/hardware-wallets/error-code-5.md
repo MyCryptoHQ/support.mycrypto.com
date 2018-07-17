@@ -4,7 +4,7 @@
 "category" : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2018-01-01T08:00:00+08:00",
-"date_modified" : "2018-01-01T08:00:00+08:00"
+"date_modified" : "2018-07-17T08:00:00+08:00"
 }
 
 ---%
