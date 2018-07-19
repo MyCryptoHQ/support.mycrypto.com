@@ -10,7 +10,7 @@
 ---%
 
 
-##Providing Translations
+## Providing Translations
 
 Our team is somewhat multi-lingual, but we rely on the community to help out with languages we don't know. If you're willing to help, we'd really appreciate it.
 

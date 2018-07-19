@@ -4,11 +4,12 @@
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2017-07-15T08:00:00+08:00",
-"date_modified"  : "2018-07-17T08:00:00+08:00"
+"date_modified"  : "2018-07-19T08:00:00+08:00"
 }
 
 ---%
 
+Sample Error Message: *"Your Ledger is currently in use with another application. Please wait, or close other wallet applications before trying again."*
 
 **Please try the following. This solves 99% of problems.**
 
