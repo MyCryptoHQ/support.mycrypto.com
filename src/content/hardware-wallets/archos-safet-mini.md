@@ -18,7 +18,7 @@ To send and receive Ethererum, please connect to: [safe-t.io](https://safe-t.io/
 
 The following webpage will be displayed:
 
-![](https://i.imgur.com/tZapapL.jpg)
+![](https://i.imgur.com/ks6KvTc.jpg)
 
 Click on “GO TO MYCRYPTO” next to the Ethereum icon.
 
@@ -31,7 +31,7 @@ Note that it opens [https://beta.mycrypto.com](https://beta.mycrypto.com/) inste
 
 1.  Click  on  the  Safe-T  Mini  icon
 
-![](https://i.imgur.com/TW1QvPO.jpg)
+![](https://i.imgur.com/tZapapL.jpg)
  
 2.  Click  on  “Connect  to  Safe-T  Mini”  and  enter  your  PIN  (numbers  will  be  displayed  on  your  Safe-T  mini  screen)
 
