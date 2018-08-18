@@ -4,7 +4,7 @@
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2017-07-15T08:00:00+08:00",
-"date_modified"  : "2018-07-19T08:00:00+08:00"
+"date_modified"  : "2018-08-14T08:00:00+08:00"
 }
 
 ---%
@@ -21,4 +21,4 @@ Sample Error Message: *"Your Ledger is currently in use with another application
 *   Use Google Chrome.
 *   Use the [MyCrypto Desktop App](https://download.mycrypto.com/).
 *   Make sure you don't have any other apps that connect to your Ledger open (e.g. the Ledger Bitcoin Chrome app, Mist, etc.)
-*   Make sure you are confirming any transactions via your Ledger.
+*   That you are confirming any transactions via your Ledger.
