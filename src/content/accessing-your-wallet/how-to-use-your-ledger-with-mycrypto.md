@@ -4,7 +4,7 @@
 "category"    : "Accessing your Wallet",
 "description"    : "Accessing your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-04-18T09:07:00+08:00"
+"date_modified"  : "2018-08-14T08:00:00+08:00"
 }
 
 ---%
@@ -40,6 +40,8 @@ Now your Ledger Nano S is all set-up and ready to be used!
 ###  Enabling your Ledger Nano S to work with MyCrypto
 
 In order to make your Nano S work with MyCrypto, we will need to enable browser support. We are also going to enable contract data while we're at it, so we can have the ability to create token transfers as well.
+
+**In newer versions of the Ethereum app on the Ledger, the "Browser Support" option is no longer available. It's already enabled. However, "Contract Data" is not enabled by default.**
 
 <img src="../images/ledger-migration/ethereum-app.jpg" style="width: 100%; height: auto; max-width: 400px;">
 

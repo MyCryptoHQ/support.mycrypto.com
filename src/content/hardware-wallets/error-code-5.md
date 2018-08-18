@@ -4,7 +4,7 @@
 "category" : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2018-01-01T08:00:00+08:00",
-"date_modified" : "2018-07-17T08:00:00+08:00"
+"date_modified" : "2018-08-14T08:00:00+08:00"
 }
 
 ---%
@@ -16,6 +16,8 @@ Close all other Ethereum applications, Ledger applications, and MyCrypto tabs. E
 
 
 ### Turn On Browser Support
+
+**Please be aware that the newer versions of the Ethereum app on the Ledger device do not have the Browser Support option, it is already enabled. If you do not have the newest version of the Ethereum app, follow the following steps:**
 
 1. If you're trying to unlock your account on MyCrypto.com using your Ledger, make sure it's connected and unlock the device using your pin!
 
