@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2018-46-20T08:00:00+17:30"
+"date_modified"  : "2018-08-23T08:00:00+08:00"
 }
 
 ---%
@@ -271,7 +271,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  [How to send via MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).  </li>
 <li>  [How to create a new wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html).  </li>
 <li>  [How to back up your wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html).  </li>
-<li>  [How to verify you have access to the wallet](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).  </li>
+<li>  [How to verify you have access to the wallet](https://support.mycrypto.com/accessing-your-wallet/).  </li>
 <li>  [How to send funds to your wallet](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html).  </li>
 <li>  [How to check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html).  </li>
 <li>  [More Security Tips!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)  </li>
