@@ -11,7 +11,7 @@
 
 ### Tips
 
-1. Never hand-type your address. If you copy and paste your address, do it [incognito]](https://www.wikihow.com/Activate-Incognito-Mode) and still take the time to double check the address. This attack has not been seen yet, but a lot of Chrome extensions have access to the information that you copy and paste. Most extensions do not have access to incognito tabs by default but you can change this in your settings. (Contributed by @RaymondDurk - Thank You!)
+1. Never hand-type your address. If you copy and paste your address, do it [in incognito mode](https://www.wikihow.com/Activate-Incognito-Mode) and still take the time to double check the address. This attack has not been seen yet, but a lot of Chrome extensions have access to the information that you copy and paste. Most extensions do not have access to incognito tabs by default but you can change this in your settings. (Contributed by @RaymondDurk - Thank You!)
 
 2. Use the version of your address that has uppercase letters. [Ethereum address has Lower and Upper Case Letters](https://support.mycrypto.com/addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html)
 
@@ -36,8 +36,6 @@ Be careful.
 ### Hardware Wallets
 
 One of the safest & easiest ways to store your ETH, Tokens, ETC, BTC, and many other coins is via a Ledger Nano S or TREZOR. The device itself holds the keys and signs transactions for you. This ensures your keys aren't ever on any internet-connected device. Phishers can't get them. Malware can't get them. Keyloggers can't get them.
-
-The best part: it costs less than $100 USD (<0.1 ETH). Order (or pre-order!!!) one today.
 
 - [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 
