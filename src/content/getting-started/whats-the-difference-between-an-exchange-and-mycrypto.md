@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-09-13T08:00:00+08:00"
+"date_modified"  : "2018-08-23T08:00:00+08:00"
 }
 
 ---%
@@ -35,11 +35,3 @@ You also need to ensure you keep these keys securely. This means:
 *   Don't have Team Viewer or other remote access software on your computer
 
 If this seems very overwhelming, <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html" target="_blank">we recommend purchasing a Ledger or TREZOR hardware wallet</a>. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
-
----
-
----
-
----
-
-*Internal note: [Also on StackExchange here](https://ethereum.stackexchange.com/questions/23714/what-is-the-difference-between-an-exchange-like-coinbase-and-a-wallet-like-jaxx/23715#23715)—edits should be made in both locations*
