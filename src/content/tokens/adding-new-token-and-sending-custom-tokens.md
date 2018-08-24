@@ -73,4 +73,4 @@ To remove a custom token, click the little ( - ) icon next to the token. This wi
 
 - [Can I store any coin in MyCrypto?](https://support.mycrypto.com/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)
 
-- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html)
+- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.mycrypto.com/contributor-info/add-token-to-default-list.html)
