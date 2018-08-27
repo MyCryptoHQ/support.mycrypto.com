@@ -21,15 +21,13 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 ### Specifics to Connect To Your Local Node
 
-##### [First, download and run MyCrypto locally.](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
-
-* You must run MyCrypto locally. This is due to the fact that our SSL website won't connect to your non-SSL local node.
+##### [First, download and run MyCrypto Desktop App.](https://download.mycrypto.com/)
 
 #####  Run geth or parity with correct flags
 
   *   Geth: `geth --syncmode=light  --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
 
-  *   Parity: `parity --rpccorsdomain "null" --keys-path "dont_put_secret_files_here_ever"`
+  *   Parity: `parity --jsonrpc-cors "null" --keys-path "dont_put_secret_files_here_ever"`
 
 ##### Connect to your node
 
@@ -41,11 +39,11 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 *   Enter a `Node Name` for your node
 
-*   URL: `http://127.0.0.1`
+*   URL: `http://127.0.0.1:8545`
 
 *   Select the chain. This is for some frontend features, like default tokens and ENS addresses and more. See above for more details.
 
-![](https://i.imgur.com/cHUIdBV.png)
+![](https://i.imgur.com/wx5vZbs.jpg)
 
 * Click "Save & Use Custom Node".
 
@@ -107,14 +105,10 @@ If you wish to run MyCrypto locally + hardware wallet, you will need to have a s
 
 - [One way to do this is detailed here](https://support.mycrypto.com/offline/using-ledger-wallet-offline.html)
 
-### Whoa, back up. How do I even run a node?
-
-[WIP]
-
 #### Parity
 
-* https://github.com/paritytech/parity/wiki/Getting-Synced
+* https://wiki.parity.io/FAQ
 
-* https://github.com/paritytech/parity/releases
+* https://github.com/paritytech/parity-ethereum/releases
 
 #### Geth
