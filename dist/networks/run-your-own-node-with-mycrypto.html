@@ -203,15 +203,12 @@
 <p>When connecting to your own node, please do not have any accounts in that node. Meaning: do not do things like <code>geth account add</code> or store your private keys in the geth keystore folder.</p>
 <p>You will be using MyCrypto to sign and then broadcast the TXs via your node. You will not using your node to sign and send. <a href="https://www.reddit.com/r/ethereum/comments/3itz1f/insecurely_configured_geth_with_no_firewall_and/">If you do not heed this warning, bad things <em>could</em> happen if another setting gets changed. Here&#39;s one.</a>. Better safe than sorry.</p>
 <h3 id="specifics-to-connect-to-your-local-node">Specifics to Connect To Your Local Node</h3>
-<h5 id="first-download-and-run-mycrypto-locally-"><a href="https://support.mycrypto.com/offline/running-mycrypto-locally.html">First, download and run MyCrypto locally.</a></h5>
-<ul>
-<li>You must run MyCrypto locally. This is due to the fact that our SSL website won&#39;t connect to your non-SSL local node.</li>
-</ul>
+<h5 id="first-download-and-run-mycrypto-desktop-app-"><a href="https://download.mycrypto.com/">First, download and run MyCrypto Desktop App.</a></h5>
 <h5 id="run-geth-or-parity-with-correct-flags">Run geth or parity with correct flags</h5>
 <ul>
 <li><p>Geth: <code>geth --syncmode=light  --rpc --rpccorsdomain &quot;null&quot; --keystore &quot;dont_put_secret_files_here_ever&quot;</code></p>
 </li>
-<li><p>Parity: <code>parity --rpccorsdomain &quot;null&quot; --keys-path &quot;dont_put_secret_files_here_ever&quot;</code></p>
+<li><p>Parity: <code>parity --jsonrpc-cors &quot;null&quot; --keys-path &quot;dont_put_secret_files_here_ever&quot;</code></p>
 </li>
 </ul>
 <h5 id="connect-to-your-node">Connect to your node</h5>
@@ -224,12 +221,12 @@
 </li>
 <li><p>Enter a <code>Node Name</code> for your node</p>
 </li>
-<li><p>URL: <code>http://127.0.0.1</code></p>
+<li><p>URL: <code>http://127.0.0.1:8545</code></p>
 </li>
 <li><p>Select the chain. This is for some frontend features, like default tokens and ENS addresses and more. See above for more details.</p>
 </li>
 </ul>
-<p><img src="https://i.imgur.com/cHUIdBV.png" alt=""></p>
+<p><img src="https://i.imgur.com/wx5vZbs.jpg" alt=""></p>
 <ul>
 <li><p>Click &quot;Save &amp; Use Custom Node&quot;.</p>
 </li>
@@ -288,13 +285,11 @@
 <ul>
 <li><a href="https://support.mycrypto.com/offline/using-ledger-wallet-offline.html">One way to do this is detailed here</a></li>
 </ul>
-<h3 id="whoa-back-up-how-do-i-even-run-a-node-">Whoa, back up. How do I even run a node?</h3>
-<p>[WIP]</p>
 <h4 id="parity">Parity</h4>
 <ul>
-<li><p><a href="https://github.com/paritytech/parity/wiki/Getting-Synced">https://github.com/paritytech/parity/wiki/Getting-Synced</a></p>
+<li><p><a href="https://wiki.parity.io/FAQ">https://wiki.parity.io/FAQ</a></p>
 </li>
-<li><p><a href="https://github.com/paritytech/parity/releases">https://github.com/paritytech/parity/releases</a></p>
+<li><p><a href="https://github.com/paritytech/parity-ethereum/releases">https://github.com/paritytech/parity-ethereum/releases</a></p>
 </li>
 </ul>
 <h4 id="geth">Geth</h4>
@@ -362,32 +357,14 @@
 <!-- Pre-Footer -->
 <main class="footer--pre container-md">
   <section class="page__meta">
-
-    <!-- Old IFrame Method
     <button type="button"
             class="btn btn-primary btn-lg modal__trigger"
             data-toggle="modal"
             data-target="#contact-form">
       Need Help? Message Us
     </button>
-    -->
-
-    <!-- New Temporary Link to Form
-    <a class="btn btn-primary btn-lg"
-       href="https://support.mycrypto.com/form/">
-      Need Help? Message Us
-    </a>
-    -->
-    <p>
-      Need more help? Send an email to <a href="mailto:support@mycrypto.com?subject=Need%20help%20with%20MyCrypto&body=What%20were%20you%20doing%20or%20attempting%20to%20do%20when%20you%20encountered%20the%20issue%3F%0A%0AYour%20ETH%20Address%20and%2For%20TX%20Hash%3A%0A%0AYour%20Browser%20%2F%20OS%3A">support@mycrypto.com</a> with as much information as possible about your issue and we will get back to you shortly.
-    </p>
-    <p>
-      Please include screenshots, TX hashes, and what browser you are using. Thank you for your patience.
-    </p>
-  </section>
 </main>
 
-<!-- Old IFrame Method
 <main class="modal fade" id="contact-form" tabindex="-1" role="dialog" aria-labelledby="modal-form__title" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <button type="button" class="close modal__close" data-dismiss="modal" aria-label="Close">
@@ -406,7 +383,6 @@
     </div>
   </div>
 </main>
--->
 
 <!-- Check if embedded view -->
 <script>
