@@ -13,9 +13,9 @@
 *   Verify the URL you entered is correct.
 *   Verify the port you entered is correct.
 *   Verify that if you are connecting to an http:// node you are running MyCrypto locally (NOT over https://).
-*   Verify you are is running with:
-      *  `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
-      *  parity is running with `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
+*   Verify you are running with:
+      *  geth: `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
+      *  parity: `parity --jsonrpc-cors "null" --keys-path "dont_put_secret_files_here_ever"`
 *   Verify your node is actually up and running.
 *   Try removing the node and adding it again.
 *   Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).
