@@ -4,7 +4,7 @@
 "category"    : "Accessing your Wallet",
 "description"    : "Accessing your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-04-26T09:07:00+08:00"
+"date_modified"  : "2018-08-24T08:00:00+08:00"
 }
 
 ---%
@@ -16,7 +16,7 @@ Parity Signer, available for iOS and Android, is an offline mobile app that secu
 
 Parity Signer has been the perfect companion with Parity Wallet, allowing users to create “watch-only” accounts on their networked computers while keeping their keys safer in the open-source mobile app.
 
-But now, you can also use MyCrypto Beta to send transactions from your Parity Signer accounts without having to run your own Parity node.
+But now, you can also use MyCrypto to send transactions from your Parity Signer accounts without having to run your own Parity node.
 
 ## How to Get Started
 
@@ -24,7 +24,7 @@ But now, you can also use MyCrypto Beta to send transactions from your Parity Si
 
 ![](https://i.imgur.com/lhFvg6t.png)
 
-Currently, the app is only available for iOS. An "unstable" version is still in development on the Google Play Store.
+Currently, the app is only available for iOS. An "unstable" version is still in development on the Google Play Store and can be found [here](https://play.google.com/store/apps/details?id=com.nativesigner).
 
 Make sure you are downloading the correct App from [Parity Technologies](https://itunes.apple.com/us/app/parity-signer/id1218174838?mt=8)
 
@@ -63,7 +63,7 @@ If you already have a an account created in Parity Signer Mobile App or Parity W
 
 ## Now let's access your account from your phone using MyCrypto.com!
 
-1. Go to [MyCrypto.com](https://beta.mycrypto.com/account)
+1. Go to [MyCrypto.com](https://mycrypto.com/account)
 
 ![](https://i.imgur.com/VcJ0J8f.png)
 

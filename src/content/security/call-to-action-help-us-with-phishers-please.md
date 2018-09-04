@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-07T08:00:00+08:00"
+"date_modified"  : "2018-08-23T08:00:00+08:00"
 }
 
 ---%
@@ -65,19 +65,19 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - Report to Google: [https://safebrowsing.google.com/safebrowsing/report_phish/](https://safebrowsing.google.com/safebrowsing/report_phish/ )
 
-- Report to Microsoft: [https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site)
+- Report to Microsoft: [https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site)
 
-- Report to NetCraft: [http://toolbar.netcraft.com/report_url]
+- Report to NetCraft: [http://toolbar.netcraft.com/report_url](http://toolbar.netcraft.com/report_url)
 
-- Report to Norton: [https://submit.symantec.com/antifraud/phish.cgi]
+- Report to Norton: [https://submit.symantec.com/antifraud/phish.cgi](https://submit.symantec.com/antifraud/phish.cgi)
 
-- Report to McAfee: [https://www.trustedsource.org/en/feedback/url]
+- Report to McAfee: [https://www.trustedsource.org/en/feedback/url](https://www.trustedsource.org/en/feedback/url)
 
-- Report to ForcePoint: [https://csi.websense.com/]
+- Report to ForcePoint: [https://csi.websense.com/](https://csi.websense.com/)
 
-- Report to Webroot BrightCloud (PaloAlto firewalls): [http://brightcloud.com/tools/change-request-url-categorization.php]
+- Report to Webroot BrightCloud (PaloAlto firewalls): [http://brightcloud.com/tools/change-request-url-categorization.php](http://brightcloud.com/tools/change-request-url-categorization.php)
 
-- Report to Kaspersky: [https://virusdesk.kaspersky.com/]
+- Report to Kaspersky: [https://virusdesk.kaspersky.com/](https://virusdesk.kaspersky.com/)
 
 - If have IE / Edge, report there: [https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site](https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site )
 
@@ -130,7 +130,7 @@ This is too much for one post so help spread the word: Private keys are *private
 
     - [http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam](http://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam)
 
-	- [https://decentsecurity.com/#/malware-web-and-phishing-investigation/]
+	- [https://decentsecurity.com/#/malware-web-and-phishing-investigation/](https://decentsecurity.com/#/malware-web-and-phishing-investigation/)
 
 - **Other References:**
 

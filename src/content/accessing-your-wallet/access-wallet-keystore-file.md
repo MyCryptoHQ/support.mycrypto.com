@@ -4,7 +4,7 @@
 "category" : "Accessing your Wallet",
 "description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified" : "2018-06-29T08:00:00+08:00"
+"date_modified"  : "2018-08-24T08:00:00+08:00"
 }
 
 ---%
@@ -29,13 +29,15 @@ A keystore file (sometimes called a UTC file) in Ethereum is an encrypted versio
 
 ### Accessing your Wallet
 
-1. Navigate to the [View & Send](https://mycrypto.com/account) page.
-2. Select option for Keystore file.
-3. Read the warning and check off the 3 boxes. Click "Continue"
-4. Upload the Keystore file.
+We no longer allow accessing your keystore file using the MyCrypto.com website, instead, you have to download the [MyCrypto desktop app](https://download.mycrypto.com/). A more detailed explanation on why we decided for this change can be found [here](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8).
+
+1. Follow our guide on [running MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+2. Open the MyCrypto desktop application.
+3. The "View & Send" tab will appear, click "Keystore File".
+4. Click "SELECT WALLET FILE" and navigate to your keystore file.
 5. Enter the password used to encrypt the file when the wallet was made.
-5. Click "Unlock" and your wallet will show up.
-6. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
+6. Click "Unlock" and your wallet will show up.
+7. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
    * If you printed out your wallet, check to be sure the circles match. They should be the same colors, and shapes. Otherwise, something went wrong and you should start over.
 
 ### Side Notes
@@ -43,9 +45,7 @@ You can share your public wallet address with others so they can send you Ethere
 
 **TIP**: If you are planning on holding a large amount of ETH to any wallet, we recommend that you first send a small amount to test first before depositing a large amount.
 
-### The Future
-
-While we used the "View & Send" page to access your wallet this time, it is not recommended that you do so in the future. You only need your address in order to see your balance. **Do not** enter your private key anywhere if you just want to check the balance or see incoming and outgoing transactions.
+You only need your address in order to see your balance. **Do not** enter your private key anywhere if you just want to check the balance or see incoming and outgoing transactions.
 
 Instead, search your address (or bookmark it) on [etherscan.io](https://etherscan.io) or [etherchain.org](https://www.etherchain.org/).
 

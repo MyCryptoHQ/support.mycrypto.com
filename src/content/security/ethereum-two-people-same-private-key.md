@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+"date_modified"  : "2018-08-23T08:00:00+08:00"
 }
 
 ---%
@@ -65,7 +65,7 @@ Even if the blockchain is in active, vigorous use for the next ten thousand year
 
 ### Related
 
-- [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](https://support.mycrypto.com/faq/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html)
+- [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html)
 
 
 ### Sources
