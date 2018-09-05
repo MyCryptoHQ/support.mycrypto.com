@@ -369,23 +369,37 @@
 <!-- Pre-Footer -->
 <main class="footer--pre container-md">
   <section class="page__meta">
+
+     <!-- Old IFrame Method - not working due to CSP
     <button type="button"
             class="btn btn-primary btn-lg modal__trigger"
             data-toggle="modal"
             data-target="#contact-form">
       Need Help? Message Us
     </button>
+    -->
+
+    <a class="btn btn-primary btn-lg"
+       href="https://support.mycrypto.com/form/">
+      Need Help? Message Us
+    </a>
+
+  <!--
+    <p>
+      Need more help? Send an email to <a href="mailto:support@mycrypto.com?subject=Need%20help%20with%20MyCrypto&body=What%20were%20you%20doing%20or%20attempting%20to%20do%20when%20you%20encountered%20the%20issue%3F%0A%0AYour%20ETH%20Address%20and%2For%20TX%20Hash%3A%0A%0AYour%20Browser%20%2F%20OS%3A">support@mycrypto.com</a> with as much information as possible about your issue and we will get back to you shortly.
+    </p>
+    <p>
+      Please include screenshots, TX hashes, and what browser you are using. Thank you for your patience.
+    </p>
+    -->
+
+  </section>
 </main>
 
+ <!-- Old IFrame Method
 <main class="modal fade" id="contact-form" tabindex="-1" role="dialog" aria-labelledby="modal-form__title" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <button type="button" class="close modal__close" data-dismiss="modal" aria-label="Close">
-      <span aria-hidden="true">×</span>
-    </button>
-    <div class="modal-content">
-
-      <iframe src="https://support.mycrypto.com/form/"></iframe>
-
     </div>
   </div>
 </main>
