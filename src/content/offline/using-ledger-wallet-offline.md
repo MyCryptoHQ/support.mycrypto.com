@@ -20,6 +20,6 @@ To be able to run MyCrypto offline, you will have to install the latest version 
 
 ### Accessing your Ledger wallet
 
-After launching the MyCrypto desktop application on your computer, you can connect your Ledger device to your computer and [access your Ledger wallet](https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html). Be sure to follow our guide on [how to make an offline transaction](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html), which explains in greater detail on how to go about generating an offline transaction.
+After launching the MyCrypto desktop application on your computer, you can connect your Ledger device to your computer and [access your Ledger wallet](https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html). Be sure to follow our guide on [how to make an offline transaction](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html), which explains how to go about generating an offline transaction in greater detail.
 
 For additional info on how MyCrypto is able to send offline, feel free to visit our article, ["How Can MyCrypto Send Offline?"](https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html).
