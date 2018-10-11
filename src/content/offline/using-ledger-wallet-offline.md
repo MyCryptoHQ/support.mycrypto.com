@@ -4,34 +4,22 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2018-02-15T08:00:00+08:00",
-"date_modified"  : "2018-05-10T09:07:00+08:00"
+"date_modified"  : "2018-09-18T09:07:00+08:00"
 }
 
 ---%
 
-If you want to run MyCrypto offline and use a Ledger Wallet, you have to setup an HTTPS server. Fortunately, this is integrated in MyCrypto. For this guide, we will be using Node.js.
 
-### 1. Installing Node.js
-Start off by downloading and installing Node.js, using the installer [here](https://nodejs.org/en/download/). It is available for Windows, macOS and Linux. After you have installed Node.js, the commands `node` and `npm` should be available from your command line.
-
-To test this, open your command line (also called Terminal on macOS and Linux) and run the following command:
-```bash
-$ node -v
-```
-<sub><sup>The $ is just an indication of a command line, do not include it in the command.</sup></sub> 
- 
-If everything goes well, you should see the version of the currently installed Node.js.
-
-### 2. Getting the files we need
-Download the latest version of MyCrypto, you can find it [here](https://github.com/MyCryptoHQ/MyCrypto/releases/latest). 
-
-Make sure to unpack it, and then execute `npm install` in the newly downloaded folder, this will install all the dependencies needed for MyCrypto.
-
-Once you have the files somewhere in a folder, you need to create a self-signed SSL certificate. That may sound very technical and difficult, but all you need to do is go to [this](https://devcenter.heroku.com/articles/ssl-certificate-self) guide, and follow the steps. You should now have a `server.crt` and `server.key` file. Move these files into `webpack_config/server.*`.
+Storing your ETH, tokens, ETC, BTC and many other cryptocurrencies on a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) like the Ledger wallet is one of the safest and easiest ways to store your coins. Though the keys are stored on the device itself, you can increase your security by accessing your Ledger wallet offline. This reduces various risks, like [phishing attacks](https://support.mycrypto.com/common-scams/phishing-overview.html).
 
 
-That's it. You can now run the following command from the local MyCrypto folder to start your own HTTPS server:
-```bash
-$ npm run dev:https
-```
-In your browser, go to [https://localhost:3000](https://localhost:3000). You will see a browser warning, but it is safe to ignore this, since you are using a self-signed certificate (in Chrome: Advanced -> Proceed to localhost).
+### Downloading the MyCrypto desktop application
+
+To be able to run MyCrypto offline, you will have to install the latest version of the MyCrypto desktop application. This will allow you to access your Ledger device locally, both online and offline. You can find our guide on downloading & running MyCrypto locally [here](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+
+
+### Accessing your Ledger wallet
+
+After launching the MyCrypto desktop application on your computer, you can connect your Ledger device to your computer and [access your Ledger wallet](https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html). Be sure to follow our guide on [how to make an offline transaction](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html), which explains how to generate an offline transaction in greater detail.
+
+For additional info on how MyCrypto is able to send offline, feel free to visit our article, ["How Can MyCrypto Send Offline?"](https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html).
