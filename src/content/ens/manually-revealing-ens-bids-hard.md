@@ -9,7 +9,7 @@
 
 ---%
 
-### Use our new tool...
+### Use our tool...
 
 *  More easily debug & generate reveal and finalize data: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
