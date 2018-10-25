@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2018-02-15T08:00:00+08:00",
-  "dateModified": "May 9, 2018",
+  "dateModified": "September 17, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -198,22 +198,12 @@
     <h1 class="page__title" itemprop="headline">Using a Ledger Wallet Offline</h1>
 
     <div class="page__article">
-      <p>If you want to run MyCrypto offline and use a Ledger Wallet, you have to setup an HTTPS server. Fortunately, this is integrated in MyCrypto. For this guide, we will be using Node.js.</p>
-<h3 id="1-installing-node-js">1. Installing Node.js</h3>
-<p>Start off by downloading and installing Node.js, using the installer <a href="https://nodejs.org/en/download/">here</a>. It is available for Windows, macOS and Linux. After you have installed Node.js, the commands <code>node</code> and <code>npm</code> should be available from your command line.</p>
-<p>To test this, open your command line (also called Terminal on macOS and Linux) and run the following command:</p>
-<pre><code class="lang-bash">$ node -v
-</code></pre>
-<p><sub><sup>The $ is just an indication of a command line, do not include it in the command.</sup></sub> </p>
-<p>If everything goes well, you should see the version of the currently installed Node.js.</p>
-<h3 id="2-getting-the-files-we-need">2. Getting the files we need</h3>
-<p>Download the latest version of MyCrypto, you can find it <a href="https://github.com/MyCryptoHQ/MyCrypto/releases/latest">here</a>. </p>
-<p>Make sure to unpack it, and then execute <code>npm install</code> in the newly downloaded folder, this will install all the dependencies needed for MyCrypto.</p>
-<p>Once you have the files somewhere in a folder, you need to create a self-signed SSL certificate. That may sound very technical and difficult, but all you need to do is go to <a href="https://devcenter.heroku.com/articles/ssl-certificate-self">this</a> guide, and follow the steps. You should now have a <code>server.crt</code> and <code>server.key</code> file. Move these files into <code>webpack_config/server.*</code>.</p>
-<p>That&#39;s it. You can now run the following command from the local MyCrypto folder to start your own HTTPS server:</p>
-<pre><code class="lang-bash">$ npm run dev:https
-</code></pre>
-<p>In your browser, go to <a href="https://localhost:3000">https://localhost:3000</a>. You will see a browser warning, but it is safe to ignore this, since you are using a self-signed certificate (in Chrome: Advanced -&gt; Proceed to localhost).</p>
+      <p>Storing your ETH, tokens, ETC, BTC and many other cryptocurrencies on a <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html">hardware wallet</a> like the Ledger wallet is one of the safest and easiest ways to store your coins. Though the keys are stored on the device itself, you can increase your security by accessing your Ledger wallet offline. This reduces various risks, like <a href="https://support.mycrypto.com/common-scams/phishing-overview.html">phishing attacks</a>.</p>
+<h3 id="downloading-the-mycrypto-desktop-application">Downloading the MyCrypto desktop application</h3>
+<p>To be able to run MyCrypto offline, you will have to install the latest version of the MyCrypto desktop application. This will allow you to access your Ledger device locally, both online and offline. You can find our guide on downloading &amp; running MyCrypto locally <a href="https://support.mycrypto.com/offline/running-mycrypto-locally.html">here</a>.</p>
+<h3 id="accessing-your-ledger-wallet">Accessing your Ledger wallet</h3>
+<p>After launching the MyCrypto desktop application on your computer, you can connect your Ledger device to your computer and <a href="https://support.mycrypto.com/accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html">access your Ledger wallet</a>. Be sure to follow our guide on <a href="https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html">how to make an offline transaction</a>, which explains how to generate an offline transaction in greater detail.</p>
+<p>For additional info on how MyCrypto is able to send offline, feel free to visit our article, <a href="https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html">&quot;How Can MyCrypto Send Offline?&quot;</a>.</p>
 
     </div>
 
@@ -252,7 +242,7 @@
 
 
 </p>
-      <p>Last Updated: May 9, 2018</p>
+      <p>Last Updated: September 17, 2018</p>
     </div>
 
 
