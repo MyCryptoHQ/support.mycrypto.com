@@ -4,12 +4,12 @@
 "category"    : "ENS",
 "description" : "ENS",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-05-09T08:00:00+08:00"
+"date_modified"  : "2018-10-21T08:00:00+08:00"
 }
 
 ---%
 
-### Use our new tool...
+### Use our tool...
 
 *  More easily debug & generate reveal and finalize data: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
