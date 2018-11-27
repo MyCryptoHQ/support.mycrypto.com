@@ -4,11 +4,10 @@
 "category"    : "Accessing your Wallet",
 "description"    : "Accessing your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-08-24T08:00:00+08:00"
+"date_modified"  : "2018-11-20T08:00:00+08:00"
 }
 
 ---%
-
 
 ## What is the Parity Signer?
 
@@ -22,94 +21,82 @@ But now, you can also use MyCrypto to send transactions from your Parity Signer 
 
 1. Get the App
 
-![](https://i.imgur.com/lhFvg6t.png)
+You can download the app for your device using one of the links below.
 
-Currently, the app is only available for iOS. An "unstable" version is still in development on the Google Play Store and can be found [here](https://play.google.com/store/apps/details?id=com.nativesigner).
+[![App Store](https://i.imgur.com/4dG7hQ2.png)](https://itunes.apple.com/us/app/parity-signer/id1218174838?mt=8) [![Google Play](https://i.imgur.com/PYTWho7.png)](https://play.google.com/store/apps/details?id=io.parity.signer)
 
-Make sure you are downloading the correct App from [Parity Technologies](https://itunes.apple.com/us/app/parity-signer/id1218174838?mt=8)
+Currently, the Android app is still in beta, but it is publicly available using the link above.
 
-![](https://i.imgur.com/QDNzLAG.png)
+![](https://i.imgur.com/uaVisbZ.jpg)
 
-2. Create a New Account & Select Your Icon
+2. Create a new account and select your identicon.
 
-![](https://i.imgur.com/rVj36nQ.jpg)
+![](https://i.imgur.com/gs3D3fx.png)
 
-3. Create an Account Name
+3. Fill in an account name.
 
-![](https://i.imgur.com/EQ9TyJL.jpg)
+![](https://i.imgur.com/Y9Q6qGU.png)
 
-Your Recovery Phrase and Public Address will also be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](https://blockonomi.com/keep-recovery-seed-safe/) for more info on how to backup and store your recovery phrase.
+Your recovery phrase and public address will be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](https://blockonomi.com/keep-recovery-seed-safe/) for more info on how to backup and store your recovery phrase.
 
-5. Enter and Confirm Your Pin 
+4. Enter and confirm your PIN.
 
-![](https://i.imgur.com/O8YeX7s.jpg)
+![](https://i.imgur.com/H1VDNOd.png)
 
-Account Name - Public Address - QR Code for Public Address
+5. Account Name - Public Address - QR Code for Public Address
 
-This public address and QR code can be used to send and receive Eth.
+This public address and QR code can be used to send and receive ETH.
 
-![](https://i.imgur.com/duuHBSU.jpg)
+![](https://i.imgur.com/TjKQd6s.png)
 
-You can create multiple accounts by clicking on the "Add" button in the top right hand corner.
+You can create multiple accounts by clicking on the "Accounts" button in bottom right hand corner.
 
 ## Recover an Account
 
-If you already have a an account created in Parity Signer Mobile App or Parity Wallet (Desktop), you can recover your account by following the directions below.
+If you already have a an account created in Parity Signer Mobile App or Parity Wallet (Desktop), you can recover your account by following the instructions below.
 
-1. Click on "Create Account" or "Add" in the top right-hand corner.
-2. Select an image.
-3. Replace the given recovery phrase manually with the one from the account you want to recover.
-4. Set up a pin code.
+1. Click on "Accounts" and click on "Recover Account".
+2. Enter the account name.
+3. Fill in the recovery words you wrote down when creating the wallet.
+4. Set up a PIN code.
 
-## Now let's access your account from your phone using MyCrypto.com!
+## Now let's access your account from your phone using MyCrypto!
 
-1. Go to [MyCrypto.com](https://mycrypto.com/account)
+1. Go to [MyCrypto.com](https://mycrypto.com/account).
 
-![](https://i.imgur.com/VcJ0J8f.png)
+![](https://i.imgur.com/IRQUSDb.png)
 
-2. Open the Parity Signer App on your phone.
+2. Open the Parity Signer App on your phone and select the account you want to access. This will bring up your account info and QR Code.
 
-![](https://i.imgur.com/duuHBSU.jpg)
-Select the account you want to access. This will bring up your account info and QR Code
+![](https://i.imgur.com/4dE9Pv4.png)
 
-![](https://i.imgur.com/Esq8dVW.png)
+3. Scan your QR code.
 
-3. Scan your QR Code
+![](https://i.imgur.com/jdHZIu9.png)
 
-![](https://i.imgur.com/lnGope8.jpg)
+When you click on the Parity Signer button on MyCrypto's homepage, it will bring you to screen where you can scan your QR code. Make sure your camera on your PC/Mac is on. Position the QR code on your phone within the camera lines as presented on your PC/Mac.
 
-When you click on the Parity Signer button on MyCrypto.com's homepage, it will bring you to screen where you can scan your QR code.  Make sure your camera on your PC/Mac is on. Position the QR code on your phone within the camera lines as presented on your PC/Mac.
+4. View account details on MyCrypto.
 
-4. View Account Details on MyCrypto.com
+![](https://i.imgur.com/xI1EeHg.png)
 
-![](https://i.imgur.com/Ax0qczg.png)
 Check to make sure your account details match up. From this screen you can send transactions. NOTE: if you leave this screen, you will be logged out of your Parity address.
 
 ## Sending a Transaction
 
-   1. Enter the amount and address you would like to send and click "Send Transaction"
+1. Enter the amount and address you would like to send and click "Send Transaction".
+2. From Parity Signer, tap "Scanner" and scan the QR Code presented by MyCrypto.
+3. Review the details carefully and enter your PIN to sign the transaction offline.
+4. Present your signed transaction QR code to MyCrypto to confirm and send!
    
-   2. From Parity Signer, tap "Scan Transaction QR" and scan the QR Code presented by MyCrypto
-   
-   3. Review the details carefully and enter your PIN to sign the transaction offline
-   
-   4. Present your signed transaction QR code to MyCrypto to confirm and send!
-   
-      [View FULL Tutorial on Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+[View FULL Tutorial on Parity's Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html).
 
-      Make sure to first do a trial run with a small amount of ether before sending larger amounts.
+Make sure to first do a trial run with a small amount of Ether before sending larger amounts.
 
 ## Related Links
 
-- [Parity Support](http://paritytech.io/)
-
-- [Parity Privacy Policy](http://paritytech.io/legal/)
-
-- [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
-
-- [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
-
-- [Traditional Hardware Wallet Recommendations](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
-
-
-
+* [Parity Support](http://paritytech.io/)
+* [Parity Privacy Policy](http://paritytech.io/legal/)
+* [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+* [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
+* [Traditional Hardware Wallet Recommendations](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
