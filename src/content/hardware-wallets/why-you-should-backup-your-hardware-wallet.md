@@ -49,7 +49,7 @@ Hope this helps!
 
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 
-* [Buy a Trezor](https://shop.trezor.io?a=mycrypto.com)
+* [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
 
 * [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 

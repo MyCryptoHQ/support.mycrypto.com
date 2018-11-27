@@ -39,7 +39,7 @@ One of the safest & easiest ways to store your ETH, Tokens, ETC, BTC, and many o
 
 - [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 
-- [Trezor](https://shop.trezor.io?a=mycrypto.com)
+- [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
 
 - [Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
