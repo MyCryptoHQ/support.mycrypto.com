@@ -4,18 +4,18 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-05-11T08:00:00+08:00"
+"date_modified"  : "2018-11-28T08:00:00+08:00"
 }
 
 ---%
 
-These random V2 JSON files always make things complex. We apologies in advance.
+These random V2 JSON files always make things complex. We apologize in advance.
 
-You need to convert it to the standard V3 ("Keystore" / "UTC") file. The easiest way is using Geth.
+You need to convert it to the standard V3 ("Keystore" / "UTC") file. The easiest way is to use Geth.
 
 [Download the appropriate version of Geth on your operating system.](https://github.com/ethereum/go-ethereum/releases)
 
-Once you download it, extract the zip. Also copy your V2 JSON file into the same folder.
+Once you download it, extract the zip and copy your V2 JSON file into the same folder.
 
 _(Really explicit instructions for PC and Mac are available [here](https://ethereum.stackexchange.com/a/466).)_
 
