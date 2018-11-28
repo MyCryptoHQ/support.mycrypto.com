@@ -4,7 +4,7 @@
 "category" : "Accessing your Wallet",
 "description" : "Accessing your Wallet",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-08-24T08:00:00+08:00"
+"date_modified"  : "2018-11-28T08:00:00+08:00"
 }
 
 ---%
@@ -25,7 +25,7 @@ Keystore files are vulnerable for two reasons:
 
 A keystore file (sometimes called a UTC file) in Ethereum is an encrypted version of your private key. They are generated using your private key and a password that you use to encrypt it. If you open up your keystore file in a text editor it contains data pertaining to the encryption of the private key.
 
-*Note: Your keystore file has a .json file extension. If you try to convert it to any other file extension, then it may break when you try to convert it back. Don't do this. If you want to understand the contents of your json file, referece this [medium article by Julien.Maffre](https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97).*
+*Note: Your keystore file has a .json file extension. If you try to convert it to any other file extension, then it may break when you try to convert it back. Don't do this. If you want to understand the contents of your json file, reference this [medium article by Julien.Maffre](https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97).*
 
 ### Accessing your Wallet
 
@@ -38,12 +38,12 @@ We no longer allow accessing your keystore file using the MyCrypto.com website, 
 5. Enter the password used to encrypt the file when the wallet was made.
 6. Click "Unlock" and your wallet will show up.
 7. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
-   * If you printed out your wallet, check to be sure the circles match. They should be the same colors, and shapes. Otherwise, something went wrong and you should start over.
+   * If you printed out your wallet, check to be sure the circles match. They should be the same colors and shapes. Otherwise, something went wrong and you should start over.
 
-### Side Notes
+### Side Note
 You can share your public wallet address with others so they can send you Ethereum or ERC-20 tokens. Your account will not be compromised, just make sure to send them your PUBLIC wallet address and not your private key.
 
-**TIP**: If you are planning on holding a large amount of ETH to any wallet, we recommend that you first send a small amount to test first before depositing a large amount.
+**TIP**: If you are planning on sending a large amount of ETH to any wallet, we recommend that you first send a small amount to test first before depositing a large amount.
 
 You only need your address in order to see your balance. **Do not** enter your private key anywhere if you just want to check the balance or see incoming and outgoing transactions.
 
