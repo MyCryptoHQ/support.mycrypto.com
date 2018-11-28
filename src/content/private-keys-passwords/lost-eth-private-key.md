@@ -3,28 +3,28 @@
 "sort"        : "04",
 "category"    : "Private Keys & Passwords",
 "description" : "Private Keys & Passwords",
-"date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified" : "2018-06-07T08:00:00+08:00"
+"date_published" :"2017-10-08T08:00:00+08:00",
+"date_modified" : "2018-11-27T08:00:00+08:00"
 }
 
 ---%
 
 
 
-MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with the Ethereum blockchain.
+MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold on to. We are simply an interface that allows you to easily interact with the Ethereum blockchain.
 
 **In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto. We only have access to the information that is publicly available on the blockchain.**
 
 ##### Unfortunately, this means we cannot:
 
 *   Recover your private key
-*   Access you account
+*   Access your account
 *   Recover or reset your password
 *   Reverse or cancel transactions
 *   Recover your account
 *   Send your ETH or Tokens from one address to another
 
-##### There may be a chance that you saved it without realizing it. We recommend:
+##### There may be a chance that you saved it without realizing it. We recommend the following:
 
 *   Do a full search of your computer for “UTC--“ and see if the private key shows up. 
 *   Do a full search of your computer for your address _without_ the 0x at the beginning.
