@@ -4,7 +4,7 @@
 "category"    : "Accessing your Wallet",
 "description"    : "Accessing your Wallet",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-08-14T08:00:00+08:00"
+"date_modified"  : "2018-11-28T08:00:00+08:00"
 }
 
 ---%
@@ -53,7 +53,7 @@ Now press both buttons at the same time again to open up "Contract Data", then p
 
 <img src="../images/ledger-migration/ethereum-contract-data.jpg" style="width: 100%; height: auto; max-width: 400px;">
 
-We will do the same thing with "Browser Support". Select "Browser Support", press both buttons at the same time to open it op, press the right button to select "Yes", then press both buttons again to confirm.
+We will do the same thing with "Browser Support". Select "Browser Support", press both buttons at the same time to open it up, press the right button to select "Yes", then press both buttons again to confirm.
 
 <img src="../images/ledger-migration/yes.jpg" style="width: 100%; height: auto; max-width: 400px;">
 
