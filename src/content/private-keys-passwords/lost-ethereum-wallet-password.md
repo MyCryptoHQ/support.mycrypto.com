@@ -10,7 +10,7 @@
 ---%
 
 
-MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. MyCrypto is simply an interface that allows you to easily interact with the Ethereum blockchain.
+MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold on to. MyCrypto is simply an interface that allows you to easily interact with the Ethereum blockchain.
 
 **In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto. We only have access to the information that is publicly available on the blockchain.**
 
