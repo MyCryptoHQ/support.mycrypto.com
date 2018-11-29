@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-04-04T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -14,9 +14,9 @@ First, check the transaction on [etherscan](https://etherscan.io/) or [ethercha
 
 #### Successful Transactions
 
-- [Example from etherscan](https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9)
+- [Example from etherscan](https://etherscan.io/tx/0x2d60fe77e6d0e8447c87ee3a5aa2a66a043d8255803a92139382f9f7d2ab6911)
 
-- [Example from etherchain](https://www.etherchain.org/tx/ffe8f6aee3c027c17a156ba46dae34c22fc13382efdc382a59f8d5938c88c66d)
+- [Example from etherchain](https://www.etherchain.org/tx/636b55466b1948631f6f7c7118bac30280e5ebd3f6b0d20485c14358ea643110)
 
 #### Unsuccessful transactions
 
@@ -37,7 +37,7 @@ If you do not see the transaction on etherscan or etherchain, please check with 
 *  Bibox:                     [Website](https://www.bibox.com/) · [Support](https://bibox.zendesk.com/hc/en-us/categories/115000398333-Support)
 *  Binance:                   [Website](https://www.binance.com/) · [Support](https://support.binance.com/hc/en-us)
 *  Bitfinex:                  [Website](https://www.bitfinex.com/) · [Support](https://www.bitfinex.com/support)
-*  Bittrex:                   [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact) ·  [Slack](http://slack.bittrex.com/)
+*  Bittrex:                   [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.zendesk.com/hc/en-us)
 *  Bity:                      [Website](https://bity.com/af/jshkb37v) · [Support](mailto:support@bity.com)
 *  Cryptopia:                 [Website](https://www.cryptopia.co.nz/) · [Support](https://www.cryptopia.co.nz/Support)
 *  Changelly:                 [Website](https://changelly.com/about) · [Support](mailto:support@changelly.com)
@@ -50,3 +50,9 @@ If you do not see the transaction on etherscan or etherchain, please check with 
 *  Liqui:                     [Website](https://liqui.io/) ·[Support](https://liqui.freshdesk.com/support/home)
 *  Poloniex:                  [Support](https://poloniex.com/support/)
 *  Shapeshift:                [Slack](https://shapeshiftcommunity.herokuapp.com/) · [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
+
+#### Related
+
+* [More Help, Support, and Communities](https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html)
+
+* [Where Can I Buy / Sell / Trade / Exchange my ETH or Tokens?](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html)
