@@ -4,7 +4,7 @@
 "category"    : "Sending & Receiving",
 "description" : "Sending & Receiving",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-06-10T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -24,7 +24,7 @@ MyCrypto is not a "web wallet". You do not create an account or give us your ETH
 *   Recover your private key
 *   Recover or reset your password
 
-If the account belongs to someone or an exchange, you should attempt to reach out to them to find out if you can recover your ETH. You can see if it is an account in use by searching it on etherscan.io and seeing if there are any other transactions to or from the account.
+If the account you sent to belongs to someone or an exchange, you should attempt to reach out to them to find out if you can recover your ETH. You can see if it is an account in use by searching it on [etherscan.io](https://etherscan.io) and seeing if there are any other transactions to or from the account.
 
 ### Related Articles
 
