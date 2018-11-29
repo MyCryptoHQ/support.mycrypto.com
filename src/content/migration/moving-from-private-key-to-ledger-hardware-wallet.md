@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2018-08-14T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -79,11 +79,11 @@ Sending ETH or tokens to your Nano S works the same as sending to any other addr
 
 ### Restoring your Nano S
 
-Ledger made a clear and easy to follow guide on how to restore your Nano S [here](https://ledger.zendesk.com/hc/en-us/articles/115005165309-How-to-import-recover-a-backup-on-a-Nano-S.html).
+Ledger made a clear and easy to follow guide on how to restore your Nano S [here](https://support.ledgerwallet.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase).
 
 ### Troubleshooting
 
-Ledger has an extensive knowledge base that you can find [here](https://ledger.zendesk.com/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them. If not, feel free to contact either [Ledger](https://ledger.zendesk.com/hc/en-us/requests/new) or [MyCrypto](mailto:support@mycrypto.com).
+Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](https://support.mycrypto.com/form/).
 
 ### Related Links
 
