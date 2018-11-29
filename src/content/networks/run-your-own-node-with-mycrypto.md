@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified" : "2018-05-17T08:00:00+08:00"
+"date_modified" : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -16,7 +16,7 @@ You can use MyCrypto to connect to your own node. This decouples the frontend an
 
 When connecting to your own node, please do not have any accounts in that node. Meaning: do not do things like `geth account add` or store your private keys in the geth keystore folder.
 
-You will be using MyCrypto to sign and then broadcast the TXs via your node. You will not using your node to sign and send. [If you do not heed this warning, bad things *could* happen if another setting gets changed. Here's one.](https://www.reddit.com/r/ethereum/comments/3itz1f/insecurely_configured_geth_with_no_firewall_and/). Better safe than sorry.
+You will be using MyCrypto to sign and then broadcast the TXs via your node. You will **not** be using your node to sign and send. [If you do not heed this warning, bad things *could* happen if another setting gets changed. Here's one.](https://www.reddit.com/r/ethereum/comments/3itz1f/insecurely_configured_geth_with_no_firewall_and/). Better safe than sorry.
 
 
 ### Specifics to Connect To Your Local Node
@@ -112,3 +112,7 @@ If you wish to run MyCrypto locally + hardware wallet, you will need to have a s
 * https://github.com/paritytech/parity-ethereum/releases
 
 #### Geth
+
+* https://github.com/ethereum/go-ethereum/wiki/FAQ
+
+* https://geth.ethereum.org/downloads/
