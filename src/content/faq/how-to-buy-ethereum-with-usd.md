@@ -4,7 +4,7 @@
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-06-26T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -17,7 +17,7 @@ Ethereum and digital currencies are a pretty new world and in this new world, th
 
 Secondly, most of the people involved in this world are pretty technical and sometimes forget how different things are. Take your time, ask questions, ask for clarification reach out for help, read the instructions, read the warnings, hang out, and try to learn new things.
 
-- **Scams and [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1) and malicious links exist. Trust messages and random links about as much as those in your spambox. Verify verify verify.**
+- **Scams, [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1), and malicious links exist. Trust messages and random links about as much as those in your spambox. Verify verify verify.**
 
 - **Always save & back up your private key in a *separate* location, like a piece of paper or a USB drive. Avoid cloud storage.**
 
@@ -38,7 +38,7 @@ Secondly, most of the people involved in this world are pretty technical and som
 
 ### Now, the fun part! How To Buy ETH
 
-1. Create an account on Gemini or [Coinbase](https://buy.coinbase.com/widget?code=60c05061-3a76-57be-b1cd-a7afa97bcb8c&address=0xed72f30c82162f0e95796834daca3f95e06f1baa&crypto_currency=ETH&currency=USD) or Kraken.
+1. Create an account on either Gemini, [Coinbase](https://buy.coinbase.com/widget?code=60c05061-3a76-57be-b1cd-a7afa97bcb8c&address=0xed72f30c82162f0e95796834daca3f95e06f1baa&crypto_currency=ETH&currency=USD), or Kraken.
 
 2. Verify that account. You will need to upload a wide variety of documents proving you are who you say you are and stuff. It's all regulatory stuff. Once you upload this stuff, verification takes about a day or two (time is dependent on how busy the service is. During times of price increases and tons of new users, it may take longer. Be patient.)
 
@@ -48,40 +48,30 @@ Secondly, most of the people involved in this world are pretty technical and som
 
 5. Once you have all the ETH you want, withdraw that ETH into a wallet that you control. Exchanges are notorious for being hacked (although the ones mentioned above are very reputable) and you want your funds in a place that you have the private key to. So...
 
-6. ...While you are waiting for your verification and transfer, download and install [Mist / Ethereum Wallet](https://github.com/ethereum/mist/releases). Run it so it can sync the blockchain.
+6. ...While you are waiting for your verification and transfer, download and install the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-7. When you run it, it'll prompt you to make a new account. Create a password that you will never ever forget and create the account. Then, it'll give you an address that starts with 0x.. This what you will enter on your exchange to move your ETH from their account to your own.
+7. When you run it, click on `Create New Wallet` and [create a fresh wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html). Use a password that you will never ever forget and create the account. Then, it'll give you an address that starts with 0x.. This what you will enter on your exchange to move your ETH from their account to your own.
 
 8. To safely keep your account you have 3 pieces of information:
-   * Your address (0x7573aB.....)
+   * Your address (0x4bbeEB.....)
    * Your password
    * Your private key
 
-The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In Ethereum Wallet, this private key is in the form of a `keystore file`. You need to make a backup of this in case anything happens to your computer.
-
-In Ethereum Wallet, go to the top bar and find `ACCOUNTS` -> `BACKUP` -> `ACCOUNTS`. It'll open up a folder and inside you will see a file. This file is your private key. Copy this to a USB drive and safely store the USB drive in a different physical location than your computer (in case your house explodes).
-
+The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In MyCrypto, this private key is in the form of a `keystore file` or a `mnemonic`. You need to make a backup of this in case anything happens to your computer.
 
 
 ### Alternative steps 1-5:
 
 If you already have BTC, you can use Shapeshift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for Shapeshift.)
 
-Then create an Ethereum Wallet account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
-
-
-
-### Alternative steps 6-8:
-
-Mist is highly recommended but some people have issues installing & syncing it. If for some reason you cannot get it to run, here is a list of easily accessible wallets. Follow the instructions provided by each of these wallets to back up your information. In Jaxx, that is a mnemonic. In MyCrypto, [read this](https://support.mycrypto.com/migration/moving-from-coinbase-to-mycrypto.html
-).
+Then create an Ethereum account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
 
 
 **Just, MAKE SURE YOU BACK IT UP PLEASE.**
 
-- [MyCrypto.com](https://mycrypto.com/)(https://mycrypto.com)
+- [MyCrypto.com](https://mycrypto.com/)
 
-- [Legacy MyCrypto](https://legacy.mycrypto.com)(https://legacy.mycrypto.com)
+- [Legacy MyCrypto](https://legacy.mycrypto.com)
 
 - [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 
