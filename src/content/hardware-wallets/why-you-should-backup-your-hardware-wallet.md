@@ -4,7 +4,7 @@
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2018-04-18T08:00:00+08:00",
-"date_modified"  : "2018-04-18T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -37,7 +37,7 @@ While you think about this, it's also not a bad time to think about other things
 
 You can also get something like this if you don't have any external place to keep it, or don't feel like you are that high-risk at this time (e.g. you don't have millions of dollars worth of crypto, don't have tweakers for neighbors, don't live in a place where there are random hurricanes or fires, etc.). The upside to these over traditional fireproof/waterproof safes is that they are cheaper and easier to conceal someplace random, which reduces the risk of robbery. Safes are known to house valuables. A friend recently had her house broken into and they took the entire safe because she never bolted it down. The only thing in there was some old photos of her great-grandparents and her birth certificate. That sucks.
 
-Analyze your personal risk and your situation. Would your life be over if the funds on that device were to be lost? How upset would you be? How much money do you have stored on it? The loss created by losing access to that device (including emotional damage / stress). This is the amount of money you should spend securing it. We were recently talking and arrived at the conclusion that 100% of people who have over 1-weeks pay worth of crypto should have a hardware wallet. Considering a fire-proof bag is < $20 (aka <0.05 ETH and <0.002 BTC), it's pretty much a no brainer if you are in this space.
+Analyze your personal risk and your situation. Would your life be over if the funds on that device were to be lost? How upset would you be? How much money do you have stored on it? The loss created by losing access to that device (including emotional damage / stress). This is the amount of money you should spend securing it. We were recently talking and arrived at the conclusion that 100% of people who have over 1-weeks pay worth of crypto should have a hardware wallet. Considering a fire-proof bag is < $20, it's pretty much a no brainer if you are in this space.
 
 Hope this helps!
 
@@ -45,7 +45,7 @@ Hope this helps!
 
 * [Seed, PIN and Passphrase - TREZOR](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
 
-* [Setting Up Your Ledger Nano S](https://www.ledgerwallet.com/start/ledger-nano-s)
+* [Setting Up Your Ledger Nano S](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html)
 
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 
