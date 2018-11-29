@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2018-03-29T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -37,7 +37,7 @@ Paste your address into the search bar and it will pull up your address and tran
 
 ### If you need to send some tokens and they aren't loading, here are some things you can try to troubleshoot:
 
-1. Hard refresh the page. On Chrome on OSX you hit `cmd`+`shift`+`r`. On a PC, I assume it is `ctrl`+`shift`+`r`.
+1. Hard refresh the page. On Chrome on OSX you hit `cmd`+`shift`+`r`. On a PC, it's `ctrl`+`shift`+`r`.
 
 2. Check your internet / firewall.
 
@@ -46,4 +46,4 @@ Paste your address into the search bar and it will pull up your address and tran
   *    MyCryptoAPI.com
   *    Etherscan.io
   *    Infura.io
-  *    Giveth.io
+  *    Blockscale.net
