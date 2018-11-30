@@ -4,18 +4,16 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-28T08:00:00+08:00"
+"date_modified"  : "2018-11-30T08:00:00+08:00"
 }
 
 ---%
-
-
 
 ### Below are some tips to reduce the risk of you losing your hard-earned coins.
 
 1. Install [EtherSecurityLookup](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) if you use Twitter, and either [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) if you use MyCrypto or other crypto-related sites. These warn you if you go to a malicious website.
 
-2. Did you just get sent a link to a token sale, MyCrypto, etherdelta, Shapeshift, or Ebay? **Don't click it!** Instead, search for that service on Google. Click the top one **that is not an ad.**
+2. Did you just get sent a link to a token sale, MyCrypto, EtherDelta, Shapeshift, or Ebay? **Don't click it!** Instead, search for that service on Google. Click the top one **that is not an ad.**
 
 3. You **do not** have to enter your private key for an airdrop. Don't enter your private key on random sites!
 
@@ -75,7 +73,7 @@ And finally, when you go to contribute, make sure you are on a legit version of 
 
 Check the URL. Check the SSL (it should always say MyCrypto, Inc [US]).
 
-Check the address. Check the AddressIcon (the colorful blob of colors that corresponds to your address. It is an easy way to see if the address matches across two places.)
+Check the address. Check the identicon (the colorful blob of colors that corresponds to your address. It is an easy way to see if the address matches across two places.)
 
 In this case, district0x's is kinda pinky-yellow and the address starts with 0xF80.
 
@@ -87,13 +85,6 @@ Sweetness.
 
 ![](https://i.imgur.com/FeUNqAY.png)
 
-
-### Originally posted on reddit:
-
-- [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale/](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale/)
-
-- [https://twitter.com/mycrypto/status/887267415930814467](https://twitter.com/mycrypto/status/887267415930814467)
-
-### Additional Reading:
+### Additional Reading
 
 - ["I Got Sloppy, I Got Scammed"](https://hackernoon.com/i-got-sloppy-i-got-scammed-10e00ac0905)
