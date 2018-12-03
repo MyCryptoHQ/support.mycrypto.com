@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2018-03-18T08:00:00+08:00",
-"date_modified"  : "2018-03-18T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -47,5 +47,6 @@
 * ERROR_34: The name you are attempting to reveal does not match the name you have entered.  
 * ERROR_36: Enter valid TX hash
 * ERROR_37: Enter valid hex string (0-9, a-f)
+* ERROR_38: Invalid signed message
 
 ###### As an alternative to this, you can navigate to [this github repository](https://github.com/MyCryptoHQ/MyCrypto/blob/develop/common/translations/lang/en.json) and use CTRL+F to search for an error code or search term.
