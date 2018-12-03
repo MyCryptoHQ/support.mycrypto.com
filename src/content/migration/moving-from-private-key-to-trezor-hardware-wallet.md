@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2017-11-08T08:00:00+08:00",
-"date_modified"  : "2018-05-14T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -142,4 +142,4 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 *  TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them.
 
-*  If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/) support.
+*  If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/form/) support.
