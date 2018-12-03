@@ -4,7 +4,7 @@
 "category"    : "Tokens",
 "description" : "Tokens",
 "date_published" : "2017-12-23T08:00:00+08:00",
-"date_modified"  : "2018-05-15T09:07:00+08:00"
+"date_modified"  : "2018-11-28T09:07:00+08:00"
 }
 
 ---%
@@ -12,7 +12,7 @@
 
 ### 1. Click "Scan for Tokens" Button. 
 
-![](https://i.imgur.com/XAM8dad.png)
+![](https://i.imgur.com/6ood1qw.png)
 
 ### 2. It will scan for all tokens in your account. Your tokens should appear if the token is on our token list.
 
