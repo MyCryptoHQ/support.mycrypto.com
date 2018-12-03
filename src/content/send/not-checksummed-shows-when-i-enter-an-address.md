@@ -4,20 +4,20 @@
 "category"       : "Sending & Receiving",
 "description"    : "Sending & Receiving",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-08-21T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
 
 ##### What is a checksummed address?
 
-A checksummed address is an address that contains uppercase letters as specified in [EIP-55](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md). Checksummed addresses are meant to alleviate some of the issue of sending transactions to the wrong address.
+A checksummed address is an address that contains uppercase letters, as specified in [EIP-55](https://eips.ethereum.org/EIPS/eip-55). Checksummed addresses are meant to alleviate some of the issue of sending transactions to the wrong address.
 
 There are two versions of Ethereum addresses: one that contains uppercase letters and one that does not:
 
-`0x7cb57b5a97eabe94205c07890be4c1ad31e486a8`
+`0x4bbeeb066ed09b7aed07bf39eee0460dfa261520`
 
-`0x7cB57B5A97eAbe94205C07890BE4c1aD31E486A8`
+`0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520`
 
 Both addresses are exactly the same, except for the uppercase vs lowercase letters. Capitalization simply means the address has a checksum. Both will work exactly the same and have your funds.
 
@@ -25,8 +25,8 @@ The one that is all lowercase is "not checksummed" meaning that you could mistyp
 
 Alternatively, if you use the checksummed version of an address and mistype it, it will tell you that it's an invalid address when you go to submit the transaction.
 
-For this reason, we warn you when your address is not checksummed. You can still send to it without issue but if you should double-check the address before doing so, *especially* if you hand-typed it.
+For this reason, we warn you when your address is not checksummed. You can still send to it without issue, but you should double-check the address before doing so, *especially* if you hand-typed it.
 
-If you are sending to one of your own wallets, you can save the checksummed address via the [View & Send](https://mycrypto.com/account/) page and copying the address displayed there.
+If you are sending to one of your own wallets, you can save the checksummed address via the [Send & Receive](https://mycrypto.com/account/) page and copy the address displayed there.
 
-**To help get this standard adopted by others, make sure to contact your favorite Ethereum organizations about adopting this standard to help protect their users (YOU)**
+**To help get this standard adopted by others, make sure to contact your favorite Ethereum organizations about adopting this standard to help protect their users (YOU!).**
