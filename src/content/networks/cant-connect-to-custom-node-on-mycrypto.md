@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified"  : "2017-10-28T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -16,6 +16,9 @@
 *   Verify you are running with:
       *  geth: `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
       *  parity: `parity --jsonrpc-cors "null" --keys-path "dont_put_secret_files_here_ever"`
+*   You can also run both clients in light client mode which only downloads the recent state of the blockchain and saves bandwidth:
+      *  geth: `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever" --syncmode "light"`
+      *  parity: `parity --jsonrpc-cors "null" --keys-path "dont_put_secret_files_here_ever" --light`
 *   Verify your node is actually up and running.
 *   Try removing the node and adding it again.
 *   Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).
