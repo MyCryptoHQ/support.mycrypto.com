@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2018-07-24T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -16,7 +16,7 @@ We highly recommend getting a hardware wallet or using MetaMask as a method to a
 
 The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
 
-Remember to back up any wallets you create! Including the 12-word private seed phrase for your hardware wallets! MyCrypto <em>CAN NOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly avaliable on the blockchain. The security and responsibilty of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have on how to be safe with your funds.  
+Remember to back up any wallets you create! Including the 12-word or 24-word private seed phrase for your hardware wallets! MyCrypto <em>CAN NOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibilty of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have on how to be safe with your funds.  
 
 ### How To Create A New Wallet
 
@@ -24,7 +24,7 @@ Remember to back up any wallets you create! Including the 12-word private seed p
 
 ![](https://i.imgur.com/N7xEOtS.png)
 
-If you do not choose to use a hardware wallet, MetaMask or Parity Signer, then we recommend to use MyCrypto's desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
+If you do not choose to use a hardware wallet, MetaMask or Parity Signer, then we recommend to use MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
 
 * [Download the MyCrypto Desktop App](https://download.mycrypto.com/)
 
@@ -53,7 +53,7 @@ Once you have downloaded and successfully installed the app, open the app from y
 5. Read the warning. If you understand it, click the `"Continue"` button.
 6. Print your paper wallet backup
 7. Print out the current page to save your Private key, by using your web browser's print option.
-    * You can write it out by hand, but it is not recommended _If you are writing it, it is recommended you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
+    * You can write it out by hand, but it is not recommended. _If you do choose to write it down, it is recommended you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
 8. Copy & paste your address into a text document and save it.
     * _Search your address on [https://etherscan.io/](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time_
 
@@ -74,7 +74,7 @@ Once you have downloaded and successfully installed the app, open the app from y
 
 Things to double check:
 
-* Unlock your new wallet using the method you chose to generate your wallet: Keystore File or Mnemonic Phrase.  Ensure it unlocks the wallet you generated and that it matches the bookmark you have.
+* Unlock your new wallet using the method you chose to generate your wallet: Keystore File or Mnemonic Phrase.  Ensure it unlocks the wallet you generated and that the address matches the one you bookmarked.
     * _Do not simply leave your new wallet open. Pretend you are coming back a year later to access your riches. Can you do it?_
 * Send a small amount of Ether (0.0001 ETH) from your previous wallet or exchange to your new wallet's public address (The one beginning with '0x').
 * Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
