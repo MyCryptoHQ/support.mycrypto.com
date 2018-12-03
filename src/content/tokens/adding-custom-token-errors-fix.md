@@ -1,5 +1,5 @@
 {
-"title"       : "Adding Token Errors: How to Fix'",
+"title"       : "Adding Token Errors: How to Fix",
 "sort"        : "45",
 "category"    : "Tokens",
 "description" : "Tokens",
