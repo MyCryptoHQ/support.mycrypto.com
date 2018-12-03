@@ -4,20 +4,20 @@
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-08-24T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
 
 
-Here is a list of reputable services you can use the following services to buy and sell ETH / Tokens / fiat (USD, EUR, etc.). There are many, many more out there but these are the ones we are familar with.
+Here is a list of reputable services you can use to buy and sell ETH / Tokens / fiat (USD, EUR, etc.). There are many, many more out there but these are the ones we are familar with.
 
-Always google "`service/website` scam" and read about people's experiences before choosing to send to a random service or website.
+**Pro Tip**: Always google "`brand name` scam" and read about people's experiences before choosing to send to a random service or website.
 
 Not all exchanges support all coin types and fiat types, so take a look around to find one that fits your location and circumstances.
 
 *   Bitfinex: [Website](https://www.bitfinex.com/) · [Support](https://www.bitfinex.com/support)
-*   Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact)
+*   Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.zendesk.com/hc/en-us)
 *   Bity: [Website](https://bity.com/af/jshkb37v) · [Support](mailto:support@bity.com)
 *   Changelly: [Website](https://changelly.com/about) · [Support](mailto:support@changelly.com)
 *   Coinbase: [Support](https://support.coinbase.com/)
@@ -25,6 +25,6 @@ Not all exchanges support all coin types and fiat types, so take a look around t
 *   Kraken: [Support](https://support.kraken.com/hc/en-us)
 *   Liqui: [Support](https://liqui.freshdesk.com/support/home)
 *   Poloniex: [Support](https://poloniex.com/support/)
-*   Shapeshift: [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
+*   Shapeshift: [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us)
 
 Best of luck!
