@@ -1,10 +1,10 @@
 {
-"title"       : "How to recover VET tokens sent to MyCrypto",
+"title"       : "How to recover VET tokens sent via MyCrypto",
 "sort"        : "99",
 "category"    : "Tokens",
 "description" : "Tokens",
 "date_published" : "2018-09-22T08:00:00+08:00",
-"date_modified"  : "2018-09-22T08:00:00+08:00"
+"date_modified"  : "2018-11-28T08:00:00+08:00"
 }
 
 ---%
@@ -21,11 +21,11 @@ To get a keystore file, use the mnemonic phrase option and fill in your recovery
 
 ### From a private key or mnemonic phrase
 
-If you are using a private key or mnemonic phrase to access your wallet, exporting a keystore file is easy. It is recommended to do this on an offline computer to prevent anyone from stealing your private key. Simply access your account in the MyCrypto desktop app and navigate to "Wallet Info" using the dropdown menu.
+If you are using a private key or mnemonic phrase to access your wallet, exporting a keystore file is easy. It is recommended to do this on an offline computer to prevent anyone from stealing your private key. Simply access your account in the [MyCrypto desktop app](https://download.mycrypto.com/) and navigate to "Wallet Info" using the dropdown menu.
 
 ![](https://i.imgur.com/DisRHNw.png)
 
-Scroll down to "Utilities". You should see a button to generate a keystore file. Fill in a strong password, click "Generate Keystore File" and click "Download". Safe the keystore file somewhere on your disk.
+Scroll down to "Utilities". You should see a button to generate a keystore file. Fill in a strong password, click "Generate Keystore File" and click "Download". Save the keystore file somewhere on your disk.
 
 ## 2. Get the VeChainThor Wallet
 
@@ -35,4 +35,4 @@ Download the [VeChainThor Wallet](https://wallet.vechain.org/) (available for iO
 
 ![](https://i.imgur.com/gO47LYo.png)
 
-In the VeChainThor Wallet you should see an option to import a wallet. Select this option, go to the "Keystore" tab and paste all the contents of your keystore file. Fill in the password for the keystore file, that you used when generating the keystore file. Choose a name for your wallet and click import. You should now be able to access your wallet with your VET tokens.
+In the VeChainThor Wallet you should see an option to import a wallet. Select this option, go to the "Keystore" tab and paste all of the contents of your keystore file. Fill in the password for the keystore file that you used when generating the keystore file. Choose a name for your wallet and click import. You should now be able to access your wallet with your VET tokens.
