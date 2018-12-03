@@ -4,13 +4,13 @@
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
 
 
-### I keep getting a message saying "Window Blocked" before conforming my transaction.
+### I keep getting a message saying "Window Blocked" before confirming my transaction.
 
 When connecting to your TREZOR device, you need to ALLOW POP UPS on MyCrypto.com.
 
