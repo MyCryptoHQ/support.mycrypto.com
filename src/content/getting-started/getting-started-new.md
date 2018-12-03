@@ -4,7 +4,7 @@
 "category"    : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified"  : "2018-08-23T08:00:00+08:00"
+"date_modified"  : "2018-11-28T08:00:00+08:00"
 }
 
 ---%
@@ -155,7 +155,7 @@
 
 
 <h3>
-  If MyCrypto can't do those things, what's the point?
+  If MyCrypto can't do those things, then what's the point?
 </h3>
 
 <ul>
@@ -241,7 +241,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  Make a backup of your private key and password. Do NOT just store it on your computer. Print it out on a piece of paper or save it to a USB drive.  </li>
 <li>  Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.  </li>
 <li>  Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.  </li>
-<li>  If you have more than 1-week's worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It's worth it. I promise.  </li>
+<li>  If you have more than 1-week's worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It's worth it. We promise.  </li>
 </ul>
 
 <p><strong><a href="https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html">More Security Tips!</a></strong></p>
@@ -267,6 +267,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  [How to set up MyCrypto + MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).  </li>
 <li>  [How to run MyCrypto Offline / Locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).  </li>
 <li>  [How to send via Ledger hardware wallet](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html).  </li>
+<li>  [MyCrypto Desktop App](https://download.mycrypto.com/.  </li>
 <li>  [How to send via TREZOR hardware wallet](https://support.mycrypto.com/hardware-wallets/trezor-sending-to-trezor-device.html).  </li>
 <li>  [How to send via MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).  </li>
 <li>  [How to create a new wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html).  </li>
