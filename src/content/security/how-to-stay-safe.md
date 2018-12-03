@@ -4,7 +4,7 @@
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
 "date_published" : "2018-04-30T22:00:00+08:00",
-"date_modified"  : "2018-06-29T22:00:00+08:00"
+"date_modified"  : "2018-11-29T22:00:00+08:00"
 }
 
 ---%
@@ -30,8 +30,7 @@ attack domains, fake project domains, other scam domains).
 
 * EtherAddressLookup - 
 [Github](https://github.com/409H/EtherAddressLookup) - 
-[Chrome extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) - 
-[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/etheraddresslookup/)
+[Chrome extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 * EtherSecurityLookup - 
 [Github](https://github.com/409H/EtherSecurityLookup) - 
 [Chrome extension](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf)
