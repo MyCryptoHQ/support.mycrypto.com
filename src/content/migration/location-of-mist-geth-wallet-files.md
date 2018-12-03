@@ -4,7 +4,7 @@
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2017-09-13T08:00:00+08:00"
+"date_modified"  : "2018-11-29T08:00:00+08:00"
 }
 
 ---%
@@ -18,6 +18,12 @@ Mist files are typically found in the file locations below, but it's much easier
 *   Linux:`~/.ethereum/keystore`
 *   Windows:`%APPDATA%/Ethereum/keystore`
 
+Command-line options:
+```
+--keystore
+  Directory for the keystore (default = inside the datadir)
+
+```
 
 
 ### Presale
