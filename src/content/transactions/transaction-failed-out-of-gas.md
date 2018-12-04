@@ -10,11 +10,11 @@
 ---%
 
 
-Each transaction (including token and contract transactions) requires "gas", which is paid in Ether. You can think of this like a transaction fee. The more computational effort a transaction takes, the more gas you need.
+Each transaction (TX) on the Ethereum blockchain (including token and contract transactions) requires "gas," which is paid in Ether. You can think of this as a transaction fee. The more computational effort a transaction takes, the more gas you need.
 
-MyCrypto estimates how much gas you will need - but sometimes it doesn't get it right.
+MyCrypto estimates how much gas you will need - but there may be an occasional technical error.
 
-**Solution: Try manually increasing the "Gas Limit". First, try doubling the amount of gas that MyCrypto estimates, and sending again.**
+**Solution: Manually increasing the "Gas Limit." First, try doubling the amount of gas that MyCrypto estimates and sending again.**
 
 Any excess gas will be returned to you, so you could even triple or quadruple it.
 
@@ -22,11 +22,11 @@ We are always trying to improve how we estimate gas as contracts become more com
 
 ### More Information About Gas
 
-*   A standard TX will be 21000 gas & a gas price of 0.00000002 ETH so the total TX fee will be 0.00042 Ether.
-*   With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to 0.001 ETH - 0.002 ETH.
+*   A standard TX will be 21000 gas, at a gas price of 0.00000002 ETH, so the total TX fee will be 0.00042 Ether.
+*   With tokens, the amount of gas required typically ranges between 50000 gas - 100000 gas, so the total TX fee increases to 0.001 ETH - 0.002 ETH.
 *   The amount of ETH or tokens you are sending does **not** affect the amount of gas you need.
 *   <span>_GAS LIMIT_ is the maximum amount of GAS you will send with your transaction. This is in units of GAS.
-*   <span>_GAS PRICE_, which you will not see except on the Offline page, is how much each unit of gas costs. We set it at 0.00000002 ETH.</span>
+*   <span>_GAS PRICE_, which you will not see except on the offline page, is how much each unit of gas costs. We set it at 0.00000002 ETH.</span>
 
 ### Related
 
