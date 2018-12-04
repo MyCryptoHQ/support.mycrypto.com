@@ -1,5 +1,5 @@
 {
-"title"       : "Error: Unable to locate corresponding Transfer event log",
+"title"       : "Error: Unable to Locate Corresponding Transfer Event Log",
 "sort"        : "50",
 "category"    : "Tokens",
 "description" : "Tokens",
@@ -15,16 +15,16 @@
 
 This error appears on [etherscan.io](https://etherscan.io) when a sender tries to transfer out more tokens than they have.
 
-#### Generally this can happen due to a few possible events:
+#### Generally, this can happen due to a few possible events:
 
 *   When adding a [custom token](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html):
     *   You specified an incorrect token contract address (resulting in an attempt to send a token that you have none of).
-    *   You specified an incorrect token decimal (resulting in an attempt to send 50,000,000 of a token, as opposed to 5,000 of it).
+    *   You specified an incorrect token decimal (e.g., inadvertently attempting to send 50,000,000 of a token as opposed to 5,000 of it).
 *   When sending a default token:
-    *   You specified an amount to send higher than you actually own.
+    *   You specified a higher amount to send than what you actually own.
 
 #### How can I stop this from happening?
 
 *   Remove and [re-add the custom token](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html).
     *   Be sure to specify the correct decimals and token contract address this time (look up the name of the token on [ethplorer.io](https://ethplorer.io)).
-*   Make sure that you are attempting to send either the same amount of tokens that you have, or less.
+*   Make sure that you are attempting to send no more than the same amount of tokens that you have.
