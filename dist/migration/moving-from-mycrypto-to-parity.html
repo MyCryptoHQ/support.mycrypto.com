@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2017-07-05T08:00:00+08:00",
-  "dateModified": "April 9, 2018",
+  "dateModified": "November 28, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -198,7 +198,8 @@
     <h1 class="page__title" itemprop="headline">[MyCrypto ➡ Parity] Access your MyCrypto account in Parity</h1>
 
     <div class="page__article">
-      <h3 id="place-your-keystore-file-in-the-following-locations-">Place your Keystore file in the following locations:</h3>
+      <p>Starting from Parity v1.10, Parity Ethereum client (the node) has been separated from the Parity User Interface (UI). The user interface previously accessible from the browser in versions &lt;=1.9 is now released as a standalone app. Parity UI isn’t actively maintained anymore.</p>
+<h3 id="place-your-keystore-file-in-the-following-locations-">Place your Keystore file in the following locations:</h3>
 <ul>
 <li><p><code>C:\Users\You\AppData\Roaming\Parity\Ethereum</code></p>
 </li>
@@ -207,8 +208,11 @@
 <li><p><code>/home/you/.local/share/io.parity.ethereum</code></p>
 </li>
 </ul>
-<p>Then, open Parity away you go. 🎉</p>
-<h3 id="related-reading">Related Reading</h3>
+<p>Then, open Parity and away you go. 🎉</p>
+<p>Command-line options:</p>
+<pre><code>--keys-path=[PATH]
+  Specify the path for JSON key files to be found (default: $BASE/keys)
+</code></pre><h3 id="related-reading">Related Reading</h3>
 <ul>
 <li><a href="https://support.mycrypto.com/migration/location-of-mist-geth-wallet-files.html">How to find your keystore file</a></li>
 </ul>
@@ -250,7 +254,7 @@
 
 
 </p>
-      <p>Last Updated: April 9, 2018</p>
+      <p>Last Updated: November 28, 2018</p>
     </div>
 
 
