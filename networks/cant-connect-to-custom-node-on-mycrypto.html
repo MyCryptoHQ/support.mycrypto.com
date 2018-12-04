@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2017-10-08T08:00:00+08:00",
-  "dateModified": "October 27, 2017",
+  "dateModified": "November 28, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -207,6 +207,11 @@
 <li>parity: <code>parity --jsonrpc-cors &quot;null&quot; --keys-path &quot;dont_put_secret_files_here_ever&quot;</code></li>
 </ul>
 </li>
+<li>You can also run both clients in light client mode which only downloads the recent state of the blockchain and saves bandwidth:<ul>
+<li>geth: <code>geth --rpc --rpccorsdomain &quot;null&quot; --keystore &quot;dont_put_secret_files_here_ever&quot; --syncmode &quot;light&quot;</code></li>
+<li>parity: <code>parity --jsonrpc-cors &quot;null&quot; --keys-path &quot;dont_put_secret_files_here_ever&quot; --light</code></li>
+</ul>
+</li>
 <li>Verify your node is actually up and running.</li>
 <li>Try removing the node and adding it again.</li>
 <li>Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).</li>
@@ -251,7 +256,7 @@
 
 
 </p>
-      <p>Last Updated: October 27, 2017</p>
+      <p>Last Updated: November 28, 2018</p>
     </div>
 
 
