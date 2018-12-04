@@ -1,5 +1,5 @@
 {
-"title"       : "Error: Cannot send due to Insufficient funds",
+"title"       : "Error: Cannot Send Due to Insufficient Funds",
 "sort"        : "04",
 "category"    : "Gas & Transaction Fees",
 "description" : "Gas & Transaction Fees",
@@ -10,21 +10,21 @@
 ---%
 If you are getting the error, `"WARNING: Your ether or token balance isn't high enough to complete this transaction. Please send more funds or switch to a different wallet."`, it means you do not have enough **ETH** in your account to cover the cost of gas.
 
-Each transaction (including token and contract transactions) requires gas and that gas is paid in ETH. You can think of this like a transaction fee.
+Each transaction (including token and contract transactions) requires gas, and that gas is paid in ETH. You can think of this as a transaction fee.
 
 ### Solution: Send 0.01 ETH to that public address in order to be able to make the transaction.
 
-A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`. With tokens, the amount of gas is typically `50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
+A standard transaction (TX) will be `21000` gas at a gas price of `0.00000002 ETH`, so the total TX fee will be `0.00042 ETH`. Sending tokens typically costs `50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 
-The number displayed in that error message is the amount required to cover the cost of the transaction in Wei. Take that number, divide by `1000000000000000000`. This will give you the amount of Ether you need to send to that account to make the transaction.
+The number displayed in that error message is the amount required to cover the cost of the TX in Wei. Take that number and divide by `1000000000000000000`. This will give you the amount of Ether you need to send to that account and make the transaction.
 
 ### More Information About Gas
 
-*   A standard TX will be 21000 gas & a gas price of 0.00000002 ETH so the total TX fee will be 0.00042 Ether.
-*   With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to 0.001 ETH - 0.002 ETH.
+*   A standard TX will be 21000 gas at a gas price of 0.00000002 ETH, so the total TX fee will be 0.00042 Ether.
+*   SEnding tokens typically costs 50000 gas - 100000 gas, so the total TX fee increases to 0.001 ETH - 0.002 ETH.
 *   The amount of ETH or tokens you are sending <span>does not</span> affect the amount of gas you need.
 *   _GAS LIMIT_ is the maximum amount of GAS you will send with your transaction. This is in units of GAS.
-*   _GAS PRICE_, which you will not see except on the Offline page, is how much each unit of gas costs. We set it at 0.00000002 ETH.
+*   _GAS PRICE_, which you will not see except on the offline page, is how much each unit of gas costs. We set it at 0.00000002 ETH.
 
 ### Related Reading
 
