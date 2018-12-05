@@ -1,5 +1,5 @@
 {
-"title" : "U2F not supported error",
+"title" : "U2F Not Supported Error",
 "sort" : "20",
 "category" : "Hardware Wallets",
 "description" : "Hardware Wallets",
