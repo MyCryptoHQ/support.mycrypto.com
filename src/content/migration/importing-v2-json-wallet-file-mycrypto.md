@@ -23,12 +23,12 @@ Now you have to open a command line window and type in the following command:
 
 **`geth account import nameofyourwalletfile`**
 
-This will import your file into Geth and convert it to the latest (V3) keystore file. Now you need to go find it in one of the following locations:
+This will import your file into Geth and convert it to the latest (V3) Keystore file. Now you need to go find it in one of the following locations:
 
 *   Mac: `~/Library/Ethereum`
 *   Linux: `~/.ethereum`
 *   Windows: `%APPDATA%\Ethereum`
 
-Copy that file, and select it on [MyCrypto](https://mycrypto.com) and you are good to go!
+Copy that file, select it on [MyCrypto](https://mycrypto.com), and you are good to go!
 
-Moving foward, use this file. Keep a backup of it, and the old file just in case.
+Moving foward, use this file. Keep a backup of it and the old file just in case.
