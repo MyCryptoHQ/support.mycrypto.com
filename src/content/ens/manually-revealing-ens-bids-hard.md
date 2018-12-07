@@ -11,7 +11,7 @@
 
 ### Use our tool...
 
-*  More easily debug & generate reveal and finalize data: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
+*  More easily debug, generate, reveal, and finalize data: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
 ### Get your TX ID of your original bid. Under "input data" it should look like:
 
@@ -26,7 +26,7 @@
 
 You need whatever it outputs when you hit "query" to match the string in your original bid.
 
-##### Once you have that...construct the data string:
+##### Once you have that, construct the data string:
 
 1.  Always the same (`0x47872b42`)
 2.  Hash of name you bid on, without 0x
@@ -42,7 +42,7 @@ You need whatever it outputs when you hit "query" to match the string in your or
 4.  [VALUE HEX]
 5.  [SECRET HASH]
 
-##### Before moving forward, count the number of characters in #4 is (usually 14 or 15) and delete that many 0's from #3.
+##### Before moving forward, count the number of characters in #4 (usually 14 or 15) and delete that many 0's from #3.
 
 ##### Next, combine that string into one long string and use that as the data field:
 
