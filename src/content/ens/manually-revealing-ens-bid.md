@@ -1,5 +1,5 @@
 {
-"title"       : "Manually Revealing your ENS bid",
+"title"       : "Manually Revealing Your ENS Bid",
 "sort"        : "12",
 "category"    : "ENS",
 "description" : "ENS",
@@ -9,7 +9,7 @@
 
 ---%
 
-### Get Your Bid TX Hash
+### Get Your Bid Transaction Hash
 
 First, look up your address on [Etherscan](https://etherscan.io) in order to find the transaction in which you placed your bid. 
 
@@ -21,23 +21,23 @@ First, look up your address on [Etherscan](https://etherscan.io) in order to fi
 *   Was sent 2-4 days ago _(if you are just revealing your bid now)_
 *   That, when you click on the TX hash, has "Function: newBid(bytes32 sealedBid)" under "Input Data"
 
-Once you find this, copy and paste the value in the "Input Data" into a text document & remove the "MethodId:" and "[0]:" so that it looks like this: `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`.
+Once you find this, copy and paste the value in the "Input Data" into a text document and remove the "MethodId:" and "[0]:" so that it looks like this: `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`.
 
 
-### Generate Reveal Information & Ensure it Matches Bid TX Hash
+### Generate Reveal Information & Ensure it Matches Bid Transaction Hash
 
 1. Now, go to [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
 
-2. Scroll to the "ENS" section, depending on what you saved, enter the following:
+2. Scroll to the "ENS" section. Depending on what you saved, enter the following:
 
     *   The address you bid from
-    *   ENS Name you Bid On _(no '.eth' at the end!)_, or the namehash from your long string under "Hashed ENS Name (Label Hash)"
+    *   ENS Name you bid on _(no '.eth' at the end!)_ or the namehash from the long string under "Hashed ENS Name (Label Hash)"
     *   The amount you bid
-    *   Your Secret, or the sha3 secret from your long string under "Your Secret (Hashed)"
+    *   Your secret or the sha3 secret from the long string under "Your Secret (Hashed)"
 
-3. When you do this, the following four fields will populate with long data. You want compare the string you copied earlier ( `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`) to the string shown under **"New Bid Data"**. These two should match.
+3. When you do this, the following four fields will populate with long data. You'll want compare the string you copied earlier ( `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`) to the string shown under **"New Bid Data."** These two should match.
 
-4. Pro-Tip: Copy the finalize data from the Helpers page & save it somewhere. This will allow you to easily finalize the transaction in a few days.
+4. Pro-tip: Copy the finalize data from the Helpers page and save it somewhere. This will allow you to easily finalize the transaction in a few days.
 
 5. Copy the "Reveal Data" string.
 
@@ -54,6 +54,6 @@ Once you find this, copy and paste the value in the "Input Data" into a text doc
 
 3. Generate and sign your transaction.
 
-4. Click your TX hash after you send it. Ensure there are no errors (you may have to refresh after about a minute.)
+4. Click your transaction hash after you send it. Ensure that there are no errors (you may have to refresh after about a minute).
 
-5. Then, in a new tab, go to [Etherscan](https://etherscan.io/enslookup?q=yourname.eth) and type in the name you bid on. Ensure that you see a very recent transaction from your address with "Unseal Bid" next to it.
+5. Then, in a new tab, go to [Etherscan](https://etherscan.io/enslookup?q=yourname.eth) and type in the name you bid on. You should see a very recent transaction from your address with "Unseal Bid" next to it.
