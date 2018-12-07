@@ -29,7 +29,7 @@ I refer to this as a "wallet solution" rather than just a hardware wallet becaus
 
 This part of the guide relies on free & open source software,<sub>[1](https://labs.riseup.net/code/projects/tails/),[2](https://keepass.info/download.html),[3](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest)</sub> cheap hardware, and a bit of time in order to produce a system where sensitive data can be stored securely, accessed safely, and backed up easily. It follows the idea of security controls<sub>[1](https://en.wikipedia.org/wiki/Security_controls)</sub> to implement physical, technical, and administrative safeguards, but is left up to the user to ultimately choose which ones and how to implement them.
 
-![Wallet Diagram](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmSqSHqQdPRL86EJULUSF12e5qkPpP1s3FumrU699vf8AA)
+![Wallet Diagram](https://imgur.com/YstbPkk)
 
 We are essentially creating our own hardware wallet that has multi-factor authentication built in and no single point of failure (like a backup seed). The goal is to end up with 2 USB drives (more for redundant backups) that are used for:
 
@@ -53,7 +53,7 @@ Read the **entire** guide first, then go through step-by-step.
 
 • A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
 
-![QR to guide](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmdDwtgJJLKgzuxC7KeUzU3arXbQt4JQL6TWVQm2v19oX6_1680x8400)
+![QR to guide](https://imgur.com/gbkOcPe)
 
 <sub>*Scan this QR code to follow the Steemit guide on your phone if you only have 1 computer to work from.*</sub>
 
