@@ -1,5 +1,5 @@
 {
-"title"       : "Changing the ENS owner or transferring an ENS Name",
+"title"       : "Changing the ENS Owner or Transferring an ENS Name",
 "sort"        : "08",
 "category"    : "ENS",
 "description" : "ENS",
@@ -20,7 +20,7 @@
 7.  Paste the `address` of the new owner in the `newOwner` field. 
 7.  Unlock your wallet and send.
 
-### Only setting Owner
+### Only Setting Owner
 
 *WARNING: If you only change the owner, the deed owner can get the name back.*
 
@@ -29,5 +29,5 @@
 3.  Go to the [Contracts](https://mycrypto.com/contracts/interact) page and select `ENS - Registry" (0x314159265dD8dbb310642f98f50C066173C1259b)` from the dropdown menu. 
 4.  Optional but recommended: set your preferred gas price via the slider in the footer.
 5.  Access and choose the `setOwner` call. Paste the `NameHash` (not LabelHash) from [Etherscan](https://etherscan.io/) into the `node` field.
-6.  Paste the `address` of the new owner in owner. 
+6.  Paste the `address` of the new owner in `newOwner`. 
 7.  Unlock your wallet and rock and roll.
