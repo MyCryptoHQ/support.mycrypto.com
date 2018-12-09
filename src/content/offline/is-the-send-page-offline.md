@@ -1,5 +1,5 @@
 {
-"title"       : "Is the 'View & Send' page offline?",
+"title"       : "Is the 'View & Send' Page Offline?",
 "sort"        : "04",
 "category"    : "Offline",
 "description" : "Offline",
@@ -10,7 +10,7 @@
 ---%
 
 
-No, it needs the internet in order to get the current gas price, nonce of your account, and broadcast the transaction (aka "send"). However, it only sends the signed transaction. Your private key safely stays with you.
+No, it needs the internet in order to get the current gas price, nonce of your account, and broadcast the transaction (aka "send"). However, it only sends the signed transaction. Your private key stays safely with you.
 
 ### Related Reading
 
