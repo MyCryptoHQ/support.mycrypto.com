@@ -1,5 +1,5 @@
 {
-"title"       : "How to schedule a transaction",
+"title"       : "How to Schedule a Transaction",
 "sort"        : "20",
 "category"    : "Transactions",
 "description" : "Transactions",
@@ -15,7 +15,7 @@ To use this feature, click the "Send Later" button on the "Send Ether & Tokens" 
 
 ![](https://i.imgur.com/oqzfAol.png)
 
-Just like a regular transaction, you can set a gas price, gas limit and optional data, but there are some other fields that you have to fill out as well.
+Just like a regular transaction, you can set a gas price, gas limit, and optional data, but there are some other fields that you have to fill out as well.
 
 ![](https://i.imgur.com/C2Cyb3l.png)
 
@@ -27,6 +27,6 @@ Just like a regular transaction, you can set a gas price, gas limit and optional
 * **Future Gas Price**: The gas price (GWEI) that the transaction will use when it's executed.
 * **Future Gas Limit**: The gas limit that the transaction will use when it's executed.
 
-Please note that the gas limit for the transaction to _schedule_ a transaction is different from the future gas limit.
+Please note that the gas limit required for the transaction to _schedule_ a future transaction is different from the future gas limit.
 
 After filling out all the fields, simply click on "Schedule transaction" to schedule your transaction. Note that doing so **does not guarantee** that your transaction will be executed, based on what settings you used.
