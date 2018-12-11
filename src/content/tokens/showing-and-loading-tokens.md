@@ -1,5 +1,5 @@
 {
-"title"       : "Showing & Loading Tokens",
+"title"       : "Showing and Loading Tokens",
 "sort"        : "10",
 "category"    : "Tokens",
 "description" : "Tokens",
@@ -10,7 +10,7 @@
 ---%
 
 
-### 1. Click "Scan for Tokens" Button. 
+### 1. Click the "Scan for Tokens" Button. 
 
 ![](https://i.imgur.com/6ood1qw.png)
 
@@ -18,7 +18,7 @@
 
 ![](https://i.imgur.com/vxho4sO.png)
 
-### 3. If you would like to load that token each time you visit [MyCrypto.com](https://beta.mycrypto.com/account), check the box next to the token and press "Save"
+### 3. If you would like to load that token each time you visit [MyCrypto.com](https://beta.mycrypto.com/account), check the box next to the token and press "Save."
 
 ![](https://i.imgur.com/4quT3w5.png)
 
@@ -26,7 +26,7 @@
 
 ![](https://i.imgur.com/p2KEduQ.png)
 
-### 5. If you have a balance you won't have to load it again—it will automatically load in the future! Yay!
+### 5. If you have a balance, you won't have to load it again—it will automatically load in the future! Yay!
 
 ![](https://i.imgur.com/vxho4sO.png)
 
