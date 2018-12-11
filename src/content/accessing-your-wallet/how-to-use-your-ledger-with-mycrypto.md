@@ -9,7 +9,7 @@
 
 ---%
 
-The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there. It is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Nano Ledger S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
+The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there. It is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
 
 ###  Initial Setup
 
