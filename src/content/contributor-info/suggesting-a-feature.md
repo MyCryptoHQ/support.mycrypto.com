@@ -1,5 +1,5 @@
 {
-"title"       : "How To Suggest A Feature",
+"title"       : "How To Suggest a Feature",
 "sort"        : "66",
 "category"    : "Contributor Info",
 "description" : "Contributor Info",
@@ -10,13 +10,13 @@
 ---%
 
 If there's a feature that you think would make MyCrypto a better product, we
-want to know. Here's the best way to do it:
+want to know. Here's the best way to tell us:
 
 1. **Search for your suggestion** - If you've thought of a good new feature,
     chances are someone else may have too. To consolidate issues, we'll keep
     feature requests in one thread. Show your support for a request by using
-    the thumbs up response on the Github issue.
-2. **Describe your suggestion** - Describe, in detail, how you would want this
+    the thumbs up response on the GitHub issue.
+2. **Describe your suggestion** - Describe in detail how you would want this
     new feature to work. If something doesn't work very well, it helps to know
     the pain points. If you have an idea of how to make it better, feel free to
     suggest!
