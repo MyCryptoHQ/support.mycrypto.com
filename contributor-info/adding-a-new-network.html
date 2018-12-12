@@ -198,28 +198,28 @@
     <h1 class="page__title" itemprop="headline">Adding a New Network to MyCrypto</h1>
 
     <div class="page__article">
-      <p>Adding support for your Ethereum-like network is easy, assuming you don&#39;t have any significant differences from the Ethereum network. To make sure your network is well supported, we require the following:</p>
+      <p>Adding support for your Ethereum-like network is easy, assuming it isn&#39;t significantly different from the Ethereum network. To make sure your network is well supported, we require the following:</p>
 <ul>
-<li>Must have at least one reliable, working node</li>
-<li>Must be EIP155 compliant with a unique Chain ID not used by any other MyCrypto-supported network</li>
-<li>Must have a block explorer that can view addresses, transactions, and blocks</li>
-<li>Should not have a token name that conflicts with a more popular token<ul>
-<li>This will break equivalent fiat values and may confuse users. You can check this at <a href="https://www.cryptocompare.com/">https://www.cryptocompare.com/</a></li>
+<li>Must have at least one reliable, working node.</li>
+<li>Must be EIP155 compliant with a unique Chain ID this is not used by any other MyCrypto-supported network.</li>
+<li>Must have a block explorer that can view addresses, transactions, and blocks.</li>
+<li>Should not have a token name that conflicts with a more popular token.<ul>
+<li>This will break equivalent fiat values and may confuse users. You can check this at <a href="https://www.cryptocompare.com/">https://www.cryptocompare.com/</a>.</li>
 </ul>
 </li>
 </ul>
-<p>If you meet all of those requirements, all that&#39;s left is to <a href="https://github.com/MyCryptoHQ/MyCrypto">make a pull request</a> with the following changes:</p>
+<p>If you meet all of those requirements, you simply need to <a href="https://github.com/MyCryptoHQ/MyCrypto">make a pull request</a> with the following changes:</p>
 <ol>
-<li>Add a deterministic path (aka dpath) to <code>common/configs/dpath.ts</code> for your network, even if it just uses Ethereum&#39;s default path</li>
-<li>Add at least one node to <code>common/libs/nodes/configs.ts</code></li>
-<li>Add your network configuration to <code>common/features/config/networks/static/reducer.ts</code></li>
-<li>Add your network&#39;s key (matching the key in <code>reducer.ts</code>) to <code>shared/types/network.d.ts</code></li>
+<li>Add a deterministic path (aka dpath) to <code>common/configs/dpath.ts</code> for your network, even if it just uses Ethereum&#39;s default path.</li>
+<li>Add at least one node to <code>common/libs/nodes/configs.ts</code>.</li>
+<li>Add your network configuration to <code>common/features/config/networks/static/reducer.ts</code>.</li>
+<li>Add your network&#39;s key (matching the key in <code>reducer.ts</code>) to <code>shared/types/network.d.ts</code>.</li>
 </ol>
 <p>If you&#39;d like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like <a href="https://mycrypto.com/account?network={network}">https://mycrypto.com/account?network={network}</a> where <code>{network}</code> is the key from the <code>reducer.ts</code> config.</p>
 <h2 id="example">Example</h2>
 <p><a href="https://github.com/MyCryptoHQ/MyCrypto/pull/1962/files">This commit exemplifies the process described above.</a></p>
 <h2 id="adding-a-node">Adding a Node</h2>
-<p>If you&#39;d simply like to add a node to support an existing network, all you need to do is follow step 2 listed above. Nodes are automatically load balanced based on performance, so your node will automatically get used by anyone using the network. Thanks for supporting the ecosystem!</p>
+<p>If you&#39;d only like to add a node to support an existing network, all you need to do is follow step 2 listed above. Nodes are automatically load-balanced based on performance, so your node will automatically get utilized by anyone using the network. Thanks for supporting the ecosystem!</p>
 
     </div>
 

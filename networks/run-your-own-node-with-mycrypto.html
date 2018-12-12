@@ -5,11 +5,11 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title> Running MyCrypto w/ your own, personal node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support</title>
-<meta property="og:title" content=" Running MyCrypto w/ your own, personal node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
-<meta property="og:site_name" content=" Running MyCrypto w/ your own, personal node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
-<meta name="twitter:title" content=" Running MyCrypto w/ your own, personal node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
-<meta name="apple-mobile-web-app-title" content=" Running MyCrypto w/ your own, personal node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
+<title> Running MyCrypto With Your Own Personal Node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support</title>
+<meta property="og:title" content=" Running MyCrypto With Your Own Personal Node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
+<meta property="og:site_name" content=" Running MyCrypto With Your Own Personal Node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
+<meta name="twitter:title" content=" Running MyCrypto With Your Own Personal Node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
+<meta name="apple-mobile-web-app-title" content=" Running MyCrypto With Your Own Personal Node &middot; Networks &amp; Nodes | MyCrypto Help &amp; Support">
 
 <base href="https://support.mycrypto.com/networks/run-your-own-node-with-mycrypto.html">
 <link href="https://support.mycrypto.com/networks/run-your-own-node-with-mycrypto.html" rel="canonical">
@@ -62,7 +62,7 @@
     "@type": "WebPage",
     "@id": "networks/run-your-own-node-with-mycrypto.html"
   },
-  "headline": "Running MyCrypto w/ your own, personal node",
+  "headline": "Running MyCrypto With Your Own Personal Node",
   "image": [
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
@@ -106,7 +106,7 @@
     "position": 3,
     "item": {
       "@id": "networks/run-your-own-node-with-mycrypto.html",
-      "name": "Running MyCrypto w/ your own, personal node"
+      "name": "Running MyCrypto With Your Own Personal Node"
     }
   }]
 }
@@ -190,21 +190,21 @@
       Networks &amp; Nodes
     </a>
     ›
-    <span class="breadcrumbs__category">Running MyCrypto w/ your own, personal node</span>
+    <span class="breadcrumbs__category">Running MyCrypto With Your Own Personal Node</span>
   </nav>
 
   <article class="page__content" itemscope itemtype="http://schema.org/Article">
 
-    <h1 class="page__title" itemprop="headline">Running MyCrypto w/ your own, personal node</h1>
+    <h1 class="page__title" itemprop="headline">Running MyCrypto With Your Own Personal Node</h1>
 
     <div class="page__article">
-      <p>You can use MyCrypto to connect to your own node. This decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don&#39;t rely on us.</p>
+      <p>You can use MyCrypto to connect to your own node, which decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don&#39;t rely on us.</p>
 <h3 id="warning">Warning</h3>
-<p>When connecting to your own node, please do not have any accounts in that node. Meaning: do not do things like <code>geth account add</code> or store your private keys in the geth keystore folder.</p>
-<p>You will be using MyCrypto to sign and then broadcast the TXs via your node. You will <strong>not</strong> be using your node to sign and send. <a href="https://www.reddit.com/r/ethereum/comments/3itz1f/insecurely_configured_geth_with_no_firewall_and/">If you do not heed this warning, bad things <em>could</em> happen if another setting gets changed. Here&#39;s one.</a>. Better safe than sorry.</p>
-<h3 id="specifics-to-connect-to-your-local-node">Specifics to Connect To Your Local Node</h3>
-<h5 id="first-download-and-run-mycrypto-desktop-app-"><a href="https://download.mycrypto.com/">First, download and run MyCrypto Desktop App.</a></h5>
-<h5 id="run-geth-or-parity-with-correct-flags">Run geth or parity with correct flags</h5>
+<p>When connecting to your own node, please do not have any accounts in that node. Meaning: Do not do things like <code>Geth account add</code> or store your private keys in the Geth Keystore folder.</p>
+<p>You will be using MyCrypto to sign and then broadcast the transactions via your node. You will <strong>not</strong> be using your node to sign and send. <a href="https://www.reddit.com/r/ethereum/comments/3itz1f/insecurely_configured_geth_with_no_firewall_and/">If you do not heed this warning, bad things <em>could</em> happen if another setting gets changed. Here&#39;s one example</a>. Better safe than sorry.</p>
+<h3 id="specifics-to-connect-to-your-local-node">Specifics to Connect to Your Local Node</h3>
+<h5 id="first-download-and-run-the-mycrypto-desktop-app-"><a href="https://download.mycrypto.com/">First, download and run the MyCrypto Desktop App.</a></h5>
+<h5 id="run-geth-or-parity-with-correct-flags">Run Geth or Parity with correct flags</h5>
 <ul>
 <li><p>Geth: <code>geth --syncmode=light  --rpc --rpccorsdomain &quot;null&quot; --keystore &quot;dont_put_secret_files_here_ever&quot;</code></p>
 </li>
@@ -215,73 +215,73 @@
 <ul>
 <li><p>Open the MyCrypto desktop application.</p>
 </li>
-<li><p>At the bottom-left there is a node switcher. Here is where you can select which node / chain you are connected to.</p>
+<li><p>At the bottom left, there is a node switcher. Here is where you can select which node / chain you are connected to.</p>
 </li>
-<li><p>Click it, scroll all the way down &amp; choose <code>Add Custom Node</code></p>
+<li><p>Click it, scroll all the way down, and choose <code>Add Custom Node</code>.</p>
 </li>
-<li><p>Enter a <code>Node Name</code> for your node</p>
+<li><p>Enter a <code>Node Name</code> for your node.</p>
 </li>
-<li><p>URL: <code>http://127.0.0.1:8545</code></p>
+<li><p>URL: <code>http://127.0.0.1:8545</code>.</p>
 </li>
-<li><p>Select the chain. This is for some frontend features, like default tokens and ENS addresses and more. See above for more details.</p>
+<li><p>Select the chain. This is for some frontend features, such as default tokens, ENS addresses, and more. See above for more details.</p>
 </li>
 </ul>
 <p><img src="https://i.imgur.com/wx5vZbs.jpg" alt=""></p>
 <ul>
-<li><p>Click &quot;Save &amp; Use Custom Node&quot;.</p>
+<li><p>Click &quot;Save &amp; Use Custom Node.&quot;</p>
 </li>
 <li><p>This should immediately connect or an error message will display.</p>
 </li>
-<li><p>Go to the &quot;View &amp; Send&quot; tab and unlock via &quot;View Address&quot;.</p>
+<li><p>Go to the &quot;View &amp; Send&quot; tab and unlock via &quot;View Address.&quot;</p>
 </li>
-<li><p>Verify balances are loading correctly.</p>
+<li><p>Verify that balances are loading correctly.</p>
 </li>
 </ul>
 <h3 id="hosted-node">Hosted Node</h3>
 <ul>
-<li>Make sure your node is SSL</li>
+<li>Make sure your node is SSL.</li>
 </ul>
-<h5 id="run-geth-or-parity-with-correct-flags">Run geth or parity with correct flags</h5>
+<h5 id="run-geth-or-parity-with-correct-flags">Run Geth or Parity with correct flags</h5>
 <ul>
 <li>Geth: <code>geth --datadir eth-mainnet --syncmode=light --rpcaddr &quot;localhost&quot; --rpc  --rpccorsdomain=&quot;https://mycrypto.com/&quot; --unlock 1 console</code></li>
 </ul>
-<h5 id="connect-to-your-node-hosted-somewhere">Connect to your Node Hosted Somewhere</h5>
+<h5 id="connect-to-your-node-where-it-s-hosted">Connect to your node where it&#39;s hosted</h5>
 <ul>
 <li><p>Go to <code>https://mycrypto.com/</code> or your local MyCrypto application.</p>
 </li>
-<li><p>In upper right corner (MyCrypto website) or bottom left (MyCrypto desktop application) there is a node switcher. Here is where you can select which node / chain you are connected to.</p>
+<li><p>In upper right (MyCrypto website) or bottom left (MyCrypto desktop application), there is a node switcher. Here is where you can select which node / chain you are connected to.</p>
 </li>
-<li><p>Click it &amp; choose <code>Add Custom Node</code></p>
+<li><p>Click it and choose <code>Add Custom Node</code>.</p>
 </li>
-<li><p>Enter a <code>name</code> for your node</p>
+<li><p>Enter a <code>name</code> for your node.</p>
 </li>
-<li><p>Enter the <code>URL</code></p>
+<li><p>Enter the <code>URL</code>.</p>
 </li>
-<li><p>Select the chain. This is for some frontend features, like default tokens and ENS addresses and more.</p>
+<li><p>Select the chain. This is for some frontend features, such as default tokens, ENS addresses, and more.</p>
 <ul>
-<li><p>ETH: Shows default ETH tokens, EIP-155=true, chainid=1, uses etherscan.io for links to addresses and txs.</p>
+<li><p>ETH: Shows default ETH tokens, EIP-155=true, and chainid=1, and uses etherscan.io for links to addresses and transactions.</p>
 </li>
-<li><p>ETC: Shows default ETC tokens (none...yet?), EIP-155=false, chainid=false, uses gastracker.io for links to addresses and txs.</p>
+<li><p>ETC: Shows default ETC tokens (none...yet?), EIP-155=false, and chainid=false, and uses gastracker.io for links to addresses and transactions.</p>
 </li>
-<li><p>Ropsten / Kovan / Rinkeby: Shows default testnet tokens, EIP-155=true, chainid=3/?/?, uses testnet.etherscan.io for links to addresses and txs.</p>
+<li><p>Ropsten / Kovan / Rinkeby: Shows default testnet tokens, EIP-155=true, and chainid=3/?/?, and uses testnet.etherscan.io for links to addresses and transactions.</p>
 </li>
-<li><p>Custom: Allows you to select whether EIP-155 is true or false, and provide a chainid if it&#39;s true.</p>
+<li><p>Custom: Allows you to select whether EIP-155 is true or false, and provide a Chian ID if it&#39;s true.</p>
 </li>
 </ul>
 </li>
-<li><p>Click &quot;Save &amp; Use Custom Node&quot;</p>
+<li><p>Click &quot;Save &amp; Use Custom Node.&quot;</p>
 </li>
 <li><p>This should immediately connect or an error message will display.</p>
 </li>
-<li><p>If no errors, go to <a href="https://mycrypto.com/account">https://mycrypto.com/account</a> and unlock via &quot;View Address&quot;.</p>
+<li><p>If there are no errors, go to <a href="https://mycrypto.com/account">https://mycrypto.com/account</a> and unlock via &quot;View Address.&quot;</p>
 </li>
-<li><p>Verify balances are loading correctly.</p>
+<li><p>Verify that balances are loading correctly.</p>
 </li>
 </ul>
 <h3 id="requirements">Requirements</h3>
 <p>The URL must have an SSL certificate (aka be https://). You can get a free SSL certificate via <a href="https://letsencrypt.org/">LetsEncrypt</a> very quickly.</p>
-<p>If you node is local, it&#39;s much easier to simply also run MyCrypto locally. <a href="https://github.com/MyCryptoHQ/MyCrypto/releases/latest">Download the latest version of MyCrypto here</a>.</p>
-<p>If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control of.</p>
+<p>If your node is local, it&#39;s much easier to simply also run MyCrypto locally. <a href="https://github.com/MyCryptoHQ/MyCrypto/releases/latest">Download the latest version of MyCrypto here</a>.</p>
+<p>If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control over.</p>
 <ul>
 <li><a href="https://support.mycrypto.com/offline/using-ledger-wallet-offline.html">One way to do this is detailed here</a></li>
 </ul>
