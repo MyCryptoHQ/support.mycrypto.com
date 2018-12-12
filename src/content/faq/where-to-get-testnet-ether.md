@@ -1,5 +1,5 @@
 {
-"title"       : "Where to get testnet ether?",
+"title"       : "Where to Get Testnet Ether?",
 "sort"        : "24",
 "category"    : "FAQ",
 "description" : "FAQ",
@@ -11,7 +11,7 @@
 
 ### Where to get testnet ether?
 
-There are currently 3 different testnets for the Ethereum public chain;
+There are currently 3 different testnets for the Ethereum public chain:
 
 * Rinkeby
 * Ropsten
@@ -19,12 +19,12 @@ There are currently 3 different testnets for the Ethereum public chain;
 
 #### Rinkeby
 
-Rinkeby is a public test net for Ethereum using PoA (Proof of Authority).
+Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 
-**Useful links;**
+**Useful links**
 
 * Block explorer: https://rinkeby.etherscan.io/
-* Github: 
+* GitHub: 
 
 | Faucets                    |
 |----------------------------|
@@ -34,12 +34,12 @@ Rinkeby is a public test net for Ethereum using PoA (Proof of Authority).
 
 #### Ropsten
 
-Ropsten is a public test net for Ethereum using PoW (Proof of Work).
+Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 
-**Useful links;**
+**Useful links**
 
 * Block explorer: https://ropsten.etherscan.io/
-* Github: https://github.com/ethereum/ropsten
+* GitHub: https://github.com/ethereum/ropsten
 
 | Faucets                                                              |
 |----------------------------------------------------------------------|
@@ -57,15 +57,15 @@ Ropsten is a public test net for Ethereum using PoW (Proof of Work).
 
 #### Kovan
 
-Kovan is a public test net for Ethereum using Parity's PoA (Proof of Authority) consensus engine.
+Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authority) consensus engine.
 
 * Immune to spam attacks (Ether supply is controlled by trusted parties)
-* Consistent 4 second block time
+* Consistent 4-second block time
 
-**Useful links;**
+**Useful links**
 
 * Block explorer: https://kovan.etherscan.io/
-* Github: https://github.com/kovan-testnet/
+* GitHub: https://github.com/kovan-testnet/
 
 | Faucets                                                                          |
 |----------------------------------------------------------------------------------|
