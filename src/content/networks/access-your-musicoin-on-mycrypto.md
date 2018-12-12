@@ -4,7 +4,7 @@
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
 "date_published" : "2017-10-08T08:00:00+08:00",
-"date_modified" : "2018-04-26T08:00:00+08:00"
+"date_modified" : "2018-12-12T08:00:00+08:00"
 }
 
 ---%
@@ -12,13 +12,13 @@
 
 We temporarily removed the MUSIC node as we had some issues with hardware wallets and lack of EIP-155 support.
 
-You can still add it as custom by following the below instructions.
+You can still add it as a custom token by following the instructions below.
 
 ### Warnings
 
 We advise you to be careful when interacting with TREZOR, Ledger, or any other hardware wallet.
 
-We also advise you to ensure you are using addreses on the MUSICOIN chain that is different than your ETH or EXP addresses.
+We also advise you to ensure you are using addresses on the MUSICOIN chain that are different than your ETH or EXP addresses.
 
 Any transactions sent on the MUSICOIN chain can be replayed on a different chain.
 
