@@ -1,5 +1,5 @@
 {
-"title"       : "[MyCrypto ➡ Parity] Access your MyCrypto account in Parity",
+"title"       : "[MyCrypto ➡ Parity] Access Your MyCrypto Account in Parity",
 "sort"        : "03",
 "category"    : "Migrating to/from MyCrypto",
 "description" : "Migrating to/from MyCrypto",
@@ -9,7 +9,7 @@
 
 ---%
 
-Starting from Parity v1.10, Parity Ethereum client (the node) has been separated from the Parity User Interface (UI). The user interface previously accessible from the browser in versions <=1.9 is now released as a standalone app. Parity UI isn’t actively maintained anymore.
+Starting from Parity v1.10, the Parity Ethereum client (the node) has been separated from the Parity User Interface (UI). The user interface, accessible from the browser in previous versions up to and including 1.9, is now available as a standalone app. Parity UI isn’t actively maintained anymore.
 
 ### Place your Keystore file in the following locations:
 
