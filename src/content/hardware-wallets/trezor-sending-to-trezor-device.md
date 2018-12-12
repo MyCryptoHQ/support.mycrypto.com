@@ -4,14 +4,14 @@
 "category"    : "Hardware Wallets",
 "description" : "Hardware Wallets",
 "date_published" : "2015-07-15T08:00:00+08:00",
-"date_modified"  : "2018-04-26T09:07:00+08:00"
+"date_modified"  : "2018-12-12T09:07:00+08:00"
 }
 
 ---%
 
 Here is how you can get your address to send to your TREZOR:
 
-1.  Go to [https://mycrypto.com/account](https://beta.mycrypto.com/account).
+1.  Go to [https://mycrypto.com/account](https://mycrypto.com/account).
 
 2. Check to make sure you are using an ETH node by looking at the Network Switcher in the top-right corner.
 
