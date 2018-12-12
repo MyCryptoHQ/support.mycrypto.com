@@ -1,5 +1,5 @@
 {
-"title"       : "How to stay safe during ICOs and other periods",
+"title"       : "How to Stay Safe During ICOs and Other Periods",
 "sort"        : "89",
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
@@ -9,13 +9,13 @@
 
 ---%
 
-## Domain verification
+## Domain Verification
 
 ### The problem
 
 There are many website clones of ICOs with fake contribution addresses. Sometimes they use character substitutions in
-the domain (ie: `i` becomes a `l` in the scam site). Sometimes they use IDN domains which are harder to see with your eye
-(ie: `c` becomes a `ƈ`)
+the domain (e.g., an "i" becomes an "l" in the scam site). Sometimes they use IDN domains which are harder to see with your eye
+(e.g., a "c" becomes a "ƈ").
 
 ![/images/security/how-to-stay-safe/idn-demo-domains.png](/images/security/how-to-stay-safe/idn-demo-domains.png)
 
@@ -49,32 +49,32 @@ attack domains, fake project domains, other scam domains).
 You should _never_ rely on links people send you, or results in a search engine. You should always type the address manually
 and then bookmark it and start using the bookmark every time.
 
-## 0x address verification
+## 0x Address Verification
 
 ### The problem
 
-Once you've sent ETH (or any other token) and it's confirmed on the network, it is _irreversible_. So you need to ensure
+Once you've sent ETH (or any other crypto or token) and the transaction has been confirmed on the network, it is _irreversible_. So you need to ensure that
 you have the correct address when you sign your transactions.
 
-During ICO phases, many communication channels (Slack, Telegram, Discord, Twitter, etc...) are slammed with fake accounts
-promoting "the contribution address".
+During ICO phases, many communication channels (Slack, Telegram, Discord, Twitter, etc.) are slammed with fake accounts
+promoting "the contribution address."
 
 ### The solution
 
 #### Confirm the address
 
-You can confirm the address for an ICO with some simple checks;
+You can confirm the address for an ICO with some simple checks:
 
 * Search the address on block explorers and check for comments.
-* Typically ICO addresses are contract addresses. If the address given to you doesn't have a contract, it's _usually_ a scam.
+* Typically, ICO addresses are contract addresses. If the address given to you doesn't have a contract, it's _usually_ a scam.
 
-Alternatively, get your wallet provider to implement the EtherScamDB JS library to show a visual indication - `etherscamdb-js-address-validation` [Github](https://github.com/409H/etherscamdb-js-address-validation#etherscamdb-js-address-validation-package) &mdash; [NPMJS](https://www.npmjs.com/package/etherscamdb-js-address-validation)
+Alternatively, get your wallet provider to implement the EtherScamDB JS library to show a visual indication: `etherscamdb-js-address-validation` [Github](https://github.com/409H/etherscamdb-js-address-validation#etherscamdb-js-address-validation-package) &mdash; [NPMJS](https://www.npmjs.com/package/etherscamdb-js-address-validation).
 
 ## Twitter
 
 ### The problem
 
-Twitter has recently become a prime spot for scammers to pretend to be famous accounts by copying their name and 
+Twitter has recently become a prime spot for scammers to pretend to be famous account holders by copying their name and 
 profile picture and announcing giveaways.
 
 An example
@@ -83,11 +83,11 @@ An example
 
 ### The solution
 
-There are various ways in which you can "ignore" these scammers.
+There are various ways by which you can "ignore" these scammers.
 
 ##### Muting key scammer phrases
 
-You can go into your [Twitter settings and mute words/phrases](https://twitter.com/settings/muted_keywords) so you won't see them. Here's a bunch of phrases you could ignore
+You can go into your [Twitter settings and mute words/phrases](https://twitter.com/settings/muted_keywords) so you won't see them. Here's a bunch of phrases you could ignore:
 
 ```text
 give-away
@@ -101,18 +101,18 @@ Get BTC or ETH for free
 
 ##### Disabling notifications from fresh accounts
 
-This one can be quite aggressive, but Twitter allows you to not receive notifications from accounts that fit a certain
-criterion. If you go to your [Notifications settings](https://twitter.com/settings/notifications_timeline), you can select
+This one can be quite aggressive, but Twitter allows you to block notifications from accounts that fit certain
+criteria. If you go to your [Notifications settings](https://twitter.com/settings/notifications_timeline), you can select
 your preference.
 
-We recommend ticking the following;
+We recommend ticking the following:
 
-* Who haven't confirmed their phone number
-* Who haven't confirmed their email
-* With a new account
+* Those who haven't confirmed their phone number
+* Those who haven't confirmed their email
+* Those with a new account
 
 This should prevent you from getting notifications from people tweeting at you regarding scam ICOs, pretending to be an
-ICO you follow, and other types of phishers/scammers.
+ICO you follow, and other types of phishers / scammers.
 
 ##### Installing [EtherSecurityLookup](https://github.com/409H/EtherSecurityLookup#ethersecuritylookup)
 
