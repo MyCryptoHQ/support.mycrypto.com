@@ -41,7 +41,7 @@ There are a few posts I made after GNT and before MLN that contain good advice, 
 
 - Nonce is at the top of the page.
 
-- Make sure whatever amount you have in your wallet is an ETH or 2 more than the amount your sending. This gives you a lot of room for miscalculating gas limit / gas price. So if you want to invest 50 ETH, have 52 ETH in your account.
+- Make sure whatever amount you have in your wallet is an ETH or 2 more than the amount your sending. This gives you a lot of room for miscalculating gas limit * gas price. So if you want to invest 50 ETH, have 52 ETH in your account.
 
 - Unlock your wallet and get the signed transaction (TX). DO NOT SEND IT.
 
