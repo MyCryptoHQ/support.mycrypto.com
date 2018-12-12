@@ -19,8 +19,8 @@ should do:
     [Knowledge Base](https://support.mycrypto.com/) before posting. You may even find an
     answer to your problem!
 2. **Describe the issue in detail** - Instead of describing something as "not
-    working" or being "broken", explain what you expected to happen, and what's
-    happening instead, or just not happening.
+    working" or being "broken," explain what you expected to happen, and what's
+    happening instead or just not happening.
 3. **Provide console logs** - Every browser has the ability to view logs from
     Javascript, which is where many error messages will get displayed if
     there's a bug in the code. Here's how in [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console),
@@ -30,7 +30,7 @@ should do:
     and [Safari](https://www.wickedlysmart.com/hfjsconsole/). You'll want to
     provide us with as many of the logs as possible, especially anything in red.
 4. **Provide browser information** - Let us know what operating system, browser,
-    browser version, and mobile device (if applicable.) This will help us debug
+    browser version, and mobile device (if applicable) the problem is occurring on. This will help us debug
     your issue on an identical device.
 
 Following the above steps will ensure that your bug is addressed in a timely and
