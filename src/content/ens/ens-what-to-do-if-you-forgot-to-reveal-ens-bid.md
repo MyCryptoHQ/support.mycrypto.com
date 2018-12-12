@@ -1,5 +1,5 @@
 {
-"title"       : "What to do if you forgot to reveal your ENS bid",
+"title"       : "What to do if You Forgot to Reveal Your ENS Bid",
 "sort"        : "02",
 "category"    : "ENS",
 "description" : "ENS",
@@ -10,13 +10,13 @@
 ---%
 
 
-### If there are other bidders
+### If there are other bidders:
 
-You can get 0.5% back by manually revealing, [as written up here](https://support.mycrypto.com/ens/manually-revealing-ens-bid.html). Unfortunately, you must reveal during the reveal period in order to win  the name, or get the full amount back.
+You can get 0.5% back by manually revealing, [as written up here](https://support.mycrypto.com/ens/manually-revealing-ens-bid.html). Unfortunately, you must reveal during the reveal period in order to win the name or get the full amount back.
 
 ---
 
-### If There Are No Other Bidders
+### If there are no other bidders:
 
 As soon as the auction is over, please start a new auction for the same name.
 
@@ -35,8 +35,8 @@ Three days later, reveal your original bid and you will get it. Do not tell anyo
 1.  Go to [https://etherscan.io/enslookup?q=yourname.eth](https://etherscan.io/enslookup?q=yourname.eth)
 2.  Type in your name and press lookup
 3.  Copy the string after _"Label Hash [yourname]"_
-4.  Remove the `0x` from the beginning.
-5.  Add `0xede8acdb` to the beginning.
+4.  Remove the `0x` from the beginning
+5.  Add `0xede8acdb` to the beginning
 
 **It should look like** `0xede8acdb07aa9c7e03a795d250a2ac48bd73b9c7f8adab69a549cebd97fc157a093a5a4a`
 
