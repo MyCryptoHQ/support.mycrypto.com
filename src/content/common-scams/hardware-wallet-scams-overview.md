@@ -1,5 +1,5 @@
 {
-"title"       : "Hardware Wallet Scams & Hacks",
+"title"       : "Hardware Wallet Scams and Hacks",
 "sort"        : "08",
 "category"    : "Common Scams",
 "description" : "Common Scams",
@@ -10,21 +10,21 @@
 ---%
 
 
-## General tips for securing hardware Wallets
+## General Tips for Securing Hardware Wallets
 
 * Update the firmware of your device.
 
-* Don't leave your devices plugged in.
+* Don't leave your device plugged in.
 
 * Make sure your device is physically secure.
 
 * Don't purchase pre-owned devices.
 
-### Pre-Owned/Used Hardware Wallet Attacks
+### Pre-Owned / Used Hardware Wallet Attacks
 
 ##### How is this done?
 
-In this type of attack, an attacker would purchase hardware wallets, record the private keys of these wallets, and post the hardware wallets for resale on Amazon or Ebay. This works because hardware wallets are in demand, and often-times out of stock. People who aren't willing to wait for the main distributor to have stock.
+In this type of attack, a bad actor would purchase hardware wallets, record the private keys of these wallets, and post them for resale on Amazon or eBay. This works because hardware wallets are in demand and often-times out of stock. People are often unwilling to wait for the main distributor to have stock.
 
 The image below shows a hardware wallet posted for resale:
 
@@ -40,7 +40,7 @@ Only purchase your hardware wallet from trusted sellers:
 
 ##### How can I help others to not fall for this scam?
 
-When you find these scams, post about them on social media like Reddit and Twitter so that users can learn about their existence. You can also share this article using the sharing links below the title of this article.
+When you find these scams, post about them on social media like Reddit and Twitter so that users can learn about their existence. You can also share this article using the sharing links below the title.
 
 -----
 
