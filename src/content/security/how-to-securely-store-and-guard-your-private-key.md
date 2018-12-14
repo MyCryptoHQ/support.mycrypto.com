@@ -1,5 +1,5 @@
 {
-"title"       : "Securely Store & Guard Your Private Key by drewshaver",
+"title"       : "Securely Store and Guard Your Private Key by drewshaver",
 "sort"        : "55",
 "category"    : "Security & Phishing",
 "description" : "Security & Phishing",
@@ -18,7 +18,7 @@
 
 This guide assumes that you just received a Trezor and Cryptosteel in the mail. Which hardware wallet you chose is not integral to the guide -- any hardware wallet will do. The cryptosteel is not necessary to follow the guide, but protects against fire, flood, and decay, and so comes highly recommended.*
 
-### Onwards
+### Onward
 
 This is awesome that you already ordered a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! Of course, you have to recognize the serious responsibility that comes from holding your own private key. If you lose it, make a mistake, forget your passphrase, etc, no one can save you, truly you are in control of your own destiny :)
 
@@ -28,7 +28,7 @@ This will be a list of 12-24 english words, taken from a master list of 2048 pos
 
 These words are what you store in the cryptosteel. Every word is unique given the first 4 letters, e.g., these and thesaurus cannot both be words because they both start with 'thes'. So you'll notice the cryptosteel only has space for 4 letters on each word. It is incredibly important that you keep your mnemonic safe from prying eyes. **NEVER store it digitally -- in a text file, in an encrypted file, in a picture, just don't do it.** That will violate the security model of the Trezor (which is that your mnemonic only gets stored on the Trezor and is never exposed to a potentially compromised machine, all general purpose computing devices are potentially infected).
 
-### Before you Get Started
+### Before You Get Started
 
 - Before moving significant funds around, always start with a test transaction of a small amount to make sure you got everything right.
 
@@ -37,7 +37,7 @@ These words are what you store in the cryptosteel. Every word is unique given th
 Now, if you load up your wallet and have access to the test amount of BTC, great! You can now lose or otherwise destroy your Trezor and rest assured that you can recover from the cryptosteel.
 
 
-### Importance of guarding and securing your mnemonic
+### Importance of Guarding and Securing Your Mnemonic
 
 - Anyone that views and remembers mnemonic can take all your crypto.
 
