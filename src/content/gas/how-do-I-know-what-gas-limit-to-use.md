@@ -9,14 +9,14 @@
 
 ---%
 
-If you encounter the following error "Warning! Error encountered during contract execution [Out of Gas], you can use the following steps below to determine the gas limit needed for your transaction.
+If you encounter the following error: "Warning! Error encountered during contract execution [Out of Gas]," you can use the steps below to determine the gas limit needed for your transaction.
 
 
 1. Go to the failed transaction.
 
 2. Click the contract address.
 
-3. Find a transaction that was successful (e.g. no red (!) icon).
+3. Find a transaction that was successful (i.e., that has no red (!) icon).
 
 4. Click that transaction TX HASH.
 

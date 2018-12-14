@@ -28,7 +28,7 @@
 
 <ul>
 <li>  MyCrypto is a free, open-source, client-side interface.  </li>
-<li>  We allow you to interact directly with the blockchain while remaining in full control of your keys & your funds.  </li>
+<li>  We allow you to interact directly with the blockchain while remaining in full control of your keys and your funds.  </li>
 <li>  You and only you are responsible for your security.  </li>
 <li>  We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key. </li>
 </ul>
@@ -75,10 +75,10 @@
 <ul>
 <li>  When you create an account on MyCrypto you are generating a cryptographic set of numbers: your private key and your public key (address).  </li>
 <li>  The handling of your keys happens entirely on your computer, inside your browser.  </li>
-<li>  We never transmit, receive or store your private key, password, or other account information.  </li>
+<li>  We never transmit, receive, or store your private key, password, or other account information.  </li>
 <li>  We do not charge a transaction fee.  </li>
 <li>  You are simply using our interface to interact directly with the blockchain.  </li>
-<li>  If you send your public key (address) to someone, they can send you ETH or tokens. 👍  </li>
+<li>  If you send your public key (address) to someone, they can send you cryptocurrency or tokens. 👍  </li>
 <li>  If you send your private key to someone, they now have full control of your account. 👎  </li>
 </ul>
 
@@ -95,16 +95,16 @@
 
 
 <h3>
-  Wait, what is a Blockchain?
+  Wait, What is a Blockchain?
 </h3>
 
 <ul>
-<li>  The blockchain is a digital decentralized ledger.  </li>
-<li>  It keeps track of all transactions in a chronological order that have ever been made in the history of the blockchain. </li>
-<li>  It is stored and maintained by a peer-to-peer network made up of nodes (mienrs) which verify and approve of transactions, which make it nearly impossible to fake or tamper with transactions.  </li>
-<li>  The blocks in the blockchain are made up of a group of transactions that have been verified and accepted by the miners. This "block" is then added to the stack of previous blocks, which forms a chain of blocks: a.k.a The BlockChain.  </li>
+<li>  A blockchain is a digital decentralized ledger. Ethereum is one particular blockchain.  </li>
+<li>  It keeps track of all transactions that have ever been made in the history of the blockchain in a chronological order. </li>
+<li>  It is stored and maintained by a peer-to-peer network made up of nodes (miners) that verify and approve of transactions, which make it nearly impossible to fake or tamper with transactions.  </li>
+<li>  The blocks in the blockchain are made up of a group of transactions that have been verified and accepted by the miners. This "block" is then added to the stack of previous blocks, which forms a chain of blocks: a.k.a the blockchain.  </li>
 <li>  When you see your balance on MyCrypto.com or view your transactions on etherscan.io, you are seeing data on the blockchain, MyCrypto does <em>NOT</em> store any data.  </li>
-<li>  We are not the blockchain, we allow you to interact <em>WITH</em> the Ethereum blockchain (send transactions), and view information that is publicly available on the blockchain  </li>
+<li>  We are not the blockchain, we allow you to interact <em>WITH</em> blockchains (send transactions), and view information that is publicly available on blockchains.  </li>
 </ul>
 
 </div>
@@ -120,24 +120,24 @@
 
 
 <h3>
-  We need you to understand that we **cannot**...
+  Please Understand the Things We **Cannot** Do:
 </h3>
 
 <ul>
-<li>  Access your account or send your funds for you.  </li>
-<li>  Recover or change your private key.  </li>
-<li>  Recover or reset your password.  </li>
-<li>  Reverse, cancel, or refund transactions.  </li>
-<li>  Freeze accounts.  </li>
-<li>  **We do not store any of your information, so we can not access any information besides what is publicly available on the blockchain. <li>
+<li>  We can't access your account or send your funds for you.  </li>
+<li>  We can't recover or change your private key.  </li>
+<li>  We can't recover or reset your password.  </li>
+<li>  We can't reverse, cancel, or refund transactions.  </li>
+<li>  We can't freeze accounts.  </li>
+<li>  **We do not store any of your information, so we cannot access any information besides what is publicly available on the blockchain. <li>
 </ul>
 
 <h3>
-  **You** and **only you** are responsible for your security.
+  **You** and **Only You** are Responsible for Your Security.
 </h3>
 
 <ul>
-<li>  Be diligent to keep your private key and password safe. Your private key is sometimes called your mnemonic phrase, keystore file, UTC file, JSON file, wallet file.  </li>
+<li>  Be diligent about keeping your private key and password safe. Your private key is sometimes called your mnemonic phrase, Keystore file, UTC file, JSON file, or wallet file.  </li>
 <li>  If lose your private key or password, no one can recover it.  </li>
 <li>  If you enter your private key on a phishing website, you will have all your funds taken.  </li>
 </ul>
@@ -155,16 +155,16 @@
 
 
 <h3>
-  If MyCrypto can't do those things, then what's the point?
+  If MyCrypto Can't Do Those Things, Then What's the Point?
 </h3>
 
 <ul>
-<li>  Because that is the point of decentralization and the blockchain.  </li>
+<li>  Autonomy is the point of decentralization and the blockchain.  </li>
 <li>  You don't have to rely on your bank, government, or anyone else when you want to move your funds.  </li>
 <li>  You don't have to rely on the security of an exchange or bank to keep your funds safe.  </li>
 <li>  If you don't find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉  </li>
-<li>  If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames &amp; passwords.  </li>
-<li>  If you are scared but want to use MyCrypto, [get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.  </li>
+<li>  If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more traditional-style accounts with usernames and passwords.  </li>
+<li>  If you are scared but still want to use MyCrypto, [get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.  </li>
 </ul>
 
 </div>
@@ -180,18 +180,18 @@
 
 
 <h3>
-  How To Protect Yourself from Phishers
+  How to Protect Yourself from Phishers
 </h3>
 
-Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
+Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, your bank, etc. but is not the real website. They steal your information and then steal your money.
 
 <ul>
-<li>  Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.  </li>
+<li>  Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome extensions to block malicious websites.  </li>
 <li>  Always check the URL: `https://mycrypto.com`.  </li>
 <li>  Always make sure the URL bar has `MyCrypto, Inc` in green.  </li>
 <li>  Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.  </li>
 <li>  Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.  </li>
-<li>  [Install an AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and do not click ads on your search engine (e.g. Google).  </li>
+<li>  [Install an AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and do not click ads on your search engine (e.g., Google).  </li>
 </ul>
 
 </div>
@@ -207,16 +207,16 @@ Phishers send you a message with a link to a website that looks just like MyCryp
 
 
 <h3>
-  How To Protect Yourself from Scams
+  How to Protect Yourself from Scams
 </h3>
 
 People will try to get you to give them money in return for nothing.
 
 <ul>
-<li>  If it is too good to be true, it probably is.  </li>
+<li>  If it seems too good to be true, it probably is.  </li>
 <li>  Research before sending money to someone or some project. Look for information on a variety of websites and forums. Be wary.  </li>
-<li>  Ask questions when you don't understand something or it doesn't seem right.  </li>
-<li>  Don't let fear, FUD, or FOMO win over common sense. If something is very urgent, ask yourself "why?". It may be to create FOMO or prevent you from doing research.  </li>
+<li>  Ask questions when you don't understand something or something doesn't seem right.  </li>
+<li>  Don't let fear, FUD, or FOMO win over common sense. If something is very urgent, ask yourself, "Why?" It may be to create FOMO or prevent you from doing research.  </li>
 </ul>
 
 </div>
@@ -232,7 +232,7 @@ People will try to get you to give them money in return for nothing.
 
 
 <h3>
-  How To Protect Yourself from Loss
+  How to Protect Yourself from Loss
 </h3>
 
 If you lose your private key or password, it is gone forever. Don't lose it.
@@ -241,7 +241,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  Make a backup of your private key and password. Do NOT just store it on your computer. Print it out on a piece of paper or save it to a USB drive.  </li>
 <li>  Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.  </li>
 <li>  Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.  </li>
-<li>  If you have more than 1-week's worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It's worth it. We promise.  </li>
+<li>  If you have more than 1 week's worth of pay in cryptocurrency, get a hardware wallet. No excuses. It's worth it. We promise.  </li>
 </ul>
 
 <p><strong><a href="https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html">More Security Tips!</a></strong></p>
@@ -259,7 +259,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 
 
 <h3>
-  Onwards!
+  Onward!
 </h3>
 
 <ul>

@@ -1,5 +1,5 @@
 {
-"title"       : "On Keypairs & Encryption",
+"title"       : "On Key Pairs and Encryption",
 "sort"        : "04",
 "category"    : "Best Of",
 "description" : "Best Of",
@@ -11,29 +11,27 @@
 
 
 
-*This is part of a series where Taylor pull's sweet comments she's made in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. These are works in progress. Please excuse the typos, unclear statements, specific references to previous discussions or the user, and gratuitous cursing.*
+*This is part of a series where Taylor pulls sweet comments she's made in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. These are works in progress. Please excuse the typos, unclear statements, specific references to previous discussions or the user, and gratuitous cursing.*
 
 ---
 
-The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can do crazy shit to get the info from it via hardware alone, watching the read/writes, or simply searching for your private key, mnemonic, or keystore file on the USB drive. Ledger / TREZOR are dedicated devices built to prevent all these types of attacks.
+The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can get info from it via hardware alone, watching the read / writes, or simply searching for your private key, mnemonic, or Keystore file stored on it. Ledger / TREZOR are dedicated devices built to prevent all these types of attacks.
 
 
-### keypairs & cryptography
+### Key Pairs and Cryptography
 
-The private key (or keystore file or mnemonic or hardware wallet) is basic cryptography in the end; the same cryptography that is used in all sorts of systems that have been around far longer than cryptocurrencies.
+The private key (or Keystore file, mnemonic, or hardware wallet) is basic cryptography in the end—the same cryptography that is used in all sorts of systems that have been around far longer than cryptocurrencies.
 
 At it's most basic, a `private key` can turn into a `public key` but a `public key` cannot turn into a `private key`. However, this public key (via fancy math and really really intense stuff) can *verify that a specific private key was used to sign the transaction*.
 
-Imagine this: You have a buddy in the other room who says a word. The word either has 1 syllable, 5 syllables, or 20 syllables. You cannot hear *what* he says, but you can easily verify that the word he said was short, medium, or ultra-long. So you *know* what word he said (given there were only 3 choices) even though you don't *know the actual word*. Cryptography is a bit like that, except it involves fancy graphs, extreme math, and an almost infinite number of private keys (aka "the word your buddy said").
+Imagine this: You have a buddy in the other room who says a word. The word either has 1 syllable, 5 syllables, or 20 syllables. You cannot hear *what* was said, but you can easily verify that the word was short, medium, or ultra-long. So you *know* what word was said (given there were only 3 choices) even though you don't *know the actual word*. Cryptography is a bit like that, except it involves fancy graphs, extreme math, and an almost infinite number of private keys (i.e, "the word your buddy said").
 
 
-### verifying the private key corresponds to public key / signing txs
+### Verifying that the Private Key Corresponds to Public Key / Signing Transactions
 
-So back to your question-ish: *If it's the private key is unlocking the wallet from elsewhere...*
+The private key is not actually unlocking from elsewhere. There is no server; the blockchain does not know about your private key, password, or address (public key) even. It's not the same as what you are used to with email, Facebook, and all the new-fangled jazz.
 
-It's not actually unlocking from elsewhere. There is no server; the blockchain does not know about your private key or password or address (public key) even. It's not the same as what you are used to with email and facebook and all the new-fangled jazz.
-
-The blockchain simply checks if the transaction you want to send (e.g. `1 ETH` to `0x2a9F48....` from `0x92fbC3.....`) is valid:
+The blockchain simply checks whether the transaction you want to send (e.g., `1 ETH` to `0x2a9F48....` from `0x92fbC3.....`) is valid:
 
 - Does the `from address` have 1 ETH to send?
 
@@ -41,17 +39,17 @@ The blockchain simply checks if the transaction you want to send (e.g. `1 ETH` t
 
 I could sign a transaction saying `0x92fbC3.....` wants to send `1 ETH` to `0x2a9F48....` with any key I wanted to. I could just make it up off the top of my head. But it would fail check #2, and therefore never be accepted into the blockchain, and therefore the funds (which are your funds) would never move.
 
-The only way to move funds is to send those funds with a transaction signed by the private key that corresponds to the address you are sending from. And the amount of private keys available is so insanely large that it would take a fuckload of years to ever be able to guess someone else's private key. It's quite simple. ([More on that here if you are interested](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html))
+The only way to move funds is to send those funds with a transaction signed by the private key that corresponds to the address you are sending from. And the number of private keys available is so insanely large that it would take a fuckload of years to ever be able to guess someone else's private key. It's quite simple. ([More on that here if you are interested](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html).)
 
 
 
-### Fancy keys, Passwords & Encryption
+### Fancy Keys, Passwords and Encryption
 
-Okay bear with me one more thing.
+Okay, bear with me on one more thing.
 
-Private keys can be fancy: they can be keystore files (which are encrypted with a password) or mnemonic phrases (which can be encrypted with a password, are easier to read, and give you access to multiple addresses / accounts / keypairs)
+Private keys can be fancy: They can be Keystore files (which are encrypted with a password) or mnemonic phrases (which can be encrypted with a password, are easier to read, and give you access to multiple addresses / accounts / key pairs).
 
-When we say encrypted we mean that you must do something first, before you can use the private key to sign the transaction. Encryption works like this:
+When we say "encrypted," we mean that you must do something first before you can use the private key to sign the transaction. Encryption works like this:
 
 - You take `7` (your private key) and you multiply it by `10` (your password) which outputs `70`.
 
@@ -63,16 +61,16 @@ When we say encrypted we mean that you must do something first, before you can u
 
 Again, there is no server verifying your password or private key. It's all done by your computer and all it knows is that it's either correct or incorrect by trying it:
 
-- if you take `70` and divide it by `8`, you get `8.75` which is not the private key for the public key you want to send from.
+- If you take `70` and divide it by `8`, you get `8.75`, which is not the private key for the public key you want to send from.
 
-- if you take `70` and divide it by `0`, the world ends bc you can't divide by 0, silly.
+- If you take `70` and divide it by `0`, the world ends bc you can't divide by 0, silly.
 
-- if you take `70` and divide it by `80000`, you get `0.000875` which is way too small to be a private key.
+- If you take `70` and divide it by `80000`, you get `0.000875`, which is way too small to be a private key.
 
-...and so forth and so forth. When you give it the correct password, it gets a valid private key, and then it can sign the transaction, which can then be put on the blockchain, and you successfully sent your ETH.
+...and so forth and so forth. When you give it the correct password, it gets a valid private key and then it can sign the transaction, which can then be put on the blockchain, and you successfully sent your ETH.
 
 
-I hope this helps somewhat. I know it's long, typo-filled, and probably confusing but come back and re-read it in a week or month and see how much more you grok. ?
+I hope this helps somewhat. I know it's long, typo-filled, and probably confusing but come back and re-read it in a week or month and see how much more you grok.
 
 
 ### Source
