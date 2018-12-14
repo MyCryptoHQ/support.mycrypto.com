@@ -17,9 +17,9 @@ Are you sure?
 
 ### Please understand [the difference between an exchange and MyCrypto](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html).
 
-MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with the Ethereum blockchain. In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto.
+MyCrypto is not a "web wallet." You do not create an account, or give us your crypto or tokens to hold onto. We are simply an interface that allows you to easily interact with the blockchain. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto.
 
-That's right: **we only have access to the information that is publicly available on the blockchain.**
+That's right: **We only have access to the information that is publicly available on the blockchain.**
 
 Now, that can be a good thing and a very, very bad thing.
 
@@ -27,18 +27,18 @@ It means that **you are ultimately responsible for your safety & security.**
 
 - We cannot recover or reset your private key or password.
 - We cannot cancel nor refund your transactions.
-- We cannot access your wallet or send funds for you
+- We cannot access your wallet nor send funds for you
 - You must save / back up your private key in a separate location **before** sending funds to it.
 - You must back up your key in an external location and never, ever lose it.
 - You must not share this private key with anyone nor enter it on a random site.
 
-We also highly recommend that you read our guide on [How to Prevent Loss & Theft](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html) and take steps to be proactive about your security.
+We also highly recommend that you read our guide on [How to Prevent Loss and Theft](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html) and take steps to be proactive about your security.
 
 Good?
 
 Good! :)
 
-### Next, head over to our [Getting Started Guide](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html) and make a new wallet and back it up.
+### Next, head over to our [Getting Started Guide](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html), make a new wallet, and back it up.
 
 ### Then, unlock your wallet and copy the address from the sidebar.
 
@@ -54,9 +54,9 @@ Good! :)
 
 When it shows up, you now have your funds. If you want to send them, simply unlock your wallet on MyCrypto.
 
-### Just Remember!
+### Just Remember:
 
-If you do not back up your private key, you cannot access your ETH and we cannot recover them. Please make sure to have backups of your private key.
+If you do not back up your private key, you cannot access your crypto and we cannot recover it! Please make sure to have backups of your private key.
 
 Enjoy!
 
