@@ -4,7 +4,7 @@
 "category"    : "FAQ",
 "description" : "FAQ",
 "date_published" : "2017-06-20T08:00:00+08:00",
-"date_modified"  : "2017-11-11T09:07:00+08:00"
+"date_modified"  : "2017-12-12T09:07:00+08:00"
 }
 
 ---%
@@ -19,8 +19,8 @@
 
 ### Do the Stuff
 
-1.  First, enter YOUR Contract Address in the `Contract Address` field at the top.
-2.  Second, you want to **EXECUTE**.
+1.  Enter YOUR Contract Address in the `Contract Address` field at the top.
+2.  **EXECUTE**.
     1.  Select `execute`from the dropdown.
     2.  Enter the address you want to send to in the `_to`field.
     3.  Enter the amount you want to send in the `_value`field.
@@ -28,7 +28,7 @@
     5.  _It is recommended that you test with a small amount first!_
     6.  Unlock the owners address and click `WRITE` button.
     7.  A pop up will appear. Leave `Amount to Send` as `0`.
-    8.  Click the `Generate Transaction` button & confirm & send.
+    8.  Click the `Generate Transaction` button then confirm & send.
 3.  Click the Transaction ID that outputs with the success message. Copy this ID.
 4.  If it's a multisig with TWO owners, you will need to refresh that page and choose **CONFIRM** this time.
     1.  In step 3, you opened the TX ID from the `EXECUTE`call. You should have a page like this open: [https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3)

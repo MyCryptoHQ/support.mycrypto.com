@@ -1,5 +1,5 @@
 {
-"title"       : "/u/Dunning_Krugerrands's 'FUD list of doom' from early 2016",
+"title"       : "/u/Dunning_Krugerrands's 'FUD List of Doom' from Early 2016",
 "sort"        : "22",
 "category"    : "Best Of",
 "description" : "Best Of",
@@ -10,11 +10,11 @@
 ---%
 
 
-*This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in creating the future knowledge base posts.*
+*This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in creating the future Knowledge Base posts.*
 
 ---
 
-Ok so I'm bullish but I'l chime in with my  **FUD list of doom!** :)
+Ok so I'm bullish but I'll chime in with my  **FUD list of doom!** :)
 
 ### Technical risks
 

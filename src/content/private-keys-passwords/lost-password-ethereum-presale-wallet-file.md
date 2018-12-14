@@ -1,5 +1,5 @@
 {
-"title"       : "Lost Password - Ethereum Presale Wallet File",
+"title"       : "Lost Password: Ethereum Presale Wallet File",
 "sort"        : "16",
 "category"    : "Private Keys & Passwords",
 "description" : "Private Keys & Passwords",
@@ -9,16 +9,16 @@
 
 ---%
 
-Important note: This article is talking about presale wallets, for regular wallets take a look at the [Lost Password](https://support.mycrypto.com/private-keys-passwords/lost-ethereum-wallet-password.html) article.
+Important note: This article is talking about presale wallets. For regular wallets, take a look at the [Lost Password](https://support.mycrypto.com/private-keys-passwords/lost-ethereum-wallet-password.html) article.
 
-### I forgot the password to my presale wallet file
+### I Forgot the Password to My Presale Wallet File
 
 While there is no way to guarantee that you will suddenly remember your password again, here are some things to keep in mind:
 
-- The minimum length was 10 characters
-- The password must contain at least one upper case letter, one lower case letter, one symbol, and one number
+- The minimum length was 10 characters.
+- The password must contain at least one upper case letter, one lower case letter, one symbol, and one number.
 
-You can also try using [pyethrecover](https://github.com/burjorjee/pyethrecover), which will check your wallet against a given file of passwords. The tool requires Python and the bitcoin package from python-pip. If you know at least part of your password, you can use this program to automate the testing of permutations of your known password characters (just add them all to a text file).
+You can also try using [Pyethrecover](https://github.com/burjorjee/pyethrecover), which will check your wallet against a given file of passwords. The tool requires Python and the Bitcoin package from Python-pip. If you know at least part of your password, you can use this program to automate the testing of permutations of your known password characters (just add them all to a text file).
 
 ### Sources
 
