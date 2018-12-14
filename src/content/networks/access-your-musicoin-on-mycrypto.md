@@ -1,5 +1,5 @@
 {
-"title"       : "Accessing & Sending MUSICOIN via MyCrypto",
+"title"       : "Accessing and Sending MUSICOIN via MyCrypto",
 "sort"        : "04",
 "category"    : "Networks & Nodes",
 "description" : "Networks & Nodes",
@@ -10,19 +10,19 @@
 ---%
 
 
-We temporarily removed the MUSIC node as we had some issues with hardware wallets and lack of EIP-155 support.
+We temporarily removed the MUSIC node because we had some issues with hardware wallets and lack of EIP-155 support.
 
-You can still add it as custom by following the below instructions.
+You can still add MUSIC as a custom token by following the below instructions.
 
 ### Warnings
 
 We advise you to be careful when interacting with TREZOR, Ledger, or any other hardware wallet.
 
-We also advise you to ensure you are using addreses on the MUSICOIN chain that is different than your ETH or EXP addresses.
+We also advise you to ensure you are using an address on the MUSICOIN chain that is different from your ETH or EXP addresses.
 
 Any transactions sent on the MUSICOIN chain can be replayed on a different chain.
 
-### How To
+### How to
 
 1. Select `Add Custom Node` at the very bottom of the network dropdown in top right
 2. Node name: MUSICOIN
@@ -34,5 +34,5 @@ Any transactions sent on the MUSICOIN chain can be replayed on a different chain
 
 ![](https://i.imgur.com/CH2sfsd.png)
 
-You should see the MUSICOIN node at the bottom of the network switcher dropdown. if you can't connect to the node, remove the node by clicking the little ( X ) icon next to the MUISCOIN name in the network dropdown and try the other URL (above).
+You should see the MUSICOIN node at the bottom of the network switcher dropdown. If you can't connect to the node, remove the node by clicking the little ( X ) icon next to the MUISCOIN name in the network dropdown and try the other URL (above).
 
