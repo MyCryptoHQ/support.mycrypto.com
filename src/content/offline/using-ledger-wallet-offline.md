@@ -4,7 +4,7 @@
 "category"    : "Offline",
 "description" : "Offline",
 "date_published" : "2018-02-15T08:00:00+08:00",
-"date_modified"  : "2018-09-18T09:07:00+08:00"
+"date_modified"  : "2018-12-12T09:07:00+08:00"
 }
 
 ---%
@@ -15,7 +15,8 @@ Storing your ETH, tokens, ETC, BTC, and many other cryptocurrencies on a [hardwa
 
 ### Downloading the MyCrypto Desktop Application
 
-To be able to run MyCrypto offline, you will have to install the latest version of the MyCrypto desktop application. This will allow you to access your Ledger device locally, both online and offline. You can find our guide on downloading and running MyCrypto locally [here](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+To be able to run MyCrypto offline, you will have to install the latest version of the [MyCrypto desktop application](https://download.mycrypto.com/). This will allow you to access your Ledger device locally, both online and offline. You can find our guide on downloading & running MyCrypto locally [here](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+
 
 
 ### Accessing Your Ledger Wallet
