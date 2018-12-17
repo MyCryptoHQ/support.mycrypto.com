@@ -4,7 +4,7 @@
 "category" : "Getting Started",
 "description" : "Getting Started",
 "date_published" : "2015-10-05T08:00:00+08:00",
-"date_modified" : "2018-05-27T08:00:00+08:00"
+"date_modified" : "2018-12-17T08:00:00+08:00"
 }
 
 ---%
@@ -222,7 +222,7 @@ Password storage
 
 * Calculating a function that takes an arbitrary amount of input data and deterministically produces a fixed-length output known as the data's "hash".
 
-* This can be used to verify that data has not be altered. If any part of the input data is changed, the hash will change too.
+* This can be used to verify that data has not been altered. If any part of the input data is changed, the hash will change too.
 
 ### Mining
 
@@ -238,7 +238,7 @@ Password storage
 
 * The successfully hashed block is considered a correct and valid proof of computational work.
 
-* An alternative to this system is called Proof-Of-Stake.
+* An alternative to this system is called Proof-of-Stake.
 
 ### Proof-of-Stake
 
@@ -246,7 +246,7 @@ Password storage
 
 * After a block is proposed, it is then voted on by a pool of validators that have a certain economic representation of the network's units each.
 
-* Benefits of Proof-of-Stake consensus algorithms: Energy efficiency leading to decreased environmental effects, reduced risk of centralization, and improved security.
+* Benefits of Proof-of-Stake consensus algorithms: Energy-efficiency leading to decreased environmental effects, reduced risk of centralization, and improved security.
 
 * Casper Proof-of-Stake is Ethereum's future version of Proof-of-Stake.
 
@@ -258,7 +258,7 @@ Password storage
 
 * The reason why a multisig address might be used is because it allows for increased security, and some level of resistance to theft.
 
-### Unpermissioned vs Permissioned ledger
+### Unpermissioned vs Permissioned Ledger
 
 * Unpermissioned Ledgers (like the Bitcoin blockchain) have no single owner and any number of people can operate on them, and store a copy of them.
 
