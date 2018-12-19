@@ -4,7 +4,7 @@
 "category"    : "Gas & Transaction Fees",
 "description" : "Gas & Transaction Fees",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2018-02-24T08:00:00+08:00"
+"date_modified"  : "2018-12-17T08:00:00+08:00"
 }
 
 ---%
@@ -23,7 +23,7 @@ You can see your TX fee (`gas limit` * `gas price`) in ETH & USD when you search
 
 ### Overview
 
-**When you hear `gas`, the person is either talking about:**
+**When you hear `gas`, the person is talking about:**
 
 *   Gas Limit
 *   Gas Price
@@ -52,7 +52,7 @@ Sending tokens will typically take `~50000` gas to `~100000` gas, so the total T
 
 ### Gas Limit
 
-The `gas limit` is called the limit because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in the contract, and you spend 1 ETH....10 ETH....1000 ETH..... going in circles but arriving no where.
+The `gas limit` is called the limit because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in the contract, and you spend 1 ETH....10 ETH....1000 ETH..... going in circles but arriving nowhere.
 
 However, the units of gas necessary for a transaction are already defined by how much code is executed on the blockchain. If you do not want to spend as much on gas, lowering the gas limit won't help much. You must include enough gas to cover the computational resources you use or your transaction will fail due to an `Out of Gas` Error.
 
@@ -93,9 +93,9 @@ _Most_ miners follow a very simple strategy for inclusion. They include transact
 You want to set the Gas Price high enough so that a miner includes your transaction in a block. If you are in a hurry, you can set the Gas Price higher, so that you jump ahead of everyone in line. If you are not in a hurry, you just need to set a number high enough so that someone eventually includes your transaction.
 
 
-### Why should I set a low Gas Price?
+### Why should I set a low gas price?
 
-Because it's cheaper and because with the increasing price of ETH compared to USD, a transaction that used to cost half a cent, may cost a few cents. More expensive transactions, like bidding on an ENS name, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price as the more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
+Because it's cheaper and with the increasing price of ETH compared to USD, a transaction that used to cost half a cent, may cost a few cents. More expensive transactions, like bidding on an ENS name, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price. The more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
 
 
 ### Should I increase the gas limit for token sales, though?
@@ -107,7 +107,7 @@ You should put whatever the token sale holders tell you to put. If you do not kn
 For example, if your metaphorical car is out of gas, and the tank only holds 10 gallons, increasing the amount of gas you're buying to 20 gallons (increasing the gas limit) isn't going to get you on the road any sooner - that's just unnecessary gas you won't or can't use. But if you go to the cashier inside and say "Hey, i'm willing to pay $5 per gallon instead of $2.50 like everybody else" (increasing the gas price) chances are good that you're going to get served before all the people offering to pay less than you.
 
 
-### So I should send with a hugeeeeeeeee gas price for token sales, right?
+### So I should send with a huuuuuuuuuge gas price for token sales, right?
 
 Not necessarily. The risk in increasing it is that you could still not get in, and pay the fee anyways. The gas will NOT be returned to you if you send with a too-low gas limit, too early, or too late in the Token Creation Period.
 
