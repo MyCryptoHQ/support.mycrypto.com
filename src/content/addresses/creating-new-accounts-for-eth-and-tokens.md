@@ -4,7 +4,7 @@
 "category"    : "Addresses & Balances",
 "description" : "Addresses & Balances",
 "date_published" : "2017-07-05T08:00:00+08:00",
-"date_modified"  : "2017-11-11T08:00:00+08:00"
+"date_modified"  : "2018-12-17T08:00:00+08:00"
 }
 
 ---%
@@ -20,7 +20,7 @@ Whether you store all your ETH and tokens in the same address is up to you. Some
 
 The only thing to keep in mind is that in order to send tokens you must also have a small amount (<0.1 ETH) in your account to cover the cost of gas. For this reason, it can be quite inefficient and frustrating to have all your tokens in different addresses.
 
-At the end of the day, it's up to you though.
+At the end of the day, it's up to you.
 
 ### Related Reading
 
