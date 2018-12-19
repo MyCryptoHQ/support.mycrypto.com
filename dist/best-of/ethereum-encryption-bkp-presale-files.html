@@ -5,11 +5,11 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title> On Components of the Ethereum Pre-Sale File &amp; Encryption &middot; Best Of | MyCrypto Help &amp; Support</title>
-<meta property="og:title" content=" On Components of the Ethereum Pre-Sale File &amp; Encryption &middot; Best Of | MyCrypto Help &amp; Support">
-<meta property="og:site_name" content=" On Components of the Ethereum Pre-Sale File &amp; Encryption &middot; Best Of | MyCrypto Help &amp; Support">
-<meta name="twitter:title" content=" On Components of the Ethereum Pre-Sale File &amp; Encryption &middot; Best Of | MyCrypto Help &amp; Support">
-<meta name="apple-mobile-web-app-title" content=" On Components of the Ethereum Pre-Sale File &amp; Encryption &middot; Best Of | MyCrypto Help &amp; Support">
+<title> On Components of the Ethereum Presale File and Encryption &middot; Best Of | MyCrypto Help &amp; Support</title>
+<meta property="og:title" content=" On Components of the Ethereum Presale File and Encryption &middot; Best Of | MyCrypto Help &amp; Support">
+<meta property="og:site_name" content=" On Components of the Ethereum Presale File and Encryption &middot; Best Of | MyCrypto Help &amp; Support">
+<meta name="twitter:title" content=" On Components of the Ethereum Presale File and Encryption &middot; Best Of | MyCrypto Help &amp; Support">
+<meta name="apple-mobile-web-app-title" content=" On Components of the Ethereum Presale File and Encryption &middot; Best Of | MyCrypto Help &amp; Support">
 
 <base href="https://support.mycrypto.com/best-of/ethereum-encryption-bkp-presale-files.html">
 <link href="https://support.mycrypto.com/best-of/ethereum-encryption-bkp-presale-files.html" rel="canonical">
@@ -62,7 +62,7 @@
     "@type": "WebPage",
     "@id": "best-of/ethereum-encryption-bkp-presale-files.html"
   },
-  "headline": "On Components of the Ethereum Pre-Sale File &amp; Encryption",
+  "headline": "On Components of the Ethereum Presale File and Encryption",
   "image": [
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
@@ -106,7 +106,7 @@
     "position": 3,
     "item": {
       "@id": "best-of/ethereum-encryption-bkp-presale-files.html",
-      "name": "On Components of the Ethereum Pre-Sale File &amp; Encryption"
+      "name": "On Components of the Ethereum Presale File and Encryption"
     }
   }]
 }
@@ -190,18 +190,18 @@
       Best Of
     </a>
     ›
-    <span class="breadcrumbs__category">On Components of the Ethereum Pre-Sale File &amp; Encryption</span>
+    <span class="breadcrumbs__category">On Components of the Ethereum Presale File and Encryption</span>
   </nav>
 
   <article class="page__content" itemscope itemtype="http://schema.org/Article">
 
-    <h1 class="page__title" itemprop="headline">On Components of the Ethereum Pre-Sale File &amp; Encryption</h1>
+    <h1 class="page__title" itemprop="headline">On Components of the Ethereum Presale File and Encryption</h1>
 
     <div class="page__article">
-      <p><em>This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. Many are unpolished &amp; contain typos, specific references to previous discussions or the user, and gratuitous cursing.</em></p>
+      <p><em>This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. Many are unpolished and contain typos, specific references to previous discussions or the user, and gratuitous cursing.</em></p>
 <hr>
 <blockquote>
-<p>Is the &quot;bkp&quot; component of a presale json file a SHA3 hash of the wallet password?</p>
+<p>Is the &quot;bkp&quot; component of a presale JSON file a SHA3 hash of the wallet password?</p>
 </blockquote>
 <hr>
 <p>No. Your bkp is not the SHA3 of your password.</p>
@@ -248,9 +248,9 @@
 <li><code>bkp = sha3(seed + &#39;\x02&#39;).encode(&#39;hex&#39;)</code></li>
 </ul>
 </li>
-<li><p><strong>So your bkp is the sha3 of your seed plus essentially the number &quot;2&quot; (number &quot;1&quot; was used for your btcpriv to differentiate it from your ethpriv) encoded in hex</strong>.</p>
+<li><p><strong>So your bkp is the SHA3 of your seed plus essentially the number &quot;2&quot; (number &quot;1&quot; was used for your btcpriv to differentiate it from your ethpriv) encoded in hex</strong>.</p>
 </li>
-<li><p>The bkp is a backup obviously. But its not a backup of your password. Its a backup of your seed.</p>
+<li><p>The bkp is a backup obviously. But it&#39;s not a backup of your password. Its a backup of your seed.</p>
 </li>
 </ol>
 <p><code>print &quot;Your seed is:&quot;, getseed(b[&#39;withwallet&#39;],w[&#39;bkp&#39;],b[&#39;ethaddr&#39;])</code></p>
@@ -267,36 +267,36 @@ return getseed(bkp[&#39;withwallet&#39;],wallet[&#39;bkp&#39;],bkp[&#39;ethaddr&
 </code></pre><p>Get it now?</p>
 <hr>
 <blockquote>
-<p>no</p>
+<p>No.</p>
 </blockquote>
 <blockquote>
-<p>how does all this stuff tie together &amp; is there a way to bruteforce a presale file with hashcat if you&#39;ve forgotten the password and you&#39;ve already tried walletrecoveryservices.com?</p>
+<p>How does all this stuff tie together, and is there a way to bruteforce a presale file with Hashcat if you&#39;ve forgotten the password and you&#39;ve already tried walletrecoveryservices.com?</p>
 </blockquote>
 <hr>
 <p>Haha. I know how it all fits together but I don&#39;t <em>really</em> understand it. It&#39;s all encryption and really complex math and stuff like that.</p>
-<p><strong>ELI5: encryption</strong></p>
-<p>In the most basic sense: you take 2 pieces of information, hash something, combine them, do something else, take the first X bytes, and you&#39;ve got yourself a keyset. To decrypt it, you do the opposite.</p>
+<p><strong>ELI5: Encryption</strong></p>
+<p>In the most basic sense, you take 2 pieces of information, hash something, combine them, do something else, take the first X bytes, and you&#39;ve got yourself a keyset. To decrypt it, you do the opposite.</p>
 <p>It&#39;s sort of like this:</p>
 <ul>
 <li>80/2 = 40</li>
 </ul>
 <p>From 40 you can&#39;t get back to 80/2. It could be any number of combinations, like 160/4 or 200/5.</p>
-<p>However, if you know the second number is <code>2</code>, you also know the first number is <code>80</code>. It&#39;s the only possible one. <em>(if we&#39;re using positive integers...shhh...this is an ELI5).</em> In the same sense....</p>
+<p>However, if you know the second number is <code>2</code>, you also know the first number is <code>80</code>. It&#39;s the only possible one. <em>(If we&#39;re using positive integers...shhh...this is an ELI5).</em> In the same sense ...</p>
 <ul>
 <li><p>your seed + your password  + (COMPLICATED MATH) = your encrypted seed</p>
 </li>
-<li><p>encrypted seed + password + (OPPOSITE COMPLICATED MATH) = your seed.</p>
+<li><p>encrypted seed + password + (OPPOSITE COMPLICATED MATH) = your seed</p>
 </li>
 </ul>
-<p><strong>Encryption in your presale file</strong></p>
-<p>The &quot;seed&quot; in the presale file is essentially your private key. It&#39;s actually the sha3[1] of your seed: <code>ethpriv = sha3(seed)</code>). If you get your seed, you can get your private key easily w/o any add&#39;l information.</p>
-<p>How would one crack the <code>encseed</code> to get the <code>seed</code>? The getseed function from pyethtools is:</p>
+<p><strong>Encryption in Your Presale File</strong></p>
+<p>The &quot;seed&quot; in the presale file is essentially your private key. It&#39;s actually the SHA3[1] of your seed: <code>ethpriv = sha3(seed)</code>). If you get your seed, you can get your private key easily w/o any add&#39;l information.</p>
+<p>How would one crack the <code>encseed</code> to get the <code>seed</code>? The getseed function from Pyethtools is:</p>
 <p><code>def getseed(encseed,pw,ethaddr):</code></p>
 <p><code>seed = aes.decryptData(pbkdf2(pw),encseed.decode(&#39;hex&#39;))</code></p>
 <p><code>ethpriv = sha3(seed)</code></p>
 <p><code>if eth_privtoaddr(ethpriv) != ethaddr: raise Exception(&quot;ethaddr does not match!&quot;)</code></p>
 <p><code>return seed</code></p>
-<p>First step is: <code>aes.decryptData(pbkdf2(pw),encseed.decode(&#39;hex&#39;))</code>. This will return a seed no matter what you give it. It doesn&#39;t know what is &quot;right&quot; or &quot;wrong&quot;. What makes a private key &quot;the correct private key&quot; is that it accesses the address that you want to access. So we must then take a few add&#39;l steps in order to know whether this is the seed you are looking for.</p>
+<p>First step is: <code>aes.decryptData(pbkdf2(pw),encseed.decode(&#39;hex&#39;))</code>. This will return a seed no matter what you give it. It doesn&#39;t know what is &quot;right&quot; or &quot;wrong.&quot; What makes a private key &quot;the correct private key&quot; is that it accesses the address that you want to access. So we must then take a few add&#39;l steps in order to know whether this is the seed you are looking for.</p>
 <ul>
 <li><p>get the seed</p>
 </li>
@@ -307,9 +307,9 @@ return getseed(bkp[&#39;withwallet&#39;],wallet[&#39;bkp&#39;],bkp[&#39;ethaddr&
 <li><p>check to see if that address is the address that holds your presale ETH.</p>
 </li>
 </ul>
-<p><strong>pdkdf2 makes things takes longer</strong></p>
+<p><strong>PDKDF2 Makes Things Take Longer</strong></p>
 <p>The one tiny little bit of this code that makes it complicated is right here: <code>pbkdf2(pw)</code>.</p>
-<p>From wikipedia:</p>
+<p>From Wikipedia:</p>
 <blockquote>
 <p>PBKDF2 applies a pseudorandom function, such as a cryptographic hash, cipher, or hash-based message authentication code (HMAC), to the input password or passphrase along with a salt value and repeats the process many times to produce a derived key, which can then be used as a cryptographic key in subsequent operations. <strong>The added computational work makes password cracking much more difficult, and is known as key stretching.</strong></p>
 </blockquote>
@@ -322,11 +322,11 @@ return getseed(bkp[&#39;withwallet&#39;],wallet[&#39;bkp&#39;],bkp[&#39;ethaddr&
 <li>password -&gt; (MATH * 10000000) -&gt; hashed password.</li>
 </ul>
 <p>Thus, when going backwards, you must include the (MATH * 10000000) which adds valuable time to each test your run. Instead of a single test taking .00000001 second, it may take .0001 second or 1 second.</p>
-<p><strong>To get to your question</strong></p>
-<p>If you provide a system with your presale file (or just the encseed and the address that you want that seed to &quot;unlock&quot;) then you can bruteforce your wallet. Upgrading to a system with some serious GPU will be an improvement over, say, a 2012 Macbook Pro.</p>
+<p><strong>To Get to Your Question</strong></p>
+<p>If you provide a system with your presale file (or just the encseed and the address that you want that seed to &quot;unlock&quot;) then you can bruteforce your wallet. Upgrading to a system with some serious GPU will be an improvement over, say, a 2012 MacBook Pro.</p>
 <p>How much time it takes is dependent on:</p>
 <ul>
-<li><p>the amount of inputs you feed it (how many passwords you want it to try)</p>
+<li><p>the number of inputs you feed it (how many passwords you want it to try)</p>
 </li>
 <li><p>your hardware</p>
 </li>
@@ -335,20 +335,20 @@ return getseed(bkp[&#39;withwallet&#39;],wallet[&#39;bkp&#39;],bkp[&#39;ethaddr&
 <li><p>number of PBKDF2 rounds used in presale files</p>
 </li>
 </ul>
-<p><a href="https://github.com/lexansoft/ethcracker/blob/master/src/crypto/cracker.go">ethcracker</a>, is written in Go and it supports a bunch of different wallet types. It also allows you to feed it components of your password. Botha are awesome features.</p>
-<p><a href="https://github.com/ryepdx/pyethrecover">pyethrecover</a> is written in python and just strips out all the unnecessaries from pyethtool (what I&#39;ve been referencing in this thread).</p>
-<p><a href="https://hashcat.net/hashcat/">hashcat</a> is another tool but not specifically for Ethereum or presale files so you are going to have to set it up to do this. As described above, the password is only one of the steps that you need to take. You must first derive the seed, then derive the private key, and then see if that private key derives the correct address. hashcat is better if you have a list of salted passwords from a hack.</p>
+<p><a href="https://github.com/lexansoft/ethcracker/blob/master/src/crypto/cracker.go">Ethcracker</a>, is written in Go and it supports a bunch of different wallet types. It also allows you to feed it components of your password. Both are awesome features.</p>
+<p><a href="https://github.com/ryepdx/pyethrecover">Pyethrecover</a> is written in Python and just strips out all the unnecessaries from Pyethtool (what I&#39;ve been referencing in this thread).</p>
+<p><a href="https://hashcat.net/hashcat/">Hashcat</a> is another tool but not specifically for Ethereum or presale files, so you are going to have to set it up to do this. As described above, the password is only one of the steps that you need to take. You must first derive the seed, then derive the private key, and then see if that private key derives the correct address. Hashcat is better if you have a list of salted passwords from a hack.</p>
 <h4 id="recommendations">Recommendations</h4>
-<p>I would recommend going with pyethrecover or ethcracker. I would grab a <a href="https://github.com/danielmiessler/SecLists/tree/master/Passwords">list of 100k passwords from somewhere</a> and give it that to pyethrecover and see how long it takes. Then do the same with ethcracker (with ethcracker, this pw list would be your one component and you wouldn&#39;t use that functionality). Whichever one is fastest, use that. If ethcracker is slower when providing it with multiple components, generate all the possible passwords from components first and then feed it that list.</p>
-<p>I would also prioritize your password guesses into maybe 10 or so groups. For example: if you are 90% certain that it ends with 01, do that set first. If you threw it &quot;mydeaddogsnickname&quot; just because it&#39;s a teeny tiny possibility, do that last. The number of passwords you are attempting to brute force is going to make the biggest difference in speed at this point.</p>
-<p>Don&#39;t be scared to reach out to the developers of those programs via Github. I know /u/ryepdx is super smart and has developed a lot of stuff for Ethereum and used to be around reddit all the time. He may have some cool insights for you or be able to assist. Donations inspire developers to be more helpful, FYI.</p>
-<p>Best of luck. And if you end up testing both pyethrecover and ethcracker, make sure to post your findings on their repos or on reddit or something. Sharing information about what you&#39;ve learned improves everyone&#39;s experience.</p>
+<p>I would recommend going with Pyethrecover or Ethcracker. I would grab a <a href="https://github.com/danielmiessler/SecLists/tree/master/Passwords">list of 100k passwords from somewhere</a> and give it that to Pyethrecover and see how long it takes. Then do the same with Ethcracker (with Ethcracker, this password list would be your one component and you wouldn&#39;t use that functionality). Whichever one is fastest, use that. If Ethcracker is slower when providing it with multiple components, generate all the possible passwords from components first and then feed it that list.</p>
+<p>I would also prioritize your password guesses into maybe 10 or so groups. For example: if you are 90% certain that it ends with 01, do that set first. If you threw it &quot;mydeaddogsnickname&quot; just because it&#39;s a teeny tiny possibility, do that last. The number of passwords you are attempting to bruteforce is going to make the biggest difference in speed at this point.</p>
+<p>Don&#39;t be scared to reach out to the developers of those programs via GitHub. I know /u/ryepdx is super smart and has developed a lot of stuff for Ethereum and used to be around Reddit all the time. He may have some cool insights for you or be able to assist. Donations inspire developers to be more helpful, FYI.</p>
+<p>Best of luck. And if you end up testing both Pyethrecover and Ethcracker, make sure to post your findings on their repos or on Reddit or something. Sharing information about what you&#39;ve learned improves everyone&#39;s experience.</p>
 <hr>
-<p>[1] One thing to keep in mind is that <code>sha3</code> isn&#39;t really what we think of as sha3 today. <a href="http://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use">Here&#39;s more info</a></p>
+<p>[1] One thing to keep in mind is that <code>SHA3</code> isn&#39;t really what we think of as SHA3 today. <a href="http://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use">Here&#39;s more info</a>.</p>
 <blockquote>
 <p>Ethereum uses KECCAK-256. It should be noted that it does not follow the FIPS-202 based standard (a.k.a SHA-3), which was finalized in August 2015.</p>
 </blockquote>
-<p>Basically, presale happened before sha3 spec was finalized.....so eth&#39;s sha3 is not what people currently think of as sha3. Whatever. Just know that if you are using ETH programs for cracking keys, you don&#39;t need to worry about it. If you are trying to write your own program from raw libraries, make sure you are using KECCAK-256.</p>
+<p>Basically, the presale happened before the SHA3 spec was finalized ... so Ethereum&#39;s SHA3 is not what people currently think of as SHA3. Whatever. Just know that if you are using ETH programs for cracking keys, you don&#39;t need to worry about it. If you are trying to write your own program from raw libraries, make sure you are using KECCAK-256.</p>
 <hr>
 <h3 id="source">Source</h3>
 <ul>

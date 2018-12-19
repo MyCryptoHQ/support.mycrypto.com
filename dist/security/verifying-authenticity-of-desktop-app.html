@@ -67,7 +67,7 @@
     "https://support.mycrypto.com/images/mycrypto-logo-banner.png"
   ],
   "datePublished": "2018-05-01T08:00:00+08:00",
-  "dateModified": "August 15, 2018",
+  "dateModified": "December 11, 2018",
   "author": {
     "@type": "Organization",
     "name": "MyCrypto"
@@ -198,15 +198,15 @@
     <h1 class="page__title" itemprop="headline">Verifying the Authenticity of the Desktop Application</h1>
 
     <div class="page__article">
-      <p>After downloading the desktop application, it&#39;s highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.</p>
-<p>To begin, download the desktop application and the signed checksums (<code>checksums.txt.gpg</code>) from <a href="https://download.mycrypto.com/">download.mycrypto.com</a> and place both files in a folder somewhere.</p>
-<p><strong>Important</strong>: Always check for the green <strong>&quot;MyCrypto, Inc.&quot; SSL certificate</strong> your browser before downloading and do not continue if the SSL certificate is missing or you see a SSL warning.</p>
-<p>Verifying the checksums is platform-specific, so follow the instructions that apply to you. Instructions are available for Windows, macOS and Linux.</p>
+      <p>After downloading the desktop application, it&#39;s highly recommended that you verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.</p>
+<p>To begin, download the desktop application and the signed checksums (<code>checksums.txt.gpg</code>) from <a href="https://download.mycrypto.com/">download.mycrypto.com</a>, and place both files in a folder somewhere.</p>
+<p><strong>Important</strong>: Always check for the green <strong>&quot;MyCrypto, Inc.&quot; SSL certificate</strong> in your browser before downloading and do not continue if the SSL certificate is missing or you see an SSL warning.</p>
+<p>Verifying the checksums is platform-specific, so follow the instructions that apply to you. Instructions are available for Windows, macOS, and Linux.</p>
 <h2 id="windows">Windows</h2>
 <h4 id="1-download-and-install-gpg4win">1. Download and install gpg4win</h4>
-<p>To verify the signature of the checksums file, you need <a href="https://gpg4win.org/get-gpg4win.html">gpg4win</a>. In the installer, it is not necessary to select any of the optional options.</p>
+<p>To verify the signature of the checksums file, you need <a href="https://gpg4win.org/get-gpg4win.html">gpg4win</a>. In the installer, it is not necessary to select any of the options.</p>
 <h4 id="2-open-a-command-prompt">2. Open a command prompt</h4>
-<p>In the folder with the MyCrypto application and the checksums.txt.gpg file, open a PowerShell command prompt by holding shift and right clicking. Then click &quot;Open PowerShell here&quot;.</p>
+<p>In the folder with the MyCrypto application and the checksums.txt.gpg file, open a PowerShell command prompt by holding shift and right clicking. Then click &quot;Open PowerShell here.&quot;</p>
 <h4 id="3-import-the-signing-gpg-key">3. Import the signing GPG key</h4>
 <p>To import the signing GPG key, run the following command in PowerShell:</p>
 <pre><code class="lang-powershell">&gt; Invoke-RestMethod https://keybase.io/tayvano/pgp_keys.asc | gpg --import
@@ -216,18 +216,18 @@
 <p>To check the signature of the <code>checksums.txt.gpg</code> file, you have to run the following command in PowerShell:</p>
 <pre><code class="lang-powershell">&gt; gpg --output checksums.txt --decrypt checksums.txt.gpg
 </code></pre>
-<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>&#39;&quot;. It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
+<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>.&#39;&quot; It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
 <h4 id="5-hashing-the-application">5. Hashing the application</h4>
-<p>The last step is to hash the application and check the hash to see if it matches with the one in the <code>checksums.txt</code> file. To do this, run the following command in PowerShell:</p>
+<p>The last step is to hash the application and check the hash to see if it matches the one in the <code>checksums.txt</code> file. To do this, run the following command in PowerShell:</p>
 <pre><code class="lang-powershell">&gt; CertUtil -hashFile windows_VERSION_MyCrypto.exe SHA256
 </code></pre>
-<p>Make sure to replace the filename (windows_VERSION_MyCrypto.exe) with the actual filename of the file you downloaded. You should see &quot;SHA256 hash of windows_VERSION_MyCrypto.exe:&quot; with the hash below. Open the <code>checksums.txt</code> file and check if the hash matches with the one in the file.</p>
+<p>Make sure to replace the filename (windows_VERSION_MyCrypto.exe) with the actual filename of the file you downloaded. You should see &quot;SHA256 hash of windows_VERSION_MyCrypto.exe:&quot; with the hash below it. Open the <code>checksums.txt</code> file and check if the hash matches with the one in the file.</p>
 <h2 id="macos">macOS</h2>
-<h4 id="1-download-and-install-curl-and-gpg">1. Download and install curl and gpg</h4>
+<h4 id="1-download-and-install-curl-and-gpg">1. Download and install curl and GPG</h4>
 <p>To download the signing GPG key, which is used to verify that the checksums were signed by MyCrypto, you need curl. <strong>Usually curl is already available on your system.</strong> You can test this by opening a terminal and running <code>curl --help</code>. If it is not installed yet, the easiest way to install curl is by using <a href="https://brew.sh/">Homebrew</a>. Open a terminal and run the following command:</p>
 <pre><code class="lang-bash">$ brew install curl
 </code></pre>
-<p>You also have to install gpg from <a href="https://gpgtools.org/">here</a>. After installation, you don&#39;t have to open the application.</p>
+<p>You also have to install GPG from <a href="https://gpgtools.org/">here</a>. After installation, you don&#39;t have to open the application.</p>
 <h4 id="2-open-a-terminal-and-navigate-to-the-folder">2. Open a terminal and navigate to the folder</h4>
 <p>Open a terminal and use the following command to go to the folder with the MyCrypto files:</p>
 <pre><code>$ cd /path/to/folder
@@ -241,16 +241,16 @@
 <p>To check the signature of the <code>checksums.txt.gpg</code> file, you have to run the following command in a terminal:</p>
 <pre><code class="lang-bash">$ gpg --output checksums.txt --decrypt checksums.txt.gpg
 </code></pre>
-<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>&#39;&quot;. It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
+<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>.&#39;&quot; It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
 <h4 id="5-hashing-the-application">5. Hashing the application</h4>
 <p>The last step is to hash the application and check the hash to see if it matches with the one in the <code>checksums.txt</code> file. To do this, run the following command in a terminal:</p>
 <pre><code class="lang-bash">$ shasum -a 256 mac_VERSION_MyCrypto.dmg
 </code></pre>
-<p>Make sure to replace the filename (mac_VERSION_MyCrypto.dmg) with the actual filename of the file you downloaded. You should see the hash. Open the <code>checksums.txt</code> file and check if the hash matches with the one in the file.</p>
+<p>Make sure to replace the filename (mac_VERSION_MyCrypto.dmg) with the actual filename of the file you downloaded. You should see the hash. Open the <code>checksums.txt</code> file and check if the hash matches the one in the file.</p>
 <h2 id="linux">Linux</h2>
-<h4 id="1-download-and-install-curl-and-gpg">1. Download and install curl and gpg</h4>
-<p>To download the signing GPG key, which is used to verify that the checksums were signed by MyCrypto, you need curl. <strong>Usually curl and gpg are already available on your system.</strong> You can test this by opening a terminal and running <code>curl --help</code> and <code>gpg --help</code>. If either one is not installed yet, you have to install it using the package manager of your specific Linux distro.</p>
-<p>For example, if you are on Debian, Ubuntu or a similar distro:</p>
+<h4 id="1-download-and-install-curl-and-gpg">1. Download and install curl and GPG</h4>
+<p>To download the signing GPG key, which is used to verify that the checksums were signed by MyCrypto, you need curl. <strong>Usually curl and GPG are already available on your system.</strong> You can test this by opening a terminal and running <code>curl --help</code> and <code>gpg --help</code>. If either one is not installed yet, you have to install it using the package manager of your specific Linux distro.</p>
+<p>For example, if you are on Debian, Ubuntu, or a similar distro:</p>
 <pre><code class="lang-bash">$ apt-get install curl gnupg
 </code></pre>
 <p>If you are on Arch Linux or a similar distro:</p>
@@ -272,12 +272,12 @@
 <p>To check the signature of the <code>checksums.txt.gpg</code> file, you have to run the following command in a terminal:</p>
 <pre><code class="lang-bash">$ gpg --output checksums.txt --decrypt checksums.txt.gpg
 </code></pre>
-<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>&#39;&quot;. It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
+<p>If all goes well, you should see &quot;Good signature from &#39;Taylor <tayvano [at] gmail.com>.&#39;&quot; It will also create a <code>checksums.txt</code> file with the checksums of the application.</p>
 <h4 id="5-hashing-the-application">5. Hashing the application</h4>
 <p>The last step is to hash the application and check the hash to see if it matches with the one in the <code>checksums.txt</code> file. To do this, run the following command in a terminal:</p>
 <pre><code class="lang-bash">$ sha256sum linux_PLATFORM_VERSION_MyCrypto.AppImage
 </code></pre>
-<p>Make sure to replace the filename (linux_PLATFORM_VERSION_MyCrypto.AppImage) with the actual filename of the file you downloaded. You should see the hash. Open the <code>checksums.txt</code> file and check if the hash matches with the one in the file.</p>
+<p>Make sure to replace the filename (linux_PLATFORM_VERSION_MyCrypto.AppImage) with the actual filename of the file you downloaded. You should see the hash. Open the <code>checksums.txt</code> file and check if the hash matches the one in the file.</p>
 
     </div>
 
@@ -316,7 +316,7 @@
 
 
 </p>
-      <p>Last Updated: August 15, 2018</p>
+      <p>Last Updated: December 11, 2018</p>
     </div>
 
 
