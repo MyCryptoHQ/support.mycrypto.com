@@ -22,3 +22,4 @@ Sample Error Message: *"Your Ledger is currently in use with another application
 *   Use the [MyCrypto Desktop App](https://download.mycrypto.com/).
 *   Make sure you don't have any other apps that connect to your Ledger open (e.g. the Ledger Bitcoin Chrome app, Mist, etc.)
 *   That you are confirming any transactions via your Ledger.
+*   If you are using Linux and Ledger Nano, you may need to add udev rules as explained [here](https://support.ledger.com/hc/en-us/articles/115005165269-Fix-connection-issues) (under Linux section, scroll down)
