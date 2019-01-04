@@ -13,7 +13,7 @@
 
 [2FA / MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) is something that works for server-side applications in order to add an additional layer of security on top of the username and password.
 
-### TOPT (Google Authenticator)
+### TOTP (Google Authenticator)
 
 > Time-based One-time Password (TOTP), popularized mainly by Google Authenticator, verifies your identity based a secret that must be shared online between you and the provider.
 
