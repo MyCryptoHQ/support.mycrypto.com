@@ -36,7 +36,7 @@ There are things you can do to help as well. You can help us document these phis
 *   Never enter your private keys, passwords, or sensitive data on a website that you were sent via message.
 *   ONLY unlock your wallet when you want to send a transaction. Check your balance via [https://etherscan.io/](https://etherscan.io/) or [https://ethplorer.io/](https://ethplorer.io/).
 *   Do not trust messages or addresses or URLs sent via private message. Always verify information w/ a secondary source.
-*   Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
+*   Install [EAL](https://harrydenley.com/ethaddresslookup-chrome-extension-release/).
 *   or Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 *   or Install [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).
 

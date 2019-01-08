@@ -11,7 +11,7 @@
 
 ### Below are some tips to reduce the risk of losing your hard-earned coins.
 
-1. Install [EtherSecurityLookup](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) if you use Twitter, and either [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) if you use MyCrypto or other crypto-related sites. These warn you if you go to a malicious website.
+1. Install [EtherSecurityLookup](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) if you use Twitter, and either [EtherAddressLookup](https://harrydenley.com/ethaddresslookup-chrome-extension-release/) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) if you use MyCrypto or other crypto-related sites. These warn you if you go to a malicious website.
 
 2. Did you just get sent a link to a token sale, MyCrypto, EtherDelta, ShapeShift, or eBay? **Don't click it!** Instead, search for that service on Google. Click the top one **that is not an ad.**
 

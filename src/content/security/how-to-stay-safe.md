@@ -29,6 +29,7 @@ There are many browser extensions that offer similar functionality to protect yo
 attack domains, fake project domains, other scam domains).
 
 * EtherAddressLookup - 
+[Product Overview](https://harrydenley.com/ethaddresslookup-chrome-extension-release/) -
 [Github](https://github.com/409H/EtherAddressLookup) - 
 [Chrome extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 * EtherSecurityLookup - 
