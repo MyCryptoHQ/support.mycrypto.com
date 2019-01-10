@@ -71,7 +71,7 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 
 - Report Scams / Phishes: [https://etherscamdb.info/](https://etherscamdb.info/).
 
-- Encourage people to install [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (uses above to block malicious sites).
+- Encourage people to install [EtherAddressLookup](https://harrydenley.com/ethaddresslookup-chrome-extension-release/) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (uses above to block malicious sites).
 
 - Encourage people to be secure: [https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html).
 
@@ -88,7 +88,7 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 [ https://github.com/aragon/governance/issues/7]( https://github.com/aragon/governance/issues/7).
 
 - Install and encourage others to install @Harry's EAL extension, which blocks known bad addresses and sites:
- [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
+ [EtherAddressLookup](https://harrydenley.com/ethaddresslookup-chrome-extension-release/).
 
 - Read Harry's blog on EAL: [https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing](https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing).
 

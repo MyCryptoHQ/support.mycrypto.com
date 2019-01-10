@@ -28,7 +28,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 *  Use those bookmarks and only those.
 
 
-### 3. Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) to warn you if you go to a malicious website.
+### 3. Install [EAL](https://harrydenley.com/ethaddresslookup-chrome-extension-release/) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) to warn you if you go to a malicious website.
 
 ### 4. [Run MyCrypto Locally / Offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
 
