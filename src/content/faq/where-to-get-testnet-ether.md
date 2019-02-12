@@ -32,7 +32,7 @@ Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 | http://rinkeby-faucet.com/ |
 
 
-#### *Ropsten**
+#### **Ropsten**
 
 Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 
