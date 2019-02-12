@@ -17,7 +17,7 @@ There are currently 3 different testnets for the Ethereum public chain:
 * Ropsten
 * Kovan
 
-#### Rinkeby
+#### **Rinkeby**
 
 Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 
@@ -32,7 +32,7 @@ Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 | http://rinkeby-faucet.com/ |
 
 
-#### Ropsten
+#### **Ropsten**
 
 Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 
@@ -55,7 +55,7 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 | https://developers.smartcontract.com/faucet                          |
 
 
-#### Kovan
+#### **Kovan**
 
 Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authority) consensus engine.
 
@@ -72,3 +72,17 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 | Ask on https://gitter.im/kovan-testnet/faucet                                    |
 | Verify your account https://www.youtube.com/watch?v=99UucFzYCRc&feature=youtu.be |
 
+#### **Goerli**
+
+Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus engine - it is cross client compatiable.
+
+* Immune to spam attacks (Ether supply is controlled by trusted parties)
+
+**Useful links**
+
+* Block explorer: https://goerli.etherscan.io/
+* GitHub: https://github.com/goerli/
+
+| Faucets                                                                          |
+|----------------------------------------------------------------------------------|
+| Request on https://goerli-faucet.slock.it/index.html                             |
