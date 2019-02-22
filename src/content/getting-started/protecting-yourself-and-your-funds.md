@@ -16,7 +16,7 @@ Here's some tips to stay safe. You can do this!
 
 ### Buy a Hardware Wallet.
 
-One of the safest &amp; easiest ways to store your ETH, Tokens, ETC, BTC, and many other assets is via a <strong>Ledger</strong>, <strong>Trezor</strong>, or <strong>Keepkey</strong. Hardware wallets are <strong>not</strong> just USB drives. They actually store your private key in super secure enclave, which ensures the private key **never** leaves your device. If you hold more than $200 worth of crypto, please invest in one of these hardware wallets:
+One of the safest &amp; easiest ways to store your ETH, Tokens, ETC, BTC, and many other assets is via a <strong>Ledger</strong>, <strong>Trezor</strong>, or <strong>Keepkey</strong. Hardware wallets are <strong>not</strong> just USB drives. They actually store your private key in super secure enclave, which ensures the private key **never** leaves your device. Phishers can't get them. Malware can't get them. Keyloggers can't get them. If you hold more than $200 worth of crypto, please invest in one of these hardware wallets: 
 
 - [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 
